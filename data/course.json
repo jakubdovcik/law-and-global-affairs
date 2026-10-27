@@ -2951,15 +2951,32 @@
    "year": 1955,
    "title": "Economic Order and International Law",
    "cite": "86 Recueil des Cours 203 (excerpts)",
-   "tldr": "Ordoliberal blueprint: a liberal international economy needs a legal framework that protects markets and property from national politics.",
-   "draft": true,
+   "tldr": "International trade rests ultimately not on comparative costs but on *pacta sunt servanda*. The 19th-century liberal order solved the absence of a world state with an 'as-if world state': a secularised Res Publica Christiana plus Pax Britannica, the gold standard, and above all the *separation of Imperium from Dominium* (depoliticising the economy). The welfare state and collectivism re-fused them and 'nationalised man'. The cure is to *reduce* sovereignty, not transfer planning to a European super-state.",
    "concepts": [
     "political-economy",
-    "public-private"
+    "public-private",
+    "sovereignty",
+    "colonialism",
+    "private-ordering"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Hague Academy lectures (1955) by the German ordoliberal economist.\n\n**The problem.** Intensive division of labour requires a moral, legal and institutional framework that protects exchange: a stable, free currency and a reliable legal order plus an unwritten code of conduct. Domestically the state supplies these. Internationally there is no world state, so no world law or money. How, then, did the 19th century achieve a world economy differing from national economies only in degree?\n\n**The liberal solution.**\n1. *International 'open society'* (Bergson): a secularised, globalised Res Publica Christiana, an *ordre public international* respected with an 'air of sanctity'. Violations came 'with a bad conscience', not 'grinning cynicism'. Long-term treaties, balance of power protecting small states, and uniform legal concepts. Realistically it also needed a dominant power: Great Britain and London as centre (Pax Britannica). Will the US take its place?\n2. *Separation of Imperium and Dominium* (Hume, Smith; MacIver's political vs economic power): economic life moved from the sphere of the state (public law, administration) to society (market, private law, property). This minimised the economic significance of borders. Gold standard: an 'as-if world money' produced by national currency laws plus loyalty to the 'rules of the game', with no international authority. 'An economic but not a political currency system', whose base was ultimately moral.\n3. *For international law*: traditional international law is the legal side of this liberal order, especially in its treatment of **private property**, kept independent of sovereignty and nationality. Free access to raw materials made colonial possession 'anachronistic'. 'Political power has determinate frontiers, economic power has the freedom of the world.'\n\n**Disintegration.** The interventionist welfare state, trade unions and fiscalism produce the 'nationalisation of man': 'social' means 'national' (social insurance makes the passport an insurance policy). Exchange control is the 'nationalisation of insolvency'. Borders become lines dividing different, politically manipulable conditions; devaluations rewrite thousands of contracts overnight; arbitrariness replaces order. *Collectivism* completes this: the plan replaces the price mechanism, sovereignty is raised 'to the n-th power', and planning requires national autarky.\n\n**International planning?** The 'paradox of national collectivism' leads socialists to propose European planning, but that needs a collectivist European super-state, which is utopian and dangerous. Two meanings of sovereignty: *external* independence and *internal* supremacy over citizens (Hobbes's Leviathan). The real problem is *excessive* internal sovereignty. Don't shift its seat; reduce its *measure*: leave the economy to the 'sovereignty of the market'.",
+   "arguments": [
+    "The world economy rests on a legal-moral order, ultimately pacta sunt servanda.",
+    "The liberal order = an as-if world state: open society + hegemon + gold standard.",
+    "Key principle: separate Imperium (state) from Dominium (market/property).",
+    "Welfare and collectivism re-politicise the economy, causing international disintegration.",
+    "Reduce sovereignty's measure rather than move it to supranational planners."
+   ],
+   "source": "",
+   "short": "Röpke — Economic Order",
+   "context": "The ordoliberal blueprint behind postwar economic law (European integration, GATT). It is the exact opposite of [[cohen-property-sovereignty]], which shows Dominium *is* Imperium. Continue to [[bello-wto]], [[danielsen-corporate]], [[koskenniemi-laws-rule-us]] and Topic 19's NIEO ([[bedjaoui-nieo]]), which attacks this order.",
+   "conceptNotes": {
+    "political-economy": "ordoliberal theory of international order",
+    "public-private": "Imperium vs Dominium separation",
+    "sovereignty": "external vs internal sovereignty; reduce its measure",
+    "colonialism": "colonial possession as anachronism under free access",
+    "private-ordering": "market as 'sovereign'"
+   }
   },
   {
    "id": "bello-wto",
@@ -2969,15 +2986,32 @@
    "year": 1996,
    "title": "The WTO Dispute Settlement Understanding: Less is More",
    "cite": "90 AJIL 416",
-   "tldr": "WTO rules work precisely because they are *not* binding in the classic sense: a losing state can comply or pay through rebalanced concessions.",
-   "draft": true,
+   "tldr": "Critics say WTO dispute settlement lets 'faceless bureaucrats in Geneva' usurp US sovereignty. But WTO rules are not 'binding' in the traditional sense: a losing member may comply, compensate, or accept retaliation. The only sacred duty is to maintain the negotiated *balance of concessions*. This flexibility preserves sovereignty and democratic accountability and exposes the price of protectionism: 'less is more'.",
    "concepts": [
     "political-economy",
-    "law-nonlaw"
+    "law-nonlaw",
+    "sovereignty",
+    "environment",
+    "compliance"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "AJIL editorial comment (1996) by a former USTR General Counsel.\n- **Backlash**: environmental groups were angered by GATT tuna–dolphin rulings (US primary and secondary boycotts inconsistent with GATT); US states by rulings on discriminatory alcohol taxes; economic nationalists (Buchanan, Perot) by 'faceless, unelected, unaccountable bureaucrats in Geneva'.\n- **Not binding in the traditional sense**: 'The WTO has no jailhouse, no bail bondsmen, no blue helmets, no truncheons or tear gas.' It is a confederation of sovereign governments relying on voluntary compliance.\n- **Built-in flexibility**: GATT art. II tariff bindings could be renegotiated (art. XXVIII) if compensation restored the overall balance. The only inviolable thing is 'the overall balance of rights and obligations'.\n- **Three choices** after an adverse ruling: comply; keep the measure and pay compensation; or neither, and suffer authorised retaliation.\n- **Why comply anyway**: reciprocity, credibility, avoiding compensation or retaliation costs, and protecting cooperation on other issues (drugs, migration, arms control, environment, rights).\n- **Real reason for complaints**: the system 'sheds light on the costs' of protectionism and of using trade for non-trade objectives. Special interests prefer those costs hidden.\n- 'The less binding the individual rules … the more the WTO accommodates the demands of national sovereignty … With respect to WTO dispute settlement, less is generally more.'",
+   "arguments": [
+    "WTO obligations function as priced options, not absolute duties.",
+    "Balance of concessions is the only true obligation.",
+    "Sovereignty and democratic accountability are preserved by flexibility.",
+    "Transparency about protectionism's costs is the system's real effect.",
+    "Non-trade objectives (environment, labour) are disciplined by price."
+   ],
+   "source": "",
+   "short": "Bello — WTO 'less is more'",
+   "context": "A mid-1990s trade lawyer's defence of the WTO. It is a version of the law/non-law boundary ([[schachter-twilight]]; [[nuclear-tests]]) and of Röpke's depoliticised economic order ([[roepke-1955]]). Critiques: [[shalakany-arbitration]] (Third World), [[danielsen-local-rules]] and [[iglp-gvc]] (distributional effects). Compare the 1990–2000 row of [[kennedy-chart]] (trade and economic management).",
+   "conceptNotes": {
+    "political-economy": "WTO and the politics of trade",
+    "law-nonlaw": "'binding' obligations as compliance options",
+    "sovereignty": "sovereignty preserved through flexibility",
+    "environment": "trade vs environment (tuna–dolphin)",
+    "compliance": "incentives to comply"
+   }
   },
   {
    "id": "shalakany-arbitration",
@@ -4142,12 +4176,6 @@
    "note": "Explains *why* nations mostly comply: internalisation."
   },
   {
-   "from": "bello-wto",
-   "to": "roepke-1955",
-   "type": "builds-on",
-   "note": "Insulating trade from politics through legal design."
-  },
-  {
    "from": "shalakany-arbitration",
    "to": "bello-wto",
    "type": "critiques",
@@ -4854,6 +4882,42 @@
    "to": "damrosch-intro",
    "type": "critiques",
    "note": "Rejects the 'whiggish' belief in an ever-progressive international order that textbook histories narrate."
+  },
+  {
+   "from": "roepke-1955",
+   "to": "cohen-property-sovereignty",
+   "type": "contrasts",
+   "note": "Röpke's liberal order depends on separating Imperium from Dominium; Cohen shows property (Dominium) is itself Imperium."
+  },
+  {
+   "from": "bello-wto",
+   "to": "roepke-1955",
+   "type": "builds-on",
+   "note": "Trade rules insulated from domestic politics, but with priced exits (compensation, retaliation) preserving sovereignty."
+  },
+  {
+   "from": "bello-wto",
+   "to": "schachter-twilight",
+   "type": "complicates",
+   "note": "Formally binding rules that work like non-binding commitments: the law/non-law line inside the WTO."
+  },
+  {
+   "from": "roepke-1955",
+   "to": "bedjaoui-nieo",
+   "type": "contrasts",
+   "note": "The liberal economic order Röpke defends is the order the NIEO sought to dismantle."
+  },
+  {
+   "from": "roepke-1955",
+   "to": "american-banana",
+   "type": "illustrates",
+   "note": "Private property abroad kept apart from sovereignty, which shields firms like United Fruit."
+  },
+  {
+   "from": "bello-wto",
+   "to": "air-services",
+   "type": "builds-on",
+   "note": "WTO retaliation as institutionalised, authorised countermeasures restoring the balance."
   }
  ],
  "themes": [
