@@ -1660,14 +1660,21 @@
    "year": 2014,
    "title": "Three Forms of Jurisdiction",
    "cite": "International Law: Cases and Materials, 733",
-   "tldr": "Jurisdiction to prescribe, to adjudicate, and to enforce.",
-   "draft": true,
+   "tldr": "Jurisdiction is the authority to affect legal interests, in three forms: to *prescribe* (make rules, by legislatures, agencies or courts), to *adjudicate* (apply law through courts or tribunals), and to *enforce* (compel compliance). The Restatement (Fourth) prefers these terms to 'legislative, judicial, executive'.",
    "concepts": [
     "jurisdiction"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A short casebook framing. Jurisdiction to prescribe is broken down by the regulated person's or activity's relation to the state (Restatement (Fourth) §§ 402–413). Adjudication covers courts and administrative tribunals (§ 421 ff.). Enforcement covers compelling compliance (§§ 431–432). The casebook uses the old and new terms interchangeably.",
+   "arguments": [
+    "Separate the three: a state may prescribe without being able to enforce abroad (see [[lotus]]).",
+    "Functional terms replace institutional ones."
+   ],
+   "source": "",
+   "short": "D&M — 3 jurisdictions",
+   "context": "Vocabulary for Topic 7. *Lotus* already distinguished enforcement (strictly territorial) from prescription (broad discretion).",
+   "conceptNotes": {
+    "jurisdiction": "three forms"
+   }
   },
   {
    "id": "restatement-402-404",
@@ -1677,15 +1684,29 @@
    "year": 1987,
    "title": "Restatement (Third) of Foreign Relations Law §§402–404",
    "cite": "",
-   "tldr": "Bases for jurisdiction (territory, effects, nationality, protective principle), a reasonableness test (§403), and universal jurisdiction (§404).",
-   "draft": true,
+   "tldr": "§402: a state may prescribe for conduct in its territory, for persons and things there, for *foreign conduct with substantial intended effects inside*, for its nationals anywhere, and for foreign conduct against its security. §403: even then, not if *unreasonable*, weighing eight factors; defer if the other state's interest is clearly greater. §404: universal jurisdiction over piracy, slave trade, hijacking, genocide, war crimes and perhaps terrorism.",
    "concepts": [
     "jurisdiction",
-    "extraterritoriality"
+    "extraterritoriality",
+    "territoriality",
+    "individual-responsibility"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**§402 bases** (subject to §403):\n1. (a) conduct wholly or substantially within territory; (b) status of persons or interests in things present there; (c) conduct outside with substantial (intended) effect within: the **effects doctrine**;\n2. nationals' activities anywhere: **nationality**;\n3. certain foreign conduct by non-nationals against state security or a limited class of state interests: **protective principle**.\n\n**§403 reasonableness.** Even with a basis, no jurisdiction where its exercise is unreasonable. Factors: (a) territorial link or direct, foreseeable effect; (b) connections of nationality, residence or economic activity; (c) the character and importance of the regulation and its general acceptance; (d) justified expectations; (e) importance to the international political, legal and economic system; (f) consistency with international traditions; (g) other states' interests; (h) likelihood of conflict. If two reasonable prescriptions conflict, each state weighs both interests and *should defer* if the other's is clearly greater.\n\n**§404 universal jurisdiction** for offences 'of universal concern' (piracy, slave trade, aircraft attacks or hijacking, genocide, war crimes, perhaps terrorism), even absent any §402 link.",
+   "arguments": [
+    "Bases are linked to territory and nationality, plus effects and protection.",
+    "A balancing 'reasonableness' overlay restrains overreach in principle.",
+    "Universal jurisdiction is reserved for crimes against humanity's common interests.",
+    "Balancing is done by the forum's own courts, which favours the forum."
+   ],
+   "source": "",
+   "short": "Restatement §§402–404",
+   "context": "The doctrinal map that [[malley-manas-nix]] attacks and [[berman-globalization-jurisdiction]] tries to replace. Contrast the strict territoriality of [[american-banana]] with the effects doctrine here; see it applied, and bent, in [[bank-nova-scotia]].",
+   "conceptNotes": {
+    "jurisdiction": "bases and limits",
+    "extraterritoriality": "effects doctrine, nationality, protective principle",
+    "territoriality": "territory as primary base",
+    "individual-responsibility": "universal jurisdiction (§404)"
+   }
   },
   {
    "id": "bank-nova-scotia",
@@ -1695,15 +1716,27 @@
    "year": 1982,
    "title": "United States v. Bank of Nova Scotia",
    "cite": "691 F.2d 1384 (excerpts)",
-   "tldr": "A US grand jury subpoena is enforced against a Canadian bank's Miami branch for records held in the Bahamas, despite Bahamian bank secrecy law.",
-   "draft": true,
+   "tldr": "A US grand jury in a tax and narcotics case subpoenaed a Canadian bank's Miami agency for Bahamian and Antiguan branch records. The bank refused, citing Bahamian secrecy law (disclosure would be a crime). The 11th Circuit upheld contempt: on balance, US interests in grand juries and revenue outweigh Bahamian privacy, and the US needn't ask the Bahamas' permission.",
    "concepts": [
     "extraterritoriality",
-    "jurisdiction"
+    "jurisdiction",
+    "political-economy"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** The Bank of Nova Scotia, a Canadian bank with branches in 45 countries, was served at its Miami agency with a subpoena for a customer's records held in Nassau and Antigua. Bahamian law criminalises disclosure without the customer's consent or a Bahamian court order. The district court held the bank in civil contempt.\n\n**Comity.** The bank argued that the Restatement (Second) §40 balancing test favoured the Bahamas. The court applied *United States v. Field* (5th Cir. 1976), which upheld contempt against a Cayman banker:\n- the bank was within US jurisdiction; the disclosure occurs in the US; and the 'affront' to the Bahamas occurs wherever the records are located;\n- seeking a Bahamian *judicial assistance* order is not an equivalent alternative: costly, uncertain, and unavailable where the conduct is criminal only under US tax law;\n- it would mean asking the Bahamas' courts permission 'to do something lawful under United States law', which is 'contrary to the interests of our nation';\n- the US interest in grand juries and revenue ('financial integrity of the republic') outweighs Bahamian privacy, especially since Bahamian law itself permits many disclosures ('hardly a blanket guarantee of privacy').\n- 'We are not willing to emasculate the grand jury process whenever a foreign nation attempts to block our criminal justice process.' Conflicts are unfortunate for the bank, but US investigations can't be 'thwarted whenever there is conflict with the interest of other states'. Affirmed.",
+   "arguments": [
+    "Presence of a branch in US territory grounds enforcement over documents abroad.",
+    "Comity balancing is applied, but by the forum, and the forum wins.",
+    "Foreign law that criminalises compliance doesn't excuse non-compliance.",
+    "Offshore finance meets US regulatory reach: power determines whose law governs."
+   ],
+   "source": "",
+   "short": "Bank of Nova Scotia",
+   "context": "The mirror image of [[american-banana]]: strict territoriality has given way to the reach of a financial superpower. A precursor to secondary sanctions ([[sauerbrey-europe]], [[chachko-heath]]). Read with [[malley-manas-nix]], where 'the national interest' does all the work.",
+   "conceptNotes": {
+    "extraterritoriality": "subpoena reaching foreign records",
+    "jurisdiction": "enforcement jurisdiction via a local branch",
+    "political-economy": "offshore banking secrecy vs US revenue"
+   }
   },
   {
    "id": "sauerbrey-europe",
@@ -1714,11 +1747,27 @@
    "title": "The Failure of Europe's Feeble Muscle Flexing",
    "cite": "The New York Times, Feb. 10, 2020",
    "concepts": [
-    "extraterritoriality"
+    "extraterritoriality",
+    "countermeasures",
+    "political-economy",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "- The JCPOA (2015) lifted sanctions in exchange for limits on Iran's nuclear programme; the US withdrew in 2018 despite IAEA confirmation of compliance and reimposed sanctions, including **secondary sanctions** hitting foreign companies that deal with Iran.\n- Their power comes from US market size, the **dollar**, and control over financial transaction systems: almost every company has a US-connected bank or (re)insurer.\n- **Instex** (France, Germany, UK; January 2019) netted European exports and Iranian imports so money never crossed the line. Technical, legal and personnel problems followed (staff risked losing US bank accounts); it shrank from an EU institution to a private company of three states.\n- A year later the first transaction was a 'test case': under €1m of medical goods, legal under US sanctions anyway, with the company and banks kept secret and no Iranian exports in return.\n- After the Soleimani killing (Jan 2020) Europe felt both urgency and 'utter impotence'. China and Russia offered to join; Germany declined.",
+   "arguments": [
+    "Jurisdiction now travels through financial infrastructure, not territory.",
+    "Secondary sanctions export one state's foreign policy onto others' firms.",
+    "Formal sovereign equality is hollow against monetary hegemony."
+   ],
+   "source": "",
+   "short": "Sauerbrey — Instex",
+   "tldr": "After Trump left the Iran nuclear deal and reimposed *secondary sanctions*, Europe built Instex, a barter vehicle to trade with Iran without dollars. A year on, under US pressure, its first deal was a secret, under-€1m shipment of medical goods. In a dollar-dominated world, extraterritorial US financial power makes European 'strategic autonomy' almost impossible.",
+   "context": "Extraterritoriality as lived by allies, not targets. Builds on [[bank-nova-scotia]] (reach through banks) and anticipates [[chachko-heath]] (sanctions as economic war) and [[hakimi-cogan]] (US order's end).",
+   "conceptNotes": {
+    "extraterritoriality": "secondary sanctions",
+    "countermeasures": "sanctions as coercion",
+    "political-economy": "dollar hegemony",
+    "sovereignty": "European 'strategic autonomy'"
+   }
   },
   {
    "id": "malley-manas-nix",
@@ -1728,16 +1777,32 @@
    "year": 1990,
    "title": "Constructing the State Extraterritorially",
    "cite": "103 Harv. L. Rev. 1273 (excerpts)",
-   "tldr": "Jurisdictional argument does not just divide competence among states that already exist. It constructs the state itself, its 'national interest', and transnational norms.",
-   "draft": true,
+   "tldr": "Jurisdictional doctrine (territory, nationality, Restatement 'reasonableness') always argues in terms of 'the national interest', which is endlessly manipulable. Courts use it to reach both sides. Better to see the state as *constituted by* its jurisdictional assertions, and jurisdictional fights as struggles between transnational groups, so decisions become openly normative choices.",
    "concepts": [
     "jurisdiction",
     "extraterritoriality",
-    "statehood"
+    "statehood",
+    "sovereignty",
+    "human-rights"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A 1990 Harvard Law Review Note.\n\n**Puzzle.** Noriega, a Panamanian, is tried in Miami for acts abroad, while Boureslan, an American, can't sue the American company Aramco under Title VII for discrimination in Saudi Arabia. Doctrine's territorial and national links don't explain the pattern.\n\n**I. The dominant discourse.** From formal territoriality and nationality to the Restatement's two steps (a nexus, then reasonableness), all arguments run through the **national interest**, and its content is up for grabs:\n- *Aramco*: the majority says applying Title VII abroad infringes Saudi sovereignty; the dissent (King J.) says letting US firms discriminate abroad harms the US image.\n- *Patel*: excluding undocumented workers from labour law helps the national interest (district court) or harms it (11th Cir.).\n- *Filártiga* (torture by a Paraguayan official, actionable under the Alien Tort Statute: the torturer is *hostis humani generis*) vs *Tel-Oren* (Bork J.: the US would be an 'officious interloper and an international busybody').\n\n**II. Why it persists.** The 'nation-state' picture: a bounded territory and population with a single collective will (Sieyès: the nation exists before all else). National rhetoric naturalises the nation, *eclipses transnational solidarities*, and *substitutes categories for substantive reasoning* (Anderson's 'imagined communities'; Bourdieu's 'classification struggle'). Immigration and alien cases (*Eisentrager*, *Mezei*, *Jean v. Nelson*) show the exclusionary spatial metaphors.\n\n**A new conception.** The state is an 'open-ended constellation of authoritative exercises of jurisdiction'; 'the jurisdictional decisions themselves … define the state'. No one is wholly inside or outside it. Outcomes needn't change, but their meaning does: the decision-maker must make an open *normative choice*.\n\n**III. Imperialism in disguise?** Critics say transnationalism will impose US norms. The reply: national ties remain one pull among many, and normative orders cut across borders anyway, so every assertion *or denial* of jurisdiction imposes some group's norms on another.",
+   "arguments": [
+    "'National interest' is indeterminate and used to justify opposite results.",
+    "Jurisdictional language naturalises the nation and silences transnational allegiances.",
+    "The state is constituted by jurisdictional assertions, not prior to them.",
+    "Make jurisdiction an explicit normative choice among transnational groups.",
+    "Denying jurisdiction is as normatively loaded as asserting it."
+   ],
+   "source": "",
+   "short": "Malley, Manas & Nix",
+   "context": "A Critical Legal Studies reading of jurisdiction,, close to Kennedy's own method. It deconstructs [[restatement-402-404]] and links to [[berman-globalization-jurisdiction]]'s pluralism and Topic 20's turn to the local. Its view of the state as a pattern of claims echoes [[mcdougal-custom]].",
+   "conceptNotes": {
+    "jurisdiction": "jurisdictional discourse as constitutive",
+    "extraterritoriality": "national-interest balancing critiqued",
+    "statehood": "state as constellation of jurisdictional acts",
+    "sovereignty": "bounded nation-state as construct",
+    "human-rights": "Filártiga vs Tel-Oren"
+   }
   },
   {
    "id": "berman-globalization-jurisdiction",
@@ -1747,15 +1812,29 @@
    "year": 2002,
    "title": "The Globalization of Jurisdiction",
    "cite": "151 U. Pa. L. Rev. 311 (excerpts)",
-   "tldr": "Proposes a cosmopolitan, pluralist view of jurisdiction, based on community affiliations that do not stop at territorial borders.",
-   "draft": true,
+   "tldr": "Jurisdiction isn't just a technical allocation among territorial states. It is where communities are defined. Paul Schiff Berman proposes a *cosmopolitan pluralist* approach: ask which communities, local to global, have a real claim, and recognise non-state jurisdictional assertions too. An assertion of jurisdiction (e.g. Spain's over Pinochet) opens space for a norm even without enforcement.",
    "concepts": [
     "jurisdiction",
-    "the-local"
+    "the-local",
+    "private-ordering",
+    "individual-responsibility"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Starting point.** 'Cyberspace' and 'globalization' arrived together, both suggesting borders matter less. Jurisdiction is the locus for debates about *community definition, sovereignty and legitimacy*; it reflects and reinforces social conceptions of space, distance and identity. Yet legal frameworks assume territorially fixed nation-states are the only relevant units, ignoring anthropology and cultural studies on how people experience allegiance.\n\n**Cosmopolitan pluralism.**\n- *Cosmopolitan*: community as 'articulated moments in networks of social relations' (Doreen Massey), with multiple attachments from the local to the global; not a single world community.\n- So a court might rightly assert jurisdiction with minimal territorial contacts, or lack it despite contacts. The aim is a middle ground between strict territorialism and full universal jurisdiction; no more 'reified counting of contacts'.\n- *Pluralist*: nation-states are imagined, contingent communities, so they have no conceptual monopoly on jurisdiction. Non-state communities assert jurisdiction and generate norms later absorbed into official law. Law is 'a language for imagining alternative future worlds'.\n- **Assertion ≠ enforcement**: Judge Garzón's Pinochet warrant (universal and passive personality jurisdiction) had no force unless others recognised it. It produced the House of Lords' immunity ruling, then a release on health grounds, yet it 'changed the environment' for future prosecutions. Recognition of judgments becomes the terrain where conceptions of community compete for legitimacy.\n- Two uses: guidance for state courts, and a way to recognise and evaluate *non-state* assertions (international regulators, quasi-legal NGO tribunals, private standard-setters, transnational common law).",
+   "arguments": [
+    "Jurisdiction is about community membership, not geography.",
+    "Nation-states don't monopolise legitimate jurisdictional claims.",
+    "Asserting jurisdiction is rhetorical and norm-generating even without enforcement.",
+    "A middle path between territorialism and universalism."
+   ],
+   "source": "",
+   "short": "P.S. Berman — jurisdiction",
+   "context": "A constructive answer to [[malley-manas-nix]], and a bridge to private ordering (Topic 17) and the local (Topic 20, [[knop-hidden-city]], [[sassen-territory]]). It uses the Pinochet saga discussed in [[ilc-fragmentation-jus-cogens]].",
+   "conceptNotes": {
+    "jurisdiction": "cosmopolitan pluralist theory",
+    "the-local": "local/global community affiliations",
+    "private-ordering": "non-state jurisdictional assertions",
+    "individual-responsibility": "Pinochet and universal jurisdiction"
+   }
   },
   {
    "id": "hammouri-shipments",
@@ -1781,15 +1860,27 @@
    "year": 1928,
    "title": "Island of Palmas (United States v. The Netherlands)",
    "cite": "2 R.I.A.A. 829 (excerpts)",
-   "tldr": "Title requires the continuous and peaceful display of state authority. Discovery gives only an inchoate (incomplete) title. Also introduces the intertemporal law.",
-   "draft": true,
+   "tldr": "The US claimed Palmas through Spain (discovery, the 1648 treaty, contiguity). Huber awarded it to the Netherlands. Sovereignty means exclusive state functions in a territory, and in a dispute what counts is the *continuous and peaceful display* of state authority at the critical date. Discovery gives only an inchoate title; contiguity gives none.",
    "concepts": [
     "territory",
-    "sovereignty"
+    "sovereignty",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Dispute.** The small island lies between Mindanao (Philippines, ceded by Spain to the US in 1898) and the Netherlands East Indies. Arbitrator Max Huber, PCA, 1928.\n\n**Sovereignty and territory.** Sovereignty 'signifies independence', the exclusive right to exercise state functions in a part of the globe, which is the 'point of departure' for most international questions. A title (cession, conquest, occupation) isn't enough if the other party has actually displayed sovereignty: one must show sovereignty *continued to exist* at the critical moment, through 'the actual display of State activities'. The 'continuous and peaceful display of territorial sovereignty … is as good as a title.' Unlike municipal law with its courts, international law has no super-state, so it can't treat territorial sovereignty as an abstract right 'without concrete manifestations'. Displays vary with time and place; remote, uninhabited regions need less.\n\n**Application.**\n- The US can't get more than Spain had by the Treaty of Paris (1898).\n- Discovery, recognition by the 1648 Treaty of Münster and contiguity establish no display of sovereignty.\n- The Netherlands, through suzerainty over native vassal states (the East India Company), showed acts of authority 1700–1906. Gaps exist, but displays over 'a small and distant island, inhabited only by natives' needn't be frequent; there was intensification before 1898 and no conflicting Spanish acts.\n- Discovery gives at most an *inchoate* title, which can't prevail over continuous display. 'The title of contiguity … has no foundation in international law.' Utrecht superseded Münster, and Spanish acquiescence bars it.\n- Even on the US view of the evidence, Dutch display (flags, coats of arms) beats unperfected discovery, since the law protects the state of things that gave inhabitants and others a guarantee of rights.\n- Award: Palmas belongs to the Netherlands.",
+   "arguments": [
+    "Effectiveness (effectivités) over paper titles.",
+    "Critical date and the 'intertemporal' evaluation of title.",
+    "Discovery = inchoate title; contiguity = no title.",
+    "Colonial suzerainty over native rulers counts as state display; the inhabitants are objects, not subjects."
+   ],
+   "source": "",
+   "short": "Island of Palmas",
+   "context": "The foundational territory case: sovereignty as fact and practice (cf. [[maine-kathiawar]], [[american-banana]]). It is pure colonial-era law: two empires disputing an island 'inhabited only by natives'. Contrast [[western-sahara]] (people with social organisation) and [[burkina-mali]] (stability of colonial lines). Now reread with [[anghie-imperialism]].",
+   "conceptNotes": {
+    "territory": "effective occupation, display of sovereignty",
+    "sovereignty": "sovereignty as independence and exclusive competence",
+    "colonialism": "suzerainty over native states as title"
+   }
   },
   {
    "id": "western-sahara",
@@ -1799,16 +1890,29 @@
    "year": 1975,
    "title": "Western Sahara (Advisory Opinion)",
    "cite": "1975 I.C.J. Rep. 12",
-   "tldr": "The territory was not *terra nullius* when Spain colonised it. Morocco and the Mauritanian entity had legal ties to it, but not territorial sovereignty, and those ties do not override self-determination.",
-   "draft": true,
+   "tldr": "The General Assembly asked whether Western Sahara was *terra nullius* when Spain colonised it, and what legal ties it had with Morocco and the 'Mauritanian entity'. Not terra nullius: it was inhabited by socially and politically organised tribes. There were ties of *allegiance* (to the Moroccan Sultan) and of land rights and custom (with Mauritanian tribes), but no *territorial sovereignty*, so self-determination of the territory's people governs.",
    "concepts": [
     "territory",
     "self-determination",
-    "colonialism"
+    "colonialism",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Request** (GA Res. 3292, 1974): reaffirming self-determination under Res. 1514, and urging Spain to postpone its planned referendum.\n\n**Q I: terra nullius?** *Terra nullius* is a term of art tied to 'occupation' as an original mode of acquisition. State practice of the period shows that territories inhabited by tribes or peoples with social and political organisation were *not* terrae nullius; sovereignty was acquired by agreements with local rulers (derivative title). Western Sahara's nomadic peoples were organised in tribes under chiefs able to represent them. Answer: **no**.\n\n**Q II: legal ties.** A very detailed picture of nomadic life: pasture in common, wells owned by tribes, burial grounds, routes crossing future colonial borders, Islamic law plus custom, sheikhs and assemblies (Juma'a), ties of dependence or alliance that were tribal rather than territorial.\n- *Morocco* claimed immemorial sovereignty. The Court asked for evidence of effective, exclusive display of authority at the time of colonisation and found only a tie of **allegiance** between the Sultan and *some* tribes, not territorial sovereignty.\n- *Mauritania* admitted the 'Mauritanian entity' (Bilad Shinguitti) wasn't a state. It had no common institutions, so no sovereignty; but the nomads' rights to pasture, land and wells, and inter-tribal custom, were **legal ties** that 'knew no frontier'.\n- Spain argued for a distinct Sahrawi people. The Court rejected a neat 'north for Morocco, south for Mauritania, no void' picture; it stressed complexity, overlapping routes and independent tribes (Regheibat).\n- **Conclusion** (para 162): ties of allegiance and certain land rights existed, but no tie of territorial sovereignty 'as might affect the application of resolution 1514 (XV)': self-determination through the 'free and genuine expression of the will of the peoples of the Territory'.",
+   "arguments": [
+    "Organised peoples' lands were never terra nullius: a rebuke to colonial doctrine.",
+    "Pre-colonial non-European legal ties are recognised, but translated into European categories (sovereignty vs allegiance).",
+    "Self-determination of the territory's population trumps historic claims of neighbours.",
+    "Effective display (Palmas) is the test even for pre-colonial states."
+   ],
+   "source": "",
+   "short": "Western Sahara",
+   "context": "Turns [[island-of-palmas]]'s logic against colonial acquisition and toward decolonisation. Morocco's 'Green March' followed within weeks; see [[perez-pena-morocco]] for what happened next. Compare [[burkina-mali]] (frontier stability vs self-determination) and Topic 19 on hierarchy.",
+   "conceptNotes": {
+    "territory": "terra nullius and legal ties",
+    "self-determination": "Res. 1514 governs",
+    "colonialism": "colonisation by agreement vs occupation",
+    "sovereignty": "allegiance ≠ territorial sovereignty"
+   }
   },
   {
    "id": "perez-pena-morocco",
@@ -1820,11 +1924,24 @@
    "cite": "The New York Times, Dec. 10, 2020",
    "concepts": [
     "territory",
-    "self-determination"
+    "self-determination",
+    "recognition"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "- Spain withdrew in 1975; Morocco moved in; Polisario declared the Sahrawi Arab Democratic Republic; there was war until a 1991 ceasefire with a promised referendum, never held.\n- Morocco controls most of the territory, including the 500-mile Atlantic coast; Polisario holds desert interior; over 100,000 Sahrawis are in Algerian refugee camps. Morocco has encouraged settlement, shifting demographics (widely seen as illegal).\n- A 1979 UN resolution recognises the right to self-determination and independence and 'deeply deplores' Moroccan occupation. Many states, mostly African, recognise the SADR; major powers and the UN do not.\n- In November 2020 Morocco entered the UN buffer zone and Polisario renounced the ceasefire.\n- Trump's recognition is the first by a major power; it is tied to Morocco–Israel normalisation (the Abraham Accords), and risks friction with Algeria and Sahel counter-terrorism efforts. Biden could reverse it (he didn't).",
+   "arguments": [
+    "Recognition is traded as a diplomatic commodity.",
+    "Effective control and settlement change 'facts on the ground' despite law.",
+    "Self-determination stalls without enforcement."
+   ],
+   "source": "",
+   "short": "NYT — Western Sahara",
+   "tldr": "In December 2020 Trump recognised Moroccan sovereignty over Western Sahara, in a package with Morocco normalising relations with Israel. Morocco controls most of the territory and its coast; the Polisario-led Sahrawi republic is recognised by dozens of states; the promised independence referendum (1991 ceasefire) never happened.",
+   "context": "Shows [[western-sahara]]'s legal answer losing to politics and power; recognition as instrument ([[nyt-putin-ukraine]], [[salimoff]]).",
+   "conceptNotes": {
+    "territory": "annexation and recognition",
+    "self-determination": "referendum never held",
+    "recognition": "recognition traded for normalisation"
+   }
   },
   {
    "id": "burkina-mali",
@@ -1834,16 +1951,31 @@
    "year": 1986,
    "title": "Frontier Dispute (Burkina Faso v. Mali)",
    "cite": "1986 I.C.J. Rep. 554 (excerpts on uti possidetis)",
-   "tldr": "*Uti possidetis juris* is a general principle: colonial administrative boundaries become international borders at independence, for the sake of stability.",
-   "draft": true,
+   "tldr": "Both parties asked the ICJ Chamber to respect 'the intangibility of frontiers inherited from colonization'. *Uti possidetis juris* is a *general principle* tied to decolonisation anywhere: it turns colonial administrative lines into international borders to prevent 'fratricidal struggles'. It seems to clash with self-determination, but African states deliberately chose it for stability.",
    "concepts": [
     "territory",
     "uti-possidetis",
-    "colonialism"
+    "colonialism",
+    "self-determination",
+    "general-principles"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Setting.** Both states came from French West Africa (Upper Volta and French Sudan). The 1964 OAU Cairo resolution pledged respect for frontiers existing at independence; their Special Agreement invoked the intangibility of inherited frontiers.\n\n**The principle** (paras 20–26):\n- First applied in Spanish America, but 'not a special rule' of one regional system: a *general principle* logically connected with gaining independence wherever it occurs. Purpose: prevent the independence and stability of new states being endangered by fratricidal border struggles after the administering power leaves.\n- African practice is the application of a rule of general scope, not the slow growth of a regional custom. OAU declarations are *declaratory*.\n- Two aspects: (1) *juris*, legal title over effective possession (originally to block non-American colonisers from 'unoccupied' lands); (2) its essence, respect for boundaries at the moment of independence, so administrative lines between colonies of one sovereign become full international frontiers.\n- **Self-determination?** 'At first sight' it conflicts outright with peoples' self-determination. But keeping the status quo is often 'the wisest course' to preserve hard-won independence; African states 'judiciously' consented and interpret self-determination accordingly. A 'deliberate choice' among classic principles.\n- It applies even though the OAU and the 1964 resolution post-date the 1960 independence of both states.",
+   "arguments": [
+    "Colonial lines become international borders: stability over historic or ethnic claims.",
+    "A general principle of decolonisation, not merely regional custom.",
+    "Legal title preferred to effective possession, the reverse of Palmas.",
+    "Self-determination is reinterpreted to fit inherited borders."
+   ],
+   "source": "",
+   "short": "Burkina Faso/Mali",
+   "context": "The paradox of decolonisation: independence keeps the colonisers' map. Contrast [[island-of-palmas]] (effectivités) and [[western-sahara]] (self-determination); compare [[vclt-61-62]] art. 62(2)(a) (boundaries immune from changed circumstances). Becker Lorca and Anghie (Topic 19) on what new states inherited.",
+   "conceptNotes": {
+    "uti-possidetis": "general principle of decolonisation",
+    "territory": "colonial boundaries as international frontiers",
+    "self-determination": "tension with frontier stability",
+    "colonialism": "inherited colonial maps",
+    "general-principles": "uti possidetis as general principle"
+   }
   },
   {
    "id": "vidmar-greenland",
@@ -1855,11 +1987,29 @@
    "cite": "EJIL: Talk!, Feb. 6, 2025",
    "concepts": [
     "territory",
-    "self-determination"
+    "self-determination",
+    "jus-cogens",
+    "jus-ad-bellum",
+    "state-responsibility"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Written amid Trump's 2025 push to acquire Greenland, 'possibly even by force'.\n- **Threat or use of force** would breach UN Charter art. 2(4).\n- **Dated modes.** Textbooks still list discovery, occupation, conquest, cession and annexation, but these are incompatible with Charter-era law on force and self-determination. Russia's annexations in Ukraine don't shift title: aggression is a peremptory norm triggering a duty of non-recognition (ARSIWA art. 41). 'Occupation' is now an IHL concept that never transfers title.\n- **Cession** is still possible by treaty, but invalid if coerced or in breach of a peremptory norm, including **self-determination**. So Denmark couldn't cede Greenland without Greenlanders' support, even peacefully: 'Greenland belongs to the Greenlanders'.\n- **Could Greenlanders choose the US?** GA Res. 1541's options (independence, merger, free association) apply to Non-Self-Governing Territories, but Greenland was removed from that list in 1954 on full integration into Denmark: an *internal* self-determination model (autonomy short of statehood). Status changes then run mainly through domestic law, within international limits.\n- **2009 Self-Government Act**: Greenlanders can trigger independence negotiations, needing a referendum and both parliaments' consent (cf. Canada's *Quebec* reference, unlike Catalonia 2017). It speaks of *independence*, not merger. After independence, association with the US wouldn't be prima facie illegal, but the will of the people isn't absolute and a separation agreement could bar it (cf. the Austrian State Treaty).",
+   "arguments": [
+    "Classic acquisition modes are obsolete under the Charter.",
+    "Aggression and self-determination as peremptory limits on title.",
+    "Non-recognition is the legal consequence of conquest.",
+    "Domestic constitutional processes channel self-determination for integrated territories."
+   ],
+   "source": "",
+   "short": "Vidmar — Greenland",
+   "tldr": "Discovery, occupation, conquest and annexation are anachronistic modes that no longer shift title. Conquest breaches the peremptory ban on aggression and triggers non-recognition. Cession can be lawful only if uncoerced and consistent with self-determination, so Greenland can't be ceded without Greenlanders' consent. Under Denmark's 2009 Act its legal route is independence, not merger with the US.",
+   "context": "Brings [[island-of-palmas]]'s doctrine into the age of the Charter and of [[jus-cogens]]; a sequel to [[western-sahara]]'s self-determination. Compare Topic 9's ARSIWA ([[ilc-arsiwa]]) and the 2022 Ukraine context ([[nyt-putin-ukraine]]).",
+   "conceptNotes": {
+    "territory": "modern law of territorial change",
+    "self-determination": "consent of Greenlanders required",
+    "jus-cogens": "aggression and self-determination as peremptory norms",
+    "jus-ad-bellum": "art. 2(4) and conquest",
+    "state-responsibility": "duty of non-recognition (art. 41)"
+   }
   },
   {
    "id": "berman-jerusalem",
@@ -1871,11 +2021,29 @@
    "cite": "45 Cath. U. L. Rev. 823",
    "concepts": [
     "territory",
-    "modernism"
+    "modernism",
+    "self-determination",
+    "colonialism",
+    "people-with-projects"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A 1995 conference talk (edited, with a 1996 epilogue after Rabin's assassination).\n\n**Fantasies.** Full sovereignty is the nationalist fantasy, internationalisation the internationalist one, spiritual guardianship the religious one. The task is not to bypass fantasy for 'reality', since competing fantasies are the heart of the matter.\n\n**A long tradition.** For about two centuries international law has answered nationalist conflict by attenuating sovereignty and heightening international authority: self-determination, plebiscites, minority protection, human rights, mandates, trusteeships, integration and direct governance. GA Res. 181 (1947) bundled them all: two states, minority guarantees, an Economic Union, an internationalised Jerusalem under the Trusteeship Council with a plebiscite after ten years. A chain runs from the Treaty of Berlin (1878) to Upper Silesia (1922) to Res. 181 to Dayton (1995).\n\n**'Universality' is contested.** Earlier internationalisations of Jerusalem included the Crusades and the Ottoman Capitulations; in 1947 some states wanted Christian, non-Jewish, non-Muslim control. Zionists (Glickson's 'autonomies', Herzl's internationalised Old City) and Palestinians (Said) have each appealed to international ideas over 'reality'. Right and left alike compared Oslo to Vichy.\n\n**Three forms of reason:**\n- *Formalist*: identify rights-holders and rights; fantasises that parties are secular legal claimants who will accept adjudication.\n- *Pragmatist/functionalist*: divide functions (mail to holy places); fantasises that parties are rational interest-maximisers.\n- *Cultural*: attends to passionate investments of nationalists *and* international lawyers. Mandates sorted peoples by 'stage of development' and 'remoteness from the centres of civilization'. Nationalists define themselves partly in response to international categories.\n\n**Abu Odeh's plan.** East as *al-Quds* (Palestinian), West as *Yerushalaim* (Israeli), the walled city as *Jerusalem* with no flags, run by a council of Muslim, Christian and Jewish religious authorities. Each side may *imagine* its sovereignty reaching its holy sites. Berman sees this as the most advanced internationalism: deliberate interpretive looseness, a 'dédoublement passionnel', a faith. The epilogue warns against both the monomaniacal faith of assassins and bombers and sterile rationalism.",
+   "arguments": [
+    "International legal 'solutions' to nationalism are themselves fantasies with a history.",
+    "Claims of universality and rationality hide competing substantive visions.",
+    "Formalism and pragmatism fail by excluding passion; a cultural approach builds it in.",
+    "Effective peace plans may need deliberate ambiguity: law as a structured place for competing fantasies."
+   ],
+   "source": "",
+   "short": "Berman — Jerusalem",
+   "tldr": "Internationalising Jerusalem (Res. 181's *corpus separatum*) is 'the ultimate internationalist fantasy', competing with nationalist and religious fantasies. The formalist (rights-holders) and the pragmatist (rational interests, functional division) both exclude fantasy and fail. A 'cultural' approach builds space for competing fantasies into the legal design, like Abu Odeh's three-name plan.",
+   "context": "Berman's Modernism essay ([[berman-modernism]]) carried to a live conflict: internationalised territories as the legal-modernist 'Plan'. Links to Topic 16 (institutions as myth: [[barthes-eiffel]]; [[miller-parity]] on Oslo), and to Topic 6's Gaza readings.",
+   "conceptNotes": {
+    "territory": "internationalised territory",
+    "modernism": "internationalist 'Plans' tradition",
+    "self-determination": "competing national claims",
+    "colonialism": "mandates and 'stage of development'",
+    "people-with-projects": "formalist, pragmatist, cultural lawyers"
+   }
   },
   {
    "id": "damrosch-state-resp",
@@ -3488,12 +3656,6 @@
    "note": "From Holmes' strict territoriality to aggressive extraterritorial enforcement."
   },
   {
-   "from": "malley-manas-nix",
-   "to": "restatement-402-404",
-   "type": "critiques",
-   "note": "The Restatement's neutral 'bases' of jurisdiction hide how jurisdiction constructs state interest."
-  },
-  {
    "from": "danielsen-corporate",
    "to": "cohen-property-sovereignty",
    "type": "builds-on",
@@ -3518,22 +3680,10 @@
    "note": "Stability of colonial borders (uti possidetis) vs. self-determination of peoples."
   },
   {
-   "from": "western-sahara",
-   "to": "island-of-palmas",
-   "type": "complicates",
-   "note": "Effective control is not the whole story: pre-colonial social and political ties count."
-  },
-  {
    "from": "perez-pena-morocco",
    "to": "western-sahara",
    "type": "applies",
    "note": "The 2020 US recognition of Moroccan sovereignty against the ICJ's 1975 opinion."
-  },
-  {
-   "from": "vidmar-greenland",
-   "to": "island-of-palmas",
-   "type": "applies",
-   "note": "Classic modes of acquiring territory tested against a contemporary claim."
   },
   {
    "from": "gabcikovo",
@@ -3702,12 +3852,6 @@
    "to": "knop-feminism-sovereignty",
    "type": "extends",
    "note": "Knop re-looks at who and what sovereignty hides: women, then cities."
-  },
-  {
-   "from": "berman-jerusalem",
-   "to": "berman-modernism",
-   "type": "extends",
-   "note": "Modernist legal imagination applied to an internationalised city."
   },
   {
    "from": "cohn-sex-death",
@@ -4008,6 +4152,90 @@
    "to": "damrosch-nationality",
    "type": "critiques",
    "note": "Nuremberg's 'crimes are committed by men, not abstract entities' is the premise Koskenniemi questions."
+  },
+  {
+   "from": "malley-manas-nix",
+   "to": "restatement-402-404",
+   "type": "critiques",
+   "note": "The Restatement's bases and 'reasonableness' factors all run through an indeterminate 'national interest' that hides normative choices."
+  },
+  {
+   "from": "berman-globalization-jurisdiction",
+   "to": "malley-manas-nix",
+   "type": "extends",
+   "note": "From exposing national-interest talk to a positive cosmopolitan pluralist theory of jurisdiction and community."
+  },
+  {
+   "from": "bank-nova-scotia",
+   "to": "restatement-402-404",
+   "type": "applies",
+   "note": "Comity balancing applied by the forum court, and resolved for the forum."
+  },
+  {
+   "from": "sauerbrey-europe",
+   "to": "bank-nova-scotia",
+   "type": "extends",
+   "note": "From subpoenaing offshore bank records to secondary sanctions that make dollar-linked firms worldwide comply."
+  },
+  {
+   "from": "sauerbrey-europe",
+   "to": "chachko-heath",
+   "type": "builds-on",
+   "note": "Secondary sanctions as precursors to the sanctions-as-economic-battlefield moment."
+  },
+  {
+   "from": "berman-globalization-jurisdiction",
+   "to": "ilc-fragmentation-jus-cogens",
+   "type": "builds-on",
+   "note": "The Pinochet saga: Spain's assertion of jurisdiction and the House of Lords' denial of immunity for torture."
+  },
+  {
+   "from": "malley-manas-nix",
+   "to": "antelope",
+   "type": "illustrates",
+   "note": "The Note cites the Antelope among cases where national categories decide who is inside or outside law's protection."
+  },
+  {
+   "from": "western-sahara",
+   "to": "island-of-palmas",
+   "type": "complicates",
+   "note": "The Court applies effective display to pre-colonial Morocco, but holds that organised peoples' lands were never terra nullius."
+  },
+  {
+   "from": "burkina-mali",
+   "to": "island-of-palmas",
+   "type": "contrasts",
+   "note": "Uti possidetis *juris* prefers legal title (colonial lines) over effective possession, the reverse of Palmas's effectivités."
+  },
+  {
+   "from": "vidmar-greenland",
+   "to": "island-of-palmas",
+   "type": "critiques",
+   "note": "Discovery, occupation and conquest, Palmas's world, are anachronistic under the Charter, jus cogens and self-determination."
+  },
+  {
+   "from": "vidmar-greenland",
+   "to": "western-sahara",
+   "type": "builds-on",
+   "note": "Self-determination as a limit on any transfer of territory."
+  },
+  {
+   "from": "berman-jerusalem",
+   "to": "berman-modernism",
+   "type": "extends",
+   "note": "The interwar internationalised 'Plans' (Saar, Danzig, Upper Silesia) traced forward to Res. 181 and Jerusalem."
+  },
+  {
+   "from": "berman-jerusalem",
+   "to": "miller-parity",
+   "type": "builds-on",
+   "note": "Both read the Oslo process and its 'international' framing critically."
+  },
+  {
+   "from": "burkina-mali",
+   "to": "vclt-61-62",
+   "type": "illustrates",
+   "note": "Boundaries are insulated from change: VCLT art. 62(2)(a) and uti possidetis serve stability."
   }
  ],
  "themes": [
@@ -4024,7 +4252,8 @@
     "nicaragua-1984",
     "henkin-interstate",
     "bolton-icc-2018",
-    "hakimi-cogan"
+    "hakimi-cogan",
+    "vidmar-greenland"
    ],
    "concepts": [
     "sovereignty",
@@ -4071,7 +4300,9 @@
     "bedjaoui-nieo",
     "rajagopal-below",
     "chimni-2017",
-    "robinson-caribbean"
+    "robinson-caribbean",
+    "island-of-palmas",
+    "berman-jerusalem"
    ],
    "concepts": [
     "colonialism",
