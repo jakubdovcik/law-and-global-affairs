@@ -309,11 +309,24 @@
    "title": "Introduction to the Study of International Law",
    "cite": "International Law: Cases and Materials (excerpts)",
    "concepts": [
-    "sources"
+    "sources",
+    "positivism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Two pieces from the casebook (Damrosch & Murphy, 6th ed.): the *Introduction to the Study of International Law* and the *Historical Introduction*. (The scanned intro pages are partly cut off; the historical introduction is readable.)\n\n**Introduction.** International law is traditionally the law of a 'community of states'. The authors grant that this state-centred picture is now partly artificial: human rights let individuals hold rights against their own state, international criminal law puts duties on individuals, and organisations and NGOs act on the international plane. Even so, they keep inter-state relations as the organising focus, treating international law as a distinct system, separate from national 'foreign relations law'. They also note that feminist, critical and law-and-economics approaches can ask the same questions of it as of any legal order.\n\n**Historical Introduction.** A familiar progress narrative:\n- *Pre-modern*: rules on treaties, envoys and war existed in China, India, Greece, Rome, Judaism, Islam and medieval Christendom, but without equal sovereigns.\n- *Foundations*: trade, discovery and conquest of distant lands, and the Thirty Years' War prompt Gentili and **Grotius** (*De Jure Belli ac Pacis*), usually called the founder of modern international law.\n- *Natural law*: Vitoria and Suárez (following Aquinas, law grounded in divine order) vs Grotius the rationalist (law from universal reason); later Pufendorf.\n- *Turn to positivism* (late 18th–19th c.): Vattel, Bynkershoek, Moser, Martens; law is what states consent to through custom and treaty. Austin calls international law mere 'positive morality'; Hegel glorifies the state; Marxism attacks the state system.\n- *League era*: the Covenant limits the right to war; the ILO and the PCIJ appear; the system collapses over Abyssinia (1935), and fascist states challenge its universality.\n- *Post-1945*: the UN and a huge growth of international organisations, decolonisation and demands for a New International Economic Order, human rights. After the Cold War: a revived Security Council, new tribunals, globalisation, then 9/11 and non-state violence.",
+   "arguments": [
+    "International law is centred on states but no longer only *about* states: individuals, organisations and corporations now have rights and duties.",
+    "Its history is told as a move from natural law to positivism to institutional internationalism.",
+    "Positivism's core: international law binds only through state consent (custom, treaty), which fits a world of sovereign nation-states.",
+    "Each crisis (Thirty Years' War, WWI, WWII, Cold War's end, 9/11) is narrated as producing new law and institutions."
+   ],
+   "source": "",
+   "short": "Damrosch & Murphy intro",
+   "tldr": "The casebook's standard story: international law began as the law between sovereign states, with Westphalia as its symbolic start. It moved from natural law to positivism, was reshaped by the League and the UN, and now also covers individuals, organisations and non-state actors.",
+   "context": "This is the *mainstream self-description* of the discipline. Kennedy puts it first so you can watch the rest of the course take it apart: compare its smooth story of progress with [[kennedy-chart]], [[berman-modernism]] (the interwar period as a cultural project, not just 'League failure'), [[kennedy-primitive]] (how the field narrates its ancestors) and [[anghie-imperialism]] (colonialism is missing from this story).",
+   "conceptNotes": {
+    "sources": "presents custom and treaty (consent) as the positivist core",
+    "positivism": "the 'turn to positivism' as the field's coming of age"
+   }
   },
   {
    "id": "berman-modernism",
@@ -323,15 +336,30 @@
    "year": 1992,
    "title": "Modernism, Nationalism, and the Rhetoric of Reconstruction",
    "cite": "4 Yale J.L. & Humanities 351 (excerpts)",
-   "tldr": "Reads interwar international law as a *modernist* project: a self-conscious reconstruction of the discipline that tried to channel nationalist passion through new legal forms.",
-   "draft": true,
+   "tldr": "Interwar international lawyers were *Modernists*. Like Picasso or Kandinsky, they dropped the old 'object' (the sovereign state), opened law to 'primitive' nationalist passion, and invented new legal techniques: plebiscites, minority protection, internationalised territories. These carry both promise and authoritarian danger.",
    "concepts": [
     "modernism",
-    "people-with-projects"
+    "people-with-projects",
+    "self-determination",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Berman reads the 'new international law' of 1919–39 next to the high Modernism of European art and culture, as parallel responses to the same cultural situation rather than as direct influence.\n\n**Four features of high Modernism → four features of the new international law:**\n1. *Critique of representation* → rejection of positivism: the sovereign state is no longer the object law must conform to.\n2. *Openness to the 'primitive'* → openness to the passions of nationalism, which interwar lawyers saw as explosive and irrational (unlike Wilson's liberal nationalism).\n3. *Experimentation with the medium* → invention of new, specifically legal techniques.\n4. *Juxtaposition of incompatible elements* → regimes mixing state, nation, individual and international community, held together only by legal creativity.\n\n**Examples.**\n- *Redslob*: nationalism is a 'crater filled with flames and smoke' that law must both model itself on and discipline.\n- *Wambaugh on plebiscites*: scientific, neutralised voting turns nationalist desire into valid title. The 1935 Saar plebiscite, which she celebrated as the technique's high point, handed the Nazis a symbolic victory.\n- *League minority protection*: guarantees a group's cultural 'essence' while denying it political voice or standing.\n- *Internationalised regions* (Saar, Danzig, Upper Silesia): comprehensive 'Plans' and local international tribunals as the peak of legal Modernism.\n\n**The dangers.** Faith in procedural technique can blind lawyers to political substance (the Saar). A separate 'cultural' sphere is indeterminate and politically fragile. The lawyer's heightened role carries an *authoritarian temptation*. Berman writes in 1990–91, as central European empires collapse again and a 'New World Order' is proclaimed: we are all still Modernists, so we need a historical critique of the rhetoric of reconstruction.",
+   "arguments": [
+    "Interwar international law broke with both positivism and liberal nationalism, a double break that makes it 'Modernist'.",
+    "Nationalism played the role of the 'primitive': essential source of energy and dangerous force at once.",
+    "New techniques (plebiscite, minority treaties, internationalised territories) expanded lawyers' autonomy and authority.",
+    "Two failure modes: technocratic blindness (Saar 1935) and indeterminate public/cultural splits (minority protection).",
+    "Comprehensive legal 'Plans' still tempt us (UN Partition Plan 1947, Cambodia), and so does their authoritarian side."
+   ],
+   "source": "",
+   "short": "Berman — Modernism",
+   "context": "Berman sets the course's method: read international law as part of *culture and intellectual history*, as projects made by people. His interwar lawyers reappear in Topic 11 ([[redslob-nationalities]], [[alvarez-new-il]]) and his own Jerusalem essay in Topic 8 ([[berman-jerusalem]]). This fills the '1900–1950' row of [[kennedy-chart]].",
+   "conceptNotes": {
+    "modernism": "the defining account of interwar legal modernism",
+    "people-with-projects": "lawyers as cultural creators: adviser, judge, constitutional designer",
+    "self-determination": "plebiscites as technique",
+    "sovereignty": "sovereignty displaced as law's 'object' but pressed into service"
+   }
   },
   {
    "id": "kennedy-chart",
@@ -341,14 +369,23 @@
    "year": null,
    "title": "Chart: Intellectual History",
    "cite": "",
-   "tldr": "Kennedy's map of the field's intellectual history. A reference frame for the whole course.",
-   "draft": true,
+   "tldr": "A one-page grid of the field's intellectual history in four eras (1900–50, 1950–89, 1990–2000, 2000–20). Each era is read along the same dimensions: trauma, doctrinal focus, preoccupation, mode of action, institutions, heroic figure, world map, mode of thought, and the other discipline it borrows from.",
    "concepts": [
     "people-with-projects"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**How the grid reads (era: trauma → focus → hero → borrowed discipline):**\n\n| era | trauma | doctrinal focus | preoccupation | mode of action | heroic figure | world map | mode of thought | borrows from |\n|---|---|---|---|---|---|---|---|---|\n| 1900–50 | war, Hague and League failure | sources, treaties/custom | minority rights, colonial management, collective security, nationalism, self-determination | codification; international organisation | jurist & international judge | civilisation & mandates | anti-formal social reform & positivism | politics |\n| 1950–89 | war, Cold War, totalitarianism, Vietnam, Depression | process, jurisdiction, state responsibility, law of the sea | decolonisation, development, disarmament, welfare, expropriation, NIEO, human rights | administration & policy management; conventions & rights | manager / statesman | East/West & Third World | functional problem-solving, world-order building | economics & social science |\n| 1990–2000 | neoliberalism, American empire | substance: environment, human rights, terrorism, international crimes | trade, globalisation, humanitarian intervention | debate & adjudication; principles & standards | citizen/NGO advocate & national judge | democratic-liberal vs non-liberal; free-trade globalisation | pragmatism, legitimacy, humanism, ethics | IR; cultural & human sciences |\n| 2000–20 | war on terror, economic crisis, corporate power, pandemics, climate, authoritarian populism | business & tech regulation, criminal law, global administrative law, universal jurisdiction | environment, war, culture, tech | private ordering, corporate responsibility, arbitration, decentralisation | climate activists, enlightened statesmen, mayors, corporate leaders | West v Russia, rise of China, authoritarian v democratic | eclectic pragmatism, crisis thinking | science & tech; realist political science; great-power analysis |\n\n**How to use it:** for any reading, ask which row it belongs to, and whether it reproduces or criticises that row's common sense.",
+   "arguments": [
+    "Every era's international law responds to a *trauma* and builds a new professional sensibility around it.",
+    "The field's 'heroic figure' shifts: judge → manager → NGO advocate → mayor/CEO/activist.",
+    "Each era borrows authority from another discipline (politics → economics → IR/ethics → science/political realism).",
+    "Doctrine is the least stable part: focus moves from sources to process to substance to regulation."
+   ],
+   "source": "",
+   "short": "Kennedy chart",
+   "context": "The course's master map. Topics 10–12 walk through its early rows historically; Parts IV–VIII ('new thinking') correspond to its later rows. The final essay is a natural place to use it.",
+   "conceptNotes": {
+    "people-with-projects": "the 'heroic figure' and 'mode of action' columns are Kennedy's people-with-projects idea in table form"
+   }
   },
   {
    "id": "icj-art38",
@@ -358,15 +395,26 @@
    "year": 1945,
    "title": "Statute of the International Court of Justice, art. 38",
    "cite": "",
-   "tldr": "The canonical list of sources: treaties, custom (general practice accepted as law), general principles; judicial decisions and teachings as subsidiary means.",
-   "draft": true,
+   "tldr": "The Court applies (a) treaties, (b) custom, 'as evidence of a general practice accepted as law', (c) general principles 'recognized by civilized nations', and (d) judicial decisions and leading scholars' writings as subsidiary means. It may decide *ex aequo et bono* (on fairness) only if the parties agree.",
    "concepts": [
     "sources",
-    "custom"
+    "custom",
+    "general-principles"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The canonical text of the doctrine of sources. Note three things the wording quietly does:\n\n- **No explicit hierarchy** among (a)–(c), but treaties come first; (d) is only *subsidiary*. Article 59 says ICJ decisions bind only the parties to the case, so no formal precedent.\n- **Custom is defined backwards**: custom is described as 'evidence of' a practice, when really practice is evidence of custom. The casebook notes Manley Hudson's remark that the 1920 drafters had no very clear idea what custom was.\n- **'Civilized nations'**: the standard of civilisation is written into the source list itself (see [[anghie-imperialism]]).",
+   "arguments": [
+    "Sources are listed as what a court *applies*, so the doctrine of sources is a theory of adjudication.",
+    "Consent-based sources (treaty, custom) sit beside a non-consensual one (general principles).",
+    "Courts and scholars are formally 'subsidiary' but in practice decisive (see [[paquete-habana]])."
+   ],
+   "source": "",
+   "short": "ICJ Art. 38",
+   "context": "The baseline for Topics 2–3. Every later reading on custom, general principles, jus cogens or soft law is arguing about the edges of this list, and about whether international law has a *hierarchy* (Topic 3) and a clear *boundary with non-law*.",
+   "conceptNotes": {
+    "sources": "the canonical source list",
+    "custom": "defined as general practice accepted as law",
+    "general-principles": "'recognized by civilized nations'"
+   }
   },
   {
    "id": "schachter-custom",
@@ -377,11 +425,26 @@
    "title": "International Law in Theory and Practice (excerpts on custom)",
    "cite": "",
    "concepts": [
-    "custom"
+    "custom",
+    "positivism",
+    "sources"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Schachter's chapter on *The Doctrine of Sources and the Inductive Science of Law*.\n\n**Why sources?** The doctrine became dominant in the 19th century because it offered *verifiable* criteria of legal validity: the observable 'wills' of states in treaties and practice accepted as law. It drew on the prestige of inductive science (Comte's sociological positivism), and on the sense that states act from power and interest, not natural reason. It thus served both realists (sovereignty respected) and analytical jurists (a scientific jurisprudence). Even Soviet jurists accepted it: law as a 'coordination of wills'.\n\n**Method.** It demanded detailed induction from practice and opinio juris. The favourite tools were *national digests of state practice*, prepared by or with governments. But only a few (mostly Western) states produced digests, so the 'evidence' of general practice really reflected a handful of states, yet was treated as highly persuasive.\n\n**Punchline.** Look closely at actual argument and you find constant departures from the doctrine, so the inductive positive science of international law is better described as 'myth than reality'.",
+   "arguments": [
+    "Sources doctrine = positivism + scientism + sovereignty: law is what states will, observably.",
+    "It aimed to remove subjectivity and morality from international law.",
+    "Its evidence base (government digests) was narrow and skewed to a few powerful states.",
+    "Real legal argument constantly deviates from the doctrine; induction is partly a fiction."
+   ],
+   "source": "",
+   "short": "Schachter — sources",
+   "tldr": "The doctrine of sources was a 19th-century bid for a *positive science* of international law: law validated by observable acts of state will (treaty, practice + opinio juris), free of morality. In practice it relied on a few states' digests and constant deviations, so the 'inductive science' is more myth than reality.",
+   "context": "A mainstream insider admitting the foundations are shaky. Pair with [[mcdougal-custom]] (custom as process), [[lotus]] (consent and freedom), and Topic 12's debate on whether international law is law ([[austin-province]], [[kelsen-lecture-iii]]).",
+   "conceptNotes": {
+    "custom": "custom identified 'inductively' from practice and opinio juris",
+    "positivism": "sources doctrine as positivist science",
+    "sources": "the doctrine's history and its myth"
+   }
   },
   {
    "id": "paquete-habana",
@@ -391,15 +454,28 @@
    "year": 1900,
    "title": "The Paquete Habana",
    "cite": "175 U.S. 677",
-   "tldr": "Coastal fishing boats are exempt from capture as prize under customary international law, found in centuries of practice and in treatises. \"International law is part of our law\" where no treaty or controlling act decides.",
-   "draft": true,
+   "tldr": "Two Spanish-flagged Cuban fishing smacks seized in the 1898 war are unlawfully condemned. An 'ancient usage among civilized nations' has ripened into a rule exempting coastal fishing boats from capture. 'International law is part of our law' where no treaty or controlling executive, legislative or judicial act decides.",
    "concepts": [
     "custom",
-    "reception"
+    "reception",
+    "jus-in-bello"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** US blockading ships captured two unarmed fishing smacks out of Havana during the Spanish-American War. They were condemned as prize; the owners appealed.\n\n**Method: finding custom.** Justice Gray traces practice across five centuries:\n- Henry IV of England's orders protecting fishermen (1403, 1406), the 1521 Charles V–Francis I herring truce, and Louis XIV's 1675 arrangement with Holland;\n- Louis XVI's 1779 orders 'from sentiments of humanity', and Franklin's 1785 US–Prussia treaty;\n- lapses (Britain and France in the 1790s, the Crimean War) explained away or treated as having 'no morrow';\n- recent practice: the Mexican War, France's wars, and Japan's 1894 prize ordinance. Japan is called 'the last State admitted into the rank of civilized nations'.\n\n**Role of writers.** Where no treaty or controlling act exists, courts look to 'the customs and usages of civilized nations', and to jurists as trustworthy evidence of what the law *is*, not what it ought to be (citing Wheaton and Kent).\n\n**Holding.** By the general consent of civilised nations, grounded in humanity to 'a poor and industrious order of men' and the mutual convenience of belligerents, coastal fishing vessels are exempt from capture. Prize courts must take judicial notice of this rule. Restitution ordered.",
+   "arguments": [
+    "Custom is shown by long, mostly consistent practice plus a sense of obligation (humanity, reciprocity).",
+    "Inconsistent practice can be explained away as exception, military necessity, or 'concession'.",
+    "Publicists are evidence of law, not makers of it (positivist self-description).",
+    "International law is part of US law, but yields to treaty or a 'controlling executive or legislative act'.",
+    "The 'civilized nations' frame decides whose practice counts."
+   ],
+   "source": "",
+   "short": "Paquete Habana",
+   "context": "The classic demonstration of how custom is 'found'. It also opens Topic 13's question of *reception*: when do national courts apply international law? Compare [[lotus]], which handles absent practice very differently.",
+   "conceptNotes": {
+    "custom": "the model of inductive custom-finding",
+    "reception": "'international law is part of our law'",
+    "jus-in-bello": "a humanitarian limit on naval warfare"
+   }
   },
   {
    "id": "damrosch-custom-q",
@@ -412,9 +488,19 @@
    "concepts": [
     "custom"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Art. 38(1)(b)'s 'curious' wording is noted, then custom's two elements: **general practice + opinio juris**. Seven question clusters follow:\n1. **What is practice?** Only organs that bind the state? Verbal claims or only physical acts? Can silence or inaction count as acquiescence?\n2. **How general?** How widespread, representative and consistent must it be? Do specially affected states count more? How much protest defeats it? Is one act enough?\n3. **Proving opinio juris**: express statements or inference? Its *circularity*: how can states believe something is law before it is law?\n4. **New states** (e.g. South Sudan 2011): bound by all existing custom, or free to pick?\n5. **Treaties** as evidence, crystallisation or generators of custom binding non-parties.\n6. **UN General Assembly resolutions** as evidence.\n7. **Hierarchy**: do some norms prevail over ordinary custom or treaty (→ [[jus-cogens]], Topic 3)?",
+   "arguments": [
+    "Each element of custom hides a policy choice: whose conduct counts, how much, and when.",
+    "Opinio juris is logically circular, which leaves room for judicial construction.",
+    "Treaties and resolutions blur the line between consent-based and general law."
+   ],
+   "source": "",
+   "short": "D&M custom questions",
+   "tldr": "The casebook's checklist of open problems in custom: what counts as practice, how general it must be, how to prove opinio juris (and its circularity), new states, treaties and UN resolutions as evidence, and normative hierarchy.",
+   "context": "A map of the indeterminacy that [[ilc-custom-2018]] tries to settle and that [[mcdougal-custom]] embraces as process.",
+   "conceptNotes": {
+    "custom": "lists the open doctrinal questions"
+   }
   },
   {
    "id": "ilc-custom-2018",
@@ -424,14 +510,23 @@
    "year": 2018,
    "title": "Draft Conclusions on Identification of Customary International Law",
    "cite": "",
-   "tldr": "Two elements, each to be shown separately: a general practice, and acceptance as law (opinio juris). Also covers the persistent objector rule.",
-   "draft": true,
+   "tldr": "Sixteen conclusions on how to identify custom. Two elements, each to be shown separately: a general practice (mainly state practice, sometimes international organisations') and acceptance as law. Also covers evidence, the role of treaties, resolutions, courts and scholars, persistent objectors, and regional custom.",
    "concepts": [
     "custom"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Key points:\n- **Two-element approach** (C2), assessed in context; *each element ascertained separately* (C3), so practice alone does not prove opinio juris and vice versa.\n- **Practice** (C4–8): primarily *state* practice, sometimes international organisations'; other actors (NGOs, companies) don't count, though they may be relevant. Practice can be executive, legislative or judicial, physical or verbal, even inaction. No hierarchy among forms. It must be *general*: widespread, representative and consistent. No minimum duration.\n- **Opinio juris** (C9–10): a sense of legal right or obligation, distinct from habit. Evidence includes statements, legal opinions, court decisions, treaty provisions, and conduct around resolutions. *Failure to react* can count where a reaction was called for.\n- **Treaties** (C11) may codify, crystallise or generate custom. **Resolutions** (C12) cannot *by themselves* create custom but can be evidence. **Courts and teachings** (C13–14) are subsidiary means.\n- **Persistent objector** (C15): a state that clearly and persistently objects while a rule forms is not bound, *without prejudice to jus cogens*.\n- **Particular custom** (C16): regional or local rules among a limited group of states.",
+   "arguments": [
+    "Codifies the orthodox two-element test and resists collapsing one element into the other.",
+    "Keeps the state at the centre: non-state actors can't make custom.",
+    "Leaves the hard judgements ('representative', 'called for some reaction') to the interpreter.",
+    "Carves out jus cogens from the persistent objector rule, hinting at hierarchy (Topic 3)."
+   ],
+   "source": "",
+   "short": "ILC custom 2018",
+   "context": "The most formal, rule-like answer to the questions in [[damrosch-custom-q]], and the opposite of [[mcdougal-custom]]'s process view. It is also an example of the ILC as a codifier (cf. [[ilc-fragmentation-jus-cogens]], [[ilc-arsiwa]]).",
+   "conceptNotes": {
+    "custom": "orthodox two-element test, codified"
+   }
   },
   {
    "id": "mcdougal-custom",
@@ -441,15 +536,25 @@
    "year": null,
    "title": "McDougal on Customary Law",
    "cite": "quoted in Damrosch & Murphy, 69 n.5",
-   "tldr": "Custom as an ongoing process of claim and response: decision-makers accept or reject states' unilateral claims, rather than applying a fixed rule.",
-   "draft": true,
+   "tldr": "Custom is not a rule waiting to be found but a *process* of continuous claim and response. States make unilateral claims, other states' decision-makers weigh them by 'reasonableness' and accept or reject them, and mutual tolerance creates expectations of pattern that we call law.",
    "concepts": [
     "custom",
     "policy-science"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Writing about the US hydrogen-bomb tests that closed off areas of the high seas (1955), McDougal describes customary law as an ongoing interaction:\n- decision-makers of particular states put forward claims of the most varied and conflicting kinds;\n- decision-makers outside the claiming state weigh and appraise those claims and ultimately accept or reject them;\n- countless foreign-office, court and legislative decisions express *reciprocal tolerances*, which create expectations that power will be restrained and exercised in uniform patterns: that is 'law'.\n\nReasonableness guides claims and responses, and through the process values are clarified and common interests realised. This belongs to the New Haven school's 'world constitutive process of authoritative decision' (McDougal & Lasswell).",
+   "arguments": [
+    "Law = expectations created by patterns of authoritative decision, not a static rule.",
+    "Unilateral claims (even aggressive ones, e.g. nuclear testing zones) are how custom *moves*.",
+    "Acceptance is judged by reasonableness and shared values, not formal consent.",
+    "The process view favours actors with power to make and tolerate claims."
+   ],
+   "source": "",
+   "short": "McDougal on custom",
+   "context": "The New Haven alternative to sources positivism. Note the setting: a US claim to use the high seas for H-bomb tests. This is law as policy for a superpower, developed fully in [[mcdougal-law-power]] (Topic 12, 'Managing an Empire').",
+   "conceptNotes": {
+    "custom": "custom as claim-and-response process",
+    "policy-science": "early statement of the New Haven method"
+   }
   },
   {
    "id": "lotus",
@@ -459,16 +564,30 @@
    "year": 1927,
    "title": "The Case of the S.S. “Lotus” (France v. Turkey)",
    "cite": "1927 P.C.I.J. (ser. A) No. 10 (excerpts)",
-   "tldr": "Turkey may prosecute the French officer after a high-seas collision. Limits on state independence cannot be presumed: states are free unless a prohibiting rule exists. Not prosecuting in the past is not evidence of opinio juris.",
-   "draft": true,
+   "tldr": "After a high-seas collision killed eight Turks, Turkey may try the French officer. International law flows from states' free will, so restrictions on independence 'cannot be presumed'. States may extend their laws and courts to acts abroad unless a *prohibitive* rule exists, and France found none.",
    "concepts": [
     "sovereignty",
     "custom",
-    "jurisdiction"
+    "jurisdiction",
+    "territoriality"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** In 1926 the French steamer *Lotus* collided on the high seas with the Turkish *Boz-Kourt*, which sank, killing eight. Turkey tried and convicted the French officer of the watch, Lt. Demons. France protested; both submitted to the PCIJ.\n\n**Framing the question.** France: Turkey must point to a *permissive* title of jurisdiction. The Court: no, the question is whether Turkey violated a *prohibitive* principle. This follows from 'the very nature' of international law: it governs relations between independent states; its rules come from their *free will* (conventions or generally accepted usages); hence 'restrictions upon the independence of States cannot … be presumed.'\n\n**Two kinds of jurisdiction.**\n- *Enforcement* in another state's territory is forbidden absent a permissive rule; in that sense jurisdiction is territorial.\n- *Prescriptive/adjudicative* jurisdiction at home over acts abroad: states have 'a wide measure of discretion', limited only by specific prohibitive rules.\n- Criminal territoriality is not absolute; many states (including France) treat offences whose *effects* occur on their territory as committed there. A ship counts as territory.\n\n**France's arguments rejected.** (1) Passive personality alone: no need to decide, since the effects occurred on a Turkish ship. (2) Exclusive flag-state jurisdiction on the high seas: not established. (3) Collision cases: the few prosecutions don't show states abstained *out of a sense of legal duty*. Abstention is not opinio juris.",
+   "arguments": [
+    "International law is consent-based; whatever is not prohibited is permitted (the 'Lotus principle').",
+    "Enforcement jurisdiction is territorial; prescriptive jurisdiction is broadly discretionary.",
+    "The 'objective territorial' or effects principle: offences producing effects at home can be tried at home.",
+    "Absence of prosecutions ≠ custom of abstention: opinio juris is required.",
+    "Where states' discretion produces conflict, the remedy is treaty-making, not judicial presumption."
+   ],
+   "source": "",
+   "short": "Lotus",
+   "context": "The high point of positivist sovereignty, and a hinge for the course. It returns in Topic 7 (jurisdiction: [[american-banana]], [[bank-nova-scotia]], [[restatement-402-404]]) and in [[nuclear-weapons-ao]], where 'no prohibition' leads to a non liquet. Ask whether freedom is really the default, or whether the Court *chose* it.",
+   "conceptNotes": {
+    "sovereignty": "sovereign freedom unless a prohibition exists",
+    "custom": "abstention is not opinio juris",
+    "jurisdiction": "the Lotus framing of jurisdiction",
+    "territoriality": "territoriality not absolute; effects doctrine"
+   }
   },
   {
    "id": "nuclear-weapons-ao",
@@ -478,16 +597,30 @@
    "year": 1996,
    "title": "Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion)",
    "cite": "I.C.J. Reports 1996 (excerpts)",
-   "tldr": "Neither custom nor treaty clearly authorises or bans nuclear weapons. Their use would generally breach humanitarian law, but the Court cannot decide the extreme case of self-defence where a state's survival is at stake. A famous *non liquet* (no clear answer).",
-   "draft": true,
+   "tldr": "Neither custom nor treaty specifically authorises *or* comprehensively prohibits nuclear weapons. Their threat or use must respect the UN Charter and IHL and would *generally* be unlawful. But the Court 'cannot conclude definitively' about an extreme case of self-defence where a state's survival is at stake (7–7, decided by the President's casting vote). There is a duty to negotiate disarmament.",
    "concepts": [
     "custom",
     "jus-in-bello",
-    "sovereignty"
+    "sovereignty",
+    "jus-ad-bellum",
+    "law-nonlaw"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Requested by the UN General Assembly. The excerpt is the operative paragraph (para. 105):\n- **A (unanimous)**: no specific authorisation in custom or treaty.\n- **B (11–3)**: no comprehensive and universal *prohibition* either.\n- **C (unanimous)**: nuclear force contrary to Art. 2(4) or not meeting Art. 51's requirements is unlawful.\n- **D (unanimous)**: it must also comply with IHL and specific nuclear treaties.\n- **E (7–7, President Bedjaoui's casting vote)**: threat or use would *generally* be contrary to IHL, but given the current state of the law and the facts, the Court cannot decide whether it would be lawful or unlawful 'in an extreme circumstance of self-defence, in which the very survival of a State would be at stake.'\n- **F (unanimous)**: obligation to pursue and *conclude* negotiations on nuclear disarmament in good faith.\n\nWhy it belongs under 'custom': the Court weighed decades of practice (non-use, deterrence policy, GA resolutions) and found neither a clear prohibition nor clear opinio juris. A deeply divided bench left a famous gap.",
+   "arguments": [
+    "Absence of prohibition does not end the inquiry: the Court refuses a pure Lotus answer.",
+    "Deterrence practice and non-use cut against each other, so custom is undecidable.",
+    "IHL principles (distinction, unnecessary suffering) point to illegality, but survival-based self-defence pulls the other way.",
+    "The *non liquet* ('it is not clear') shows the limits of the legal system on the most political question."
+   ],
+   "source": "",
+   "short": "Nuclear Weapons AO",
+   "context": "Bookend to [[lotus]]: almost 70 years later the Court cannot say what the sovereign-freedom default means for the ultimate weapon. Look ahead to Topics 21–22 (jus in bello / jus ad bellum) and to the 'law/non-law boundary' thread.",
+   "conceptNotes": {
+    "custom": "practice and opinio juris found inconclusive",
+    "jus-in-bello": "IHL principles applied to nuclear weapons",
+    "jus-ad-bellum": "Arts 2(4) and 51 framework",
+    "law-nonlaw": "a non liquet: law runs out"
+   }
   },
   {
    "id": "schachter-general-principles",
@@ -499,11 +632,25 @@
    "cite": "",
    "concepts": [
     "general-principles",
-    "sources"
+    "sources",
+    "naturalism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Five categories**, each with a different basis of authority:\n1. principles of municipal law 'recognized by civilized nations' (Art. 38(1)(c));\n2. principles derived from the specific nature of the international community;\n3. principles intrinsic to the idea of law and basic to all legal systems;\n4. principles valid through all kinds of societies (Judge Tanaka's *jus rationale*);\n5. principles of justice founded on the nature of humans as rational and social beings.\n\nMany principles fit several boxes (no one judges their own cause; a wrong entails reparation). Bin Cheng saw them as a *substratum* of legal postulates common to all systems, evidence of 'the fundamental unity of law'. They are established by logic plus examples.\n\n**The catch.** Once a principle's general acceptance is disputed, it loses force, so even 'intrinsic' principles rest on *implied consensus*.\n\n**Revival of natural law.** Categories 4–5 echo natural-law doctrine, now secular. Three developments strengthen its universalism: movements against race and sex discrimination, the spread of human rights, and fear of nuclear annihilation. 'Natural justice' has largely been absorbed into human rights instruments and into *equity* (fairness, reciprocity, attention to circumstances). Fitzmaurice even claimed natural justice binds states irrespective of consent.",
+   "arguments": [
+    "General principles are a heterogeneous category with five distinct foundations.",
+    "They function as gap-fillers and as evidence of law's unity.",
+    "Ultimately they depend on consensus, so they are not truly independent of consent.",
+    "Natural-law universalism returns via human rights and equity."
+   ],
+   "source": "",
+   "short": "Schachter — gen. principles",
+   "tldr": "Schachter sorts 'general principles' into five types, from shared domestic-law rules to principles of natural justice based on human nature. However 'intrinsic' they look, they finally rest on an implied consensus. Yet human rights, anti-discrimination and the nuclear threat give natural-law universalism new force.",
+   "context": "General principles are the non-consensual crack in a consent-based system. They lead straight to [[jus-cogens]] (hierarchy) and to the 'elementary considerations of humanity' in [[corfu-1949-merits]].",
+   "conceptNotes": {
+    "general-principles": "five-way typology",
+    "naturalism": "natural law revived as universalism",
+    "sources": "Art. 38(1)(c) and its limits"
+   }
   },
   {
    "id": "ilc-fragmentation-jus-cogens",
@@ -513,16 +660,31 @@
    "year": 2006,
    "title": "Fragmentation of International Law (excerpts on jus cogens)",
    "cite": "",
-   "tldr": "Jus cogens, erga omnes obligations and UN Charter art. 103 as the few tools that create hierarchy in an otherwise flat system.",
-   "draft": true,
+   "tldr": "Jus cogens is a true *hierarchy* rule: a treaty conflicting with a peremptory norm is void (VCLT arts. 53, 64), not merely outranked. Pinochet used it to deny immunity; Al-Adsani refused. But there is no agreed list or test, and there is a 'disturbing circularity': norms meant to limit what states agree are defined by what states accept.",
    "concepts": [
     "jus-cogens",
     "fragmentation",
-    "erga-omnes"
+    "erga-omnes",
+    "naturalism",
+    "individual-responsibility"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From the 2006 ILC Study Group report on fragmentation (finalised by Martti Koskenniemi), section on jus cogens.\n\n**Origins.** The idea that some norms outrank others is old: Roman *jus strictum*, the maxim that private pacts can't change public law, and natural lawyers' timeless norms above state will. Domestic public-policy nullity also shaped it. The ICTY in *Furundžija* called the torture prohibition a peremptory norm above treaties and ordinary custom.\n\n**Codification.** VCLT art. 53: a treaty is *void* if it conflicts with a norm 'accepted and recognized by the international community of States as a whole' as non-derogable. Art. 64: a new peremptory norm voids existing conflicting treaties (not retroactively). This is hierarchy in the strict sense, not mere priority.\n\n**Use.** No ICJ cases under art. 66 at the time. The key use was *Pinochet*: the House of Lords held there can be no immunity co-extensive with a jus cogens crime, so it allowed extradition for torture. But in *Al-Adsani* the ECtHR upheld Kuwait's state immunity from a civil torture claim, so jus cogens did not override customary immunity.\n\n**Content.** The ILC deliberately gave no list in 1966. Common candidates: aggression, genocide, slavery, torture, crimes against humanity, racial discrimination and apartheid, basic IHL, self-determination (and sometimes piracy and self-defence). No agreed list *or criteria*. Art. 53's own test is circular: can norms meant to limit state agreement depend on state agreement? Jus cogens's roots are anti-voluntarist natural law, and modern legal vocabulary can't justify it convincingly. Any proposed criterion carries all its own uncertainties. Best course: leave content to practice and jurisprudence.",
+   "arguments": [
+    "Jus cogens makes conflicting norms void, not just subordinate.",
+    "It is widely accepted in principle but contested in scope and content.",
+    "Its identification test is circular: consent defining limits on consent.",
+    "Its practical effect is uneven (Pinochet vs Al-Adsani): hierarchy meets immunity.",
+    "The ILC's pragmatic answer: let practice and tribunals work it out."
+   ],
+   "source": "",
+   "short": "ILC — jus cogens",
+   "context": "The ILC as reflective codifier, aware of the theory's weak spots. Same report as [[ilc-fragmentation-phenomenon]] (Topic 18): hierarchy is one answer to fragmentation. [[charlesworth-chinkin-jus-cogens]] attacks the *content* of the list.",
+   "conceptNotes": {
+    "jus-cogens": "definition, effects, candidate norms, circularity",
+    "naturalism": "anti-voluntarist roots",
+    "fragmentation": "hierarchy as a tool against fragmentation",
+    "individual-responsibility": "Pinochet: no immunity for torture"
+   }
   },
   {
    "id": "charlesworth-chinkin-jus-cogens",
@@ -532,16 +694,34 @@
    "year": 1993,
    "title": "The Gender of Jus Cogens",
    "cite": "15 Human Rights Quarterly 66 (excerpts)",
-   "tldr": "The supposedly universal peremptory norms reflect male experience. They target public, state-inflicted harms and leave out harms women typically suffer in the 'private' sphere.",
-   "draft": true,
+   "tldr": "Jus cogens's symbolism of universal, fundamental values is *gendered*. The listed norms (genocide, torture, arbitrary detention, race discrimination) address public, state-inflicted harms men fear. They leave out sex discrimination and violence in the 'private' sphere, which is women's most common harm.",
    "concepts": [
     "jus-cogens",
     "feminist-critique",
-    "public-private"
+    "public-private",
+    "human-rights",
+    "state-responsibility",
+    "self-determination"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Function of jus cogens.** Its importance is largely *symbolic*: it marks universality and superiority, described in grand terms ('the deeper conscience of all nations'). Yet its formulation is abstract and inconclusive, with little echo in state practice. Abstract, hierarchical, universal reasoning is associated with 'masculine' modes of thought (Gilligan).\n\n**Human rights as jus cogens.** The Restatement's list (genocide, slave trade, murder/disappearance, torture, prolonged arbitrary detention, systematic racial discrimination) has been criticised as American values posing as international law. Simma and Alston ask why race but not gender discrimination, and why imprisonment but not starvation, counts.\n\n**Public/private.** International law rests on layered public/private splits: international vs domestic, and within that, official acts vs private conduct (imputability decides). Human rights challenged the state/individual split but *kept the gendered one*. Rights are defined by what men fear from government; economic and social rights (the 'private' sphere) are downgraded.\n- **Right to life** covers arbitrary state killing but not sex-selective abortion, infanticide, nutritional discrimination, or the feminisation of poverty.\n- **Torture** requires a public official, while most violence against women is domestic. Violence against women is 'one of those rare areas where there is genuinely consistent and uniform state practice'.\n- **State responsibility** doesn't reach states that maintain systems where such violence is endemic.\n- **Self-determination** ignores women's oppression within the groups claiming it (US support for the Afghan resistance; Kuwait's liberation without women's political rights).\n\nJus cogens adds a further layer, making women's lives *doubly private*.\n\n**Rethinking.** Rather than a separate 'fourth generation' of women's rights, dissolve the public/private divide. Add sex equality, food, reproductive freedom, freedom from fear of violence, and peace. Without this, any 'New World Order' continues the male orientation of the old.",
+   "arguments": [
+    "Jus cogens is mostly symbolic, so its *choice* of symbols matters.",
+    "The canon protects against public harms and ignores private harms.",
+    "The public/private divide is reproduced at every level of international law.",
+    "The supposedly universal list is a male (and Western) list.",
+    "Remedy: redefine existing rights across the divide and expand jus cogens accordingly."
+   ],
+   "source": "",
+   "short": "Charlesworth & Chinkin",
+   "context": "The first full feminist critique in the course. It shows that *hierarchy* (Topic 3) is also a politics of exclusion. Pair with [[knop-feminism-sovereignty]] (Topic 4), [[engle-grip]] (Topic 6) and [[cohn-sex-death]] (Topic 21). Compare with [[cohen-property-sovereignty]], another attack on the public/private line.",
+   "conceptNotes": {
+    "jus-cogens": "gendered content of peremptory norms",
+    "feminist-critique": "core statement",
+    "public-private": "the gendered public/private split",
+    "human-rights": "rights defined by men's fears",
+    "state-responsibility": "imputability excludes private violence",
+    "self-determination": "ignores women within the group"
+   }
   },
   {
    "id": "nuclear-tests",
@@ -551,15 +731,27 @@
    "year": 1974,
    "title": "Nuclear Tests Case (Australia v. France)",
    "cite": "1974 I.C.J. 253 (excerpts)",
-   "tldr": "France's public statements that it would stop atmospheric testing created a binding legal obligation. A public declaration made with intent to be bound is law, so Australia's claim no longer had an object.",
-   "draft": true,
+   "tldr": "Public statements by France's President and ministers that the 1974 atmospheric tests would be the last were a binding *unilateral undertaking*, made publicly, erga omnes, with intent to be bound, and grounded in good faith. Australia's claim therefore 'no longer has any object' (9–6), and the Court never ruled on legality.",
    "concepts": [
     "unilateral-declarations",
-    "law-nonlaw"
+    "law-nonlaw",
+    "erga-omnes"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** France tested nuclear weapons in the atmosphere over Mururoa (French Polynesia) from 1966 to 1972. Australia and New Zealand asked the ICJ to declare further atmospheric testing unlawful. Before judgment France signalled it would move underground.\n\n**The statements** (paras 34–41): a presidential communiqué (June 1974), a note saying the tests would 'in the normal course of events' be the last, the President's press conference (July), the Defence Minister on TV, the Foreign Minister at the UN General Assembly, and the Defence Minister again in October, confirming no atmospheric tests in 1975 *without* the 'normal course of events' proviso.\n\n**Law** (paras 43–51):\n- Unilateral declarations can create legal obligations when the state *intends* to be bound. If public and so intended, they bind even outside negotiations; no quid pro quo, acceptance or reply is needed.\n- Not all unilateral acts bind. Intent is found by interpretation; statements limiting freedom are read *restrictively*.\n- Form doesn't matter: oral or written (citing *Temple of Preah Vihear*).\n- The basis is **good faith**, as for *pacta sunt servanda*: other states may rely on such declarations.\n- The Head of State's statements, plus ministers acting under his authority, form a whole. Made publicly and erga omnes, they are an undertaking to the international community. France's insistence that it was *not* legally obliged to stop doesn't change this, and there is no implied power to reconsider arbitrarily.\n\n**Result.** With France committed, the dispute had no object. By 9–6 the Court declined to decide the legality of past tests.",
+   "arguments": [
+    "Intent to be bound, publicity and good faith make a unilateral statement law.",
+    "No reciprocity or acceptance is needed: a strictly unilateral juridical act.",
+    "Interpretation is restrictive, but the Court read the political statements as binding anyway.",
+    "Making the case moot let the Court avoid the hard question (are atmospheric tests unlawful?)."
+   ],
+   "source": "",
+   "short": "Nuclear Tests",
+   "context": "Law created out of political speech, which sharpens the law/non-law boundary. Contrast [[schachter-twilight]] (negotiated agreements that *aren't* law) and notice the Court using a legal construction to escape a political dispute (compare Topic 5, [[tehran-hostages]], [[nicaragua-1984]]). France later resumed *underground* testing (1995).",
+   "conceptNotes": {
+    "unilateral-declarations": "the leading case",
+    "law-nonlaw": "political statements become legal obligations",
+    "erga-omnes": "statements addressed to the world at large"
+   }
   },
   {
    "id": "schachter-twilight",
@@ -569,15 +761,25 @@
    "year": 1977,
    "title": "The Twilight Existence of Nonbinding International Agreements",
    "cite": "71 AJIL 296 (excerpts)",
-   "tldr": "Gentlemen's agreements and political accords (e.g. the Helsinki Final Act) are not legally binding, yet they carry real political and moral weight and shape conduct.",
-   "draft": true,
+   "tldr": "Agreements states mean to be non-binding (the Helsinki Final Act, gentlemen's agreements) carry no legal responsibility and fall outside the VCLT. Yet they can be precise, relied upon, generate estoppel, and be 'authoritative and controlling' while they last. Don't dismiss them because they're not law.",
    "concepts": [
     "law-nonlaw",
     "soft-law"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Prompted by the 1975 Helsinki Final Act.\n\n**Binding or not?** It turns on the parties' *intention* to create legal relations. Governments rarely say outright that an agreement is non-binding, so intent is inferred from language and circumstances. General aims and broad principles are presumed non-binding.\n\n**Not all non-binding agreements are vague.** Gentlemen's agreements can be precise: the 1908 US–Japan immigration understanding (observed about two decades until the 1924 discriminatory immigration law ended it), and the 1946 London agreement on Security Council seat distribution. The idea that they bind only the individuals who made them is strained; better simply to accept that states may make agreements without legal effect.\n\n**What 'no legal effect' means.**\n1. No legal responsibility: non-performance isn't a ground for reparation or sanctions. This is an *empirical* conclusion from practice, not an analytical one.\n2. Not 'governed by international law', so excluded from the VCLT.\n\n**But not legally irrelevant.** A state that relied on a gentlemen's agreement (e.g. on seat distribution) may be *estopped* from challenging an election held under it.\n\n**Political force.** De Gaulle: agreements 'are like roses and young girls; they last while they last.' While they last they can control conduct. Since non-binding agreements may be attainable when treaties aren't, reinforce their moral and political commitments when they serve valued ends; Helsinki human-rights monitoring was already changing national policies.",
+   "arguments": [
+    "Bindingness depends on intent, inferred from text and context.",
+    "Non-binding ≠ non-observed: there is real expectation and reliance.",
+    "No reparation for breach (empirical), not governed by the VCLT, but estoppel is possible.",
+    "Soft commitments can be more achievable and still effective; the best is the enemy of the good."
+   ],
+   "source": "",
+   "short": "Schachter — twilight",
+   "context": "A mainstream defence of the grey zone. Compare [[nuclear-tests]] (unilateral statements *become* law) and [[bello-wto]] (binding rules that work like non-binding ones). This is the law/non-law boundary seen from the practitioner's side.",
+   "conceptNotes": {
+    "soft-law": "canonical account of non-binding agreements",
+    "law-nonlaw": "twilight between law and politics"
+   }
   },
   {
    "id": "vclt-61-62",
@@ -587,14 +789,22 @@
    "year": 1969,
    "title": "Vienna Convention on the Law of Treaties, arts. 61–62",
    "cite": "",
-   "tldr": "Narrow exits from treaties: supervening impossibility (art. 61) and fundamental change of circumstances, *rebus sic stantibus* (art. 62).",
-   "draft": true,
+   "tldr": "Art. 61: permanent disappearance of an object indispensable to performance allows termination (temporary impossibility only suspension). Art. 62: an unforeseen fundamental change of circumstances allows exit only if those circumstances were an *essential basis* of consent and the change *radically transforms* remaining obligations. Never for boundary treaties, and never if self-caused.",
    "concepts": [
     "rebus-sic-stantibus"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Art. 61 (supervening impossibility).** A party may terminate or withdraw if performance becomes impossible through the permanent disappearance or destruction of an object indispensable to execution. If the impossibility is temporary, only suspension. Not available if the impossibility results from the invoking party's own breach.\n\n**Art. 62 (fundamental change of circumstances, *rebus sic stantibus*).** An unforeseen fundamental change may not be invoked *unless* (a) those circumstances were an essential basis of consent, *and* (b) the change radically transforms the extent of obligations still to be performed. Never for (a) treaties establishing a boundary, or (b) changes caused by the invoking party's breach. Where termination is allowed, suspension is too.",
+   "arguments": [
+    "Pacta sunt servanda is the default; exits are narrow and double-conditioned.",
+    "Boundaries are deliberately insulated from change (stability; cf. [[burkina-mali]]).",
+    "Self-induced impossibility or change is excluded (no profiting from one's own wrong)."
+   ],
+   "source": "",
+   "short": "VCLT 61–62",
+   "context": "The codified, narrow version of a doctrine states have invoked expansively ([[lissitzyn-load-line]]). Later applied and rejected in [[gabcikovo]] (Topic 9).",
+   "conceptNotes": {
+    "rebus-sic-stantibus": "codified test"
+   }
   },
   {
    "id": "techt-v-hughes",
@@ -604,15 +814,27 @@
    "year": 1920,
    "title": "Techt v. Hughes",
    "cite": "229 N.Y. 222 (excerpts)",
-   "tldr": "Did WWI end a US–Prussia treaty that let aliens inherit land? Cardozo: provisions compatible with war survive it, so the inheritance right stood.",
-   "draft": true,
+   "tldr": "An American woman who had become an Austrian national by marriage could still inherit New York land during WWI. Cardozo: war does not end treaties wholesale. Provisions compatible with war survive until the political branches say otherwise, so the 1848 US–Austria treaty protecting inheritance still applied.",
    "concepts": [
     "rebus-sic-stantibus",
-    "reception"
+    "reception",
+    "nationality"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** Sara Techt, a US-born woman, married an Austro-Hungarian citizen in 1911 and so lost US nationality under the then-law ('Any American woman who marries a foreigner shall take the nationality of her husband'). Her father died intestate in December 1917, twenty days after the US declared war on Austria-Hungary. As an *alien enemy* she had no statutory right to inherit; the question was whether the 1848/1829 US–Austria treaty on inheritance still applied.\n\n**Cardozo's reasoning.**\n- The effect of war on treaties is 'one of the unsettled problems of the law'. Older writers said treaties end automatically; modern ones reject that. International law handles it *pragmatically*: 'It establishes standards, but it does not fetter itself with rules.' Alliances fall; boundary and cession treaties survive.\n- The underlying standard: provisions *compatible* with hostilities survive unless expressly terminated; incompatible ones fall.\n- A treaty is both a compact between states and a source of private rights. Courts don't ask what states *may* do after war, but what they *have* done. Until the President and Senate denounce, Congress overrides, or a peace treaty decides, courts play 'a humbler and more cautious part', testing provision by provision.\n- Nothing in letting a peaceful resident alien inherit threatens the war effort ('A public policy not outraged by purchase will not be outraged by inheritance'). She takes the estate.\n- Closing: the field offers 'wise cautions for the statesmen' but 'few precepts for the judge'. The court chooses what best fits legal tradition, statutory policy, fair dealing and national honour.",
+   "arguments": [
+    "War suspends only treaty provisions incompatible with it: a standard, not a rule.",
+    "Courts defer to the political branches but fill the gap with a presumption of continuity.",
+    "Treaties create private rights enforceable in domestic courts (reception).",
+    "International law here is indeterminate; the judge chooses using policy and fairness."
+   ],
+   "source": "",
+   "short": "Techt v. Hughes",
+   "context": "A domestic court managing changed circumstances on a small human scale, and a striking gender subtext (a woman's nationality following her husband's). Contrast the executive's sweeping self-help in [[lissitzyn-load-line]]. It also links to reception in national courts (Topic 13, [[paquete-habana]]).",
+   "conceptNotes": {
+    "rebus-sic-stantibus": "war and treaty survival",
+    "reception": "treaty rights in a state court",
+    "nationality": "marital nationality rule"
+   }
   },
   {
    "id": "lissitzyn-load-line",
@@ -622,14 +844,25 @@
    "year": 1967,
    "title": "The International Load Line Convention Case",
    "cite": "61 AJIL 908 (excerpts)",
-   "tldr": "On the 1941 US claim that changed circumstances (wartime) let it suspend the 1930 Load Line Convention.",
-   "draft": true,
+   "tldr": "In 1941 the still-neutral US suspended the 1930 Load Line Convention 'for the duration of the emergency', claiming *rebus sic stantibus* as an 'unquestioned right' since peacetime shipping had vanished. Briggs attacked it: unilateral, unsupported by the parties' intent, and really a 'vague and slippery doctrine of state necessity'.",
    "concepts": [
-    "rebus-sic-stantibus"
+    "rebus-sic-stantibus",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Excerpts from Lissitzyn (1967) and Briggs (1942).\n\n**The US action.** In August 1941, before entering the war, President Roosevelt proclaimed the multilateral Load Line Convention (safety limits on loading ships) suspended in US ports and waters, because wartime conditions had 'almost wholly destroyed' the conditions it assumed and partial enforcement would hurt 'the victims of aggression' the US wanted to aid. Acting Attorney General Biddle's opinion: the convention was a *peacetime* agreement premised on normal commercial competition; now ships are targets and shipping scarce; under the 'well-established principle' of rebus sic stantibus the US may suspend it. Notifying the other parties is merely 'procedure'. Eight Latin American parties consented; no one protested; the proclamation was revoked in 1946.\n\n**Briggs's critique.**\n- Rebus sic stantibus has a dubious status. Where invoked, states grounded it in the *parties' original intention*, and nothing shows the parties meant war to release them from minimum safety rules.\n- Practice (Chesney Hill) says a state has *no* right to terminate unilaterally: it needs the other parties' agreement or a competent international authority.\n- Calling consent 'procedure' discards an essential element, so this is really state necessity. The AG's citations (Oppenheim, McNair) don't support him.\n- Kunz's jibe: some always keep 'two international laws', one for themselves and friends, one against those they dislike.",
+   "arguments": [
+    "Changed circumstances were invoked unilaterally by a powerful state for policy ends (aid to the Allies).",
+    "The legal question is whose intent and whose authority decides the change.",
+    "Critics see doctrine stretched into necessity: law bending to power.",
+    "Acquiescence by others (no protest) quietly validated the move."
+   ],
+   "source": "",
+   "short": "Load Line case",
+   "context": "The gap between the narrow VCLT test ([[vclt-61-62]]) and how states actually use the doctrine. Note US neutrality-era lawfare before Pearl Harbor. Compare the judicial modesty of [[techt-v-hughes]] and the later necessity debates in [[gabcikovo]].",
+   "conceptNotes": {
+    "rebus-sic-stantibus": "executive invocation and its critique",
+    "law-and-politics": "doctrine as cover for necessity"
+   }
   },
   {
    "id": "damrosch-states",
@@ -3181,6 +3414,108 @@
    "to": "air-services",
    "type": "extends",
    "note": "From bilateral countermeasures to economic warfare by sanctions."
+  },
+  {
+   "from": "damrosch-intro",
+   "to": "kennedy-chart",
+   "type": "contrasts",
+   "note": "A linear progress story (natural law → positivism → institutions) vs. a grid of shifting professional sensibilities driven by traumas."
+  },
+  {
+   "from": "berman-modernism",
+   "to": "damrosch-intro",
+   "type": "complicates",
+   "note": "The casebook's 'League era' becomes a Modernist cultural project with its own blind spots, not merely a failed step toward the UN."
+  },
+  {
+   "from": "berman-modernism",
+   "to": "redslob-nationalities",
+   "type": "illustrates",
+   "note": "Berman uses Redslob as a key example of legal Modernism: nationalism as a 'crater' law must both follow and discipline."
+  },
+  {
+   "from": "berman-modernism",
+   "to": "kennedy-chart",
+   "type": "illustrates",
+   "note": "Fills in the 1900–1950 row: minority rights, self-determination, the jurist as hero."
+  },
+  {
+   "from": "damrosch-intro",
+   "to": "austin-province",
+   "type": "illustrates",
+   "note": "The intro previews Austin's view of international law as 'positive morality', taken up in Topic 12."
+  },
+  {
+   "from": "schachter-custom",
+   "to": "icj-art38",
+   "type": "critiques",
+   "note": "The doctrine of sources promised a positive science of law; Schachter shows its inductive method is partly myth."
+  },
+  {
+   "from": "damrosch-custom-q",
+   "to": "ilc-custom-2018",
+   "type": "responds-to",
+   "note": "The ILC conclusions try to answer the casebook's open questions about practice, opinio juris, treaties and resolutions."
+  },
+  {
+   "from": "nuclear-weapons-ao",
+   "to": "ilc-custom-2018",
+   "type": "illustrates",
+   "note": "Conflicting practice (deterrence vs non-use) and contested opinio juris leave custom undecidable."
+  },
+  {
+   "from": "lotus",
+   "to": "paquete-habana",
+   "type": "contrasts",
+   "note": "Paquete finds a custom of *restraint* from practice and humanity; Lotus refuses to infer a restraining custom from abstention."
+  },
+  {
+   "from": "mcdougal-custom",
+   "to": "lotus",
+   "type": "contrasts",
+   "note": "Lotus: freedom unless prohibited by consent. McDougal: claims are accepted or rejected by reasonableness in an ongoing process."
+  },
+  {
+   "from": "schachter-general-principles",
+   "to": "icj-art38",
+   "type": "complicates",
+   "note": "Shows that Art. 38(1)(c)'s 'general principles' covers five different foundations, ultimately resting on consensus."
+  },
+  {
+   "from": "ilc-fragmentation-jus-cogens",
+   "to": "schachter-general-principles",
+   "type": "extends",
+   "note": "Both trace a natural-law current inside positive law; jus cogens turns it into strict hierarchy."
+  },
+  {
+   "from": "charlesworth-chinkin-jus-cogens",
+   "to": "knop-feminism-sovereignty",
+   "type": "builds-on",
+   "note": "Same feminist project across Topics 3–4: from the gender of peremptory norms to the gender of sovereignty."
+  },
+  {
+   "from": "techt-v-hughes",
+   "to": "lissitzyn-load-line",
+   "type": "contrasts",
+   "note": "A court cautiously preserving treaty rights in war vs. an executive declaring a treaty suspended for policy."
+  },
+  {
+   "from": "vclt-61-62",
+   "to": "gabcikovo",
+   "type": "illustrates",
+   "note": "The ICJ applied the narrow VCLT tests and rejected Hungary's changed-circumstances and impossibility claims."
+  },
+  {
+   "from": "nuclear-tests",
+   "to": "nuclear-weapons-ao",
+   "type": "illustrates",
+   "note": "Two nuclear cases where the Court avoids ruling on legality: mootness in 1974, non liquet in 1996."
+  },
+  {
+   "from": "charlesworth-chinkin-jus-cogens",
+   "to": "ilc-arsiwa",
+   "type": "critiques",
+   "note": "The imputability rules of state responsibility leave out states that tolerate endemic private violence against women."
   }
  ],
  "themes": [
@@ -3299,7 +3634,8 @@
     "kennedy-hr-problem",
     "kennedy-sg",
     "lang-regimes",
-    "kennedy-legal-expertise-war"
+    "kennedy-legal-expertise-war",
+    "damrosch-intro"
    ],
    "concepts": [
     "people-with-projects",
