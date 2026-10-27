@@ -3538,16 +3538,30 @@
    "year": 2006,
    "title": "Corporate Power and Global Order",
    "cite": "International Law and Its Others, 85",
-   "tldr": "Corporations are not just objects of regulation: they shape global order, and the rules of corporate law are themselves a form of global governance.",
-   "draft": true,
+   "tldr": "Corporations are not the 'private' other of the regulating state but legal institutions that *govern*. They pressure regulators, acquiesce in or interpret rules (setting the de facto rule), ignore rules they won't be made to follow, and write their own standards. So *corporate law* is a lever of global governance: home-state rules on board representation, fiduciary duty and takeovers shape wages, safety and the environment abroad.",
    "concepts": [
     "private-ordering",
     "political-economy",
-    "public-private"
+    "public-private",
+    "extraterritoriality"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Chapter in Orford (ed.), *International Law and its Others* (2006), excerpts.\n\n**Claim.** From the East India Companies to modern MNEs, international law has treated corporations as objects of regulation, influences on it, or forces that escape it, never as producers of regulation. Danielsen proposes seeing them as 'legal institutions performing public regulatory functions with public welfare effects not unlike nation-states'.\n\n**How corporations govern.** (1) *Pressure*: lobbying, studies, campaigns, threats to invest or disinvest; the public body can become the 'agent of' corporate power. (2) *Acquiescence*: accepting a contested rule legitimates it and emboldens the regulator. (3) *Interpretation*: where no authority settles applicability, corporate behaviour 'defines de facto the margins and meanings of legal rules'. (4) *Non-compliance* when enforcement is unlikely; compliance is 'overwhelmingly voluntarily controlled'. (5) *Own rules*: contracts, arbitration, standards on wages and safety, voluntary internationalisation (ISO 9000).\n\n**Corporate governance as global governance.** Corporate law works like other 'constitutional' regimes (EU law, trade).\n- *Board representation*: German co-determination (Roe) may shape wage and safety decisions wherever German firms operate. It may also protect home workers at foreign workers' expense.\n- *Minority partners*: a local 40% partner in a subsidiary has no voice or standing at the parent, where the decisions are made. Home or host rules could change that.\n- *Fiduciary duty*: hypothetical World Corp (incorporated in Zutopia) builds a plant in Bandu, which has no wastewater rules; Zutopia's environmental law doesn't reach abroad. Under the business judgment rule directors face no personal liability for dumping toxic wastewater, so the corporate decision becomes Bandu's de facto rule. Strict or negligence liability at home would change the calculus.\n- *Hostile takeovers*: neo-liberal 'best practice' bans defences, but building national firms may need them (capturing gains from trade). The trade-offs are real, but these are policy choices, not neutral necessities.\n\n**Why so little resistance?** The neo-liberal picture of one vast, nearly perfect global market. In fact it is multiple, overlapping regimes with more market failures, and corporations regulate to entrench advantage like any regulator.\n\n**Lessons.** Corporations treat regulatory complexity as opportunity (arbitrage); scholars should too. Map corporate decisions 'with the same attention … that international lawyers … have applied to state activity'. Changing fiduciary rules in a few home jurisdictions might do more than lobbying for standards in every developing country.",
+   "arguments": [
+    "Corporations govern: through pressure, acquiescence, interpretation, non-compliance and private rule-making.",
+    "Private/public is the wrong frame; corporations perform public regulatory functions.",
+    "Home-state corporate law (boards, fiduciary duties, takeovers) has global welfare effects.",
+    "The global economy is fragmented, not a perfect market; corporations entrench advantage.",
+    "Corporate governance rules are a neglected site for progressive intervention."
+   ],
+   "source": "",
+   "short": "Danielsen — Corporate power",
+   "context": "Extends [[cohen-property-sovereignty]] (private power as sovereignty) and challenges [[roepke-1955]]'s depoliticised market. The legal personality question for IOs ([[corbett-league]]) is not asked of corporations. Extraterritoriality and the reach of home law: [[american-banana]], [[restatement-402-404]], [[bank-nova-scotia]]. Private standard-setters as administrators: [[kingsbury-gal]]. Developed further in [[danielsen-local-rules]] and [[iglp-gvc]].",
+   "conceptNotes": {
+    "private-ordering": "corporations as regulators",
+    "public-private": "dissolving the public/private divide",
+    "political-economy": "corporate governance and development",
+    "extraterritoriality": "home-state law shaping conduct abroad"
+   }
   },
   {
    "id": "danielsen-local-rules",
@@ -3559,11 +3573,32 @@
    "cite": "1 Transnational Legal Theory 49 (excerpts)",
    "concepts": [
     "private-ordering",
-    "the-local"
+    "the-local",
+    "extraterritoriality",
+    "jurisdiction",
+    "political-economy",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Transnational Legal Theory (2010), Part 1 (pp. 49–68).\n\n**Local rules, global effects.** The 2008 crisis showed how US state and federal rules on mortgage lending, credit, derivatives and bankruptcy shaped the world. California emissions rules move supply chains and R&D; Chinese wage and labour standards set wages elsewhere; Chinese coal plants deposit mercury in the US West. 'Our increasingly global economy is governed principally by local rules created by local institutions designed to serve primarily … local policy interests.' No invisible hand turns this into global welfare.\n\n**More global rules?** Not obviously. Universal rules reflect 'a negotiated balance of sovereign interests', especially of the powerful (Posner, Anghie, Chang; BIT preambles vs coercive reality). No global institution can do the welfare-state work of trading off and legitimating policy, and none is coming. Coordination among states frames talks around sovereign rights.\n\n**The proposal.** A 'global economic policy perspective': an orienting posture like corporate counsel serving 'the corporation as a whole' or a judge's 'best interests of the child'. Not objectivity, but a basis for contestation.\n\n**Coase's four uses.** (1) The economy is structured by myriad *background* local rules, not just international or extraterritorial ones. (2) Look at effects regardless of jurisdiction or intent: rules 'travel'. (3) Without transaction costs affected foreign constituencies would bargain over rules that affect them, so recognise them. (4) With transaction costs they can't, so *power asymmetries* matter.\n\n**Limits of current frameworks.** *Public international law* (Restatement §§402–403) asks about jurisdictional basis and reasonableness between sovereigns. It misses de facto effects and needs express intent for responsibility. *Trade law* (Jackson's 'liberal trade') polices 'protectionism' and treats reduced local 'distortions' as welfare-enhancing. It leaves background rules as 'normal' and uses 'achievable inter-sovereign bargains as a proxy for global welfare'. Sometimes stricter *local* rules (e.g. G-20 bank regulation) beat a negotiated global rule.\n\n**Power.** Sovereignty has an emancipatory history (decolonisation, citizenship), and national politics was 'better politics than anything that came before'. But formal sovereign equality (Montevideo art. 4) hides that US, Chinese or Japanese assertions matter far more than those of Cambodia or Uruguay. Anti-dumping remedies are formally open to all, but only the big use them well. The WTO 'multilateralises bilateral bargains' in favour of the large. Result: entrenching the divide between haves and have-nots. A new 'global vernacular' delinked from sovereignty is needed.",
+   "arguments": [
+    "Local rules, not international ones, mainly govern the global economy.",
+    "Jurisdiction doctrine and trade law ask sovereignty questions, not global-welfare questions.",
+    "Inter-sovereign bargains are a poor proxy for global welfare.",
+    "Formal sovereign equality masks real asymmetries of regulatory power.",
+    "Coase as a critical tool to centre power and global welfare."
+   ],
+   "source": "",
+   "short": "Danielsen — Local rules",
+   "tldr": "The global economy is governed mainly by *local* rules: US mortgage and derivatives rules (2008), California emissions standards, Chinese wages and coal plants. International law asks only whether extraterritorial jurisdiction is lawful and 'reasonable'; trade law asks only whether a rule is 'protectionist'. Both use sovereign bargains as a proxy for global welfare and assume formal equality. A Coasean 'global economic policy perspective' would assess local rules by their global effects and expose power asymmetries.",
+   "context": "Critiques the jurisdiction framework of Topic 7 ([[restatement-402-404]], [[damrosch-jurisdiction]], [[berman-globalization-jurisdiction]]) and the trade frame of [[bello-wto]]. Formal equality vs real power echoes [[montevideo]], [[kennedy-sg]] and [[miller-parity]]. Background rules recall [[kennedy-hr-problem]] and [[cohen-property-sovereignty]]. Builds on [[danielsen-corporate]]; becomes the GVC agenda in [[iglp-gvc]].",
+   "conceptNotes": {
+    "private-ordering": "local rules structuring the global economy",
+    "the-local": "local rules with global effects",
+    "extraterritoriality": "de facto vs formal extraterritorial effects",
+    "jurisdiction": "reasonableness as inter-sovereign test",
+    "political-economy": "Coase, power and global welfare",
+    "sovereignty": "formal vs substantive equality"
+   }
   },
   {
    "id": "satariano-tech",
@@ -3574,11 +3609,26 @@
    "title": "The World's Tech Ambassador to the Tech Industry",
    "cite": "The New York Times, Sept. 3, 2019",
    "concepts": [
-    "private-ordering"
+    "private-ordering",
+    "sovereignty",
+    "recognition"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "New York Times (3 Sept. 2019).\n- Klynge (veteran of Afghanistan and Kosovo) calls this his toughest post. 'These companies have moved from being companies with commercial interests to actually becoming de facto foreign policy actors.' Denmark (5.8m people) is smaller than the Bay Area and under 0.3% of Facebook's users.\n- Concerns: disinformation, privacy, cybersecurity, low taxes outside the US. Aim (FM Kofod): 'democratic governments set the boundaries for the tech industry and not the other way around'.\n- Small-state diplomacy: Maldives' underwater cabinet; Sweden's Second Life embassy.\n- Humbling: nine months to get a senior meeting, which ended in a T-shirt-and-cap goody bag. Microsoft's Brad Smith calls him well informed; Facebook says dialogue is now constructive.\n- Leverage comes through the EU (privacy, competition, content; Vestager's fines).\n- Criticised for putting corporations on a par with sovereigns; France, Australia, Britain and Germany have digital posts, mostly for trade. 'We aren't in the 1900s anymore.'\n- Method: treat companies 'as if they were countries'; build networks with lower-level staff, ex-employees and civil society; send 'intelligence cables' home. A success: getting a terrorist murder video taken down.",
+   "arguments": [
+    "Tech platforms act as foreign-policy actors with state-like power.",
+    "Diplomacy adapted to corporations: an embassy to Silicon Valley.",
+    "Small states lack leverage except through blocs (the EU).",
+    "Recognition and access: firms decide whom to receive."
+   ],
+   "source": "",
+   "short": "Satariano — Tech ambassador",
+   "tldr": "In 2017 Denmark appointed the world's first ambassador to the tech industry (Casper Klynge, based in Palo Alto), treating Facebook, Google and Apple as 'de facto foreign policy actors' and superpowers. Two years on: no meeting with Zuckerberg, Pichai or Cook. One executive ranted about EU regulation and handed him a goody bag. Small states struggle to be heard by firms bigger than they are.",
+   "context": "A concrete case of [[danielsen-corporate]] (corporations as governors) and [[kennedy-sg]] (power in networks, not sovereigns). Inverts recognition and legation ([[corbett-league]], [[montevideo]]): a state seeking audience with a company. Asymmetry among states: [[danielsen-local-rules]]. Pairs with [[nyt-musk]].",
+   "conceptNotes": {
+    "private-ordering": "platforms as de facto foreign policy actors",
+    "sovereignty": "states vs corporate superpowers",
+    "recognition": "diplomatic forms extended to firms"
+   }
   },
   {
    "id": "iglp-gvc",
@@ -3588,15 +3638,30 @@
    "year": 2016,
    "title": "The Role of Law in Global Value Chains: A Research Manifesto",
    "cite": "4 London Rev. Int'l L. 57",
-   "tldr": "Law structures global value chains: it shapes who captures value and power along the chain. A research agenda for seeing law where economists see markets.",
-   "draft": true,
+   "tldr": "Global value chains are usually explained by economics, with law as an external factor. The manifesto argues law (hard, soft and private ordering) is 'at the heart of the GVC phenomenon': it generates, captures and distributes value and coordinates production. Three research themes: legal geography, law-value-power, and law and chain 'governance'. Law shapes outcomes both when it acts and when it is absent.",
    "concepts": [
     "private-ordering",
-    "political-economy"
+    "political-economy",
+    "public-private",
+    "the-local"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "London Review of International Law (2016), IGLP Law and Global Production Working Group (Baars, Bair, Danielsen, Santos, White and others), excerpts.\n\n**Premise.** GVCs arise not just from shareholder-value ideology, trade liberalisation or logistics, but as firms 'engage dynamically with multiple, overlapping and often conflicting' legal regimes, soft law and private ordering (together: 'law'). Almost every field is relevant: company, contract, employment, tax, trade, investment, human rights, environment, CSR codes, certification. A contract term may matter as much as a public regulation. Rather than asking how firms use law to 'upgrade', ask how upgrading possibilities are 'already structured in and through law'.\n\n**1. Legal geography.** The MNC's 'make vs buy' choice already means corporate law vs contract law. Making abroad means comparing host laws and enforcement, trade, investment and IP rules. Buying means commercial law, standards and arbitration. Networks by contract rather than ownership may be about avoiding tort liability as much as productivity. Siting depends on enforcement likelihood and on unions, NGOs and lawyers. Extractives projects: Campling and Havice on tuna; Ovadia on local-content rules and the 'petro-developmental state'; White on Ghana's petroleum revenue laws and whether rents are distributed locally, nationally or supranationally.\n\n**2. Law, value and power.** Open the 'black box' of value-added. Law creates barriers to entry and rents; entitlements shape bargaining power. Tax structuring shows that the location of value is 'as much a function of legal rules as production processes'. TRIPS let pharma keep global prices higher than under divergent national patent regimes (India, Brazil, Egypt). Labour law: export processing zones limit workers' activities and bar unions, keeping their 'value added' low; the rights to organise and strike affect both value and its capture; buyers' pricing affects labour standards upstream. Finance and financialisation. Family law, gender norms, welfare regimes and ethnic hierarchies also structure value. Non-regulation, non-enforcement, or a duty not to regulate (BITs vs local content) shapes outcomes: 'Law shapes power and value both when it seems to be acting and when it appears to be absent.'\n\n**3. Governance** (coordination of chains) is the third theme. Bargaining power is 'as much a function of legal and policy choices as of \"market forces\"', so different choices could yield more equitable distributions.",
+   "arguments": [
+    "Law is constitutive of GVCs, not an exogenous factor.",
+    "Legal geography: firms arbitrage regimes and enforcement in organising production.",
+    "Value and its distribution are legal artefacts (tax, IP, labour, finance).",
+    "Absence of law and non-enforcement also structure chains.",
+    "Different legal choices could redistribute power and rents."
+   ],
+   "source": "",
+   "short": "IGLP — Law & GVCs",
+   "context": "The research programme growing out of [[danielsen-corporate]] and [[danielsen-local-rules]]. Its legal-realist core comes from [[cohen-property-sovereignty]] (entitlements as power). It contrasts with [[roepke-1955]] and [[bello-wto]] on markets as natural. Private standards connect to [[kingsbury-gal]]; extraction and development to [[bedjaoui-nieo]] and [[chimni-2017]].",
+   "conceptNotes": {
+    "private-ordering": "contracts and standards organising production",
+    "political-economy": "law, value and power in GVCs",
+    "public-private": "hard, soft and private law together",
+    "the-local": "legal geography of chains"
+   }
   },
   {
    "id": "nyt-musk",
@@ -3607,11 +3672,28 @@
    "title": "Elon Musk's Unmatched Power in the Stars",
    "cite": "July 28, 2023, pp. 1–22",
    "concepts": [
-    "private-ordering"
+    "private-ordering",
+    "sovereignty",
+    "jus-in-bello",
+    "territoriality"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "New York Times (28 July 2023).\n- **Scale**: more than 4,500 Starlink satellites, over 50% of active satellites, with plans for 42,000. Reusable rockets give SpaceX an 'express train' to orbit. Available in 50+ countries; 1.5m+ subscribers. Astronomers worry about the night sky and collisions. The company knows each terminal's location.\n- **Ukraine**: after Russia's cyberattack on Viasat (Feb. 2022), Fedorov tweeted at Musk and service came within hours. More than 42,000 terminals; target-to-strike time cut from about 20 minutes to about 1. 'Starlink is indeed the blood of our entire communication infrastructure.' But Musk geofenced service (troops advancing into Kherson lost it), refused access near Crimea for a maritime drone attack, floated a peace plan with Russian annexation, and asked the Pentagon to pay (~$400m/year). About 1,300 terminals were cut off over unpaid fees. The Pentagon later bought terminals over which it controls geofencing. 'It has … been a long time since we've seen a company and an individual … go pretty openly against U.S. foreign policy in the middle of a war.'\n- **Hedging**: Zaluzhnyi asked Milley for an assessment of Musk. At least nine countries raised concerns privately. Taiwan avoids Starlink because of Musk's China business (Tesla Shanghai) and signed with OneWeb. The EU funds a €2.4bn 'sovereign' constellation ('The E.U. cannot afford to be reliant on others'). SpaceX offers Starshield for governments.\n- **Sovereignty clashes**: Iran says activating Starlink for protesters violated its sovereignty. China complains at the UN that SpaceX crowds orbit and sought assurance it won't be switched on there. Turkey refused it after the earthquake.\n- 'This is not just one company, but one person … You are completely beholden to his whims.'",
+   "arguments": [
+    "Critical infrastructure in private, personal hands with little oversight.",
+    "A private actor makes battlefield and foreign-policy decisions.",
+    "States hedge by building 'sovereign' alternatives.",
+    "Sovereignty claims (Iran, China, Turkey) against borderless private service."
+   ],
+   "source": "",
+   "short": "NYT — Musk & Starlink",
+   "tldr": "Elon Musk controls more than half of all active satellites through Starlink, which has become 'the blood' of Ukraine's military communications. With little regulation, one person can switch service on or off (geofencing near Crimea, refusing a drone strike, floating a pro-Russian 'peace plan'). Governments from Taiwan to the EU are hedging; Iran calls it a violation of sovereignty. Private infrastructure as geopolitical power.",
+   "context": "The extreme case of [[danielsen-corporate]]: a corporation (indeed a person) governing. With [[satariano-tech]]. War no longer a sovereign monopoly, as [[kennedy-sg]] argues; leads to Topic 20 ([[kristian-ukraine]], [[haines-weapons]]). Territorial sovereignty vs borderless technology: [[sassen-territory]], [[berman-globalization-jurisdiction]]. Ukraine context: [[nyt-putin-ukraine]].",
+   "conceptNotes": {
+    "private-ordering": "private control of critical infrastructure",
+    "sovereignty": "'sovereign' constellations; Iranian and Chinese objections",
+    "jus-in-bello": "private infrastructure on the battlefield",
+    "territoriality": "geofencing as private territorial control"
+   }
   },
   {
    "id": "ilc-fragmentation-phenomenon",
@@ -4351,12 +4433,6 @@
    "to": "american-banana",
    "type": "contrasts",
    "note": "From Holmes' strict territoriality to aggressive extraterritorial enforcement."
-  },
-  {
-   "from": "danielsen-corporate",
-   "to": "cohen-property-sovereignty",
-   "type": "builds-on",
-   "note": "Private power as public governance, updated for global corporations."
   },
   {
    "from": "maine-kathiawar",
@@ -5365,6 +5441,78 @@
    "to": "jessup-functional",
    "type": "contrasts",
    "note": "Personality derived from member states' creation vs functional needs of the organisation."
+  },
+  {
+   "from": "danielsen-corporate",
+   "to": "cohen-property-sovereignty",
+   "type": "builds-on",
+   "note": "Private legal power as governance: corporations as regulators."
+  },
+  {
+   "from": "danielsen-corporate",
+   "to": "roepke-1955",
+   "type": "critiques",
+   "note": "No depoliticised market: corporations regulate and entrench advantage."
+  },
+  {
+   "from": "danielsen-corporate",
+   "to": "kingsbury-gal",
+   "type": "complicates",
+   "note": "Private governance beyond administrative accountability; corporate law as the lever."
+  },
+  {
+   "from": "danielsen-local-rules",
+   "to": "danielsen-corporate",
+   "type": "extends",
+   "note": "From corporate decisions to local state rules as the main governors of the global economy."
+  },
+  {
+   "from": "danielsen-local-rules",
+   "to": "restatement-402-404",
+   "type": "critiques",
+   "note": "'Reasonableness' between sovereigns is no measure of global welfare."
+  },
+  {
+   "from": "danielsen-local-rules",
+   "to": "bello-wto",
+   "type": "critiques",
+   "note": "Inter-sovereign bargains as a poor proxy for global welfare; trade law favours the large."
+  },
+  {
+   "from": "danielsen-local-rules",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "Formal juridical equality of states obscures real asymmetries of regulatory power."
+  },
+  {
+   "from": "iglp-gvc",
+   "to": "danielsen-local-rules",
+   "type": "extends",
+   "note": "A research agenda: law constitutive of value and power in global production."
+  },
+  {
+   "from": "satariano-tech",
+   "to": "danielsen-corporate",
+   "type": "illustrates",
+   "note": "A state appointing an ambassador to corporations treated as de facto powers."
+  },
+  {
+   "from": "nyt-musk",
+   "to": "danielsen-corporate",
+   "type": "illustrates",
+   "note": "One person's private infrastructure making battlefield and foreign-policy choices."
+  },
+  {
+   "from": "nyt-musk",
+   "to": "kennedy-sg",
+   "type": "illustrates",
+   "note": "War as a dispersed, transnational event beyond sovereign control."
+  },
+  {
+   "from": "nyt-musk",
+   "to": "satariano-tech",
+   "type": "extends",
+   "note": "From tech platforms as diplomatic counterparts to a tech owner as geopolitical actor."
   }
  ],
  "themes": [
@@ -5460,7 +5608,8 @@
     "chachko-heath",
     "salimoff",
     "nesiah-slavery-afterlives",
-    "falk-environment"
+    "falk-environment",
+    "danielsen-local-rules"
    ],
    "concepts": [
     "political-economy",
@@ -5553,7 +5702,10 @@
     "nyt-cyber-iran",
     "corfu-1949-merits",
     "slaughter-around-un",
-    "koh-trump"
+    "koh-trump",
+    "nyt-musk",
+    "satariano-tech",
+    "danielsen-corporate"
    ],
    "concepts": [
     "political-questions",
