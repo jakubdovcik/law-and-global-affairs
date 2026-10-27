@@ -1467,15 +1467,30 @@
    "year": 2002,
    "title": "Between Impunity and Show Trials",
    "cite": "6 Max Planck Y.B. U.N. Law 1 (excerpts)",
-   "tldr": "International criminal trials are caught between impunity and show trials. The courtroom becomes a stage for competing histories (e.g. Milošević), so ICL cannot escape the politics of truth.",
-   "draft": true,
+   "tldr": "International criminal trials can't justify themselves by retribution (no sentence fits the crime), deterrence (atrocities come from projects to 'do good', not calculation), or community-building (there is no international moral community). If their point is *truth*, individual guilt can't be judged without judging contested *context*, so the accused (Milošević, Barbie) attacks the context and the trial becomes a political history lesson: caught between impunity and show trial.",
    "concepts": [
     "individual-responsibility",
-    "law-and-politics"
+    "law-and-politics",
+    "colonialism",
+    "human-rights"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Written as Milošević's trial opened in 2002.\n\n**I. Why punish?** Milošević's fate is no 'adequate' response to 200,000 deaths, so the significance must lie elsewhere.\n- *Truth/didactics* (Nuremberg, Eichmann, the French trials of Barbie, Touvier, Papon): healing, recognition, education. But the evidence is weak. German approval of Nuremberg fell from 78% to 38% in four years; the US zone trials were seen as victors' justice, with mass amnesties in 1951; South Africans doubt the TRC.\n- *Arendt*: a trial should render justice 'and nothing else'; Eichmann became a 'show trial'.\n- *Deterrence*: if crimes against humanity are 'radical evil', there's no calculation. And 20th-century atrocities came from *projects to do good* (communism, even Nazism 'au nom d'un bien'). Either the 'banality of evil' (no mens rea) or exceptional coercion; law can't teach heroism.\n- *Transitional justice*: domestically, a few symbolic 'show trials' plus amnesties, commissions and archives can affirm a new moral community. Internationally, foreign judges affirm only a 'self-congratulatory international community', so every failure to prosecute is a scandal.\n\n**II. Truth and context.** Legal truth ≠ historical truth. Individualisation isn't neutral: it can be an alibi for society (industrialists not tried; German murder law reaching only the most brutal). Morgenthau: a legal 'dispute' is a marginal slice of a political 'tension'. Yet individualisation is also *impossible*: defences, chains of command and 'normality' all require context. Lyotard's *differend*: judging in one party's idiom already decides the dispute. Coventry is a crime but the carpet bombing of Germany is not; Milošević is on trial, not NATO.\n\n**IV. Politics of truth.** To avoid a show trial the accused must speak, but then the trial becomes propaganda (Göring 'alone' against four nations). Vergès's *trial of rupture* (Barbie, Lyon 1987): Algerian and Congolese co-counsel; the Holocaust set beside French colonial violence (Sétif, May 1945; torture in Algeria) to make it 'relative'. The court's broad definition of crimes against humanity, including the resistance, diluted the specificity of the Shoah.",
+   "arguments": [
+    "Retribution, deterrence and community-building all fail at the international level.",
+    "Truth-telling pulls trials into contested historical context.",
+    "Individualising guilt both obscures structures and depends on them.",
+    "The *differend*: choosing the forum and charges already takes a political side.",
+    "ICL oscillates between impunity and show trial; neither pole is escapable."
+   ],
+   "source": "",
+   "short": "Koskenniemi — show trials",
+   "context": "The central critical text for Topic 6, and a model of Koskenniemi's method: law is caught between apology and utopia, politics and principle. Compare the sovereigntist attack in [[bolton-icc-2018]], the feminist critique of criminalisation in [[engle-grip]], and the Gaza symposium ([[miller-times-violence]], [[krever-scurrying]], [[drumbl-smouldering]]). Looks ahead to [[kennedy-legal-expertise-war]].",
+   "conceptNotes": {
+    "individual-responsibility": "limits of individualising guilt",
+    "law-and-politics": "show trials and the differend",
+    "colonialism": "Vergès's colonial tu quoque",
+    "human-rights": "transitional justice and truth commissions"
+   }
   },
   {
    "id": "bolton-icc-2018",
@@ -1485,15 +1500,29 @@
    "year": 2018,
    "title": "Protecting American Constitutionalism and Sovereignty from International Threats",
    "cite": "Federalist Society remarks, Sept. 10, 2018",
-   "tldr": "The US national security adviser attacks the ICC as an illegitimate threat to US sovereignty and threatens sanctions on its officials.",
-   "draft": true,
+   "tldr": "National Security Adviser Bolton declared the ICC 'illegitimate' and 'already dead to us'. It claims jurisdiction without consent, fuses prosecutor and judge, has vague crimes (aggression, perhaps ecocide), is ineffective (8 convictions for $1.5bn), and is superfluous given US courts. He threatened sanctions, entry bans and prosecution of ICC officials and anyone helping it.",
    "concepts": [
     "individual-responsibility",
-    "sovereignty"
+    "sovereignty",
+    "law-and-politics",
+    "jus-ad-bellum"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Federalist Society speech, 10 Sept 2018, after the ICC Prosecutor sought to investigate US conduct in Afghanistan.\n\n**Background claims:** the 'global governance' agenda's real aim is to constrain the US; Bush 'un-signed' Rome (2002); the American Servicemembers' Protection Act ('Hague Invasion Act') authorises 'all means necessary' to free personnel; about 100 bilateral non-surrender agreements were negotiated.\n\n**Five objections:**\n1. **Sovereignty / no consent**: jurisdiction over nationals of non-parties; 'consent of the governed' is a prerequisite of legitimacy; it fuses executive and judicial powers, contrary to separation of powers; it is unaccountable (would you trust Venezuela, the DRC, the Palestinian Authority?); corruption allegations. 'An elegant office building in a faraway country' judging Americans.\n2. **Vague crimes**: aggression could reach the bin Laden raid, Syria strikes, Israel's self-defence; 'ecocide' is next.\n3. **Ineffective**: $1.5bn, 8 convictions; dictators are deterred only by the 'righteous might' of the US and allies.\n4. **Superfluous**: US justice is more 'vigorous' and fair; complementarity is 'farcical'.\n5. **Rejected by most of the world**: 70+ non-parties; African withdrawals calling it neo-colonial; it threatens Israel; the PLO's Washington office is closed.\n\n**Measures:** more non-surrender agreements; bans on and sanctions and prosecutions of ICC judges and prosecutors; penalties for cooperating states and companies; Security Council steps. 'We will let the ICC die on its own.'",
+   "arguments": [
+    "Legitimacy requires state consent and domestic constitutional checks.",
+    "International criminal law is politics in disguise, aimed at the US and its allies.",
+    "Deterrence comes from power, not courts.",
+    "Even TWAIL-style critiques (Africa, neo-colonialism) are enlisted for sovereigntist ends."
+   ],
+   "source": "",
+   "short": "Bolton — ICC",
+   "context": "A strong-state counterpoint to [[koskenniemi-impunity]]: both doubt ICL's deterrence and its neutrality, from opposite politics. It echoes the US exit in [[nicaragua-1984]] and connects to Topic 13 ([[koh-trump]], [[goldsmith-mercer]], [[hakimi-cogan]]). Ironically it anticipates later US sanctions on ICC officials.",
+   "conceptNotes": {
+    "individual-responsibility": "ICC jurisdiction over non-party nationals",
+    "sovereignty": "consent and constitutional sovereignty",
+    "law-and-politics": "lawfare accusations",
+    "jus-ad-bellum": "crime of aggression"
+   }
   },
   {
    "id": "miller-times-violence",
@@ -1504,11 +1533,28 @@
    "title": "Times of Violence, Times of Justice",
    "cite": "12 London Rev. Int'l L. 249–253",
    "concepts": [
-    "individual-responsibility"
+    "individual-responsibility",
+    "colonialism",
+    "law-and-politics",
+    "jus-in-bello"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Part of a 2024 *London Review of International Law* symposium on international law and Gaza.\n\n- **Sudden violence**: 7 October was an atrocious surprise, but reading it as 'sudden' decontextualised it, erasing 17 years of siege and the structure of Israeli control.\n- **Long violence**: battles over context began immediately. Israel, the US and Germany framed it in the history of antisemitism ('deadliest day … since the Holocaust'); Palestinians framed it in the *ongoing Nakba* since 1948, which places politics and law at the centre.\n- **Slow violence** (Nixon; Wolfe: settler colonialism is 'a process rather than an event'): attritional dispossession alongside spectacular violence.\n- **Three temporalities of law** (after Foucault):\n  - *Punishment, the discrete past*: hopes for ICC arrest warrants, but criminal law looks only at discrete acts within its temporal jurisdiction. South Africa's ICJ genocide case can tell the long story of settler colonialism and apartheid, but has limits too.\n  - *Discipline, the infinite present*: occupation is lawful only if temporary; Oslo let it become permanent under the guise of progress. Apartheid has no inherent end. Checkpoints and closures 'steal time'.\n  - *Security, the risky future*: the erasure of the future (killing of children, threats to pregnant women) and the construction of all Gazans as a threat.\n- **The past in the future**: Oslo's 'Year Zero' ratified the hierarchy of the moment. The 'day after' question obscures Palestinian futures; real change lies in 'material and symbolic redistribution of power and resources'.",
+   "arguments": [
+    "Temporal framing is a political act that law participates in.",
+    "Criminal, occupation and security law each have their own time and their own blind spots.",
+    "Peace processes that bracket the past entrench existing power.",
+    "Courts are salutary but insufficient; redistribution matters."
+   ],
+   "source": "",
+   "short": "Miller — times of violence",
+   "tldr": "Law governs *time*. Calling 7 October 'sudden' removed its context. Competing long histories (antisemitism and the Holocaust vs. the Nakba) frame it differently. 'Slow violence' and occupation create an endless present. ICL punishes a discrete past, occupation law assumes a temporary present, and security logic treats a whole population as a future risk. Justice lies in redistributing power and resources, not just in courts.",
+   "context": "Applies [[koskenniemi-impunity]]'s 'truth and context' problem to Gaza. Miller's earlier work on Oslo is [[miller-parity]] (Topic 16). See also [[burgis-kasthala-gaza]] (Topic 15 coda) and Topic 21 (jus in bello).",
+   "conceptNotes": {
+    "individual-responsibility": "limits of ICL's temporal frame",
+    "colonialism": "settler colonialism, Nakba",
+    "law-and-politics": "temporality as power",
+    "jus-in-bello": "occupation as temporary by law"
+   }
   },
   {
    "id": "krever-scurrying",
@@ -1519,11 +1565,28 @@
    "title": "Scurrying to the Hague",
    "cite": "12 London Rev. Int'l L. 231–232",
    "concepts": [
-    "individual-responsibility"
+    "individual-responsibility",
+    "twail",
+    "law-and-politics",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A short provocation in numbered sections.\n- Nizar Qabbani's poem on those who 'scurried' to normalisation after Oslo, leaving 'a sardine can called Gaza'.\n- Critical scholars long warned against embracing international law as inherently progressive; it can't grapple with the material structures and systemic logics producing atrocity. Framing Gaza as il/legality, and opposing law to domination, naturalises those structures and law's role in constituting them.\n- Brecht: the torrent is called violent, but not the riverbed that hems it in. 'But what of the riverbed?'\n- Many critical scholars now sign open letters, demand ICC warrants, and display a faith in the ICC 'entirely incongruous with its concrete record': indeterminacy critique gives way to 'trite formalism'.\n- The same thing happened over Iraq in 2003: legal opposition, later reflection on its costs, warnings unheeded.\n- Anti-imperialism once spoke of exploitation and revolutionary struggle against the system that produces such ills. Is South Africa's ANC really a new Third World vanguard? Solidarity is possible without 'the straitjacket of legalism'.\n- A Birzeit colleague: her students see little relevance in international law for their everyday lives. Perhaps the 'juridification of resistance' will haunt critical lawyers.",
+   "arguments": [
+    "Legal framing (legal/illegal) obscures structural violence.",
+    "Critical scholars abandon their own critique in moments of crisis.",
+    "Courts are not a substitute for political, anti-imperialist struggle.",
+    "Juridification of resistance has costs."
+   ],
+   "source": "",
+   "short": "Krever — scurrying",
+   "tldr": "Critical lawyers who rushed to the ICC and ICJ over Gaza are 'scurriers'. Framing horror as il/legality naturalises the structures (the 'riverbed', in Brecht's image) from which violence flows. Anti-imperialism once meant political struggle, not judicial appeals. Remember Iraq 2003.",
+   "context": "A TWAIL/Marxist warning against legalism, the radical counterpart to [[koskenniemi-impunity]]'s scepticism. Compare [[drumbl-smouldering]] (limits of the genocide label) and Topic 19 ([[chimni-2017]], [[rajagopal-below]]).",
+   "conceptNotes": {
+    "individual-responsibility": "faith in ICC challenged",
+    "twail": "anti-imperialism vs legalism",
+    "law-and-politics": "juridification of resistance",
+    "colonialism": "Palestine and imperialism"
+   }
   },
   {
    "id": "drumbl-smouldering",
@@ -1534,11 +1597,26 @@
    "title": "Smouldering Semantics",
    "cite": "12 London Rev. Int'l L. 253–254",
    "concepts": [
-    "individual-responsibility"
+    "individual-responsibility",
+    "law-nonlaw",
+    "human-rights"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "- **History**: Lemkin coined 'genocide' in the 1940s and chose international criminal law as its home. In *Axis Rule* (1944) it meant a coordinated plan to destroy the essential foundations of national groups: political and social institutions, culture, language, religion, economic existence, security, dignity, lives. State interests in negotiating the 1948 Convention narrowed it; the ICTY, ICTR and Rome Statute reproduced it, 'concretised, and then fossilised into custom'. The ICJ applies that definition in South Africa v. Israel.\n- **Two genocides**: public events use the word more broadly than the law. There is one legal definition and many social ones. If the ICJ finds no genocide, believers won't change their minds; they may call the Court wrong, stodgy or captured, or dismiss the legal definition. If it finds genocide, other constituencies will react the same way.\n- **Counterfactual**: had Lemkin let the concept develop nationally and socially, condemnation might be political, social and economic rather than juridical. Yet courts have become *primus inter pares* in condemnation.\n- **Law's reductionism**: remedies (incarceration; for the ICJ, satisfaction, restitution, compensation) and a single blameworthy party obscure the 'loneliness and abandonment' at the root of atrocity, and the acts and omissions of many states and of Hamas. Students demanding *divestment* rather than prosecution open a conversation about wider causes.",
+   "arguments": [
+    "Legal definitions are political products that later ossify.",
+    "Social and legal meanings of genocide diverge; courts can't close the gap.",
+    "Judicial condemnation individualises and narrows causation.",
+    "Non-legal remedies (divestment) may address structures better."
+   ],
+   "source": "",
+   "short": "Drumbl — genocide",
+   "tldr": "Lemkin's broad concept of genocide (destroying a group's institutions, culture, economy and lives) was narrowed by the states drafting the 1948 Convention, then 'fossilised' in later statutes. Popular use over Gaza is broader than the legal one. Whatever the ICJ decides, it won't settle the question, and law's single defendant and narrow remedies miss the many causes of atrocity.",
+   "context": "A sharp companion to [[koskenniemi-impunity]] (law's narrowing of context) and [[engle-grip]] (criminalisation's costs). Topic 15's coda [[burgis-kasthala-gaza]] picks up the 'discursive limits' of genocide.",
+   "conceptNotes": {
+    "individual-responsibility": "genocide as crime and its limits",
+    "law-nonlaw": "legal vs social definitions",
+    "human-rights": "genocide convention"
+   }
   },
   {
    "id": "engle-grip",
@@ -1548,15 +1626,31 @@
    "year": 2020,
    "title": "Introduction, The Grip of Sexual Violence in Conflict",
    "cite": "(excerpts)",
-   "tldr": "How sexual violence in conflict came to dominate feminist engagement with international law. A focus on criminalisation narrowed the wider agenda.",
-   "draft": true,
+   "tldr": "Since the Yugoslav wars, sexual violence in conflict has dominated feminist engagement with international law. A 'common sense' formed: rape is the worst war crime, committed by male monsters against innocent (female) victims, best answered by criminal prosecution. This displaced anti-militarist, sex-positive and Third World feminist concerns.",
    "concepts": [
     "feminist-critique",
-    "individual-responsibility"
+    "individual-responsibility",
+    "human-rights",
+    "dark-sides",
+    "jus-in-bello"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Introduction to *The Grip of Sexual Violence in Conflict* (2020).\n\n**Thesis.** Attention to 'sexual violence in conflict' began with reports of rape in the former Yugoslavia (early 1990s). Women's human-rights advocacy on violence against women, plus post-Cold War Security Council activism, made it central, and it has 'played too large a role' in both feminism and international law. It displaced:\n- the **anti-militarism** of the women's peace movement;\n- **sex-positive** feminist positions from the sex-work and pornography debates;\n- **Third World feminist** critiques of economic maldistribution, imperialism and cultural essentialism.\n\n**'Structural-bias feminism'** (largely global North: male sexual domination as the main structural barrier to emancipation) prevailed and, with human rights, humanitarian and criminal law, produced an institutional **common sense**:\n1. rape and sexual violence are the worst crimes in conflict;\n2. their harm lies largely in shame;\n3. they are committed by individual male monsters;\n4. against innocent victims, mainly women and girls;\n5. investigation, prosecution and punishment are the best response, ending sexual violence and promoting peace.\n\n**Effects.** It feeds a carceral turn in feminism and human rights and calls for force and criminal enforcement. It individualises and decontextualises (losing bystanders, beneficiaries and causes of war), and condemns conduct *in* war rather than war itself.\n\n**Illustration.** The UK's Preventing Sexual Violence Initiative (Hague, Jolie, Bangura): 'the slave trade of our generation'; the G8 Declaration; the 2014 Global Summit; a childlike animated video of wartime rape ending with criminal punishment as the answer.",
+   "arguments": [
+    "The issue's centrality was contingent, not obvious.",
+    "One feminism (structural-bias) won and suppressed productive disagreements.",
+    "Criminalisation individualises and narrows feminist and human-rights agendas.",
+    "The common sense relies on and reinforces negative images of sex, gender and ethnicity."
+   ],
+   "source": "",
+   "short": "Engle — sexual violence",
+   "context": "A 'dark sides' critique of a success story, in conversation with [[charlesworth-chinkin-jus-cogens]] (which wanted women's harms recognised) and [[koskenniemi-impunity]] (limits of trials). It anticipates [[kennedy-hr-problem]] (Topic 15) and [[cohn-sex-death]] (Topic 21).",
+   "conceptNotes": {
+    "feminist-critique": "governance feminism and its costs",
+    "individual-responsibility": "carceral turn",
+    "human-rights": "VAW and criminalisation",
+    "dark-sides": "costs of a successful campaign",
+    "jus-in-bello": "wartime rape as war crime"
+   }
   },
   {
    "id": "damrosch-jurisdiction",
@@ -3640,12 +3734,6 @@
    "note": "Sovereigntist rejection vs. structural critique of international criminal justice."
   },
   {
-   "from": "engle-grip",
-   "to": "charlesworth-chinkin-jus-cogens",
-   "type": "complicates",
-   "note": "Feminist success in criminalising sexual violence and its narrowing effects."
-  },
-  {
    "from": "chachko-heath",
    "to": "air-services",
    "type": "extends",
@@ -3872,6 +3960,54 @@
    "to": "nottebohm",
    "type": "illustrates",
    "note": "Nationality is set domestically but limited internationally when invoked against other states."
+  },
+  {
+   "from": "engle-grip",
+   "to": "charlesworth-chinkin-jus-cogens",
+   "type": "complicates",
+   "note": "Feminists won recognition of sexual violence as a grave international crime, but the criminal-law frame narrowed the wider feminist agenda."
+  },
+  {
+   "from": "krever-scurrying",
+   "to": "koskenniemi-impunity",
+   "type": "extends",
+   "note": "From scepticism about trials' truth-telling to a TWAIL/Marxist warning against juridifying resistance."
+  },
+  {
+   "from": "drumbl-smouldering",
+   "to": "koskenniemi-impunity",
+   "type": "builds-on",
+   "note": "Law's individualising, narrow frame can't capture the many causes and the broader meaning of atrocity."
+  },
+  {
+   "from": "miller-times-violence",
+   "to": "koskenniemi-impunity",
+   "type": "applies",
+   "note": "The fight over context (sudden vs long vs slow violence) applied to 7 October and Gaza."
+  },
+  {
+   "from": "miller-times-violence",
+   "to": "miller-parity",
+   "type": "builds-on",
+   "note": "Miller's earlier critique of Oslo's 'permanent transition' underpins the 'infinite present' of occupation."
+  },
+  {
+   "from": "drumbl-smouldering",
+   "to": "burgis-kasthala-gaza",
+   "type": "builds-on",
+   "note": "Both examine the gap between the legal and the discursive meaning of genocide in Gaza."
+  },
+  {
+   "from": "bolton-icc-2018",
+   "to": "nicaragua-1984",
+   "type": "builds-on",
+   "note": "A pattern of US exit from international adjudication when its use of force is at stake."
+  },
+  {
+   "from": "koskenniemi-impunity",
+   "to": "damrosch-nationality",
+   "type": "critiques",
+   "note": "Nuremberg's 'crimes are committed by men, not abstract entities' is the premise Koskenniemi questions."
   }
  ],
  "themes": [
@@ -3994,7 +4130,8 @@
     "kennedy-sg",
     "lang-regimes",
     "kennedy-legal-expertise-war",
-    "damrosch-intro"
+    "damrosch-intro",
+    "koskenniemi-impunity"
    ],
    "concepts": [
     "people-with-projects",
