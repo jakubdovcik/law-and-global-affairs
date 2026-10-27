@@ -4180,14 +4180,32 @@
    "year": 2015,
    "title": "Introduction, Local Space, Global Life",
    "cite": "1 (excerpts)",
-   "tldr": "International law and development operate in everyday local spaces, such as city halls and neighbourhoods, not only at the inter-state level.",
-   "draft": true,
+   "tldr": "An in-flight developer's map shows Bogotá floating free of Colombia and with its illegal neighbourhoods erased: a 'slum-free', competitive, bankable city. The decentralisation of development since the 1990s has made Third World *localities* a key site of international law and development. Local administrations inherit the state's anxieties about controlling territory and population, through norms, plans and mundane artefacts (urban borders, maps, anti-fraud electricity poles, provisional water meters). International law operates in everyday 'sites', like 'a tiny yet total … knitted lace'.",
    "concepts": [
-    "the-local"
+    "the-local",
+    "political-economy",
+    "territory",
+    "jurisdiction",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Introduction to Luis Eslava, *Local Space, Global Life: The Everyday Operation of International Law and Development* (2015), excerpts.\n\n**The map.** On a 2009 flight, a transnational builder's map of Bogotá mirrored the city's official ambitions since the early 1990s: sustainable, bounded by a green belt, competitive, connected (TransMilenio), as though development were already accomplished. It did two things: it removed Bogotá from Colombia ('literally floating by itself on a pristine white background') and it erased the illegal neighbourhoods on the peripheral hills (replaced with green). It enchanted transnational passengers with a decentralised world of dynamic cities, while 'silencing the profound struggles' of a governance model predicated on 'firm control over local territory and population', compatible with global social-justice ideals and 'a flexible approach towards market forces'. IMF conditionalities reach local finances and services.\n\n**The nation-state in trouble.** World Bank WDR 1997 (*The State in a Changing World*): the end of the Cold War, fiscal crises, East Asian growth, failed states. Public, private and semi-public actors (NGOs, MNEs, the World Bank) claim a position 'separate and arguably superior' to the state and its self-determination; some speak of a post-inter/national moment (Teubner, GAL). Craven: the state-as-prime-actor claim is now 'antiquated'.\n\n**Scope: the local.** Not sociology of 'global cities' but jurisprudence: how international, national and local norms, tied to development ideals, construct local space and subjects attuned to global expectations. *Decentralisation* = transferring governmental and developmental responsibilities from centre to localities. It multiplies levels of governance; localities inherit 'the anxieties associated with the control of territory and population' and must become 'livable', 'competitive', 'well-managed' and 'bankable' (World Bank). Behind the Weberian picture of the unified state lay a constant struggle to hold people and space together. Other new jurisdictional formations: free trade zones, special economic zones, business parks, concessions to private firms and NGOs, each with its own law of property, labour, tax, customs and environment.\n\n**Method.** Bogotá's move from 'messy' to 'meticulous' shows (1) normative interventions (constitutionalised decentralisation, planning law); (2) artefacts linked to the international turn to the local (urban borders, publicity campaigns, maps, anti-fraud electricity poles, provisional water meters for illegal neighbourhoods); (3) subjectification of residents. These are the 'sites' where 'traces' of international law and development can be seen; contradictions are negotiated through law.",
+   "arguments": [
+    "Development's decentralisation makes localities key sites of international ordering.",
+    "Localities inherit the state's drive to control territory and population.",
+    "International law operates through mundane local norms, artefacts and subject-making.",
+    "Official images (maps) erase illegality and the nation to sell the city.",
+    "New jurisdictional formations (zones, concessions) for development."
+   ],
+   "source": "",
+   "short": "Eslava — Local space, global life",
+   "context": "The local as a scale of international law, alongside [[sassen-territory]], [[davis-libertun]] and [[knop-hidden-city]]. Development as governing logic: [[rajagopal-below]], [[anghie-postcolonial]]. The World Bank's critique of the state links to [[kennedy-sg]] and [[kingsbury-gal]]. Like Barthes's panorama ([[barthes-eiffel]]), the aerial map renders the city legible. Special zones echo [[iglp-gvc]]; local rules with global effects: [[danielsen-local-rules]].",
+   "conceptNotes": {
+    "the-local": "localities as sites of international law and development",
+    "political-economy": "decentralisation and the bankable city",
+    "territory": "control of local territory and population",
+    "jurisdiction": "new jurisdictional formations (zones)",
+    "sovereignty": "the nation-state in trouble"
+   }
   },
   {
    "id": "sassen-territory",
@@ -4199,11 +4217,30 @@
    "cite": "Territory, Authority, Rights, 277 (excerpts)",
    "concepts": [
     "the-local",
-    "sovereignty"
+    "sovereignty",
+    "nationality",
+    "territory",
+    "political-economy"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From Saskia Sassen, *Territory, Authority, Rights* (2006/2008), ch. 6 ('Foundational Subjects for Political Membership'), excerpts.\n\n**Global classes.** Beyond the much-studied transnational professionals (Sklair, Robinson), three more: (1) transgovernmental networks of officials (experts, judges, immigration and police officials); (2) activists, global civil society and diasporas; (3) disadvantaged low-wage workers and immigrant households. They form largely 'at the top and at the bottom'; vast middle sectors (in the developed world) are little affected. Global networks are 'lumpy', with nodes such as global cities. This is 'partly denationalized rather than postnational citizenship'.\n\n**Not cosmopolitan.** Each class follows a single logic: profit for professionals (however cosmopolitan their tastes), narrow governance issues for official networks, specific local struggles for activists and immigrants. They remain embedded in financial centres, national governments and local civic life, and partly reconstitute the national from within ('a changed attachment to the national rather than a full exit').\n- *Professionals*: dependent on global-city infrastructure; an intermediate position between the subnational and the global.\n- *Transgovernmental networks*: since the 1980s a tipping point. No longer Bretton Woods collaboration to protect national economies, but 'a deregulatory project to denationalize the components of state work' for corporate globalisation (competition policy, accounting standards), producing affinity with foreign peers and distance from home bureaucracies (GATT, IMF, NATO, BIS, OECD).\n- *Activists, immigrants, the disadvantaged*: mostly immobile. Forms of engagement in global cities enabled by human rights; diasporic networks (anti-trafficking); anti-gentrification struggles; the internet; in situ transnationalism.\n\n**Citizenship in the global city.** As national power cracks, cities become 'a strategic site', 'a sort of frontier zone' for new forms of politics. Around 40 global cities hold the command functions of the global economy, while immigration and the disadvantaged concentrate there. Under Fordism the factory and national government were the strategic sites; now global cities destabilise legal and regulatory frames and force innovation. The disadvantaged gain '\"presence\"' to power and to each other, distinct from power itself: 'Powerlessness is not simply the absence of power.' Local struggles such as anti-gentrification are part of 'a larger conflict about rights to the city'. A global civil society 'rooted in the daily spaces of people', even those who cannot travel. Two dynamics: incipient denationalisation of national settings (global cities) and openings for non-state actors, including those never fully subsumed under nationhood (minorities, immigrants, first nations, feminists), signalling 'a transnational politics centered on concrete localities'.",
+   "arguments": [
+    "Globalisation denationalises parts of the state from within.",
+    "Four incipient global classes, none truly cosmopolitan.",
+    "Transgovernmental networks shifted from protecting national economies to opening them.",
+    "Global cities are strategic frontier zones of power and contestation.",
+    "The disadvantaged gain 'presence': new citizenship practices and rights to the city."
+   ],
+   "source": "",
+   "short": "Sassen — Global classes & cities",
+   "tldr": "Globalisation partly *denationalises* the state from within and produces four incipient 'global classes': transnational professionals and executives, transgovernmental networks of officials, activists and diasporas, and disadvantaged low-wage workers and immigrants. None is truly cosmopolitan (each follows a single logic) and all remain embedded in thick local settings, above all global cities. The global city is a frontier zone where the powerless gain 'presence' and new, incompletely formalised citizenship practices ('rights to the city') emerge.",
+   "context": "Complements [[slaughter-around-un]] (networks) with a critical edge; transnational capitalist class: [[chimni-2017]]. The city as a site of international law: [[eslava-local]], [[davis-libertun]], [[knop-hidden-city]]. Denationalisation vs territorial sovereignty: [[berman-globalization-jurisdiction]], [[fischer-lescano-teubner]]. Membership beyond nationality: [[nottebohm]], [[damrosch-nationality]].",
+   "conceptNotes": {
+    "the-local": "global cities as strategic sites",
+    "sovereignty": "denationalisation from within",
+    "nationality": "denationalised citizenship",
+    "territory": "rescaling of strategic territories",
+    "political-economy": "global classes"
+   }
   },
   {
    "id": "davis-libertun",
@@ -4214,11 +4251,29 @@
    "title": "Identity Conflicts in the Urban Realm",
    "cite": "Cities and Sovereignty, 1 (excerpts)",
    "concepts": [
-    "the-local"
+    "the-local",
+    "sovereignty",
+    "self-determination",
+    "territory"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Introduction to Davis & Libertun de Duren (eds.), *Cities and Sovereignty: Identity Politics in Urban Spaces* (2011).\n\n**Shift.** In the 20th century the nation-state served as a source of unity and party or class politics mediated between citizen and state. Now allegiances lie elsewhere: individuals link political aspirations to identity (ethnicity, religion, language, region). Subnational and transnational tensions question the nation-state; cities, enmeshed in transnational flows beyond national reach, are 'more likely to become the locus of identity conflicts than to transcend such conflicts'.\n\n**Against urban cosmopolitanism.** The tradition of cities as sites where difference is negotiated (Durkheim's pragmatic tolerance; Weber's civic values) doesn't hold: ethnic and religious conflicts have 're-emerged with a vengeance', especially in postcolonial countries with undemocratic forms 'wrought by the encounter with empire'. Struggles over who may govern scale down from the nation-state; cities stand 'at the front lines', where civil rights and deliberation are cast aside for security.\n\n**Why cities.** (1) They host diversity. (2) Globalisation increases heterogeneity through migration to global cities (Sassen), especially in Europe, and 'partitioned cities' (Marcuse and van Kempen) with spatial polarisation by income and ethnicity. (3) 'Spectacular military and paramilitary violence' (Gregory): post–Cold War struggles for empire where new technologies meet old resistance. In weakened states control of the city is a stepping-stone to regional or national power (Baghdad). 'Global geopolitics … imploding into the urban world' (Sandercock).\n\n**Proposition.** Not that difference breeds violence (Milgram), but that the *territorial bases* of identity politics and sovereignty struggles matter. Distinguish nationalism tied to the modern state from identities with other territorial reference points (Anderson's imagined communities; Appadurai). Ask whether actors organise at the level of individual, community, city or nation, and whether 'mismatch or hierarchical ordering of these levels or competing sovereignties' creates conflict: do they seek new institutions matching their boundaries, or inclusion in existing ones?",
+   "arguments": [
+    "Identity politics displaces national and class allegiance.",
+    "Cities are front lines of ethnic, religious and paramilitary violence.",
+    "Urban cosmopolitanism is not guaranteed.",
+    "Conflict stems from mismatched territorialities and sovereignties, not identities as such.",
+    "Need to analyse the scale at which identity and sovereignty claims are organised."
+   ],
+   "source": "",
+   "short": "Davis & Libertun — Urban identity conflicts",
+   "tldr": "As globalisation and post–Cold War realignments weaken the nation-state, identity (ethnicity, religion, language) displaces nation and class as the basis of allegiance, and cities become front lines of violence (Moscow, 9/11, Madrid, London, Mumbai, Baghdad). Cities are not inherently cosmopolitan. The thesis: urban identity conflict owes more to 'competing, overlapping, or mismatched territorialities of the institutions that seek to govern urban life' than to any irreconcilability of identities.",
+   "context": "Cities as sites of sovereignty struggle alongside [[sassen-territory]] and [[eslava-local]]; the optimistic city of encounter in [[knop-hidden-city]] contrasts. Territorial mismatch recalls self-determination and boundary cases ([[burkina-mali]], [[berman-jerusalem]], [[western-sahara]]). Nationalism and minorities: [[redslob-nationalities]], [[berman-modernism]]. Urban warfare leads to Topic 21 ([[oconnell-ihl]], [[kristian-ukraine]]).",
+   "conceptNotes": {
+    "the-local": "cities as sites of identity conflict",
+    "sovereignty": "competing and mismatched sovereignties",
+    "self-determination": "identity claims at sub-state scales",
+    "territory": "territorial bases of identity politics"
+   }
   },
   {
    "id": "knop-hidden-city",
@@ -4229,11 +4284,31 @@
    "title": "The Hidden City in International Legal Thought",
    "cite": "Research Handbook on International Law and Cities, 35 (excerpts)",
    "concepts": [
-    "the-local"
+    "the-local",
+    "modernism",
+    "colonialism",
+    "territory",
+    "policy-science"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Chapter in a *Research Handbook on International Law and Cities* (2021).\n\n**Question.** Legal scholars acknowledge national, race, class or gender standpoints, but not whether they come from the city or the countryside. Does the city play a part in international legal thought beyond being an object of study? The city as location and concept: a place of encounter (Wirth; Barthes: 'the place of our meeting with the other'; Anghie's colonial encounter; Pahuja's 'law of encounter').\n\n**Vienna.**\n- *Lived city*: Gathii criticises the 'limited geography' of Geneva, Strasbourg, New York and Washington law versus Arusha. Berman showed interwar international law shared modernist traits with art and psychoanalysis; capitals were where these met. Kelsen's circle overlapped with the Vienna Circle, Schumpeter and Hayek, feminist pacifists, Pan-Europeanism, psychoanalysis and Zionism. Derrig: the New Haven School's McDougal and Lasswell were shaped by Lasswell's time in Geneva, London, Paris, Berlin and Vienna (including with Kelsen); policy science as another answer to modernist anxieties.\n- *City as mindset*: Simmel's metropolitan type (rational, matter-of-fact, blasé); Turner's cosmopolitan virtue (irony, distance, hybridity). International lawyers may be metropolitan types (Simpson's 'sentimental life': detached vs sentimental). Doctrines project emotions onto states ('friendly relations', humiliating satisfaction). Rather than the domestic analogy of a state of nature, an analogy with city life: Young's 'being together of strangers' and politics of difference, projected by Paul Schiff Berman (global legal pluralism) and resembling Brunnée & Toope's communities of practice and Pahuja.\n- *Scale and analogy*: Vitoria's right of travel justified opening indigenous commonwealths (Anghie). Brett shows Domingo de Soto's right of foreign beggars to stay in cities ('Public means public to everyone'), bringing the right of travel to Europe. Cities today are praised as implementers of international law; networks like C40 may innovate (law for cities only, or a scalable model?). Johns's 16th-century Venice: worldly openness alongside the ghetto and expulsion; 'transgressive potential … is there at their every inception'.\n\n**Seattle.** Public space as a site of disruption (Barthes). Becker Lorca: non-Western lawyers like Calvo in Paris made European capitals 'mestizo'; Goebel's anti-imperial Paris seeded Third World nationalism. The 1999 WTO protests spawned literature on trade's social deficits; 2003 Iraq protests underpin Brunnée & Toope's interactional theory; the World Tribunal on Iraq met in 20+ cities; Occupy; climate strikes. 'Beyond the state' often means in the city, which raises the question how widely 'shared understandings' are. Rajagopal's 'from below' includes non-urban movements.\n\n**Mumbai.** Ananya Roy on 'subaltern urbanism': the megacity is not a global city; she moves from recovering subaltern history to Spivak's limits of recognition. Concepts from the South: the periphery, *zones of exception* (Ong: states' flexible management of sovereignty through 'graduated zones'). This links to extraterritorial 'zones' (US bases, prisons) and free trade zones. A different metrocentricity picks out non-urban protest (women's peace camps), thinks the urban and the international together, and treats the city as 'an ongoing methodological challenge and resource'.",
+   "arguments": [
+    "International legal thought is implicitly metrocentric.",
+    "Lived cities shaped theories (Kelsen's Vienna, Lasswell's Europe).",
+    "City life as an alternative domestic analogy: the being together of strangers.",
+    "'Beyond the state' usually means urban protest: whose shared understandings?",
+    "Southern urbanism (zones of exception) offers new tools."
+   ],
+   "source": "",
+   "short": "Knop — The hidden city",
+   "tldr": "Is international law 'metrocentric'? The city, a place of encounter ('the being together of strangers'), is hidden in international legal thought. *Vienna*: Kelsen's and Lasswell's theories were shaped by modernist urban milieus; city life (Simmel's blasé mind, Young's politics of difference) offers an alternative domestic analogy; Soto's foreign beggars scale up to Vitoria's right of travel; Johns's Venice reveals ghettos and expulsion within worldly governance. *Seattle*: 'beyond the state' usually means in the city (protests as international civil society). *Mumbai*: Southern urbanism and 'zones of exception' offer a different metrocentricity.",
+   "context": "Draws on [[barthes-eiffel]] (the city as meeting with the other), [[berman-modernism]], [[kelsen-lecture-iii]], [[mcdougal-law-power]], [[anghie-imperialism]] (Vitoria), [[becker-lorca-mestizo]] and [[rajagopal-below]]. Global cities: [[sassen-territory]]; Southern localities: [[eslava-local]]; urban conflict: [[davis-libertun]]. Zones and extraterritoriality: [[berman-globalization-jurisdiction]].",
+   "conceptNotes": {
+    "the-local": "metrocentricity of international legal thought",
+    "modernism": "Vienna and interwar international law",
+    "colonialism": "Vitoria's right of travel",
+    "territory": "zones of exception and graduated sovereignty",
+    "policy-science": "Lasswell's urban modernist roots"
+   }
   },
   {
    "id": "oconnell-ihl",
@@ -5898,6 +5973,78 @@
    "to": "kingsbury-gal",
    "type": "critiques",
    "note": "Global institutions as an imperial global state, not a neutral administrative space."
+  },
+  {
+   "from": "eslava-local",
+   "to": "rajagopal-below",
+   "type": "builds-on",
+   "note": "Development as a governing logic, now operating through local jurisdictions."
+  },
+  {
+   "from": "eslava-local",
+   "to": "barthes-eiffel",
+   "type": "illustrates",
+   "note": "The aerial map as panorama: rendering a city legible while erasing its contradictions."
+  },
+  {
+   "from": "eslava-local",
+   "to": "kingsbury-gal",
+   "type": "complicates",
+   "note": "Global governance reaching residents through local artefacts, not only global administrative bodies."
+  },
+  {
+   "from": "sassen-territory",
+   "to": "slaughter-around-un",
+   "type": "critiques",
+   "note": "Transgovernmental networks as a deregulatory project denationalising state work."
+  },
+  {
+   "from": "sassen-territory",
+   "to": "chimni-2017",
+   "type": "complicates",
+   "note": "Global classes are partial, embedded and not cosmopolitan; not a fully formed transnational capitalist class."
+  },
+  {
+   "from": "davis-libertun",
+   "to": "sassen-territory",
+   "type": "contrasts",
+   "note": "Cities as front lines of identity violence rather than new citizenship practices."
+  },
+  {
+   "from": "davis-libertun",
+   "to": "redslob-nationalities",
+   "type": "revisits",
+   "note": "Nationality and identity conflicts, now scaled down to the city."
+  },
+  {
+   "from": "knop-hidden-city",
+   "to": "barthes-eiffel",
+   "type": "builds-on",
+   "note": "The city as 'the place of our meeting with the other'."
+  },
+  {
+   "from": "knop-hidden-city",
+   "to": "berman-modernism",
+   "type": "builds-on",
+   "note": "Interwar modernism in international law, located in its cities."
+  },
+  {
+   "from": "knop-hidden-city",
+   "to": "anghie-imperialism",
+   "type": "complicates",
+   "note": "Vitoria's right of travel set beside Soto's right of foreign beggars in European cities."
+  },
+  {
+   "from": "knop-hidden-city",
+   "to": "rajagopal-below",
+   "type": "applies",
+   "note": "From-below theory as a corrective to urban bias in 'international civil society'."
+  },
+  {
+   "from": "knop-hidden-city",
+   "to": "eslava-local",
+   "type": "builds-on",
+   "note": "Southern cities and zones as sites for rethinking international law."
   }
  ],
  "themes": [
@@ -5920,7 +6067,10 @@
     "corbett-league",
     "kennedy-sg",
     "azikiwe-liberia",
-    "becker-lorca-bargaining"
+    "becker-lorca-bargaining",
+    "eslava-local",
+    "sassen-territory",
+    "davis-libertun"
    ],
    "concepts": [
     "sovereignty",
@@ -6003,7 +6153,8 @@
     "lang-regimes",
     "bedjaoui-nieo",
     "becker-lorca-bargaining",
-    "chimni-2017"
+    "chimni-2017",
+    "eslava-local"
    ],
    "concepts": [
     "political-economy",
@@ -6104,7 +6255,9 @@
     "satariano-tech",
     "danielsen-corporate",
     "ilc-fragmentation-phenomenon",
-    "chachko-heath"
+    "chachko-heath",
+    "sassen-territory",
+    "knop-hidden-city"
    ],
    "concepts": [
     "political-questions",
