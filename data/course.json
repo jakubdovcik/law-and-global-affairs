@@ -3040,11 +3040,22 @@
    "title": "Foundations of Human Rights in Law",
    "cite": "International Law: Cases and Materials, 915",
    "concepts": [
-    "human-rights"
+    "human-rights",
+    "institutions"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**What is in the packet.** Page 886 of the casebook, i.e. the end of Ch. 12 on immunity. It covers the administrative tribunals of international organisations (the ILO Tribunal, serving about 45 organisations; the UN Administrative Tribunal; the ICJ's 1954 advisory opinion that the General Assembly could not refuse to honour its awards). The right-hand column, which opens Ch. 13 on human rights, is truncated in the scan. Its visible fragments sketch the usual postwar story: the Second World War as a turning point; human rights pursued through national and international institutions; regional systems (Europe, the Americas); Cold War constraints; and a later focus on violations and institutions.\n\n**How to use it.** As the doctrinal 'official story' against which the rest of the topic is read. Human rights is treated as a post-1945 body of treaty and custom, built out through institutions. Damrosch's next section ([[damrosch-competing]]) lays out the tensions inside that story.",
+   "arguments": [
+    "Doctrinal frame: human rights as a post-1945 body of law and institutions.",
+    "(Packet scan is incomplete; check the casebook for the full section.)"
+   ],
+   "source": "",
+   "short": "Damrosch — HR foundations",
+   "tldr": "Casebook opening to the human rights chapter. The packet scan is only partial: the page reproduced is mostly the end of the immunity chapter (international organisations' administrative tribunals), and the human rights column is cut off. Use it as a framing device only.",
+   "context": "The baseline that [[kennedy-hr-problem]], [[johnson-slavery]] and [[nesiah-slavery-afterlives]] unsettle. The tension between institutional progress and critique repeats [[kennedy-chart]].",
+   "conceptNotes": {
+    "human-rights": "casebook framing of the field",
+    "institutions": "IO administrative tribunals (end of immunity chapter)"
+   }
   },
   {
    "id": "damrosch-competing",
@@ -3055,11 +3066,26 @@
    "title": "Competing Interests",
    "cite": "International Law: Cases and Materials, 920",
    "concepts": [
-    "human-rights"
+    "human-rights",
+    "sovereignty",
+    "reception"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Casebook text (Ch. 13 §B).\n1. **Individual vs state.** Human dignity, protected by civil, political and even economic rights, against the state's need to keep law and order (arrest, incarceration, punishment, prohibiting dangerous speech). Economic rights (work, education, shelter) also run up against the scarce resources of many states.\n2. **Allocation of governmental authority.** Human rights live in treaty and custom handled by foreign ministries. In federal systems such as the US, however, rights questions (privacy, due process, safety) sit at lower levels of government. The field must work 'without trampling on the constitutional structures of states'. Some states (again the US) regard their domestic systems as sufficient and see little need to incorporate international human rights.\n3. **Universalism vs cultural pluralism.** At its strongest, relativism denies any transcendent values that all states could agree on, which challenges the movement's founding premise. Universalists answer that some rights (not to be arbitrarily killed) cannot differ between societies. They add that the community shares an interest in common standards by which states judge one another, and in mechanisms of implementation and compliance.\n\n**Illustration.** Recurring disputes over bans on Islamic headscarves or full-face veils pit religious freedom against public order. The packet ends as the case is introduced.",
+   "arguments": [
+    "Rights vs order and resources.",
+    "International norms vs federal and domestic constitutional structure.",
+    "Universal standards vs cultural difference.",
+    "Headscarf and veil bans as the test case for all three."
+   ],
+   "source": "",
+   "short": "Damrosch — Competing interests",
+   "tldr": "Human rights has to balance three sets of tensions. (1) The individual versus the state's need for order and its limited resources. (2) International obligations versus domestic and federal allocations of authority. (3) Universalism versus cultural pluralism or relativism. Bans on headscarves and veils illustrate all three.",
+   "context": "The textbook map of tensions inside the field. [[kennedy-hr-problem]] goes further: these 'balances' are where the movement's costs hide (centring the state, the universal vs the local). Universalism vs relativism connects to the [[becker-lorca-mestizo]] debate over who universal law belongs to. The federalism point echoes [[koh-tlp]] (domestic internalisation).",
+   "conceptNotes": {
+    "human-rights": "the field's internal tensions",
+    "sovereignty": "rights vs state order",
+    "reception": "federalism and domestic incorporation"
+   }
   },
   {
    "id": "johnson-slavery",
@@ -3069,15 +3095,28 @@
    "year": 2018,
    "title": "To Remake the World: Slavery, Racial Capitalism, and Justice",
    "cite": "Boston Review",
-   "tldr": "Slavery as the foundation of *racial capitalism*, not a premodern exception to it. This has consequences for what 'justice' can mean today.",
-   "draft": true,
+   "tldr": "Saying slavery 'dehumanized' enslaved people is misleading and harmful. Slavery depended on their *human* capacities: labour, reproduction, sentience, intelligence, fear. The frame lets latter-day observers separate a normative 'humanity' from the violence humans actually commit, and makes black humanity 'probationary'. Celebrating slaves' 'agency' anachronistically recasts them as liberal subjects. Marx's critique of abstract rights-based emancipation applies.",
    "concepts": [
     "political-economy",
-    "colonialism"
+    "colonialism",
+    "human-rights"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Boston Review forum essay (pp. 15–17 in the packet).\n\n**Misleading.** Slavery 'depended upon the human capacities of enslaved people': their reproduction, their labour, their sentience. They could be taught, manipulated, terrorised and tortured. The most 'inhuman' acts (torture, rape, humiliation) depended on violated slaves bearing witness, providing a 'living, human register of slaveholders' power'. Calling such acts 'inhuman' separates a normative, aspirational idea of humanity from forms of exploitation and violence that history suggests may well be *definitive* of human beings. 'We are separating ourselves from our own histories of perpetration.'\n\n**Harmful.** 'Dehumanization' implies that enslaved people were alienated from their humanity. Who decides when humanity is lost, or regained? These paternalist questions lock the frame 'in an inextricable embrace with the very history of racial abjection it ostensibly confronts', while asserting the 'humanity' of the observer.\n\n**Agency.** Historians who 'prove' black humanity (Philip Morgan, *Slave Counterpoint*) render it 'intellectually probationary'. Treating 'independent will and volition' as proof of humanity reduces everything enslaved people did (singing a spiritual, breaking a tool, revolution, a better sluiceway) to one anachronistic liberal moral: agency proved humanity. Enslaved people become would-be bourgeois rights-bearers.\n\n**Marx.** The tension resembles the one Marx saw in 'On the Jewish Question' between material inequality and abstract rights-based equality. The citizen is 'an imaginary member of an imaginary universality'. Political emancipation is 'a big step forward', but not 'real, practical emancipation'.",
+   "arguments": [
+    "Slavery exploited humanity rather than erasing it.",
+    "'Dehumanization' flatters observers and distances present from past perpetration.",
+    "Proving enslaved humanity makes that humanity probationary.",
+    "'Agency' imposes a liberal-subject template on enslaved people.",
+    "Rights-based emancipation is abstract (Marx): political, not real, emancipation."
+   ],
+   "source": "",
+   "short": "Johnson — Against 'dehumanization'",
+   "context": "A historian's version of [[kennedy-hr-problem]]'s worry that human rights generalises too much and makes 'victims'. With [[nesiah-slavery-afterlives]]: both show how condemning slavery as 'inhuman' can sanitise the political economy that continues it. Racial capitalism connects to [[anghie-imperialism]] and the political-economy theme ([[roepke-1955]], [[cohen-property-sovereignty]]).",
+   "conceptNotes": {
+    "human-rights": "critique of 'humanity' as a normative category",
+    "colonialism": "racial capitalism",
+    "political-economy": "slavery as capitalism, not its exception"
+   }
   },
   {
    "id": "kennedy-hr-problem",
@@ -3087,16 +3126,37 @@
    "year": 2004,
    "title": "The International Human Rights Movement: Part of the Problem?",
    "cite": "The Dark Sides of Virtue",
-   "tldr": "A list of the movement's possible costs: it takes up the whole emancipatory imagination, centres the state, treats harms as violations rather than structures, and legitimates the order it criticises.",
-   "draft": true,
+   "tldr": "A pragmatic checklist of the human rights movement's possible costs, not a general critique. It occupies the field of emancipation, views problems too narrowly (state, form, background), generalises and particularises too much, is tied to Western liberalism, promises more than it can deliver, legitimates violations, professionalises and demobilises, and strengthens bad global governance. Whether any cost materialises depends on context. The real question today is how *good* people go wrong.",
    "concepts": [
     "human-rights",
     "dark-sides",
-    "people-with-projects"
+    "people-with-projects",
+    "public-private",
+    "political-economy",
+    "colonialism",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Ch. 1 of *The Dark Sides of Virtue* (2004).\n\n**Method.** The movement has done great good. This is a *pragmatic* list of hypotheses about costs, to be weighed case by case. Kennedy counts something as a cost only if it has a bad effect. He sets aside whether rights 'really exist', whether they reflect consensus or are coherent, and complaints that could be fixed by more commitment (more enforcement, more rights). 'Benefits' are really *distributions* toward those who share humanitarian aims. Costs are usually stated generally; benefits locally. Example: a pro bono campaign against the Caribbean death penalty may look different from London and from the Caribbean.\n\n**The list.**\n1. **Occupies the field of emancipatory possibility.** Hegemony as resource allocation, as criticism (others look 'too political'), and as distortion: projects must be framed as rights to be heard. Duty-based or collective vocabularies are lost; 'right to a clean environment' vs a duty to work for it. The *right to development* draws energy into impossible questions (whose right? against whom?) while neoliberals take over development policy.\n2. **Too narrow.** It foregrounds harms by the state and public remedies, and legitimates private harms. It *insulates the economy*: participation and procedure over distribution. 'That's my right' extracts from the state, not the economy, unless you own property. It *foregrounds form*: rules and machinery become ends, like elections replacing engagement. 'Is the right to vote a floor — or … a ceiling?' It *backgrounds the background*: the laws that actually shape the incidence of abuse (e.g. neutral religious freedom in Africa favouring evangelical sects).\n3. **Generalises too much.** An abstract person and 'group'; becoming free 'only as an instance of the general' (alienation); answers rather than questions. A theatre of victims, violators and bystanders: 'uncivilized deviants, baby seals, and knights errant'. Bad for advocates too (sanctimony, arrogant earnestness).\n4. **Particularises too much.** Bounded right-holding identities blunt solidarity and community. It *strengthens the state*: freedom becomes having an appropriately organised state. Rights are trumps, 'queue jumping'. That blocks distributive bargaining and leaves triage to the state. Certifying 'refugees' cuts them off from origin and destination; the stillborn 'right to asylum'.\n5. **Western liberalism.** Origins matter pragmatically only if they bring costs. Here they bring the downsides of the West (secularism) and its pairs (economy before politics before law, private before public). Emancipation is sought in law over politics, reason over faith. In 'the West and the Rest', human rights runs one way, from centre to periphery. It exports absolute property rights unknown in the West, and frames politics as tradition vs modernity, which strengthens 'traditionalists'.\n6. **Promises more than it can deliver.** Knowledge (justice found, not made). Justice outside politics: rights conflict and are vague, and the judge is fetishised. Community (the first-world media audience as the 'international community', 'an astonishing act of disenfranchisement'). Neutral intervention. The emancipator mistaken for emancipation: work on the field mistaken for work on the problem (rights → remedies → basic needs → enforcement, shifts that reflect elite fashion).\n7. **Produces and excuses more violations than it prevents.** It treats symptoms. Humanitarian norms *excuse* too much (like the laws of war) and *justify* too much: the US, UK, Russia, Serbia and the Kosovars all invoked human rights. Background norms (sovereignty, property, contract, agency) do the real damage, e.g. facilitating torture.\n8. **The bureaucracy is part of the problem.** It professionalises the humanitarian impulse (lawyers over 'priests, engineers, politicians, soothsayers'; East Timor elites turning 'like sunflowers to Geneva'). It degrades legal craft and serves as a fig leaf for the commercial bar. It produces false solidarity and *bad faith*: redescribing torture as 'public health'. 'Speaking law to politics is not the same thing as speaking truth to power.' Performances aimed at an 'imaginary third eye'. The perils of representation: producing authentic victims is 'voyeuristic or pornographic'. Irresponsible, unaccountable discretion.\n9. **Strengthens bad international governance.** The weakest link: rules and institutions over the standards and private-law models that work better in environmental and economic law. Clean hands: intervening without responsibility for distribution. Fantasy government: legal, not political. Governing the exception: treating the tips of icebergs entrenches the rest. Denouncing sovereignty attests to its continuity.\n10. **Bad politics in particular contexts.** It can strengthen repressive states (and the IFIs' structural adjustment). It can be captured, as when the 1998 'responsibilities' declaration served privatisation. *Condemnation as legitimation*: calling Bosnia a 'human rights violation' and sending lawyers can be 'a way of doing nothing'. Renaming Auschwitz 'genocide' can be a way of 'unthinking its everyday reality'.\n\n**Close.** The founding generation asked how evil people could be restrained. Now the question is 'how good people, well-intentioned people in good societies, can go wrong'. Don't treat the movement 'as a frail child'.",
+   "arguments": [
+    "Assess human rights pragmatically: costs and benefits in context, as distributions.",
+    "It crowds out other emancipatory vocabularies and insulates the economy.",
+    "Form, the state and 'victims/violators/bystanders' narrow the imagination.",
+    "Background rules (property, sovereignty, contract) do the real damage.",
+    "The professional bureaucracy breeds bad faith, voyeurism and unaccountable discretion.",
+    "Naming atrocity a 'violation' can legitimate and normalise it."
+   ],
+   "source": "",
+   "short": "Kennedy — HR: part of the problem?",
+   "context": "Kennedy's signature 'dark sides' move, the culmination of [[kennedy-chart]] and [[kennedy-primitive]]. 'Background norms' recalls [[cohen-property-sovereignty]] and [[danielsen-local-rules]]. Condemnation as legitimation parallels [[koskenniemi-impunity]], [[engle-grip]] and [[drumbl-smouldering]] on criminal law. Insulating the economy pairs with [[roepke-1955]]'s Imperium/Dominium split. Lived from the inside in [[kennedy-spring-break]]; historicised in [[nesiah-slavery-afterlives]] and [[johnson-slavery]].",
+   "conceptNotes": {
+    "human-rights": "pragmatic checklist of costs",
+    "dark-sides": "the canonical statement",
+    "people-with-projects": "how good people go wrong",
+    "public-private": "insulating the economy; background norms",
+    "political-economy": "participation over distribution",
+    "colonialism": "the West and the Rest",
+    "law-and-politics": "law as escape from politics"
+   }
   },
   {
    "id": "nesiah-slavery-afterlives",
@@ -3109,11 +3169,27 @@
    "concepts": [
     "human-rights",
     "colonialism",
-    "political-economy"
+    "political-economy",
+    "public-private"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "AJIL Unbound symposium on race and international law (2023).\n\n**Setting.** The Slavery Abolition Act (1833) affected about 800,000 people. Scholars speak of the 'tyranny of the Atlantic'. In the Indian Ocean, abolition caused a labour crisis that was met by indenture: 2.2 million people moved across oceans over a century. Mauritius sugar was the 'petri dish'; workers came mostly from India and went to Mauritius, Réunion, Ceylon, Africa and the Caribbean. The Royal Navy policed the seas for abolition while the 'commercial twin', the indenture ships, used the same maritime infrastructure.\n\n**Civilisational capital.** Abolition let Britain recast empire as protection. Humanitarian virtue accrued 'racialized credit'. India was exempted until 1843 so local elites could be morally 'tutored'. Slavery became a marker of the civilisational deficits of the colonised. Mussolini abolished slavery as one of his first acts in occupied Ethiopia (1935). This rhymes with Mutua's Savages–Victims–Saviors triad.\n\n**Protection + free contract.** The slavery analogy defined coercion as physical capture, not structural impoverishment. Colonial taxes, commercialised crops and exclusion from property drove debt bondage. The Workman's Breach of Contract Act (1859) and the Penal Code (1860) criminalised breach. Debts became hereditary; servitude was run by ledgers rather than whips. Officials distinguished debt-bonded people from 'true' slaves. The injustices of indenture became a *welfare* problem (better ships, labour market formalisation) for an enlightened colonial authority. Spectacular physical violence was foregrounded while poverty was naturalised 'as much a part of the landscape as the monsoons'. Recruits came largely from oppressed castes, some from so-called 'slave castes'. Penal sanctions gave slavery 'a new lease of life within the formal terms of abolition', as in the post-emancipation US.\n\n**Conclusion.** The slavery/freedom binary supplanted distributive analysis of indenture and wage labour. Invoking slavery 'served to distract from, disguise, and even defend atrocity'. It married 'the moral promise of protection and the economic profit from precarity', and constrained the imagination of future freedoms. 'There was much more to lose than chains.'",
+   "arguments": [
+    "Abolition was reframed as imperial humanitarian virtue ('civilizational capital').",
+    "The slavery analogy defined coercion as physical, naturalising economic coercion.",
+    "Indenture and wage labour were legitimated as free contract plus protection.",
+    "Imperialism, humanitarianism and capitalism are elective affinities.",
+    "The slavery/freedom binary displaced distributive analysis."
+   ],
+   "source": "",
+   "short": "Nesiah — Slavery's afterlives",
+   "tldr": "After British abolition (1833), slavery was replaced in the Indian Ocean world by indenture (2.2 million workers). Invoking 'slavery' as the paradigm of atrocity defined coercion as *physical* violence. That sanitised debt-driven indenture and 'free' wage labour as voluntary contract, and redeemed empire as humanitarian. Imperialism, humanitarianism and capitalism are 'elective affinities'.",
+   "context": "A historical case study of [[kennedy-hr-problem]]'s claims: insulating the economy, condemnation as legitimation, the West and the Rest. With [[johnson-slavery]] on the costs of the 'inhuman' frame. Empire and the civilising mission connect to [[anghie-imperialism]], [[becker-lorca-mestizo]] and [[maine-kathiawar]]. Free contract as the market's form recalls [[roepke-1955]] and [[cohen-property-sovereignty]].",
+   "conceptNotes": {
+    "human-rights": "abolition as origin story, and its costs",
+    "colonialism": "indenture and humanitarian imperialism",
+    "political-economy": "free contract and debt bondage",
+    "public-private": "physical vs economic coercion"
+   }
   },
   {
    "id": "kennedy-spring-break",
@@ -3125,11 +3201,30 @@
    "cite": "The Dark Sides of Virtue",
    "concepts": [
     "human-rights",
-    "dark-sides"
+    "dark-sides",
+    "people-with-projects",
+    "feminist-critique",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Ch. 2 of *The Dark Sides of Virtue*: the activist individual.\n\n**The mission.** March 1984. Kennedy (lawyer), Dr Richard Goldstein (doctor) and Patrick Breslin (writer) represent five US scientific and medical institutions. They become the first outsiders to speak privately with Uruguay's roughly 700 political prisoners. The story opens with Ana Rivera, 23, trembling, wearing all her clothes for fear of transfer.\n\n**Telling vs doing.** Both analysis and activism respond to 'narrative demands'. They turn the confusion of moments like the one with Ana into stories (strategy, the evolution of law, democratisation), 'embroidering it into the fabric of numerous comforting stories'. The familiar plot is the knight errant who returns 'with tales aplenty'; his words take precedence over her suffering.\n\n**Thinking ahead.** He was drawn by escape from grading midterms, excitement and the exotic. Doubts about standing ('what right did I have?') and fear of disorientation followed. The team memorised and shredded briefing documents so as to look innocuous yet potent.\n\n**Crossing over (Punta Rieles women's prison).** Warden Kleber Papillon recites his script; the team nods. The delegation's 'hollow' institutional story ('our sponsors are interested in' specific prisoners; 'public health, not public policy') wins cooperation. The warden proudly says he learned prison management from the American military.\n\n**Professional roles.** Activism is representational and sponsored. Scientific institutions fear losing neutrality. Harvard frames foreign advocacy as neutral 'rule of law'. Roles script the barbarian as 'rights abuser' and the victim as 'client'. They channel outrage into 'a rhetoric of health' and Ana's politics into a physical exam. Roles are stepping stones and walls. The team becomes friends by playing with roles (Richard/the Doctor). Analysis settles ambiguity only by treating a detail as dispositive.\n\n**Direct examination.** The lawyer steers Ana toward the legally relevant facts; the doctor says let her narrate. Her account of torture breaks the 'cassette'. 'I have lost interest in the case'; he fixates on her string bracelets. The women's stories blend. Should he assess credibility? Refusing to judge it puts her 'on a pedestal of untouchable authenticity'; judging it reduces the experience. 'Trapped between the necessity and the danger.'\n\n**Cross-examination (prison doctor).** He wants to cross-examine the doctor 'to the wall' with the UN code on health workers and torture. The more the doctor confirms abuse, the better the cross-examination feels. Richard offers professional solidarity and the doctor escapes. Goals conflict: blame, change behaviour, bear witness, reinforce norms. Doing good vs doing well. A memory of a Paris physician turning suffering into a demand to *declare* a 'right to health': 'not health, but a right to health; not engagement, but declaration'. Worrying about standing is a way to deny that the relationship is personal: 'our secret desire to take one more look at the wound'.\n\n**Libertad (men's prison).** A harsher regime, with photographs of Tupamaro victims on the walls. Interviews happen on phones behind glass. Ramon (Ana's boyfriend) and Francisco tell of torture as 'temporarily defeated warriors': comrades who need no rescue. Victor, the apolitical veterinarian, pleads procedure and rekindles the urge to *act* ('The position').\n\n**Transition: gender.** The drive back separates a sphere of violation (women, victims, the sacred) from a field of response (men, avengers, Montevideo). Ana was 'trespassed upon', Ramon 'punished'. Manipulating this gender distinction produced 'simultaneous engagement and distance'.\n\n**Advocacy.** Night meetings with Uruguayan lawyers; one says the trials are 'the imitation of trials' and that representing prisoners means 'not to forget them'. He drops international law (no theory of standing) for humanitarian pleading. Before Colonel Ledesma of the Supreme Military Court there is the protocol of the red chairs and 'lawyer to lawyer' talk. Ledesma insists the court is independent while discussing pending files. Both men are 'polite, respectful, and cynical'.\n\n**Aftermath.** Families ask why *these* prisoners. US embassy: 'we … send them up to Panama, and tell them about constitutions'. Guilt at leaving: the bureaucracy is 'the machinery of our mutual estrangement'. Human rights 'plays an important role in sustaining the very image of irrationality to which it purports to be merely responding'. 'Even if you don't get inside the prisons, you'll have struck a blow' — the mission needed torture only to be 'out there'. 'As human rights activists, we can touch the barbaric and return unscathed.' 'Our discourse is not our tool; we are its property.'\n\n**Epilogue (1985).** All the students were released. Ledesma asked the writer for advice on New York publishers for his short stories.",
+   "arguments": [
+    "Narrating and doing human rights both convert ambiguity into comforting stories.",
+    "Professional roles enable contact but produce estrangement and complicity.",
+    "Gendered images (female victim, male avenger) structure the activist's sense of progress.",
+    "The rights vocabulary lets advocates engage atrocity while keeping it 'out there'.",
+    "The activist is the discourse's property, not its master."
+   ],
+   "source": "",
+   "short": "Kennedy — Spring Break",
+   "tldr": "A first-person account of a 1984 human rights mission (writer–doctor–lawyer) to Uruguay's political prisons. Professional roles both enable contact and estrange. Telling and doing human rights both turn ambiguity into comforting stories. Gendered images (female victim, male avengers) structure the mission. The human rights vocabulary lets the advocate 'touch the barbaric and return unscathed'. 'Our discourse is not our tool; we are its property.'",
+   "context": "The lived, first-person version of [[kennedy-hr-problem]] (representation, bad faith, false solidarity, the 'imaginary third eye'). Gender analysis connects to [[knop-feminism-sovereignty]] and [[charlesworth-chinkin-jus-cogens]]. The voyeuristic victim parallels [[johnson-slavery]]. US training of the warden is the background-norms point again. Compare the professional sensibility of [[koh-tlp]] (transnational norm entrepreneurs) and [[riles-aspiration-control]].",
+   "conceptNotes": {
+    "human-rights": "the activist's experience",
+    "dark-sides": "lived from inside",
+    "people-with-projects": "professional roles and identities",
+    "feminist-critique": "gendered structure of the mission",
+    "law-and-politics": "the military judge's legalism"
+   }
   },
   {
    "id": "sands-greening",
@@ -3140,11 +3235,29 @@
    "title": "Greening International Law, Parts Two & Three (recommended)",
    "cite": "",
    "concepts": [
-    "environment"
+    "environment",
+    "sovereignty",
+    "soft-law",
+    "general-principles"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Introduction (Parts Two–Three) to *Greening International Law* (1994). Parts of the scan are heavily garbled.\n\n**The state of the field.** Environmental issues moved from the margins to the centre (UN, GATT). There are so many negotiations that only rich states can keep coherent positions. Yet there is 'reason to doubt' real impact: weak implementation; law-making that is decentralised, duplicative, reactive and ad hoc.\n\n**Principles of general application** (Dworkin's distinction: rules apply all-or-nothing, principles 'state a reason that argues in one direction'):\n- **Sovereignty over natural resources vs the responsibility not to cause environmental damage**: Stockholm Principle 21 / Rio Principle 2, widely seen as customary law. Sovereignty is 'tempered' by protection in an interdependent world.\n- **Preventive principle**: minimising damage as an objective in itself, even within a state's own territory, and early.\n- **Good neighbourliness and cooperation** (UN Charter art. 74 extended): information, notification, consultation, EIA, emergency cooperation. Central in Hungary v. Slovakia over the Gabčíkovo dam (referred to the ICJ in 1993).\n- **Sustainable development**: roots in the Pacific Fur Seal Arbitration (1893). Four elements: intergenerational preservation, 'sustainable/prudent/rational' use, equitable use, and integrating environment and development.\n- **Precautionary principle** (Rio Principle 15): lack of full scientific certainty is no reason to postpone measures. 'Potentially, the most radical' and the most controversial.\n- **Polluter pays**: status doubtful outside the EC, OECD and UN/ECE.\n- **Common but differentiated responsibility** (Climate Convention): a common duty plus differing contributions and capacities.\n\n**Standards.** Agenda 21's priorities (atmosphere, land, forests, biodiversity, freshwater, oceans) and harmful products (biotech, toxic chemicals, agriculture, hazardous and radioactive wastes). Regulating sector by sector shifts harm between media, hence integrated pollution control. Regimes surveyed:\n- *Flora and fauna*: CITES, biodiversity, the IWC whaling moratorium of 1982; a forests convention failed at UNCED.\n- *Marine*: UNCLOS and the Regional Seas programme. Land-based sources cause more than 70% of marine pollution and have no global treaty.\n- *Freshwater*: rivers and lakes.\n- *Air*: LRTAP, ozone (Vienna/Montreal) and the UNFCCC.\n- *Waste*: Basel (prior informed consent), Lomé IV and Bamako (bans).\n- *Hazardous substances*: soft law.\n\n**Techniques.** Beyond 'command and control': EIA, information, liability, economic instruments (trade, IP, finance), and enforcement and dispute settlement. Montreal set the first timetable to ban production outright; the Antarctic Protocol bans commercial activity. Even an EC broadcasting directive bars ads encouraging environmentally harmful behaviour.",
+   "arguments": [
+    "Environmental law is built on the tension between sovereignty over resources and no transboundary harm.",
+    "General principles (prevention, precaution, polluter pays, CBDR) guide rather than dictate.",
+    "Regulation is sectoral, so harm shifts between media.",
+    "Newer techniques: EIA, information, liability, economic instruments.",
+    "Proliferating instruments, weak implementation."
+   ],
+   "source": "",
+   "short": "Sands — Greening IL",
+   "tldr": "Introduction to the 1990s field of international environmental law. Built on two opposed principles, sovereignty over resources vs no transboundary harm (Stockholm Principle 21 / Rio Principle 2), plus prevention, cooperation, sustainable development, precaution, polluter pays, and common but differentiated responsibilities. Then sector-by-sector standards and newer techniques (EIA, information, liability, economic instruments). Impressive output, doubtful impact.",
+   "context": "Sovereignty limited by harm to others descends from [[corfu-1949]] (no use of territory to harm others) and [[island-of-palmas]] (sovereignty's duties). Gabčíkovo is [[gabcikovo]]. Principles vs rules recalls [[schachter-general-principles]] and [[schachter-twilight]] (soft law). [[kennedy-hr-problem]] holds up this standards-based environmental regime as a better model than rights. [[falk-environment]] explains why it underperforms; [[siddique-ecocide]] turns to criminal law.",
+   "conceptNotes": {
+    "environment": "the principles and regimes of IEL",
+    "sovereignty": "sovereignty over resources vs no harm",
+    "soft-law": "principles vs rules; non-binding codes",
+    "general-principles": "Dworkinian principles in IEL"
+   }
   },
   {
    "id": "falk-environment",
@@ -3156,11 +3269,26 @@
    "cite": "6 Y.B. Int'l Env. L. 3 (excerpts)",
    "concepts": [
     "environment",
-    "political-economy"
+    "political-economy",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Yearbook of International Environmental Law (1995), excerpts.\n\n**Hypothesis.** Economic globalisation and environmental protection pursue 'fundamentally inconsistent policy objectives'. They could be reconciled only by effective regulatory authority based on a political equilibrium between economistic and environmentalist constituencies. That equilibrium does not exist and is unlikely, which reflects 'a deepening … comprehensive crisis of public goods'.\n\n**Why 'globalization'.** It is a buzzword, but needed to name forces beyond the state, the state system and international institutions. Unlike economists who note earlier eras of trade, Falk stresses regulatory imperatives beyond the capacity and will of states. The state is not bypassed but *deterritorialised*: it loses autonomy to global market pressures and risks conflict with disadvantaged parts of its own society. The old world-order worry was fragmented sovereignty and the free-rider problem in the commons. The new one has a different cause and similar effects: all governments are disciplined by global capital, and exclusion (North Korea, Cuba, Iraq) means misery. The market is 'the only game in town'.\n\n**Neo-liberal convergence.** Labour, the Democrats, the Socialists, regrouped Communists and even Nordic welfare parties have become de facto converts. Fiscal crisis cuts every public good, including the environment. Environmental costs are incompatible with privatisation, growth, low taxes and a non-intrusive state. Uneven conditions mean some feel no responsibility and others feel unfairly burdened. Widening gaps between rich and poor generate job anxiety, so 'the environmental movement … has run out of steam'. Since Rio (1992) this has got worse. Reviving the welfare-state social contract may require 'an unprecedented global social contract'.\n\n**No determinism.** Globalisation is levelling up many poorer societies in the short term. The affluent states that led on the environment are the ones now under strain, while rising states focus on development. One hopeful scenario: a growing middle class brings environmental consciousness.\n\n**Conclusions.** (1) Consider environmental impacts in economic policy. (2) The main effect so far is weaker support for public spending on (especially global) environmental goals. (3) Change requires an alternative to neo-liberalism in national politics. (4) Anti-globalisation backlashes and regionalism may offer the best short-term prospects. It is globalisation *as shaped by neo-liberalism*, not globalisation as such; a different climate could produce global environmental governance to match the economic kind. Cites the NIEO declaration.",
+   "arguments": [
+    "Neo-liberal globalisation structurally weakens environmental regulation.",
+    "The state is deterritorialised and disciplined by global capital.",
+    "Mainstream parties converge; public goods are starved.",
+    "Economic insecurity drains political support for environmentalism.",
+    "Not inevitable: it requires an ideological alternative or a global social contract."
+   ],
+   "source": "",
+   "short": "Falk — Environment & globalization",
+   "tldr": "Globalisation shaped by neo-liberalism exerts a structural 'downward pull' on environmental protection. States lose autonomy to global capital; mainstream parties converge on neo-liberalism; fiscal austerity starves public goods; insecurity drains support for environmental priorities. Globalisation is not inherently anti-environment, but changing course needs a new ideological climate or a 'global social contract'.",
+   "context": "The political-economy explanation for the weak implementation [[sands-greening]] notes. It reverses [[roepke-1955]]'s hope that depoliticising the economy serves order, and challenges [[bello-wto]]'s confidence in trade disciplines. NIEO: [[bedjaoui-nieo]]. Compare [[kennedy-hr-problem]] on insulating the economy.",
+   "conceptNotes": {
+    "environment": "globalisation's downward pull",
+    "political-economy": "neo-liberal consensus and public goods",
+    "sovereignty": "deterritorialised state autonomy"
+   }
   },
   {
    "id": "siddique-ecocide",
@@ -3172,11 +3300,25 @@
    "cite": "The Guardian, June 22, 2021",
    "concepts": [
     "environment",
-    "individual-responsibility"
+    "individual-responsibility",
+    "law-nonlaw"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Guardian report (22 June 2021).\n- **Definition**: 'unlawful or wanton acts committed with knowledge that there is a substantial likelihood of severe and widespread or long-term damage to the environment being caused by those acts'.\n- **Significance**: it would be the fifth ICC crime (alongside war crimes, crimes against humanity, genocide and aggression) and the first new international crime since Nuremberg. Sands: the others focus 'exclusively on the wellbeing of human beings'; this one introduces 'a new non-anthropocentric approach'. It is mostly about 'changing public consciousness' that we depend on the environment.\n- **History**: Olof Palme at Stockholm (1972); dropped from the Rome Statute in 1998; Polly Higgins' decade-long campaign (d. 2019).\n- **Support**: Vanuatu and the Maldives (2019 ASP), Macron, the Pope, some European states. The ICC was criticised for ignoring environmental crimes; in 2016 it said it would consider environmental destruction and land grabs within existing crimes.\n- **Design choice**: no explicit mention of climate change, to make it harder for states and corporations to oppose. It aims at the 'most egregious acts', not the everyday activity 'so many of us … are involved in'. Examples: transboundary nuclear accidents, major oil spills, Amazon deforestation, killing the last two northern white rhinos.\n- Stop Ecocide's Jojo Mehta: 'well pitched between what needs to be done … and what will be acceptable to states'.",
+   "arguments": [
+    "Proposes ecocide as the fifth core international crime.",
+    "Non-anthropocentric: the environment itself as the protected interest.",
+    "Calibrated to egregious acts and to state acceptability (no climate clause).",
+    "Expressive aim: changing public consciousness."
+   ],
+   "source": "",
+   "short": "Siddique — Ecocide definition",
+   "tldr": "In June 2021 an expert panel (co-chaired by Philippe Sands and Dior Fall Sow) proposed adding 'ecocide' to the Rome Statute as the fifth ICC crime: 'unlawful or wanton acts committed with knowledge that there is a substantial likelihood of severe and widespread or long-term damage to the environment'. It is billed as the first non-anthropocentric international crime. Climate change is deliberately left unmentioned, to keep states on board.",
+   "context": "Moves environmental law from the cooperative principles of [[sands-greening]] to individual criminal responsibility. It inherits the dilemmas of [[koskenniemi-impunity]], [[engle-grip]] and [[drumbl-smouldering]], and [[kennedy-hr-problem]]'s 'condemnation as legitimation'. Excluding everyday harm is the background vs exception point. Reappears in [[burgis-kasthala-gaza]].",
+   "conceptNotes": {
+    "environment": "ecocide as an international crime",
+    "individual-responsibility": "proposed fifth ICC crime",
+    "law-nonlaw": "expressive function of criminalisation"
+   }
   },
   {
    "id": "burgis-kasthala-gaza",
@@ -3188,11 +3330,30 @@
    "cite": "EJIL: Talk!, Nov. 14, 2024 (excerpts)",
    "concepts": [
     "law-nonlaw",
-    "human-rights"
+    "human-rights",
+    "individual-responsibility",
+    "environment",
+    "self-determination"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "EJIL: Talk! post (Nov. 2024), with Matilde Masetti Placci. The excerpt omits p. 2 and the ending.\n\n**Thesis.** 'Genocide' carries explosive expressive power. Speakers resist the normalisation of suffering through *genocide anachronisms* (broad conceptions overlooked in the 1948 definition) and *genocide neologisms* (recent efforts at analysis or norm creation). The 'cacophony of criminalisation' tries to undercut genocide's rigidities, especially intent and physical destruction. It builds on law rather than rejecting it, and reflects scholars' 'widespread need … to have their respective fields be seen as relevant'. 'Genocide and its related cides' often crowd out other paradigms such as crimes against humanity.\n\n**Older terms.** *Sociocide* (Russell Tribunal 2013: 'the systematic destruction of the essence of a social group', invoked for its expressive power and set against self-determination). *Politicide* (Kimmerling 2003). *Economicide* and 'de-development' (Sara Roy). Much of this came from outside international law, out of fear that the law cannot capture Palestinian experience.\n\n**New and reinvigorated cides.**\n- *Medicide*: attacks on hospitals, personnel and vehicles; links to art. II(d) (births prevented) and beyond, to long-term reproduction and quality of life.\n- *Scholasticide*: more than 600,000 students lost a year; about 11,000 university students and more than 500 teachers killed. Art. II(e) is silent on education's link to group identity. The Central Archives were bombed (*memoricide*).\n- *Domicide/spaciocide/urbicide*: more than two-thirds of buildings destroyed; displacement of over 90%. Common space is the prerequisite of collective identity; 'safe zones' are targeted.\n- *Ecocide*: from Agent Orange in Vietnam. Destruction of land and agriculture 'ungrounds' Indigenous people; Forensic Architecture finds changes to Gaza's geology. It disrupts anthropocentric victimhood: 'Genocide cannot encompass this type of harm.' The Rome Statute amendment was formally proposed in September 2024, and the ICC has jurisdiction over Palestine since 2014.\n\n**Full circle: Nakba.** Grinberg (2009) disdained neologisms for 'The Thing without a Name' as vulnerable to caveats, and preferred Arabic terms. 'Nakba' entered English legal discourse via South Africa at the ICJ (Dec. 2023), as both a historical event and an ongoing process.",
+   "arguments": [
+    "Genocide's legal limits (intent, physical destruction) drive proliferating neologisms.",
+    "Each 'cide' names a dimension of group destruction: health, education, space, environment, memory.",
+    "Neologisms aim at relevance and expressive power more than doctrine.",
+    "Genocide talk can crowd out other legal paradigms.",
+    "Nakba as an older, non-legal name for an ongoing process."
+   ],
+   "source": "",
+   "short": "Burgis-Kasthala — Gaza 'cides'",
+   "tldr": "Faced with Gaza, speakers of the law reach beyond 'genocide' to a proliferation of 'cides': sociocide, politicide, medicide, scholasticide, domicide/spaciocide/urbicide, ecocide, memoricide. These are attempts to escape genocide's narrow intent and physical-destruction requirements. They are not a rejection of law but a struggle to stay relevant. The circle closes on 'Nakba' as a word for an ongoing process.",
+   "context": "A coda on the expressive and discursive limits of law. It tests [[kennedy-hr-problem]]'s worry that naming atrocity can be a way of not responding, and the law/non-law boundary ([[schachter-twilight]]). Ecocide links to [[siddique-ecocide]]. The criminal-law turn is examined in [[engle-grip]], [[koskenniemi-impunity]] and [[drumbl-smouldering]]. Compare [[rychter-emoji]] on law's vocabulary under strain.",
+   "conceptNotes": {
+    "law-nonlaw": "expressive vs doctrinal uses of 'genocide'",
+    "human-rights": "naming atrocity",
+    "individual-responsibility": "genocide's intent requirement",
+    "environment": "ecocide in Gaza",
+    "self-determination": "sociocide vs self-determination"
+   }
   },
   {
    "id": "barthes-eiffel",
@@ -4182,12 +4343,6 @@
    "note": "Neoliberal legalism and bias against the Third World."
   },
   {
-   "from": "nesiah-slavery-afterlives",
-   "to": "johnson-slavery",
-   "type": "builds-on",
-   "note": "Slavery's legacy in humanitarianism and free contract."
-  },
-  {
    "from": "kennedy-hr-problem",
    "to": "kennedy-chart",
    "type": "illustrates",
@@ -4918,6 +5073,126 @@
    "to": "air-services",
    "type": "builds-on",
    "note": "WTO retaliation as institutionalised, authorised countermeasures restoring the balance."
+  },
+  {
+   "from": "kennedy-hr-problem",
+   "to": "damrosch-competing",
+   "type": "critiques",
+   "note": "Damrosch presents 'balances' inside the field; Kennedy asks what the field itself costs."
+  },
+  {
+   "from": "kennedy-spring-break",
+   "to": "kennedy-hr-problem",
+   "type": "illustrates",
+   "note": "The checklist lived: representation, bad faith, voyeurism, false solidarity, the 'third eye'."
+  },
+  {
+   "from": "johnson-slavery",
+   "to": "kennedy-hr-problem",
+   "type": "builds-on",
+   "note": "Both reject 'humanity' and 'victimhood' as innocent categories; Johnson via Marx's critique of abstract rights."
+  },
+  {
+   "from": "nesiah-slavery-afterlives",
+   "to": "johnson-slavery",
+   "type": "extends",
+   "note": "From the Atlantic to the Indian Ocean: the 'slavery' frame sanitises indenture and wage labour."
+  },
+  {
+   "from": "nesiah-slavery-afterlives",
+   "to": "kennedy-hr-problem",
+   "type": "illustrates",
+   "note": "Humanitarian condemnation legitimating economic coercion: insulating the economy, condemnation as legitimation."
+  },
+  {
+   "from": "nesiah-slavery-afterlives",
+   "to": "anghie-imperialism",
+   "type": "builds-on",
+   "note": "Abolition as part of the civilising mission and the dynamic of difference."
+  },
+  {
+   "from": "kennedy-hr-problem",
+   "to": "roepke-1955",
+   "type": "critiques",
+   "note": "Rights insulate the economy: the Imperium/Dominium split seen as a cost."
+  },
+  {
+   "from": "kennedy-hr-problem",
+   "to": "cohen-property-sovereignty",
+   "type": "builds-on",
+   "note": "Background rules of property and contract do the real distributive work."
+  },
+  {
+   "from": "kennedy-hr-problem",
+   "to": "koskenniemi-impunity",
+   "type": "complicates",
+   "note": "Condemnation and criminalisation can legitimate and normalise the harms named."
+  },
+  {
+   "from": "sands-greening",
+   "to": "corfu-1949",
+   "type": "builds-on",
+   "note": "Principle 21: no use of territory to harm others, tempering sovereignty."
+  },
+  {
+   "from": "sands-greening",
+   "to": "gabcikovo",
+   "type": "illustrates",
+   "note": "Cooperation and good neighbourliness at stake in the Danube dam dispute."
+  },
+  {
+   "from": "sands-greening",
+   "to": "schachter-twilight",
+   "type": "applies",
+   "note": "Principles that guide without dictating; soft-law codes alongside treaties."
+  },
+  {
+   "from": "falk-environment",
+   "to": "sands-greening",
+   "type": "complicates",
+   "note": "Explains why the proliferating regime underperforms: neo-liberal globalisation."
+  },
+  {
+   "from": "falk-environment",
+   "to": "roepke-1955",
+   "type": "critiques",
+   "note": "Depoliticised global markets starve public goods and discipline states."
+  },
+  {
+   "from": "falk-environment",
+   "to": "bello-wto",
+   "type": "contrasts",
+   "note": "Trade discipline as a threat to, not a neutral frame for, environmental regulation."
+  },
+  {
+   "from": "siddique-ecocide",
+   "to": "sands-greening",
+   "type": "extends",
+   "note": "From cooperative principles to individual criminal responsibility."
+  },
+  {
+   "from": "siddique-ecocide",
+   "to": "engle-grip",
+   "type": "complicates",
+   "note": "Another turn to criminal law as the answer to structural harm."
+  },
+  {
+   "from": "burgis-kasthala-gaza",
+   "to": "siddique-ecocide",
+   "type": "applies",
+   "note": "Ecocide invoked for Gaza's land, soil and agriculture."
+  },
+  {
+   "from": "burgis-kasthala-gaza",
+   "to": "kennedy-hr-problem",
+   "type": "illustrates",
+   "note": "Naming atrocity: the expressive power and the limits of legal vocabulary."
+  },
+  {
+   "from": "kennedy-spring-break",
+   "to": "knop-feminism-sovereignty",
+   "type": "illustrates",
+   "note": "Gendered images (female victim, male avenger) organising international action."
   }
  ],
  "themes": [
@@ -4986,7 +5261,8 @@
     "chimni-2017",
     "robinson-caribbean",
     "island-of-palmas",
-    "berman-jerusalem"
+    "berman-jerusalem",
+    "nesiah-slavery-afterlives"
    ],
    "concepts": [
     "colonialism",
@@ -5008,7 +5284,9 @@
     "iglp-gvc",
     "koskenniemi-laws-rule-us",
     "chachko-heath",
-    "salimoff"
+    "salimoff",
+    "nesiah-slavery-afterlives",
+    "falk-environment"
    ],
    "concepts": [
     "political-economy",
@@ -5025,7 +5303,8 @@
     "knop-feminism-sovereignty",
     "engle-grip",
     "cohn-sex-death",
-    "robinson-caribbean"
+    "robinson-caribbean",
+    "kennedy-spring-break"
    ],
    "concepts": [
     "feminist-critique",
@@ -5048,7 +5327,8 @@
     "damrosch-intro",
     "koskenniemi-impunity",
     "vagts-third-reich",
-    "alvarez-new-il"
+    "alvarez-new-il",
+    "kennedy-spring-break"
    ],
    "concepts": [
     "people-with-projects",
