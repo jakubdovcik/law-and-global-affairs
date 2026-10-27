@@ -35,6 +35,84 @@ The individual enters through nationality ([[nottebohm]]) and criminal responsib
 
 **Through-lines to use in papers:** fact vs form (who benefits when effectiveness beats title?), who decides (court, Council, national judge, or the injured state alone?), and the public/private split ([[cohen-property-sovereignty]], [[charlesworth-chinkin-jus-cogens]], [[barcelona-traction]]).
 
+## topics 10–13 in one page: the architecture in history
+
+**Pre-modern and the nineteenth century (Topic 10).** Before the modern split of law from politics, international law was advice to princes. The nineteenth century then built the formal machinery of positivism, sovereignty and 'civilisation'. [[kennedy-primitive]] reads early texts as rhetoric rather than as crude doctrine. [[anghie-imperialism]] shows the civilising mission and the 'dynamic of difference' at the core of sovereignty. [[riles-aspiration-control]] shows how form and aspiration work together.
+
+**Interwar modernism (Topic 11).** After 1918, the response to nationalism was institutions, functions and science:
+- [[alvarez-new-il]]: a 'new' international law;
+- [[jessup-functional]]: functionalism;
+- [[redslob-nationalities]]: minorities;
+- [[vagts-third-reich]]: what law became under Nazism;
+- [[austin-province]] ↔ [[kelsen-lecture-iii]]: the old question of whether international law is law.
+
+**After 1945 (Topic 12).** Topic 4's cases are reread here ([[corfu-1949-merits]]). The responses to war:
+- [[mcdougal-law-power]]: law as policy;
+- [[schachter-hammarskjold]]: the UN civil servant;
+- [[jessup-transnational]]: transnational law;
+- [[henkin-how-nations-behave]] and [[henkin-interstate]]: compliance;
+- [[wedgwood-unilateral]] and [[slaughter-around-un]]: unilateralism and networks.
+
+**Theories of compliance (Topic 13).** Internalisation ([[koh-tlp]], [[koh-trump]]) faces rational choice ([[goldsmith-mercer]]). Then come resilience vs breakdown ([[benvenisti-resilience]], [[hakimi-cogan]]).
+
+## topics 14–18 in one page: new thinking about law's work
+
+**Political economy (Topic 14).** [[roepke-1955]]'s liberal order separates Imperium from Dominium. [[cohen-property-sovereignty]] had already shown that property *is* sovereignty, and [[bello-wto]] defends trade rules as priced options. Keep these three in tension: they frame Topics 15–19.
+
+**Consciousness: human rights and environment (Topic 15).** [[kennedy-hr-problem]] is the pragmatic checklist of costs:
+- it occupies the field;
+- it insulates the economy;
+- it backgrounds the background rules;
+- condemnation can work as legitimation.
+
+[[kennedy-spring-break]] lives those costs from inside. [[johnson-slavery]] and [[nesiah-slavery-afterlives]] show the 'inhuman'/'slavery' frame sanitising racial capitalism. On the environment:
+- [[sands-greening]] gives the regime's principles (sovereignty vs no harm, precaution, CBDR);
+- [[falk-environment]] explains why neo-liberal globalisation starves it;
+- [[siddique-ecocide]] and [[burgis-kasthala-gaza]] show criminal law and naming as the last resort.
+
+**Administration (Topic 16).** Institutions are myths that absorb projection ([[barthes-eiffel]]). The interwar question was whether the League is a person ([[corbett-league]]). [[kennedy-sg]] calls leader-vs-clerk a red herring: power is dispersed, so the Secretary-General should act as an impresario. [[kingsbury-gal]] turns governance into administration, with accountability norms. [[miller-parity]] shows administration and expertise in practice, with Oslo's 'permanent transition' turning law into policy.
+
+**Private ordering (Topic 17).** Corporations govern ([[danielsen-corporate]]). Local rules govern the global economy, while sovereign equality hides power ([[danielsen-local-rules]]). Law constitutes value chains ([[iglp-gvc]]). States now court platforms ([[satariano-tech]]), and one man's satellites shape a war ([[nyt-musk]]).
+
+**Fragmentation (Topic 18).** Three readings of the same splitting:
+- the ILC offers a VCLT toolbox ([[ilc-fragmentation-phenomenon]]);
+- Fischer-Lescano and Teubner see a collision of social rationalities with no apex ([[fischer-lescano-teubner]]);
+- [[lang-regimes]] shows that regimes' biases are built by experts, so 'trade barrier' is a construction.
+
+[[koskenniemi-laws-rule-us]] widens the lens to the robust 'legal infrastructure of global capitalism'. [[chachko-heath]] shows sanctions as a fragmented, barely constrained regime complex.
+
+## topics 19–22 in one page: hierarchy, the local, and war
+
+**Colonialism and resistance (Topic 19).** The first group shows formal equality hiding hierarchy:
+- formal statehood with 'ornamental' sovereignty ([[azikiwe-liberia]]);
+- WWI as a war over colonies, with mandates born of the Pan-African Congress ([[dubois-collapse]]);
+- civilisation revived as 'garden vs jungle' ([[borrell-statement]], [[borrell-apology]]).
+
+Five ways of responding, in rough order:
+1. [[anghie-postcolonial]]: the continuity thesis (civilised → developed; custom made without the colonised);
+2. [[bedjaoui-nieo]]: the NIEO's development law;
+3. [[rajagopal-below]]: social movements, with human rights as the only approved idiom;
+4. [[becker-lorca-bargaining]]: 'combative solidarity' inside existing regimes;
+5. [[chimni-2017]]: global imperialism and a transnational capitalist class.
+
+**The local (Topic 20).** Development has moved down to the city:
+- [[eslava-local]]: Bogotá's map erases slums and the nation;
+- [[sassen-territory]]: global classes and 'presence' in global cities;
+- [[davis-libertun]]: cities as front lines of mismatched sovereignties;
+- [[knop-hidden-city]]: international legal thought is quietly metrocentric.
+
+**War (Topics 21–22).** Start from doctrine: the Charter vs IHL, equal application and necessity ([[oconnell-ihl]]), and weapons law ([[haines-weapons]]). Then complicate it in three ways:
+- the war/not-war line blurring ([[kristian-ukraine]]);
+- the psychology of disillusion and death ([[freud-war-death]]);
+- sanitised, gendered expert language ([[cohn-sex-death]]).
+
+Topic 22 closes the loop:
+- [[clausewitz-on-war]]: war continues policy;
+- [[foucault-body]]: 'humanisation' as a new technique of power;
+- [[kennedy-legal-expertise-war]]: war has become a legal institution, and law its language, at the price of lost responsibility.
+
+**The last move of the course.** Return to Topic 1's *people with projects*. Every doctrine you have studied is a vocabulary that people use in struggle. The question for a paper is never only 'what is the rule?' but 'who uses it, against whom, and with what effect on responsibility?'
+
 ## questions to carry through every reading
 
 - **What is the author's project?** What do they want international law to *do*?
