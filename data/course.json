@@ -873,11 +873,23 @@
    "title": "States",
    "cite": "International Law: Cases and Materials, 281",
    "concepts": [
-    "statehood"
+    "statehood",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The casebook's chapter opener. International legal persons are entities able to hold international rights and duties and act on the international plane (make treaties, join organisations). States are the paradigm, but many entities have had some personality, and individuals and corporations can too under custom or treaty. Personality is relative: not all subjects have the same rights.\n\nDespite this widening, statehood remains central. Friedmann (1964): states are 'the repositories of legitimated authority over peoples and territories'. Jurisdiction, responsibility, treaty-making, war and peace, punishment and extradition all run through state powers. And far from merging into a world system, we face 'the proliferation of sovereignties' (decolonisation).",
+   "arguments": [
+    "International personality is relative and plural.",
+    "Statehood remains the hub of the system.",
+    "Decolonisation multiplied sovereign states rather than dissolving them."
+   ],
+   "source": "",
+   "short": "D&M — States",
+   "tldr": "States are the principal international legal persons, but personality is *relative*: organisations, individuals and corporations can hold some rights and duties. Statehood still matters most. Friedmann: we see not a world authority absorbing sovereignties but a proliferation of them.",
+   "context": "The orthodox baseline for Topic 4. The other readings ask who gets to be a state ([[montevideo]], [[becker-lorca-mestizo]], [[nyt-putin-ukraine]], [[robinson-caribbean]]) and what sovereignty actually contains ([[maine-kathiawar]], [[cohen-property-sovereignty]], [[knop-feminism-sovereignty]]).",
+   "conceptNotes": {
+    "statehood": "states as principal legal persons",
+    "sovereignty": "proliferation of sovereignties"
+   }
   },
   {
    "id": "montevideo",
@@ -887,15 +899,24 @@
    "year": 1933,
    "title": "Convention on the Rights and Duties of States, arts. 1–3",
    "cite": "",
-   "tldr": "Four criteria for statehood: permanent population, defined territory, government, capacity for relations. Art. 3: a state exists politically regardless of recognition.",
-   "draft": true,
+   "tldr": "Art. 1: a state needs a permanent population, a defined territory, a government, and capacity to enter relations with other states. Art. 2: a federal state is one international person. Art. 3: political existence does not depend on recognition; even before recognition a state may defend itself, organise, legislate and run its courts.",
    "concepts": [
     "statehood",
     "recognition"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Signed at the Seventh International Conference of American States (1933); Bolivia did not sign; the US, Peru and Brazil ratified with reservations.\n\n- **Art. 1**: the four qualifications for statehood.\n- **Art. 2**: a federal state is a single person in international law.\n- **Art. 3**: 'The political existence of the state is independent of recognition by the other states.' Before recognition it may defend its integrity and independence, provide for its preservation and prosperity, organise itself, legislate, administer services, and define its courts' jurisdiction. The only limit is other states' rights under international law.\n\n(The excerpt stops at art. 3. Becker Lorca stresses art. 8, non-intervention, as the convention's real prize.)",
+   "arguments": [
+    "Statehood defined by formal, factual criteria, with no 'civilisation' test.",
+    "Recognition is declaratory, not constitutive.",
+    "Pre-recognition states already hold the core sovereign rights."
+   ],
+   "source": "",
+   "short": "Montevideo",
+   "context": "Today's textbook definition. Read with [[becker-lorca-mestizo]] to see it as a Latin American *victory* over the standard of civilisation and US intervention, not a neutral restatement. Test it on [[nyt-putin-ukraine]], [[salimoff]] and [[robinson-caribbean]].",
+   "conceptNotes": {
+    "statehood": "the four criteria",
+    "recognition": "declaratory theory (art. 3)"
+   }
   },
   {
    "id": "becker-lorca-mestizo",
@@ -905,16 +926,31 @@
    "year": 2014,
    "title": "Mestizo International Law: A Global Intellectual History 1842–1933",
    "cite": "(excerpts)",
-   "tldr": "Jurists from the semi-periphery appropriated classical European international law to claim sovereign equality. The result was a *mestizo* (mixed) international law, not one simply imposed from the centre.",
-   "draft": true,
+   "tldr": "Interwar codification, seen from the semi-periphery, was a chance to change international law's structure. Latin American jurists swapped the standard of civilisation for formal statehood and declaratory recognition, and swapped intervention for *non-intervention*. Montevideo (1933) was their great victory.",
    "concepts": [
     "statehood",
     "colonialism",
-    "sovereignty"
+    "sovereignty",
+    "recognition",
+    "twail"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From *Mestizo International Law*, ch. 9, 'Codifying American international law: statehood and non-intervention'.\n\n**Codification as opportunity.** The 1930 Hague codification conference produced almost nothing (Hudson: results 'somewhat meagre'). But for *semi-peripheral* jurists, especially Latin Americans, codification was a chance to transform the basic structure of international law, not just restate it.\n\n**Three shifts achieved:** from a universal (European) international law to *regional* legal orders; from the *standard of civilization* to *formal statehood* with a *declaratory* doctrine of recognition; from intervention to *non-intervention*.\n\n**Why Montevideo mattered.** Today art. 1 looks like a dry restatement or outdated formalism. To contemporaries it capped a 30-year campaign. The League's admission standard required independence plus de jure and de facto recognition by many states, a constitutive test. Classical doctrine (Oppenheim) said statehood alone didn't give membership of the 'Family of Nations'; recognition did. Pillet even made inequality between 'civilised' and 'uncivilised' states the real basis of their relations. Montevideo *dropped* independence (substituting 'government') and *dropped* constitutive recognition, so sovereignty was decoupled from civilisation. Absolute fundamental rights followed: equality and, above all, **art. 8 non-intervention**. By signing, the US for the first time gave up the right to intervene it had long claimed under the Monroe Doctrine (debt collection, protection of nationals).\n\n**Method.** Semi-peripheral jurists *appropriated* the language of modern international law (they were not anti-Western rejectionists) to turn it against hierarchy. Hence 'mestizo'.",
+   "arguments": [
+    "Codification was politics: a chance to rewrite structure, not just restate rules.",
+    "Formal statehood and declaratory recognition were *anti-imperial* tools.",
+    "Non-intervention (art. 8) was the real prize, aimed at US intervention in Latin America.",
+    "Peripheral lawyers appropriated, rather than rejected, European international law."
+   ],
+   "source": "",
+   "short": "Becker Lorca — Mestizo",
+   "context": "Becker Lorca rereads what looks like neutral doctrine as a hard-won political settlement. This links Topic 4 to Topic 11 ([[alvarez-new-il]], Latin American 'new international law') and Topic 19 (his [[becker-lorca-bargaining]], [[anghie-imperialism]]). Pair with Anghie: same history, different emphasis (agency vs structure).",
+   "conceptNotes": {
+    "statehood": "formal statehood as a semi-peripheral achievement",
+    "recognition": "from constitutive to declaratory",
+    "colonialism": "end of the standard of civilisation",
+    "sovereignty": "non-intervention",
+    "twail": "semi-peripheral agency"
+   }
   },
   {
    "id": "nyt-putin-ukraine",
@@ -925,11 +961,25 @@
    "title": "Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.",
    "cite": "The New York Times, Feb. 21, 2022",
    "concepts": [
-    "statehood"
+    "statehood",
+    "recognition",
+    "jus-ad-bellum"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "On 21 February 2022 Putin recognised the Donetsk and Luhansk 'People's Republics' and argued that modern Ukraine was 'entirely and fully created by Russia', a Bolshevik mistake. The NYT counters:\n- Kyiv predates Moscow; Kievan Rus is a shared origin; Ukraine's history mixes Russian, Austro-Hungarian, Polish and Lithuanian rule.\n- The Soviets crushed the early independent Ukrainian state and suppressed Ukrainian language and culture.\n- Independence in 1991 came by a democratic referendum.\n- Russia had pledged to respect Ukraine's sovereignty when Ukraine gave up nuclear weapons (Budapest, 1994), then seized Crimea in 2014.\n- Analysts (Tucker): the aim is to argue Ukraine 'is not currently entitled to the sorts of rights that we associate with sovereign nations', so intervention wouldn't violate sovereignty.",
+   "arguments": [
+    "Statehood claims are fought through *historical narrative*.",
+    "Denying statehood can be used to deny sovereign rights and the protection of non-intervention.",
+    "Recognition of breakaway entities is used as an instrument of war."
+   ],
+   "source": "",
+   "short": "NYT — Putin/Ukraine",
+   "tldr": "On the eve of the 2022 invasion Putin called Ukrainian statehood a fiction created by Lenin. Historians reply that Ukraine's history is long and plural, and that independence in 1991 came from a Ukrainian referendum, not a Moscow gift. Analysts read the speech as groundwork for denying Ukraine sovereign rights.",
+   "context": "A live test of [[montevideo]]: does Ukraine meet the criteria? Who decides? Pair with Topic 8 (territory, self-determination) and Topic 22 (use of force).",
+   "conceptNotes": {
+    "statehood": "statehood denied as pretext",
+    "recognition": "recognition of Donetsk/Luhansk",
+    "jus-ad-bellum": "prelude to invasion"
+   }
   },
   {
    "id": "robinson-caribbean",
@@ -940,11 +990,27 @@
    "title": "Dyadic Caribbean Constitutions",
    "cite": "in Small State Constitutionalism (Hart), 31–34",
    "concepts": [
-    "statehood"
+    "statehood",
+    "sovereignty",
+    "colonialism",
+    "feminist-critique"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Setting.** The Caribbean has the world's largest concentration of small jurisdictions. The split between independent small states and non-sovereign territories is 'somewhat overdrawn': the region is described as 'non-sovereign' or of 'constrained sovereignty', with sovereignty 'spectral' after decolonisation. The Anglo-Caribbean: 18 jurisdictions, 12 independent former UK colonies (1962–83), 6 British Overseas Territories (BOTs). Most have under 200,000 people.\n\n**Dyadic constitutionalism.** Their constitutions speak the language of modern constitutionalism (people, citizenship, rights, supremacy), but the incomplete paths to decolonisation trouble the idea that the end of empire is a precondition for it. The internal constitution references and depends on an external British, partly imperial one. Nationalism, imperialism, globalisation and geopolitics are tensely yoked.\n\n**Gender and sexuality as the flashpoint.** Same-sex marriage has become 'a pivotal issue for indexing sovereignty'. In 2022 the Privy Council (London) held there is no constitutional right to same-sex marriage in Bermuda or the Cayman Islands. In 2023, in a Bahamian appeal, it read 'parent' to give citizenship to children born outside marriage to Bahamian fathers, despite restrictive constitutional language.",
+   "arguments": [
+    "Formal independence ≠ full sovereignty: small states live in 'constrained sovereignty'.",
+    "Constitutions can be paired with an external imperial constitution.",
+    "Gender, family and sexuality are where nationhood and sovereignty get defined."
+   ],
+   "source": "",
+   "short": "Robinson — Caribbean",
+   "tldr": "Caribbean constitutions are *dyadic*. Even formally independent small states, and especially British Overseas Territories, have constitutions entangled with an external, imperial British constitution (e.g. Privy Council appeals). Fights over gender, sexuality and marriage are where this entangled sovereignty is most visibly contested.",
+   "context": "Montevideo's tidy criteria meet messy postcolonial reality. Links to [[maine-kathiawar]] (divisible sovereignty in empire), [[knop-feminism-sovereignty]] (gender and sovereignty) and Topic 19 (hierarchy).",
+   "conceptNotes": {
+    "statehood": "small states and non-sovereign territories",
+    "sovereignty": "constrained, 'spectral' sovereignty",
+    "colonialism": "postcolonial entanglement",
+    "feminist-critique": "gender/sexuality as sites of sovereignty"
+   }
   },
   {
    "id": "salimoff",
@@ -954,15 +1020,29 @@
    "year": 1933,
    "title": "Salimoff & Co. v. Standard Oil Co.",
    "cite": "262 N.Y. 220 (excerpts)",
-   "tldr": "The US had not recognised the USSR, but the court still treated Soviet confiscation decrees as acts of a real (de facto) government. Facts on the ground beat the formality of recognition.",
-   "draft": true,
+   "tldr": "Former owners sued buyers of oil confiscated by the unrecognised Soviet government, arguing its decrees were mere banditry. The NY Court of Appeals disagreed. 'We all know that it is a government.' Recognition doesn't create a state; a de facto government's decrees take effect within its territory, so the buyers got good title.",
    "concepts": [
     "recognition",
-    "statehood"
+    "statehood",
+    "reception",
+    "political-economy"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** The Soviet government nationalised oil lands and sold oil to Standard Oil and Vacuum Oil. The Russian former owners sought an accounting, arguing the decrees of an unrecognised government had no more legal effect than seizure by bandits.\n\n**Holding (Pound C.J.).**\n- Had the USSR been recognised, recognition would be retroactive and the act-of-state principle would bar review.\n- The US has refused *diplomatic* recognition 'as one might refuse to recognize an objectionable relative', yet acknowledges the Soviet government has functioned de facto since 1917.\n- Juridically an unrecognised government may be treated as none at all, but legal concepts are 'seldom, if ever, carried to the limit of their logic'; common sense and fairness limit them (as after the US Civil War).\n- 'As a juristic conception, what is Soviet Russia? A band of robbers or a government? We all know that it is a government.' Recognition 'does not create the state. It simply gives to a de facto state international status.'\n- Courts can't grant de jure recognition before the State Department does, but they may say it is a government in fact. To refuse would 'give to fictions an air of reality which they do not deserve'.\n- Within its territory the Soviet state was sovereign. Complaints dismissed.",
+   "arguments": [
+    "Courts distinguish political (de jure) recognition from factual existence.",
+    "Effective control produces legal effects regardless of recognition.",
+    "Courts avoid pushing legal fictions to absurd results.",
+    "Property title follows the de facto sovereign's acts in its territory."
+   ],
+   "source": "",
+   "short": "Salimoff",
+   "context": "Declaratory theory ([[montevideo]] art. 3) in a domestic court. Note the property and capital stakes: who owns expropriated oil. This connects to [[cohen-property-sovereignty]] and Topic 14 (political economy, expropriation). Compare Holmes's 'sovereignty is pure fact' in [[american-banana]].",
+   "conceptNotes": {
+    "recognition": "de facto vs de jure",
+    "statehood": "effective government",
+    "reception": "a state court applying international doctrine",
+    "political-economy": "expropriation and title"
+   }
   },
   {
    "id": "rychter-emoji",
@@ -973,11 +1053,25 @@
    "title": "New Emoji is a Meaningful Symbol for Indigenous Australians",
    "cite": "The New York Times, May 26, 2017",
    "concepts": [
-    "recognition"
+    "recognition",
+    "private-ordering",
+    "self-determination"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The emoji arrived during the week of the 1967 referendum anniversary, Sorry Day and the Mabo anniversary, while Indigenous leaders at Uluru called for a constitutionally enshrined representative body. Commentators: emojis matter because communication now runs through them; Twitter gives Indigenous Australians a space that bypasses mainstream gatekeepers; it's like skin-tone emoji, since 'there wasn't one for us'. Complication: Harold Thomas, who designed the Aboriginal flag in 1971, holds its copyright (he had refused Google in 2010) and negotiated with Twitter. Against this sit massive real inequalities: over-incarceration, poorer health, lower life expectancy.",
+   "arguments": [
+    "Recognition happens on many registers: legal, constitutional, symbolic, digital.",
+    "Private platforms now confer forms of recognition.",
+    "Symbols of nationhood can be private property (copyright)."
+   ],
+   "source": "",
+   "short": "Rychter — emoji",
+   "tldr": "In 2017, as Indigenous leaders met at Uluru to demand constitutional recognition, Twitter added an Aboriginal and Torres Strait Islander flag emoji. It was a tiny but meaningful form of *recognition*, granted by a corporate platform and negotiated with the flag's copyright holder.",
+   "context": "A deliberately odd pairing with [[salimoff]]: recognition is not only something states do to states. Look ahead to private power ([[nyt-musk]], [[satariano-tech]]) and the 'turn to the local' (Topic 20).",
+   "conceptNotes": {
+    "recognition": "symbolic/digital recognition of Indigenous peoples",
+    "private-ordering": "a corporation grants recognition",
+    "self-determination": "Uluru and constitutional recognition"
+   }
   },
   {
    "id": "schooner-exchange",
@@ -987,15 +1081,29 @@
    "year": 1812,
    "title": "The Schooner Exchange v. McFaddon",
    "cite": "11 U.S. 116 (excerpts)",
-   "tldr": "A state's jurisdiction in its territory is exclusive and absolute. Yet by implied consent it waives jurisdiction over a foreign sovereign's warship, so the French vessel is immune.",
-   "draft": true,
+   "tldr": "Americans claimed a ship France had seized and turned into a warship. Marshall: a nation's territorial jurisdiction is 'exclusive and absolute', and every exception rests on its own consent, express or implied. Friendly foreign warships entering open ports carry an implied exemption, so the court lacks jurisdiction.",
    "concepts": [
     "sovereignty",
-    "territoriality"
+    "territoriality",
+    "public-private",
+    "naturalism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** McFaddon claimed the schooner *Exchange*, seized from him in 1810 under Napoleon's decrees and commissioned as a French warship. Storms forced it into Philadelphia. The US government intervened: the US was at peace with France and the ship was the Emperor's public property.\n\n**Reasoning (Marshall C.J.).**\n- 'The jurisdiction of the nation within its own territory is necessarily exclusive and absolute.' Any external restriction would diminish its sovereignty, so all exceptions must trace to the territorial sovereign's *consent*, express or implied, sometimes shown by 'common usage'.\n- Sovereigns are equal and independent, and share an interest in intercourse, so each is understood to waive part of its jurisdiction in a class of cases: (1) the person of a foreign sovereign; (2) foreign ministers; (3) foreign troops given passage.\n- Warships differ from armies: ports of a friendly nation are presumptively open to them unless notice is given.\n- Private individuals and merchant ships owe local allegiance (the sovereign has no reason to want them exempt). A public armed ship is part of the sovereign's military force, so the implied licence includes immunity.\n- The territorial sovereign can withdraw the implication (by force or by subjecting such ships to its courts), but until it does so unmistakably, courts may not assume jurisdiction. General statutes giving property claims aren't read to cover such ships.\n- Judgment: libel dismissed; the *Exchange* is immune.",
+   "arguments": [
+    "Territorial sovereignty is exclusive and absolute; exceptions come only from consent.",
+    "Implied consent, read from usage and the 'dignity' of sovereigns, does real legal work.",
+    "Public/private distinction: sovereign acts are immune, private trade is not.",
+    "Courts defer to the political branches on foreign relations."
+   ],
+   "source": "",
+   "short": "Schooner Exchange",
+   "context": "The classic statement of absolute territorial sovereignty and the origin of sovereign immunity in US law. Topic 10 asks you to review it as 'before modernity': note how much rests on dignity, usage and implication among 'civilized' sovereigns. Contrast [[maine-kathiawar]] (divided sovereignty) and [[lotus]].",
+   "conceptNotes": {
+    "sovereignty": "exclusive and absolute territorial sovereignty",
+    "territoriality": "jurisdiction tied to territory",
+    "public-private": "public armed ships vs private merchants",
+    "naturalism": "reasoning from 'general principles' and the dignity of sovereigns"
+   }
   },
   {
    "id": "antelope",
@@ -1005,16 +1113,31 @@
    "year": 1825,
    "title": "The Antelope",
    "cite": "23 U.S. (10 Wheat.) 66 (excerpts)",
-   "tldr": "The slave trade is contrary to natural law, but not to the law of nations, because nations practised it. A stark positivist result, decided over the claims of the enslaved Africans.",
-   "draft": true,
+   "tldr": "Africans taken from a slave ship were claimed by Spain and Portugal as property and by the US for freedom. Marshall: the slave trade is contrary to natural law but *not* to the law of nations, which rests on usage and consent. No nation can legislate for others. Spain got back about 93 people as slaves; the Portuguese claim failed for want of proof.",
    "concepts": [
     "sovereignty",
     "positivism",
-    "colonialism"
+    "colonialism",
+    "custom",
+    "naturalism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** A privateer crewed largely by Americans plundered Portuguese and Spanish slavers (including the *Antelope*) off Africa. The renamed ship, with about 280 Africans, was seized off the US coast. Spain's and Portugal's consuls claimed the Africans as property; the US claimed them as entitled to freedom under US law.\n\n**Reasoning (Marshall C.J.).**\n- The court must 'not yield to feelings' but 'obey the mandate of the law'.\n- The trade was long sanctioned by all colonial nations; Britain and the US have since abolished and suppressed it, and public feeling 'should march somewhat in advance of strict law'.\n- British cases (*Amedie*, *Diana*, *Louis*): legality depends on the flag state's law; the right of search is belligerent only, and slave trading is not piracy.\n- That the trade is contrary to the law of nature 'will scarcely be denied'. But war has always conferred rights, and enslavement of captives was universal usage. The law of nations is 'tried by the test of general usage. That which has received the assent of all, must be the law of all.' Africa still practises it.\n- A jurist, unlike a moralist, looks to usage and general assent. On that test the trade is legal.\n- Perfect equality of nations ('Russia and Geneva have equal rights'): none can impose a rule on another. A right vested in all by consent can be divested only by consent, so the trade 'remains lawful to those whose governments have not forbidden it'. It is not piracy; courts don't execute foreign penal laws.\n- Application: the Spanish claimants proved title only to 93 (not 166); the Portuguese claim failed, with no owner appearing after five years, suggesting Americans using foreign flags. Those Africans go to the US, to be dealt with by law.",
+   "arguments": [
+    "Natural law and the law of nations are separated: positivism trumps morality.",
+    "Sovereign equality and consent mean no state can outlaw a practice for others.",
+    "Burden of proof and evidentiary rules decide human freedom.",
+    "'Civilized' states' consent defines law; Africa appears as the place of the 'harsh rule'."
+   ],
+   "source": "",
+   "short": "The Antelope",
+   "context": "Positivism at its starkest, deciding whether people are property. Topic 10 and Topic 19 return to it: [[anghie-imperialism]] (sovereignty made in the colonial encounter), [[johnson-slavery]] and [[nesiah-slavery-afterlives]] (Topic 15). Compare how [[paquete-habana]] uses 'humanity' to *find* custom.",
+   "conceptNotes": {
+    "positivism": "law of nations = usage + consent, not natural law",
+    "sovereignty": "perfect equality: none can legislate for another",
+    "colonialism": "slavery and Africa in the law of nations",
+    "custom": "general usage as test",
+    "naturalism": "natural law acknowledged then set aside"
+   }
   },
   {
    "id": "maine-kathiawar",
@@ -1024,15 +1147,29 @@
    "year": 1864,
    "title": "The Kathiawar States and Sovereignty",
    "cite": "",
-   "tldr": "Sovereignty is divisible: the Kathiawar chiefs kept some sovereign powers under British paramountcy.",
-   "draft": true,
+   "tldr": "Sovereignty is a bundle of separable powers and 'has always been regarded as divisible'. The Kathiawar chiefs hold a small portion (immunity from foreign laws, some jurisdiction, coinage), while Britain as paramount power holds most, including an almost unlimited right to intervene for good order. Sovereignty is a question of fact.",
    "concepts": [
     "sovereignty",
-    "colonialism"
+    "colonialism",
+    "statehood",
+    "unilateral-declarations"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Maine's 1864 minute as Law Member of the Viceroy's Council, on Britain's relationship to the Kathiawar 'feudatory' states.\n\n- The Bombay government treated Kathiawar as British territory under British law. Maine disagrees: the states enjoy 'some measure (although a very limited measure) of sovereignty', so their territory is *foreign* territory.\n- **Sovereignty is a question of fact**: claims must be actually asserted, not just theoretically available. Britain had never asserted full sovereignty and the Court of Directors disclaimed it in 1830, an admission against interest binding Britain 'until a new state of things arises through war or treaty'.\n- **Divisibility**: sovereignty is 'a well-ascertained assemblage of separate powers' (war and peace, justice, legislation…), which can be split among holders, as in the Holy Roman Empire, the German and Swiss confederations, and the US states. Sovereignty is divisible; *independence* is not. In India there is every shade of sovereignty but only one independent sovereign, the British Government.\n- How sovereignty is distributed is decided case by case from treaties or, failing those, de facto relations. Kathiawar states hold immunity from foreign laws, limited jurisdiction and coinage; Britain holds the rest, including a right of interference for 'the better order of the States' in good faith.\n- Even with more sovereignty, intervention would be justified: great powers would intervene in a European group of small states 'hastening to utter anarchy'. Britain itself caused the anarchy by stopping the wars that would have consolidated the chiefships.",
+   "arguments": [
+    "Sovereignty = a divisible bundle; independence = indivisible.",
+    "Sovereignty is a fact, proven by practice and admissions.",
+    "Imperial paramountcy is legally structured, not lawless.",
+    "Intervention justified by 'good order', 'good faith' and paternalism."
+   ],
+   "source": "",
+   "short": "Maine — Kathiawar",
+   "context": "An imperial lawyer's sophisticated legal pluralism, the opposite of [[schooner-exchange]]'s 'exclusive and absolute'. Divided sovereignty returns in [[knop-feminism-sovereignty]], [[robinson-caribbean]], and Topic 19's hierarchy. Note the civilising-mission justification for intervention ([[anghie-imperialism]]).",
+   "conceptNotes": {
+    "sovereignty": "divisible sovereignty; fact not claim",
+    "colonialism": "paramountcy over princely states",
+    "statehood": "demi-sovereign states",
+    "unilateral-declarations": "a disclaimer as binding admission"
+   }
   },
   {
    "id": "american-banana",
@@ -1042,16 +1179,32 @@
    "year": 1909,
    "title": "American Banana Co. v. United Fruit Co.",
    "cite": "213 U.S. 347 (excerpts)",
-   "tldr": "The Sherman Act does not reach conduct in Panama and Costa Rica. Whether an act is lawful depends on the law of the place where it was done: strict territoriality.",
-   "draft": true,
+   "tldr": "A US company said United Fruit got Costa Rica to seize its Panama plantation. Holmes: whether an act is lawful is 'determined wholly by the law of the country where the act is done'; all legislation is presumptively territorial, so the Sherman Act doesn't reach it. And 'sovereignty is pure fact': a foreign state's seizure can't be a tort.",
    "concepts": [
     "territoriality",
     "jurisdiction",
-    "political-economy"
+    "political-economy",
+    "sovereignty",
+    "public-private"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Allegations.** United Fruit monopolised the banana trade. When McConnell (then American Banana) built a plantation and railway in Panama, United Fruit allegedly induced Costa Rica to administer the area, send soldiers to seize the plantation, and obtain a court judgment, then bought the land. Treble damages were sought under the Sherman Act.\n\n**Holmes's opinion.**\n- The acts occurred outside US jurisdiction. Countries sometimes apply their law to their citizens where no sovereign or adequate law exists (high seas, 'uncivilized' places), or punish pirates, but 'the general and almost universal rule is that the character of an act as lawful or unlawful must be determined wholly by the law of the country where the act is done.' To do otherwise would be unjust and an interference with another sovereign, contrary to comity.\n- Law is a prediction of when public force will be applied by courts, so it is addressed to those within the court's power. 'All legislation is prima facie territorial.' 'Every person' means everyone subject to the legislator, not everyone it can catch.\n- The acts weren't torts where done. A state's seizure can't be complained of elsewhere (*Underhill*, act of state). De jure title in Panama is irrelevant: '**sovereignty is pure fact**'.\n- Persuading a sovereign to act can't be a tort, because the sovereign's own act makes it lawful: 'The very meaning of sovereignty is that the decree of the sovereign makes law.'\n- A US conspiracy to do acts abroad doesn't make them unlawful if local law permits them. Judgment affirmed.",
+   "arguments": [
+    "Strict territoriality: the place of the act governs its legality.",
+    "Presumption against extraterritorial application of statutes.",
+    "Act of state: foreign sovereign acts are not reviewable.",
+    "Sovereignty as fact, and as the power to make law by decree.",
+    "The upshot: a US corporation could use a foreign state's power free from US antitrust law."
+   ],
+   "source": "",
+   "short": "American Banana",
+   "context": "Formal territoriality protecting private corporate power in Central America (United Fruit). Cohen's [[cohen-property-sovereignty]] reads it from the other side. The 'effects' doctrine later reversed its result ([[bank-nova-scotia]], [[restatement-402-404]]). Topic 10 asks you to review it as 'before modernity'.",
+   "conceptNotes": {
+    "territoriality": "the classic statement",
+    "jurisdiction": "presumption against extraterritoriality",
+    "political-economy": "United Fruit and Central American states",
+    "sovereignty": "sovereignty as pure fact",
+    "public-private": "private company acting through a sovereign"
+   }
   },
   {
    "id": "cohen-property-sovereignty",
@@ -1061,16 +1214,30 @@
    "year": 1927,
    "title": "Property and Sovereignty",
    "cite": "13 Cornell L. Rev. 8 (excerpts)",
-   "tldr": "Property is a form of sovereignty: private ownership (*dominium*) gives power over other people (*imperium*). The public/private line is a political choice.",
-   "draft": true,
+   "tldr": "The neat split of public law (*imperium*, sovereignty) from private law (*dominium*, property) is a myth. Property is a legal right to exclude others from things they need, so it is power over people: owners command services and 'tax the future social product'. Property law should be judged like any form of government.",
    "concepts": [
     "public-private",
     "political-economy",
-    "sovereignty"
+    "sovereignty",
+    "private-ordering"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A 1927 Cornell lecture by the philosopher Morris Cohen.\n\n**The distinction.** Since Montesquieu and Blackstone, sovereignty belongs to public law and property to private law, mirroring Roman *imperium* vs *dominium*. But early Germanic and feudal law fused them: land tenure carried homage, justice, even control of wards' marriages. Even in the 18th century the Prince of Hesse could sell his subjects as soldiers.\n\n**Modern relevance.** The shift to a money economy ended landed aristocratic rule, but the US Supreme Court now treats freedom of contract as property (e.g. striking down minimum wages), so 'a certain domain of sovereignty' passes 'from the state to the private employer of labor'. This is laissez-faire as constitutional law ('Am I my brother's keeper' as industrial law).\n\n**Property as power.** Property is not things but rights *against other people* regarding things. Its essence is the right to *exclude*. Where things are necessary to others' lives, that gives the owner 'a power, limited but real, to make him do what I want'. The 'free' labour contract hides this. Property law also determines *future* distribution: rent, interest and guaranteed returns are 'powers to tax the future social product'. Add command over dependent workers and 'we have the essence of what historically has constituted political sovereignty'. Captains of industry shape consumption, fashion and investment; foreign lenders exercise this power openly over needy countries.\n\n**Conclusion.** This is not an argument against private property, since some government is necessary. But 'dominion over things is also imperium over our fellow human beings', so property law must be assessed with the social ethics we apply to government.",
+   "arguments": [
+    "Public/private is a historical construct, not a natural division.",
+    "Property = state-backed power to exclude = power over persons.",
+    "Ownership of capital is a form of private sovereignty (taxing the future, commanding labour).",
+    "Courts constitutionalising contract shift sovereignty from state to employer.",
+    "Therefore property rules should face political, ethical scrutiny."
+   ],
+   "source": "",
+   "short": "Cohen — Property & Sovereignty",
+   "context": "The seed of the course's political-economy thread. Read it next to [[american-banana]] (United Fruit as private sovereign), then [[roepke-1955]], [[danielsen-corporate]], [[iglp-gvc]], [[koskenniemi-laws-rule-us]]. Its attack on the public/private split also links to feminism ([[charlesworth-chinkin-jus-cogens]], [[knop-feminism-sovereignty]]).",
+   "conceptNotes": {
+    "public-private": "property as private sovereignty",
+    "political-economy": "property, wages, finance as power",
+    "sovereignty": "imperium inside dominium",
+    "private-ordering": "employers and financiers as rulers"
+   }
   },
   {
    "id": "corfu-1949",
@@ -1078,17 +1245,29 @@
    "sub": "Sovereignty and Sovereign Rights",
    "author": "ICJ",
    "year": 1949,
-   "title": "Corfu Channel Case (United Kingdom v. Albania)",
+   "title": "Corfu Channel Case (UK v. Albania): individual opinion of Judge Álvarez",
    "cite": "1949 I.C.J. Rep 244 (excerpts)",
-   "tldr": "Albania is responsible for mines that damaged British warships: every state must not knowingly let its territory be used against others' rights. The UK's later minesweeping violated Albanian sovereignty.",
-   "draft": true,
+   "tldr": "Judge Alvarez's individual opinion: sovereignty is the whole body of a state's rights in its territory and relations. It isn't obsolete, since it is rooted in national sentiment, but it can no longer be absolute and individualist. Interdependence binds states to rules they never accepted, so sovereignty is now 'an international social function'.",
    "concepts": [
     "sovereignty",
-    "state-responsibility"
+    "state-responsibility",
+    "modernism",
+    "general-principles"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The Topic 4 excerpt is the individual opinion of **Judge Alejandro Álvarez** (Chile) in *Corfu Channel* (UK v. Albania, merits, 1949). The case held Albania responsible for mines that damaged British warships, and found the UK's later minesweeping a violation of Albanian sovereignty.\n\nÁlvarez's points:\n- Definition: sovereignty is 'the whole body of rights and attributes which a State possesses in its territory, to the exclusion of all other States, and also in its relations with other States'. It confers rights *and* imposes obligations.\n- Abolishing sovereignty would be an error: it is deeply rooted in national sentiment and the psychology of peoples, and the UN Charter (art. 2(1)) recognises it.\n- But the concept has evolved. It is no longer an absolute, individual right under an 'individualist regime' where states were bound only by rules they accepted. Because of 'social interdependence and the predominance of the general interest', states are bound by many rules they did not consent to.\n- Sovereignty has become 'an institution, an international social function of a psychological character', exercised according to the *new* international law.",
+   "arguments": [
+    "Sovereignty is relative and functional, not absolute.",
+    "Interdependence produces obligations without consent (anti-Lotus).",
+    "This is the Latin American 'new international law' voice inside the ICJ."
+   ],
+   "source": "",
+   "short": "Corfu — Alvarez op.",
+   "context": "Álvarez is the author of [[alvarez-new-il]] (Topic 11), so this opinion carries interwar modernism into the post-1945 Court. Set it against [[lotus]] (consent, freedom) and [[schooner-exchange]] (absolute territorial jurisdiction). The case returns in Topic 12 ([[corfu-1949-merits]]) for its 'elementary considerations of humanity'.",
+   "conceptNotes": {
+    "sovereignty": "sovereignty as international social function",
+    "modernism": "Álvarez's 'new international law'",
+    "general-principles": "obligations without consent"
+   }
   },
   {
    "id": "knop-feminism-sovereignty",
@@ -1100,11 +1279,29 @@
    "cite": "3 Transnational L. & Contemp. Probs. 318 (excerpts)",
    "concepts": [
     "feminist-critique",
-    "sovereignty"
+    "sovereignty",
+    "self-determination",
+    "policy-science",
+    "functionalism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Excerpts from a long 1993 article (Parts IV.B–V).\n\n**The state is not one self.** It contains many groups and performs functions that don't serve all of them. International law handles the 'fit' between state and population through self-determination (usually statehood) or minority rights. That line is blurring: self-determination is being read as *less* than full sovereignty, and minorities claim self-determination. The question has shifted from *who* practises sovereignty (government or people) to *what* sovereignty should be. Why one sovereign order coterminous with the state? Why not overlapping, fragmented, layered sovereignties?\n\n**Policy-oriented and functionalist approaches** (McDougal, Lasswell, Reisman; Stone; Johnston) treat state sovereignty as a distraction: law is decision, combining authority and control, within wider global processes. They break sovereignty into functions and allow direct participation by individuals and groups, potentially women. But feminists may object to the school's liberal equality, objectivity, rationality and universalism, and to its assumption that knowledge alone empowers.\n\n**Normative approaches.** Limited sovereignty asks why the state monopolises representation internationally on issues it doesn't control domestically (federal sub-units, minorities). Overlapping sovereignty rejects the zero-sum 'monocular' view: Elshtain's 'co-existence of overlapping, porous sovereignties'; MacCormick's plural institutional orders (the EC); Dane on indigenous and religious legal orders; indigenous peoples demanding to be subjects.\n\n**Conclusion.** These approaches share feminist concerns with difference, voice and pluralism, but won't automatically increase women's influence. Women's aspirations don't always lie in autonomy, and women can be trapped between the state and a competing order. Hence the need for women's perspectives on sovereignty theory.",
+   "arguments": [
+    "Sovereignty's form, not just its holder, is now contested.",
+    "Functionalist and policy approaches disaggregate sovereignty, which is useful but liberal-rationalist.",
+    "Overlapping and porous sovereignties are a pluralist alternative.",
+    "Pluralism doesn't automatically help women; feminist perspectives are needed."
+   ],
+   "source": "",
+   "short": "Knop — Feminism & sovereignty",
+   "tldr": "The state is not a 'unified self'. Feminist theory and new approaches to sovereignty both ask not just *who* is sovereign but *what* sovereignty should be: overlapping, fragmented, layered. Policy-science opens room for many participants but carries liberal, rationalist assumptions. The task is to develop women's perspectives on sovereignty.",
+   "context": "Sovereignty after the state as 'unified self', between [[maine-kathiawar]]'s divisibility and Topic 20's turn to the local ([[knop-hidden-city]] is her later work on cities). It also critiques [[mcdougal-law-power]] in advance (Topic 12).",
+   "conceptNotes": {
+    "feminist-critique": "women's perspectives on sovereignty",
+    "sovereignty": "overlapping, layered sovereignties",
+    "self-determination": "self-determination as less than statehood",
+    "policy-science": "feminist assessment of New Haven",
+    "functionalism": "functional disaggregation of sovereignty"
+   }
   },
   {
    "id": "damrosch-nationality",
@@ -1115,11 +1312,25 @@
    "title": "Acquisition and Denial of Nationality",
    "cite": "International Law: Cases and Materials, 444–445",
    "concepts": [
-    "nationality"
+    "nationality",
+    "individual-responsibility",
+    "human-rights"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Two casebook pages (partly cut off in the scan).\n\n- **Nuremberg (IMT) on individuals**: the casebook also excerpts the Tribunal's rejection of the defence that international law addresses only states: 'Crimes against international law are committed by men, not by abstract entities.'\n- **Nationality**: 1930 Hague Convention art. 1: each state determines its nationals under its own law, but others recognise this only so far as consistent with conventions, custom and general principles. Norms constraining conferral and withdrawal have since grown. The 1963 European convention treated multiple nationality as undesirable; labour migration and sex equality (both spouses able to pass nationality to children) led to its relaxation (1993 Protocol) and the 1997 European Convention on Nationality (avoiding statelessness, non-discrimination, facilitating acquisition by spouses and long-term residents).\n- **Spiro's thesis**: nationality is increasingly framed in human-rights terms; a 'new international law of citizenship' may put 'the individual and the state … on equal footing'. If even membership is subject to international constraint, the state's most constitutive act is no longer purely sovereign.",
+   "arguments": [
+    "Nationality is formally domestic but internationally conditioned.",
+    "Human rights and migration are reshaping citizenship law.",
+    "Individuals become subjects through criminal responsibility and citizenship rights."
+   ],
+   "source": "",
+   "short": "D&M — nationality",
+   "tldr": "Traditionally each state decides who its nationals are, recognised by others only insofar as consistent with international law (1930 Hague Convention). Increasingly, regional treaties and human rights constrain that discretion (multiple nationality, sex equality, statelessness), suggesting a new international law of citizenship.",
+   "context": "Background for [[nottebohm]]: when must other states accept a grant of nationality? It also previews Topic 6 (individual criminal responsibility).",
+   "conceptNotes": {
+    "nationality": "domestic discretion vs international limits",
+    "individual-responsibility": "Nuremberg: crimes committed by men, not abstract entities",
+    "human-rights": "rights framing of citizenship"
+   }
   },
   {
    "id": "nottebohm",
@@ -1129,15 +1340,27 @@
    "year": 1955,
    "title": "Nottebohm Case (Liechtenstein v. Guatemala)",
    "cite": "1955 I.C.J. Rep 4 (excerpts)",
-   "tldr": "Liechtenstein cannot protect Nottebohm against Guatemala: his naturalisation lacked a *genuine connection* with Liechtenstein. Nationality on the international plane requires an effective link.",
-   "draft": true,
+   "tldr": "Nottebohm, a German who had lived and done business in Guatemala for 34 years, bought a fast-track Liechtenstein naturalisation in October 1939 to swap belligerent for neutral nationality. Each state sets its own nationality rules, but to protect someone *against another state* the nationality must reflect a *genuine connection*. It didn't, so the claim was inadmissible.",
    "concepts": [
     "nationality",
-    "judicial-rulemaking"
+    "judicial-rulemaking",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** Born in Hamburg in 1881, Nottebohm moved to Guatemala in 1905 and built a large commercial, banking and plantation business. In October 1939, a month into WWII, he obtained Liechtenstein naturalisation within days (residence requirement waived, taxes paid, oath sworn), then returned to Guatemala. In 1943 Guatemala, now at war with Germany, removed him and seized his property. Liechtenstein sued.\n\n**Reasoning.**\n- Liechtenstein, like every state, may set its own nationality rules; nationality mostly operates within its own legal system ('domestic jurisdiction').\n- But exercising diplomatic protection 'is to place oneself on the plane of international law', and international law decides whether one state must recognise another's grant.\n- Practice, decisions and writers: nationality is 'a legal bond having as its basis a social fact of attachment, a genuine connection of existence, interests and sentiments, together with … reciprocal rights and duties'. It must be the juridical expression of a real, preponderant connection.\n- Naturalisation 'is not a matter to be taken lightly': it breaks one allegiance and creates another.\n- Applied: his family, business and home were in Guatemala (and Germany); his Liechtenstein links were tenuous (short visits, a brother, no settled abode or intention to move). The purpose was to gain neutral status and protection, not to join Liechtenstein's community.\n- Guatemala need not recognise it; Liechtenstein's claim is inadmissible.",
+   "arguments": [
+    "International law decides the *external effect* of a domestic legal act.",
+    "'Genuine link' / effective nationality: law must track social fact.",
+    "Opportunistic, wartime naturalisation is not opposable to another state.",
+    "The Court creates a test from practice and writings: judicial rulemaking."
+   ],
+   "source": "",
+   "short": "Nottebohm",
+   "context": "A key example of post-1945 *judicial rulemaking*: the 'genuine link' had little firm basis before 1955. Note the wartime context (Guatemala seizing German-linked property under US pressure). The Court refuses the analogy in [[barcelona-traction]]. Compare [[salimoff]] (fact over form) and Topic 20's ideas of membership.",
+   "conceptNotes": {
+    "nationality": "genuine link test",
+    "judicial-rulemaking": "creating the genuine connection rule",
+    "sovereignty": "limits on the external effect of sovereign acts"
+   }
   },
   {
    "id": "barcelona-traction",
@@ -1147,16 +1370,32 @@
    "year": 1970,
    "title": "Barcelona Traction, Light and Power Co. (Belgium v. Spain)",
    "cite": "1970 I.C.J. 3 (excerpts)",
-   "tldr": "Belgium cannot protect the shareholders of a Canadian company; the state of incorporation is the one that can. Famous dictum: some obligations are owed *erga omnes*, to the international community as a whole.",
-   "draft": true,
+   "tldr": "Belgium couldn't protect Belgian shareholders (about 88% of shares) of a Canadian company bankrupted in Spain. International law borrows municipal company law: company and shareholder are separate, and only the company's national state (Canada, where it was incorporated and registered) may claim. No 'genuine link' test applies here, and equity doesn't change it (15–1).",
    "concepts": [
     "nationality",
     "erga-omnes",
-    "judicial-rulemaking"
+    "judicial-rulemaking",
+    "political-economy",
+    "private-ordering"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** Barcelona Traction, incorporated in Canada in 1911 and operating utilities in Spain, was declared bankrupt by Spanish courts. Belgium claimed for injury to Belgian nationals holding most of its shares.\n\n**Reasoning.**\n- States admitting foreign investment owe it legal protection (para 33). But whose *right* was violated? Belgium's only if its nationals' rights (not just interests) were infringed.\n- International law must *recognise and refer to* municipal-law institutions like the corporation, an economic invention enabling operations beyond individual capacity (paras 37–41). Company and shareholder are separate; only the company acts in corporate matters. A wrong to the company often harms shareholders, but harm to interests ≠ infringement of rights (para 44).\n- Belgium's argument that no rule *denies* it standing presupposes the right it must prove. International law's silence doesn't favour shareholders (paras 51–52).\n- **Nationality of companies** (paras 70–71): traditionally incorporation plus registered office. Some states also require seat, control or majority ownership, but no absolute 'genuine connection' test is accepted, and *Nottebohm* is not analogous. Barcelona Traction's 50-year Canadian incorporation, office, books and board meetings give a 'close and permanent connection'.\n- Canada did protect it for years, then stopped by choice. A state is 'the sole judge' of whether, how far and when to protect, for political or other reasons (para 79).\n- **Equity** (paras 92–101): perhaps shareholders' states may act where the company's state *cannot* (e.g. it is the wrongdoer), but not here. Allowing shareholder claims would let even one-share holders' states claim, creating 'confusion and insecurity in international economic relations'. Investors choose foreign incorporation for tax and other advantages and must accept the risks.\n- *(Famous dictum, para 33–34, not in the excerpt: obligations erga omnes owed to the international community as a whole.)*",
+   "arguments": [
+    "Respect for the corporate form: international law defers to general municipal company law.",
+    "The company's state of incorporation has standing; shareholders' states don't.",
+    "Diplomatic protection is a discretionary state right, not an individual entitlement.",
+    "Stability of international economic relations favours a clear, formal rule.",
+    "Investors' freedom to choose a corporate nationality carries its risks."
+   ],
+   "source": "",
+   "short": "Barcelona Traction",
+   "context": "The capital-side mirror of [[nottebohm]]: for persons a substantive genuine link, for companies a formal incorporation test. Political economy in judicial form (an investment dispute between Western states). It also seeds the erga omnes idea ([[ilc-fragmentation-jus-cogens]]). Look ahead to [[shalakany-arbitration]] and investment arbitration (Topic 14).",
+   "conceptNotes": {
+    "nationality": "nationality of corporations",
+    "erga-omnes": "the erga omnes dictum (not in excerpt)",
+    "judicial-rulemaking": "rules on corporate diplomatic protection",
+    "political-economy": "foreign investment and the corporate form",
+    "private-ordering": "corporate law shaping international claims"
+   }
   },
   {
    "id": "tehran-hostages",
@@ -1166,14 +1405,27 @@
    "year": 1979,
    "title": "United States Diplomatic and Consular Staff in Tehran (Order of Dec. 15)",
    "cite": "1979 I.C.J. 7 (excerpts)",
-   "tldr": "Provisional measures ordering the hostages' release. A dispute's political side does not stop the Court from ruling on its legal side.",
-   "draft": true,
+   "tldr": "Iran refused to appear, arguing the hostages were a 'marginal' aspect of 25 years of US interference (including the 1953 CIA coup) and a matter of its sovereignty. The Court unanimously ordered the embassy restored and all hostages released. A dispute's other political aspects don't stop the Court deciding its legal ones; diplomatic inviolability is fundamental.",
    "concepts": [
-    "political-questions"
+    "political-questions",
+    "sovereignty",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**The case.** After militants seized the US Embassy in Tehran on 4 November 1979, the US sued Iran, relying on the Vienna Conventions on Diplomatic and Consular Relations (and their optional protocols), the 1955 Treaty of Amity, and the Internationally Protected Persons Convention, and asked for provisional measures.\n\n**Iran's letter (9 Dec 1979).** The hostage question is 'a marginal and secondary aspect of an overall problem': over 25 years of US interference, the 1953 coup against Mossadegh, the Shah's regime under US control, 'shameless exploitation'. The Court can't isolate it from that political dossier. The revolution of 'a whole oppressed nation against its oppressors' is a matter of Iran's national sovereignty. Iran did not appear.\n\n**The Court's order (unanimous).**\n- Non-appearance doesn't prevent provisional measures. The Vienna protocols give a prima facie basis for jurisdiction.\n- However important Iran's grievances, seizing an embassy and holding protected persons as hostages cannot be 'secondary'; the UN Secretary-General and Security Council (Res. 457) see a grave threat to peace.\n- Iran could have raised US conduct by defence or counter-claim; by not appearing it deprived itself of that. Nothing in the Statute lets the Court decline 'one aspect of a dispute merely because that dispute has other aspects, however important.'\n- The revolution is within Iran's sovereignty, but a dispute over diplomatic premises and protected persons under multilateral conventions 'by its very nature falls within international jurisdiction'.\n- Diplomatic inviolability is the most fundamental prerequisite of inter-state relations, observed by 'nations of all creeds and cultures'; risk of irreparable harm.\n- Measures: restore the premises; release all hostages; accord immunities; both parties to avoid aggravating the dispute; keep under review.",
+   "arguments": [
+    "Legal and political aspects of a dispute can be separated; the Court takes the legal slice.",
+    "Diplomatic law is a universal, cross-cultural foundation of international order.",
+    "Non-appearance does not stop the Court.",
+    "Iran's anti-imperial history is reframed as irrelevant or as a matter for counter-claim."
+   ],
+   "source": "",
+   "short": "Tehran hostages (order)",
+   "context": "The Court's answer to the 'political question' objection, which the US itself later faced in [[nicaragua-1984]] (which quotes Tehran). Note how Iran's narrative (1953 coup, Topic 14's political economy) is set aside. Compare [[nuclear-tests]], where the Court avoided ruling.",
+   "conceptNotes": {
+    "political-questions": "legal slice of a political dispute",
+    "sovereignty": "revolution as domestic matter vs international jurisdiction",
+    "colonialism": "Iran's anti-imperial framing set aside"
+   }
   },
   {
    "id": "nicaragua-1984",
@@ -1183,15 +1435,29 @@
    "year": 1984,
    "title": "Military and Paramilitary Activities in and against Nicaragua (Jurisdiction)",
    "cite": "1984 I.C.J. Reports 392 (excerpts)",
-   "tldr": "The Court takes jurisdiction despite the US attempt to withdraw. It rejects the argument that an ongoing armed conflict belongs only to the Security Council and politics.",
-   "draft": true,
+   "tldr": "Nicaragua sued the US over support for the Contras and the mining of its harbours. The ICJ rejected all five US admissibility objections (no indispensable-parties rule; the Security Council's primary role isn't exclusive; ongoing conflict is justiciable; self-defence is a legal 'right'; no need to exhaust the Contadora process). The US then walked out.",
    "concepts": [
     "political-questions",
-    "jus-ad-bellum"
+    "jus-ad-bellum",
+    "institutions",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Five US objections, all rejected:**\n1. **Indispensable third parties** (e.g. Honduras): no such rule in the Statute or practice; others may intervene or sue separately.\n2–3. **Use of force belongs to the Security Council** (Ch. VII), so the application is an appeal from the Council's failure to act: following *Tehran*, matters before the Council can proceed *pari passu* in the Court. Art. 24 gives the Council 'primary', not exclusive, responsibility. 'The Council has functions of a political nature …, whereas the Court exercises purely judicial functions'; they are complementary. The Court has never shied away from cases with political implications or use of force (*Corfu Channel*). The US itself brought seven aerial-incident cases in the 1950s. Self-defence is called a 'right' in art. 51, which shows a legal dimension the Court may judge.\n4. **Judicial function can't handle ongoing conflict**: evidentiary difficulty means a claim may fail for lack of proof, not that it's inadmissible from the start.\n5. **Regional Contadora process must be exhausted**: no such requirement; *Tehran*: the Court won't decline one aspect of a dispute because of others.\n\n**Aftermath.** The US announced (Jan 1985) it would not participate further. Legal Adviser Sofaer: accepting ICJ authority over self-defence would 'surrender to that body the power to pass on our efforts to guarantee the safety and security of this nation'. The US later withdrew its acceptance of compulsory jurisdiction. The 1986 merits judgment went against the US.",
+   "arguments": [
+    "Political and judicial organs have complementary, not exclusive, roles.",
+    "Use of force and self-defence are justiciable legal questions.",
+    "Procedural objections can't be used to make law's reach depend on power.",
+    "A superpower's exit shows the limits of adjudicating hegemonic force."
+   ],
+   "source": "",
+   "short": "Nicaragua (jurisdiction)",
+   "context": "The high point of the Court's claim over 'political' questions, met by US withdrawal: a lesson in the limits of judicial rulemaking. Links to [[tehran-hostages]] (the US as applicant then respondent), Topic 12's 'Managing an Empire' ([[mcdougal-law-power]], [[wedgwood-unilateral]]), and Topic 22 (law of force).",
+   "conceptNotes": {
+    "political-questions": "Court vs Security Council; ongoing conflict",
+    "jus-ad-bellum": "self-defence as legal right",
+    "institutions": "UN organs' division of labour",
+    "law-and-politics": "US withdrawal"
+   }
   },
   {
    "id": "koskenniemi-impunity",
@@ -3116,18 +3382,6 @@
    "note": "The ILC's hierarchy of 'universal' norms rests on a gendered public/private split."
   },
   {
-   "from": "salimoff",
-   "to": "montevideo",
-   "type": "complicates",
-   "note": "Without recognition, a de facto government still counts: facts vs. formalities."
-  },
-  {
-   "from": "becker-lorca-mestizo",
-   "to": "montevideo",
-   "type": "complicates",
-   "note": "Montevideo (1933) as itself a product of semi-peripheral lawyers' strategy."
-  },
-  {
    "from": "american-banana",
    "to": "schooner-exchange",
    "type": "builds-on",
@@ -3146,12 +3400,6 @@
    "note": "The Restatement's neutral 'bases' of jurisdiction hide how jurisdiction constructs state interest."
   },
   {
-   "from": "cohen-property-sovereignty",
-   "to": "american-banana",
-   "type": "complicates",
-   "note": "Private property abroad (United Fruit) is itself a form of sovereign power."
-  },
-  {
    "from": "danielsen-corporate",
    "to": "cohen-property-sovereignty",
    "type": "builds-on",
@@ -3168,18 +3416,6 @@
    "to": "antelope",
    "type": "illustrates",
    "note": "Positivism's acceptance of slavery as a practice of 'nations' shows the dynamic of difference."
-  },
-  {
-   "from": "barcelona-traction",
-   "to": "nottebohm",
-   "type": "contrasts",
-   "note": "Genuine link for individuals vs. formal state of incorporation for companies."
-  },
-  {
-   "from": "nicaragua-1984",
-   "to": "tehran-hostages",
-   "type": "builds-on",
-   "note": "Both reject the idea that a political or armed dispute is beyond the Court."
   },
   {
    "from": "burkina-mali",
@@ -3516,6 +3752,126 @@
    "to": "ilc-arsiwa",
    "type": "critiques",
    "note": "The imputability rules of state responsibility leave out states that tolerate endemic private violence against women."
+  },
+  {
+   "from": "becker-lorca-mestizo",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "Montevideo's dry criteria were a semi-peripheral victory: civilisation dropped, recognition made declaratory, non-intervention won."
+  },
+  {
+   "from": "salimoff",
+   "to": "montevideo",
+   "type": "applies",
+   "note": "A domestic court applies the declaratory view: a de facto government's acts count without recognition."
+  },
+  {
+   "from": "american-banana",
+   "to": "salimoff",
+   "type": "builds-on",
+   "note": "Both treat sovereignty as fact; foreign sovereign acts and de facto decrees take legal effect."
+  },
+  {
+   "from": "cohen-property-sovereignty",
+   "to": "american-banana",
+   "type": "critiques",
+   "note": "Property is private sovereignty: United Fruit wielded imperium through dominium and a foreign state's power."
+  },
+  {
+   "from": "corfu-1949",
+   "to": "lotus",
+   "type": "contrasts",
+   "note": "Álvarez: interdependence binds states to rules they never accepted, the opposite of the Lotus presumption of freedom."
+  },
+  {
+   "from": "corfu-1949",
+   "to": "alvarez-new-il",
+   "type": "applies",
+   "note": "Álvarez brings his interwar 'new international law' into an ICJ opinion."
+  },
+  {
+   "from": "knop-feminism-sovereignty",
+   "to": "maine-kathiawar",
+   "type": "extends",
+   "note": "Divisible sovereignty returns as the feminist and pluralist idea of overlapping, layered sovereignties."
+  },
+  {
+   "from": "knop-feminism-sovereignty",
+   "to": "mcdougal-law-power",
+   "type": "critiques",
+   "note": "Policy-science disaggregates sovereignty and invites participation but rests on liberal, rationalist assumptions."
+  },
+  {
+   "from": "robinson-caribbean",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "Formally independent small states live in 'constrained sovereignty' under dyadic, imperial constitutions."
+  },
+  {
+   "from": "nyt-putin-ukraine",
+   "to": "montevideo",
+   "type": "illustrates",
+   "note": "Statehood contested through historical narrative as a prelude to invasion."
+  },
+  {
+   "from": "rychter-emoji",
+   "to": "salimoff",
+   "type": "contrasts",
+   "note": "Recognition beyond states: a platform 'recognises' Indigenous peoples while the state withholds constitutional recognition."
+  },
+  {
+   "from": "antelope",
+   "to": "paquete-habana",
+   "type": "contrasts",
+   "note": "Both 'find' the law of nations in usage; Paquete reads humanity into custom, the Antelope refuses to let natural law override consent."
+  },
+  {
+   "from": "schooner-exchange",
+   "to": "lotus",
+   "type": "builds-on",
+   "note": "Both build from exclusive territorial sovereignty and consent as the source of any limit."
+  },
+  {
+   "from": "barcelona-traction",
+   "to": "nottebohm",
+   "type": "contrasts",
+   "note": "A substantive genuine-link test for an individual, but a formal incorporation test for a company; the Court expressly refuses the Nottebohm analogy."
+  },
+  {
+   "from": "nicaragua-1984",
+   "to": "tehran-hostages",
+   "type": "builds-on",
+   "note": "Nicaragua quotes Tehran: the Court won't decline the legal aspect of a dispute because it has political ones, or because the Security Council is seized."
+  },
+  {
+   "from": "nicaragua-1984",
+   "to": "corfu-1949-merits",
+   "type": "builds-on",
+   "note": "The Court cites Corfu Channel to show it has never shied from cases involving use of force."
+  },
+  {
+   "from": "nottebohm",
+   "to": "salimoff",
+   "type": "illustrates",
+   "note": "Both make legal status track social fact: effective government, effective nationality."
+  },
+  {
+   "from": "barcelona-traction",
+   "to": "shalakany-arbitration",
+   "type": "contrasts",
+   "note": "A formal, investor-limiting rule between Western states vs. the later investment arbitration regime critiqued for bias against the Third World."
+  },
+  {
+   "from": "tehran-hostages",
+   "to": "bedjaoui-nieo",
+   "type": "complicates",
+   "note": "Iran's anti-imperial framing (1953 coup, exploitation) is the kind of history the NIEO and TWAIL put at the centre, but the Court sets it aside."
+  },
+  {
+   "from": "damrosch-nationality",
+   "to": "nottebohm",
+   "type": "illustrates",
+   "note": "Nationality is set domestically but limited internationally when invoked against other states."
   }
  ],
  "themes": [
@@ -3578,7 +3934,8 @@
     "borrell-statement",
     "bedjaoui-nieo",
     "rajagopal-below",
-    "chimni-2017"
+    "chimni-2017",
+    "robinson-caribbean"
    ],
    "concepts": [
     "colonialism",
@@ -3599,7 +3956,8 @@
     "danielsen-corporate",
     "iglp-gvc",
     "koskenniemi-laws-rule-us",
-    "chachko-heath"
+    "chachko-heath",
+    "salimoff"
    ],
    "concepts": [
     "political-economy",
@@ -3615,7 +3973,8 @@
     "charlesworth-chinkin-jus-cogens",
     "knop-feminism-sovereignty",
     "engle-grip",
-    "cohn-sex-death"
+    "cohn-sex-death",
+    "robinson-caribbean"
    ],
    "concepts": [
     "feminist-critique",
