@@ -1,0 +1,39 @@
+## the arc of the course
+
+The syllabus moves in four big steps. Seeing them makes each reading easier to place.
+
+1. **The mystery (Part I).** Global governance is hard to see: who rules, and through what? The field is framed as *people with projects*, with a history of ideas you can chart ([[kennedy-chart]], [[berman-modernism]]).
+2. **The architecture (Part II, Topics 2–9).** The standard toolkit of public international law: **norms** (custom, sources, hierarchy), **entities** (states, individuals), **powers** (jurisdiction, territory), and how the machine is **mobilised** (state responsibility, countermeasures). Read these doctrinally *and* ask what each doctrine assumes about sovereignty.
+3. **The architecture in history (Part III, Topics 10–12).** The same toolkit, historicised: pre-modern naturalism, interwar modernism, then post-1945 positivism, policy-science and the return to norms. The syllabus explicitly sends you *back* to Topic 4 cases here: reading them twice is the point.
+4. **New thinking (Parts IV–IX, Topics 13–22).** How later scholarship reimagines law's role through adjudication, consciousness (political economy, human rights), administration, legislation/private ordering, theories of the whole (fragmentation, hierarchy, the local), and finally war as a legal institution.
+
+## questions to carry through every reading
+
+- **What is the author's project?** What do they want international law to *do*?
+- **Where do they draw the law / non-law line?** ([[law-nonlaw]])
+- **What picture of sovereignty does this assume?** Absolute, relative, divided, constructed? ([[sovereignty]])
+- **Who is inside and who is outside?** Civilised/uncivilised, public/private, state/market, male/female. ([[colonialism]], [[public-private]], [[feminist-critique]])
+- **Which period's style of thought is this?** Pre-modern, modernist (1914–45), post-1945, or "new thinking"? Use the chart.
+- **What are the dark sides?** What does the project cost, and for whom? ([[dark-sides]])
+
+## recurring pairs worth comparing
+
+| pair | the tension |
+|---|---|
+| [[lotus]] ↔ [[nuclear-weapons-ao]] | states free unless prohibited, vs. a court unable to say |
+| [[austin-province]] ↔ [[kelsen-lecture-iii]] | is international law law? |
+| [[schooner-exchange]] ↔ [[maine-kathiawar]] | absolute vs divisible sovereignty |
+| [[american-banana]] ↔ [[bank-nova-scotia]] | territoriality vs extraterritorial reach |
+| [[island-of-palmas]] ↔ [[western-sahara]] ↔ [[burkina-mali]] | effective control vs ties vs stability |
+| [[nottebohm]] ↔ [[barcelona-traction]] | genuine link vs formal incorporation; erga omnes |
+| [[mcdougal-law-power]] ↔ [[henkin-how-nations-behave]] | policy vs rules and compliance |
+| [[koh-tlp]] ↔ [[hakimi-cogan]] | internalisation vs the end of an order |
+| [[ilc-fragmentation-phenomenon]] ↔ [[fischer-lescano-teubner]] | coordination vs collision |
+| [[clausewitz-on-war]] ↔ [[kennedy-legal-expertise-war]] | war as politics, law as war's vocabulary |
+
+## assessment notes
+
+- Two 500-word papers, each commenting on the readings for **one assignment**, handed in *before* that class. At least one must be on an assignment taken on or before **Oct 19**. Together they count for 1/3.
+- Final: 2,000-word take-home essay, handed out on the last day of class. It counts for 2/3. The threads above and the connection map are built for that essay.
+
+<!-- Claude: extend this guide as readings and lecture notes come in. Keep it a synthesis, not a quiz. -->

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LGA :: study terminal</title>
+<meta name="theme-color" content="#050805">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="LGA">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="screen">
+  <header>
+    <div class="title"><span class="hi">LGA</span><span class="dim">://</span>law-and-global-affairs <span class="dim">· hls</span></div>
+    <nav id="nav">
+      <a href="#/" data-k="d">[d]ash</a>
+      <a href="#/topics" data-k="t">[t]opics</a>
+      <a href="#/readings" data-k="r">[r]eadings</a>
+      <a href="#/concepts" data-k="c">[c]oncepts</a>
+      <a href="#/map" data-k="m">[m]ap</a>
+      <a href="#/guide" data-k="g">[g]uide</a>
+      <a href="#/notes" data-k="n">[n]otes</a>
+      <a href="#/settings" data-k="s">[s]et</a>
+    </nav>
+    <form id="cmd" autocomplete="off">
+      <label for="cmdin" class="ps1"><span class="hi">jakub@hls</span>:<span id="cwd">~</span>$</label>
+      <input id="cmdin" type="text" spellcheck="false" autocapitalize="off" placeholder="search or type 'help'" enterkeyhint="go">
+    </form>
+  </header>
+  <main id="view"><p class="dim">booting<span class="cursor">_</span></p></main>
+  <footer class="dim"><span id="sync"></span><span>'/' search · '?' help</span></footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

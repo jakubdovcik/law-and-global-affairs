@@ -1,0 +1,3310 @@
+{
+ "title": "Law in Global Affairs",
+ "school": "Harvard Law School",
+ "term": "Fall 2026",
+ "professor": "David Kennedy",
+ "description": "The history of ideas, legal doctrines, institutional and administrative structures intended to organize and legalize international economic and political life, and recent efforts to rethink law's role.",
+ "optional_books": [
+  "David Kennedy, A World of Struggle: How Power, Law, and Expertise Shape Global Political Economy (Princeton, 2016)",
+  "David Kennedy & Martti Koskenniemi, Of Law and the World: Critical Conversations on Power, History and Political Economy (Harvard, 2023)"
+ ],
+ "deliverables": [
+  {
+   "id": "paper-1",
+   "name": "Paper 1 (500 words)",
+   "due": "Before the class discussing the chosen assignment; hard copy to Prof. Kennedy + email to Seamus Darby",
+   "note": "At least one paper must concern an assignment considered on or before Oct 19."
+  },
+  {
+   "id": "paper-2",
+   "name": "Paper 2 (500 words)",
+   "due": "Before the class discussing the chosen assignment",
+   "note": "The two papers together are 1/3 of the grade."
+  },
+  {
+   "id": "final",
+   "name": "Final essay (2,000 words)",
+   "due": "Distributed on the last day of class; due on the last day of the exam period",
+   "note": "2/3 of the grade."
+  }
+ ],
+ "relations_note": "relation types: builds-on, extends, critiques, responds-to, applies, contrasts, illustrates, complicates, revisits",
+ "parts": [
+  {
+   "id": "I",
+   "title": "The Mystery of Global Governance Today",
+   "topics": [
+    1
+   ]
+  },
+  {
+   "id": "II",
+   "title": "The Background Architecture of Public International Law",
+   "topics": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "III",
+   "title": "The Architecture in History",
+   "topics": [
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "id": "IV",
+   "title": "New Thinking: Adjudication",
+   "topics": [
+    13
+   ]
+  },
+  {
+   "id": "V",
+   "title": "New Thinking: Consciousness",
+   "topics": [
+    14,
+    15
+   ]
+  },
+  {
+   "id": "VI",
+   "title": "New Thinking: Administration and Execution",
+   "topics": [
+    16
+   ]
+  },
+  {
+   "id": "VII",
+   "title": "New Thinking: Legislation",
+   "topics": [
+    17
+   ]
+  },
+  {
+   "id": "VIII",
+   "title": "New Thinking: Theories of the Whole",
+   "topics": [
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "id": "IX",
+   "title": "Global Governance in Action: War as an International Legal Institution",
+   "topics": [
+    21,
+    22
+   ]
+  }
+ ],
+ "topics": [
+  {
+   "n": 1,
+   "title": "The Disciplines of International Law and International Institutions – People with Projects and a History of Ideas",
+   "subs": [],
+   "overview": "Opening frame: international law as a field made by *people with projects*, whose ideas have a history. Keep [[kennedy-chart]] at hand all semester — later topics slot into it."
+  },
+  {
+   "n": 2,
+   "title": "The Norms: Custom",
+   "subs": [
+    "Custom"
+   ],
+   "overview": "Where does an unwritten norm come from? Start with [[icj-art38]], then watch how courts and scholars find (or construct) custom: [[paquete-habana]], [[lotus]], [[nuclear-weapons-ao]], against the process view of [[mcdougal-custom]]."
+  },
+  {
+   "n": 3,
+   "title": "Sources – Normative Hierarchy and the Law/Non-law Boundary",
+   "subs": [
+    "General Principles",
+    "Jus Cogens",
+    "Unilateral Declarations",
+    "Non-binding Agreements",
+    "Impossibility and Change of Circumstances"
+   ],
+   "overview": "Two questions run through this topic: is there a *hierarchy* among norms ([[jus-cogens]]), and where is the *edge* between law and non-law (unilateral declarations, twilight agreements, changed circumstances)?"
+  },
+  {
+   "n": 4,
+   "title": "The Entities – Statehood and Sovereignty",
+   "subs": [
+    "",
+    "Statehood and Recognition",
+    "Sovereignty and Sovereign Rights"
+   ],
+   "overview": "Who counts as a state, and what does sovereignty actually give you? Note the syllabus says this may take two classes. Several cases here ([[schooner-exchange]], [[antelope]], [[american-banana]], [[corfu-1949]]) come back in Topic 10."
+  },
+  {
+   "n": 5,
+   "title": "Post-1945 Judicial Rulemaking",
+   "subs": [
+    "Adjudicative Rulemaking",
+    "Adjudicating Political Questions"
+   ],
+   "overview": "The ICJ as a maker of rules ([[nottebohm]], [[barcelona-traction]]) and its willingness to decide disputes that look political ([[tehran-hostages]], [[nicaragua-1984]])."
+  },
+  {
+   "n": 6,
+   "title": "The Entities: International Criminal Law – Individual Responsibility",
+   "subs": [
+    "International Criminal Law – Individual Responsibility"
+   ],
+   "overview": "The individual enters as a subject of international law. Readings range from the structural critique in [[koskenniemi-impunity]] to sovereigntist rejection in [[bolton-icc-2018]] and feminist critique in [[engle-grip]]."
+  },
+  {
+   "n": 7,
+   "title": "The Powers: Jurisdiction",
+   "subs": [
+    "Jurisdiction"
+   ],
+   "overview": "The three forms of jurisdiction and how far a state can reach beyond its territory. Doctrine ([[restatement-402-404]]) meets practice ([[bank-nova-scotia]]) and theory ([[malley-manas-nix]], [[berman-globalization-jurisdiction]])."
+  },
+  {
+   "n": 8,
+   "title": "The Powers: Territory",
+   "subs": [
+    "Territory",
+    "International Territories"
+   ],
+   "overview": "How title to territory is acquired and kept stable: effectivités ([[island-of-palmas]]), colonial ties and self-determination ([[western-sahara]]), uti possidetis ([[burkina-mali]]) — then the fantasy of an internationalised territory ([[berman-jerusalem]])."
+  },
+  {
+   "n": 9,
+   "title": "Mobilizing Architecture – Claims and State Responsibility",
+   "subs": [
+    ""
+   ],
+   "overview": "How the architecture is set in motion: attribution, breach, reparation, and self-help through countermeasures ([[ilc-arsiwa]], [[gabcikovo]], [[air-services]])."
+  },
+  {
+   "n": 10,
+   "title": "Before Modernity",
+   "subs": [
+    ""
+   ],
+   "overview": "Review from Topic 4: [[schooner-exchange]], [[antelope]], [[american-banana]], [[corfu-1949]]. Question: how do modern lawyers tell the story of their pre-modern predecessors, and what does the colonial encounter do to sovereignty ([[anghie-imperialism]])?"
+  },
+  {
+   "n": 11,
+   "title": "The Turn to Modernism – 1914–1945",
+   "subs": [
+    ""
+   ],
+   "overview": "Interwar reinvention: new international law ([[alvarez-new-il]]), functionalism ([[jessup-functional]]), nationalities ([[redslob-nationalities]]) — and its dark mirror ([[vagts-third-reich]])."
+  },
+  {
+   "n": 12,
+   "title": "Modern International Law Extended and Contested – 1945–2000",
+   "subs": [
+    "Moment 1 – Normativity Revisited",
+    "Moment 2 – Managing an Empire",
+    "Moment 3 – Back to Norms and Values?"
+   ],
+   "overview": "Three post-war moments: is international law *law* ([[austin-province]] vs [[kelsen-lecture-iii]])? law as policy for a hegemon ([[mcdougal-law-power]], [[jessup-transnational]], [[slaughter-around-un]])? and a return to norms ([[henkin-how-nations-behave]])."
+  },
+  {
+   "n": 13,
+   "title": "National Courts in a Transnational Legal Process and Questions of Reception",
+   "subs": [
+    ""
+   ],
+   "overview": "Koh's transnational legal process, then a stress test: the Trump years and the claimed end of the US-backed order."
+  },
+  {
+   "n": 14,
+   "title": "Consciousness – Political Economy",
+   "subs": [
+    ""
+   ],
+   "overview": "From ordoliberal blueprints ([[roepke-1955]]) to WTO legalism ([[bello-wto]]) and its Third World critique ([[shalakany-arbitration]])."
+  },
+  {
+   "n": 15,
+   "title": "Changing Consciousness as a Governance Strategy – Human Rights and Environmental Protection",
+   "subs": [
+    "Human Rights",
+    "Environmental Protection",
+    "Coda"
+   ],
+   "overview": "Human rights and environmental law as attempts to change how people think, with their dark sides ([[kennedy-hr-problem]]). Environmental readings are recommended."
+  },
+  {
+   "n": 16,
+   "title": "Institutions as “Governance”",
+   "subs": [
+    "",
+    "League of Nations, the United Nations, and a History of Reform",
+    "Leadership as Governance – The Secretary General",
+    "Administration as Governance"
+   ],
+   "overview": "Institutions as myth ([[barthes-eiffel]]), as reform project, as leadership ([[kennedy-sg]]), and as administration ([[kingsbury-gal]])."
+  },
+  {
+   "n": 17,
+   "title": "Regulation and Private Ordering",
+   "subs": [
+    ""
+   ],
+   "overview": "Governance by corporations, value chains and tech platforms: who legislates when the state is not the main actor?"
+  },
+  {
+   "n": 18,
+   "title": "Systems Theory and Fragmentation",
+   "subs": [
+    ""
+   ],
+   "overview": "Is international law one system or many colliding regimes? ILC vs [[fischer-lescano-teubner]] vs [[lang-regimes]]; then capitalism's legal infrastructure ([[koskenniemi-laws-rule-us]])."
+  },
+  {
+   "n": 19,
+   "title": "Global Hierarchies",
+   "subs": [
+    "Colonialism",
+    "Resistance"
+   ],
+   "overview": "Hierarchy as a structure of the whole: colonialism and its rhetoric, then Third World resistance (NIEO, social movements, TWAIL)."
+  },
+  {
+   "n": 20,
+   "title": "New Geographies – The Turn to the Local",
+   "subs": [
+    ""
+   ],
+   "overview": "International law lived in local spaces and cities."
+  },
+  {
+   "n": 21,
+   "title": "“The Law of Armed Conflict,” “Humanitarian Law,” the “Laws of War,” or “jus in bello”",
+   "subs": [
+    ""
+   ],
+   "overview": "The law in war, its history and weapons law, and the psychology and language of those who plan war ([[freud-war-death]], [[cohn-sex-death]])."
+  },
+  {
+   "n": 22,
+   "title": "The Law of Force and the Use of Force – Modern War and Modern Law",
+   "subs": [
+    ""
+   ],
+   "overview": "War as politics ([[clausewitz-on-war]]), power as discipline ([[foucault-body]]), and law as the vocabulary of modern war ([[kennedy-legal-expertise-war]])."
+  }
+ ],
+ "readings": [
+  {
+   "id": "damrosch-intro",
+   "topic": 1,
+   "sub": "",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Introduction to the Study of International Law",
+   "cite": "International Law: Cases and Materials (excerpts)",
+   "concepts": [
+    "sources"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "berman-modernism",
+   "topic": 1,
+   "sub": "",
+   "author": "Nathaniel Berman",
+   "year": 1992,
+   "title": "Modernism, Nationalism, and the Rhetoric of Reconstruction",
+   "cite": "4 Yale J.L. & Humanities 351 (excerpts)",
+   "tldr": "Reads interwar international law as a *modernist* project: a self-conscious reconstruction of the discipline that tried to channel nationalist passion through new legal forms.",
+   "draft": true,
+   "concepts": [
+    "modernism",
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kennedy-chart",
+   "topic": 1,
+   "sub": "",
+   "author": "David Kennedy",
+   "year": null,
+   "title": "Chart: Intellectual History",
+   "cite": "",
+   "tldr": "Kennedy's map of the field's intellectual history. A reference frame for the whole course.",
+   "draft": true,
+   "concepts": [
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "icj-art38",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "ICJ Statute",
+   "year": 1945,
+   "title": "Statute of the International Court of Justice, art. 38",
+   "cite": "",
+   "tldr": "The canonical list of sources: treaties, custom (general practice accepted as law), general principles; judicial decisions and teachings as subsidiary means.",
+   "draft": true,
+   "concepts": [
+    "sources",
+    "custom"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "schachter-custom",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "Oscar Schachter",
+   "year": 1991,
+   "title": "International Law in Theory and Practice (excerpts on custom)",
+   "cite": "",
+   "concepts": [
+    "custom"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "paquete-habana",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "U.S. Supreme Court",
+   "year": 1900,
+   "title": "The Paquete Habana",
+   "cite": "175 U.S. 677",
+   "tldr": "Coastal fishing boats are exempt from capture as prize under customary international law, found in centuries of practice and in treatises. \"International law is part of our law\" where no treaty or controlling act decides.",
+   "draft": true,
+   "concepts": [
+    "custom",
+    "reception"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-custom-q",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Customary Law Questions",
+   "cite": "International Law: Cases and Materials, 61",
+   "concepts": [
+    "custom"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "ilc-custom-2018",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "International Law Commission",
+   "year": 2018,
+   "title": "Draft Conclusions on Identification of Customary International Law",
+   "cite": "",
+   "tldr": "Two elements, each to be shown separately: a general practice, and acceptance as law (opinio juris). Also covers the persistent objector rule.",
+   "draft": true,
+   "concepts": [
+    "custom"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "mcdougal-custom",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "Myres S. McDougal",
+   "year": null,
+   "title": "McDougal on Customary Law",
+   "cite": "quoted in Damrosch & Murphy, 69 n.5",
+   "tldr": "Custom as an ongoing process of claim and response: decision-makers accept or reject states' unilateral claims, rather than applying a fixed rule.",
+   "draft": true,
+   "concepts": [
+    "custom",
+    "policy-science"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "lotus",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "PCIJ",
+   "year": 1927,
+   "title": "The Case of the S.S. “Lotus” (France v. Turkey)",
+   "cite": "1927 P.C.I.J. (ser. A) No. 10 (excerpts)",
+   "tldr": "Turkey may prosecute the French officer after a high-seas collision. Limits on state independence cannot be presumed: states are free unless a prohibiting rule exists. Not prosecuting in the past is not evidence of opinio juris.",
+   "draft": true,
+   "concepts": [
+    "sovereignty",
+    "custom",
+    "jurisdiction"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nuclear-weapons-ao",
+   "topic": 2,
+   "sub": "Custom",
+   "author": "ICJ",
+   "year": 1996,
+   "title": "Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion)",
+   "cite": "I.C.J. Reports 1996 (excerpts)",
+   "tldr": "Neither custom nor treaty clearly authorises or bans nuclear weapons. Their use would generally breach humanitarian law, but the Court cannot decide the extreme case of self-defence where a state's survival is at stake. A famous *non liquet* (no clear answer).",
+   "draft": true,
+   "concepts": [
+    "custom",
+    "jus-in-bello",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "schachter-general-principles",
+   "topic": 3,
+   "sub": "General Principles",
+   "author": "Oscar Schachter",
+   "year": 1991,
+   "title": "International Law in Theory and Practice (excerpts on general principles)",
+   "cite": "",
+   "concepts": [
+    "general-principles",
+    "sources"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "ilc-fragmentation-jus-cogens",
+   "topic": 3,
+   "sub": "Jus Cogens",
+   "author": "International Law Commission",
+   "year": 2006,
+   "title": "Fragmentation of International Law (excerpts on jus cogens)",
+   "cite": "",
+   "tldr": "Jus cogens, erga omnes obligations and UN Charter art. 103 as the few tools that create hierarchy in an otherwise flat system.",
+   "draft": true,
+   "concepts": [
+    "jus-cogens",
+    "fragmentation",
+    "erga-omnes"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "charlesworth-chinkin-jus-cogens",
+   "topic": 3,
+   "sub": "Jus Cogens",
+   "author": "Hilary Charlesworth & Christine Chinkin",
+   "year": 1993,
+   "title": "The Gender of Jus Cogens",
+   "cite": "15 Human Rights Quarterly 66 (excerpts)",
+   "tldr": "The supposedly universal peremptory norms reflect male experience. They target public, state-inflicted harms and leave out harms women typically suffer in the 'private' sphere.",
+   "draft": true,
+   "concepts": [
+    "jus-cogens",
+    "feminist-critique",
+    "public-private"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nuclear-tests",
+   "topic": 3,
+   "sub": "Unilateral Declarations",
+   "author": "ICJ",
+   "year": 1974,
+   "title": "Nuclear Tests Case (Australia v. France)",
+   "cite": "1974 I.C.J. 253 (excerpts)",
+   "tldr": "France's public statements that it would stop atmospheric testing created a binding legal obligation. A public declaration made with intent to be bound is law, so Australia's claim no longer had an object.",
+   "draft": true,
+   "concepts": [
+    "unilateral-declarations",
+    "law-nonlaw"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "schachter-twilight",
+   "topic": 3,
+   "sub": "Non-binding Agreements",
+   "author": "Oscar Schachter",
+   "year": 1977,
+   "title": "The Twilight Existence of Nonbinding International Agreements",
+   "cite": "71 AJIL 296 (excerpts)",
+   "tldr": "Gentlemen's agreements and political accords (e.g. the Helsinki Final Act) are not legally binding, yet they carry real political and moral weight and shape conduct.",
+   "draft": true,
+   "concepts": [
+    "law-nonlaw",
+    "soft-law"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "vclt-61-62",
+   "topic": 3,
+   "sub": "Impossibility and Change of Circumstances",
+   "author": "VCLT",
+   "year": 1969,
+   "title": "Vienna Convention on the Law of Treaties, arts. 61–62",
+   "cite": "",
+   "tldr": "Narrow exits from treaties: supervening impossibility (art. 61) and fundamental change of circumstances, *rebus sic stantibus* (art. 62).",
+   "draft": true,
+   "concepts": [
+    "rebus-sic-stantibus"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "techt-v-hughes",
+   "topic": 3,
+   "sub": "Impossibility and Change of Circumstances",
+   "author": "N.Y. Court of Appeals (Cardozo)",
+   "year": 1920,
+   "title": "Techt v. Hughes",
+   "cite": "229 N.Y. 222 (excerpts)",
+   "tldr": "Did WWI end a US–Prussia treaty that let aliens inherit land? Cardozo: provisions compatible with war survive it, so the inheritance right stood.",
+   "draft": true,
+   "concepts": [
+    "rebus-sic-stantibus",
+    "reception"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "lissitzyn-load-line",
+   "topic": 3,
+   "sub": "Impossibility and Change of Circumstances",
+   "author": "Oliver J. Lissitzyn",
+   "year": 1967,
+   "title": "The International Load Line Convention Case",
+   "cite": "61 AJIL 908 (excerpts)",
+   "tldr": "On the 1941 US claim that changed circumstances (wartime) let it suspend the 1930 Load Line Convention.",
+   "draft": true,
+   "concepts": [
+    "rebus-sic-stantibus"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-states",
+   "topic": 4,
+   "sub": "",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "States",
+   "cite": "International Law: Cases and Materials, 281",
+   "concepts": [
+    "statehood"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "montevideo",
+   "topic": 4,
+   "sub": "",
+   "author": "Montevideo Convention",
+   "year": 1933,
+   "title": "Convention on the Rights and Duties of States, arts. 1–3",
+   "cite": "",
+   "tldr": "Four criteria for statehood: permanent population, defined territory, government, capacity for relations. Art. 3: a state exists politically regardless of recognition.",
+   "draft": true,
+   "concepts": [
+    "statehood",
+    "recognition"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "becker-lorca-mestizo",
+   "topic": 4,
+   "sub": "",
+   "author": "Arnulf Becker Lorca",
+   "year": 2014,
+   "title": "Mestizo International Law: A Global Intellectual History 1842–1933",
+   "cite": "(excerpts)",
+   "tldr": "Jurists from the semi-periphery appropriated classical European international law to claim sovereign equality. The result was a *mestizo* (mixed) international law, not one simply imposed from the centre.",
+   "draft": true,
+   "concepts": [
+    "statehood",
+    "colonialism",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nyt-putin-ukraine",
+   "topic": 4,
+   "sub": "",
+   "author": "Schwirtz, Varenikova & Gladstone",
+   "year": 2022,
+   "title": "Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.",
+   "cite": "The New York Times, Feb. 21, 2022",
+   "concepts": [
+    "statehood"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "robinson-caribbean",
+   "topic": 4,
+   "sub": "",
+   "author": "Tracy Robinson",
+   "year": 2026,
+   "title": "Dyadic Caribbean Constitutions",
+   "cite": "in Small State Constitutionalism (Hart), 31–34",
+   "concepts": [
+    "statehood"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "salimoff",
+   "topic": 4,
+   "sub": "Statehood and Recognition",
+   "author": "N.Y. Court of Appeals",
+   "year": 1933,
+   "title": "Salimoff & Co. v. Standard Oil Co.",
+   "cite": "262 N.Y. 220 (excerpts)",
+   "tldr": "The US had not recognised the USSR, but the court still treated Soviet confiscation decrees as acts of a real (de facto) government. Facts on the ground beat the formality of recognition.",
+   "draft": true,
+   "concepts": [
+    "recognition",
+    "statehood"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "rychter-emoji",
+   "topic": 4,
+   "sub": "Statehood and Recognition",
+   "author": "Tacey Rychter",
+   "year": 2017,
+   "title": "New Emoji is a Meaningful Symbol for Indigenous Australians",
+   "cite": "The New York Times, May 26, 2017",
+   "concepts": [
+    "recognition"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "schooner-exchange",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "U.S. Supreme Court (Marshall)",
+   "year": 1812,
+   "title": "The Schooner Exchange v. McFaddon",
+   "cite": "11 U.S. 116 (excerpts)",
+   "tldr": "A state's jurisdiction in its territory is exclusive and absolute. Yet by implied consent it waives jurisdiction over a foreign sovereign's warship, so the French vessel is immune.",
+   "draft": true,
+   "concepts": [
+    "sovereignty",
+    "territoriality"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "antelope",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "U.S. Supreme Court (Marshall)",
+   "year": 1825,
+   "title": "The Antelope",
+   "cite": "23 U.S. (10 Wheat.) 66 (excerpts)",
+   "tldr": "The slave trade is contrary to natural law, but not to the law of nations, because nations practised it. A stark positivist result, decided over the claims of the enslaved Africans.",
+   "draft": true,
+   "concepts": [
+    "sovereignty",
+    "positivism",
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "maine-kathiawar",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "Henry Maine",
+   "year": 1864,
+   "title": "The Kathiawar States and Sovereignty",
+   "cite": "",
+   "tldr": "Sovereignty is divisible: the Kathiawar chiefs kept some sovereign powers under British paramountcy.",
+   "draft": true,
+   "concepts": [
+    "sovereignty",
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "american-banana",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "U.S. Supreme Court (Holmes)",
+   "year": 1909,
+   "title": "American Banana Co. v. United Fruit Co.",
+   "cite": "213 U.S. 347 (excerpts)",
+   "tldr": "The Sherman Act does not reach conduct in Panama and Costa Rica. Whether an act is lawful depends on the law of the place where it was done: strict territoriality.",
+   "draft": true,
+   "concepts": [
+    "territoriality",
+    "jurisdiction",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "cohen-property-sovereignty",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "Morris R. Cohen",
+   "year": 1927,
+   "title": "Property and Sovereignty",
+   "cite": "13 Cornell L. Rev. 8 (excerpts)",
+   "tldr": "Property is a form of sovereignty: private ownership (*dominium*) gives power over other people (*imperium*). The public/private line is a political choice.",
+   "draft": true,
+   "concepts": [
+    "public-private",
+    "political-economy",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "corfu-1949",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "ICJ",
+   "year": 1949,
+   "title": "Corfu Channel Case (United Kingdom v. Albania)",
+   "cite": "1949 I.C.J. Rep 244 (excerpts)",
+   "tldr": "Albania is responsible for mines that damaged British warships: every state must not knowingly let its territory be used against others' rights. The UK's later minesweeping violated Albanian sovereignty.",
+   "draft": true,
+   "concepts": [
+    "sovereignty",
+    "state-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "knop-feminism-sovereignty",
+   "topic": 4,
+   "sub": "Sovereignty and Sovereign Rights",
+   "author": "Karen Knop",
+   "year": 1993,
+   "title": "Re/Statements: Feminism and State Sovereignty in International Law",
+   "cite": "3 Transnational L. & Contemp. Probs. 318 (excerpts)",
+   "concepts": [
+    "feminist-critique",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-nationality",
+   "topic": 5,
+   "sub": "Adjudicative Rulemaking",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Acquisition and Denial of Nationality",
+   "cite": "International Law: Cases and Materials, 444–445",
+   "concepts": [
+    "nationality"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nottebohm",
+   "topic": 5,
+   "sub": "Adjudicative Rulemaking",
+   "author": "ICJ",
+   "year": 1955,
+   "title": "Nottebohm Case (Liechtenstein v. Guatemala)",
+   "cite": "1955 I.C.J. Rep 4 (excerpts)",
+   "tldr": "Liechtenstein cannot protect Nottebohm against Guatemala: his naturalisation lacked a *genuine connection* with Liechtenstein. Nationality on the international plane requires an effective link.",
+   "draft": true,
+   "concepts": [
+    "nationality",
+    "judicial-rulemaking"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "barcelona-traction",
+   "topic": 5,
+   "sub": "Adjudicative Rulemaking",
+   "author": "ICJ",
+   "year": 1970,
+   "title": "Barcelona Traction, Light and Power Co. (Belgium v. Spain)",
+   "cite": "1970 I.C.J. 3 (excerpts)",
+   "tldr": "Belgium cannot protect the shareholders of a Canadian company; the state of incorporation is the one that can. Famous dictum: some obligations are owed *erga omnes*, to the international community as a whole.",
+   "draft": true,
+   "concepts": [
+    "nationality",
+    "erga-omnes",
+    "judicial-rulemaking"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "tehran-hostages",
+   "topic": 5,
+   "sub": "Adjudicating Political Questions",
+   "author": "ICJ",
+   "year": 1979,
+   "title": "United States Diplomatic and Consular Staff in Tehran (Order of Dec. 15)",
+   "cite": "1979 I.C.J. 7 (excerpts)",
+   "tldr": "Provisional measures ordering the hostages' release. A dispute's political side does not stop the Court from ruling on its legal side.",
+   "draft": true,
+   "concepts": [
+    "political-questions"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nicaragua-1984",
+   "topic": 5,
+   "sub": "Adjudicating Political Questions",
+   "author": "ICJ",
+   "year": 1984,
+   "title": "Military and Paramilitary Activities in and against Nicaragua (Jurisdiction)",
+   "cite": "1984 I.C.J. Reports 392 (excerpts)",
+   "tldr": "The Court takes jurisdiction despite the US attempt to withdraw. It rejects the argument that an ongoing armed conflict belongs only to the Security Council and politics.",
+   "draft": true,
+   "concepts": [
+    "political-questions",
+    "jus-ad-bellum"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "koskenniemi-impunity",
+   "topic": 6,
+   "sub": "International Criminal Law – Individual Responsibility",
+   "author": "Martti Koskenniemi",
+   "year": 2002,
+   "title": "Between Impunity and Show Trials",
+   "cite": "6 Max Planck Y.B. U.N. Law 1 (excerpts)",
+   "tldr": "International criminal trials are caught between impunity and show trials. The courtroom becomes a stage for competing histories (e.g. Milošević), so ICL cannot escape the politics of truth.",
+   "draft": true,
+   "concepts": [
+    "individual-responsibility",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "bolton-icc-2018",
+   "topic": 6,
+   "sub": "International Criminal Law – Individual Responsibility",
+   "author": "John Bolton",
+   "year": 2018,
+   "title": "Protecting American Constitutionalism and Sovereignty from International Threats",
+   "cite": "Federalist Society remarks, Sept. 10, 2018",
+   "tldr": "The US national security adviser attacks the ICC as an illegitimate threat to US sovereignty and threatens sanctions on its officials.",
+   "draft": true,
+   "concepts": [
+    "individual-responsibility",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "miller-times-violence",
+   "topic": 6,
+   "sub": "International Criminal Law – Individual Responsibility",
+   "author": "Zinaida Miller",
+   "year": 2024,
+   "title": "Times of Violence, Times of Justice",
+   "cite": "12 London Rev. Int'l L. 249–253",
+   "concepts": [
+    "individual-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "krever-scurrying",
+   "topic": 6,
+   "sub": "International Criminal Law – Individual Responsibility",
+   "author": "Tor Krever",
+   "year": 2024,
+   "title": "Scurrying to the Hague",
+   "cite": "12 London Rev. Int'l L. 231–232",
+   "concepts": [
+    "individual-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "drumbl-smouldering",
+   "topic": 6,
+   "sub": "International Criminal Law – Individual Responsibility",
+   "author": "Mark A. Drumbl",
+   "year": 2024,
+   "title": "Smouldering Semantics",
+   "cite": "12 London Rev. Int'l L. 253–254",
+   "concepts": [
+    "individual-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "engle-grip",
+   "topic": 6,
+   "sub": "International Criminal Law – Individual Responsibility",
+   "author": "Karen Engle",
+   "year": 2020,
+   "title": "Introduction, The Grip of Sexual Violence in Conflict",
+   "cite": "(excerpts)",
+   "tldr": "How sexual violence in conflict came to dominate feminist engagement with international law. A focus on criminalisation narrowed the wider agenda.",
+   "draft": true,
+   "concepts": [
+    "feminist-critique",
+    "individual-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-jurisdiction",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Three Forms of Jurisdiction",
+   "cite": "International Law: Cases and Materials, 733",
+   "tldr": "Jurisdiction to prescribe, to adjudicate, and to enforce.",
+   "draft": true,
+   "concepts": [
+    "jurisdiction"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "restatement-402-404",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "American Law Institute",
+   "year": 1987,
+   "title": "Restatement (Third) of Foreign Relations Law §§402–404",
+   "cite": "",
+   "tldr": "Bases for jurisdiction (territory, effects, nationality, protective principle), a reasonableness test (§403), and universal jurisdiction (§404).",
+   "draft": true,
+   "concepts": [
+    "jurisdiction",
+    "extraterritoriality"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "bank-nova-scotia",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "11th Cir.",
+   "year": 1982,
+   "title": "United States v. Bank of Nova Scotia",
+   "cite": "691 F.2d 1384 (excerpts)",
+   "tldr": "A US grand jury subpoena is enforced against a Canadian bank's Miami branch for records held in the Bahamas, despite Bahamian bank secrecy law.",
+   "draft": true,
+   "concepts": [
+    "extraterritoriality",
+    "jurisdiction"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "sauerbrey-europe",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "Anna Sauerbrey",
+   "year": 2020,
+   "title": "The Failure of Europe's Feeble Muscle Flexing",
+   "cite": "The New York Times, Feb. 10, 2020",
+   "concepts": [
+    "extraterritoriality"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "malley-manas-nix",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "Malley, Manas & Nix",
+   "year": 1990,
+   "title": "Constructing the State Extraterritorially",
+   "cite": "103 Harv. L. Rev. 1273 (excerpts)",
+   "tldr": "Jurisdictional argument does not just divide competence among states that already exist. It constructs the state itself, its 'national interest', and transnational norms.",
+   "draft": true,
+   "concepts": [
+    "jurisdiction",
+    "extraterritoriality",
+    "statehood"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "berman-globalization-jurisdiction",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "Paul Schiff Berman",
+   "year": 2002,
+   "title": "The Globalization of Jurisdiction",
+   "cite": "151 U. Pa. L. Rev. 311 (excerpts)",
+   "tldr": "Proposes a cosmopolitan, pluralist view of jurisdiction, based on community affiliations that do not stop at territorial borders.",
+   "draft": true,
+   "concepts": [
+    "jurisdiction",
+    "the-local"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "hammouri-shipments",
+   "topic": 7,
+   "sub": "Jurisdiction",
+   "author": "Shahd Hammouri",
+   "year": 2024,
+   "title": "Shipments of Death",
+   "cite": "LPE Project, July 15, 2024",
+   "concepts": [
+    "jurisdiction",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "island-of-palmas",
+   "topic": 8,
+   "sub": "Territory",
+   "author": "Permanent Court of Arbitration (Huber)",
+   "year": 1928,
+   "title": "Island of Palmas (United States v. The Netherlands)",
+   "cite": "2 R.I.A.A. 829 (excerpts)",
+   "tldr": "Title requires the continuous and peaceful display of state authority. Discovery gives only an inchoate (incomplete) title. Also introduces the intertemporal law.",
+   "draft": true,
+   "concepts": [
+    "territory",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "western-sahara",
+   "topic": 8,
+   "sub": "Territory",
+   "author": "ICJ",
+   "year": 1975,
+   "title": "Western Sahara (Advisory Opinion)",
+   "cite": "1975 I.C.J. Rep. 12",
+   "tldr": "The territory was not *terra nullius* when Spain colonised it. Morocco and the Mauritanian entity had legal ties to it, but not territorial sovereignty, and those ties do not override self-determination.",
+   "draft": true,
+   "concepts": [
+    "territory",
+    "self-determination",
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "perez-pena-morocco",
+   "topic": 8,
+   "sub": "Territory",
+   "author": "Richard Pérez-Peña",
+   "year": 2020,
+   "title": "How a Long Insurgency Plays into Trump's Move on Morocco",
+   "cite": "The New York Times, Dec. 10, 2020",
+   "concepts": [
+    "territory",
+    "self-determination"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "burkina-mali",
+   "topic": 8,
+   "sub": "Territory",
+   "author": "ICJ",
+   "year": 1986,
+   "title": "Frontier Dispute (Burkina Faso v. Mali)",
+   "cite": "1986 I.C.J. Rep. 554 (excerpts on uti possidetis)",
+   "tldr": "*Uti possidetis juris* is a general principle: colonial administrative boundaries become international borders at independence, for the sake of stability.",
+   "draft": true,
+   "concepts": [
+    "territory",
+    "uti-possidetis",
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "vidmar-greenland",
+   "topic": 8,
+   "sub": "Territory",
+   "author": "Jure Vidmar",
+   "year": 2025,
+   "title": "Greenland and Territorial Acquisition under International Law",
+   "cite": "EJIL: Talk!, Feb. 6, 2025",
+   "concepts": [
+    "territory",
+    "self-determination"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "berman-jerusalem",
+   "topic": 8,
+   "sub": "International Territories",
+   "author": "Nathaniel Berman",
+   "year": 1996,
+   "title": "Legalizing Jerusalem, or, Of Law, Fantasy, and Faith",
+   "cite": "45 Cath. U. L. Rev. 823",
+   "concepts": [
+    "territory",
+    "modernism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-state-resp",
+   "topic": 9,
+   "sub": "",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Rules on State Responsibility",
+   "cite": "International Law: Cases and Materials, 485",
+   "concepts": [
+    "state-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "ilc-arsiwa",
+   "topic": 9,
+   "sub": "",
+   "author": "International Law Commission",
+   "year": 2001,
+   "title": "Draft Articles on Responsibility of States for Internationally Wrongful Acts",
+   "cite": "(excerpts)",
+   "tldr": "A wrongful act is conduct attributable to a state that breaches an obligation. Consequences: cessation and reparation. Also lists the circumstances that preclude wrongfulness (consent, self-defence, countermeasures, necessity…).",
+   "draft": true,
+   "concepts": [
+    "state-responsibility",
+    "countermeasures"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-countermeasures",
+   "topic": 9,
+   "sub": "",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Countermeasures",
+   "cite": "International Law: Cases and Materials, 521",
+   "concepts": [
+    "countermeasures"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "gabcikovo",
+   "topic": 9,
+   "sub": "",
+   "author": "ICJ",
+   "year": 1997,
+   "title": "Gabčíkovo-Nagymaros Project (Hungary v. Slovakia)",
+   "cite": "1997 I.C.J. 7 (excerpts)",
+   "tldr": "Hungary's plea of ecological necessity fails. Slovakia's 'Variant C' is a disproportionate countermeasure. The 1977 treaty survives, and both sides must negotiate.",
+   "draft": true,
+   "concepts": [
+    "state-responsibility",
+    "countermeasures",
+    "rebus-sic-stantibus"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "air-services",
+   "topic": 9,
+   "sub": "",
+   "author": "Arbitral Tribunal",
+   "year": 1978,
+   "title": "Air Services Agreement Case (France v. United States)",
+   "cite": "18 R.I.A.A. 417 (excerpts)",
+   "tldr": "The US could suspend Air France flights to Los Angeles as a proportionate countermeasure to France's breach: self-help in a decentralised system.",
+   "draft": true,
+   "concepts": [
+    "countermeasures"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "lillich-paxman",
+   "topic": 9,
+   "sub": "",
+   "author": "Lillich & Paxman",
+   "year": 1977,
+   "title": "State Responsibility for Injuries to Aliens Occasioned by Terrorist Activities",
+   "cite": "26 Am. U. L. Rev. 717",
+   "concepts": [
+    "state-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nyt-cyber-iran",
+   "topic": 9,
+   "sub": "",
+   "author": "The New York Times",
+   "year": 2019,
+   "title": "The Urgent Search for a Cyber Bullet Against Iran",
+   "cite": "",
+   "concepts": [
+    "countermeasures"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kennedy-primitive",
+   "topic": 10,
+   "sub": "",
+   "author": "David Kennedy",
+   "year": 1986,
+   "title": "Primitive Legal Scholarship",
+   "cite": "27 Harv. Int'l L.J. 1 (excerpts)",
+   "tldr": "Reads Vitoria, Suárez, Gentili and Grotius not as crude forerunners but as working within a different structure of authority. Shows how modern scholarship builds its own story of progress.",
+   "draft": true,
+   "concepts": [
+    "people-with-projects",
+    "naturalism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "riles-aspiration-control",
+   "topic": 10,
+   "sub": "",
+   "author": "Annelise Riles",
+   "year": 1993,
+   "title": "Aspiration and Control: International Legal Rhetoric and the Essentialization of Culture",
+   "cite": "106 Harv. L. Rev. 723 (excerpts)",
+   "concepts": [
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "anghie-imperialism",
+   "topic": 10,
+   "sub": "",
+   "author": "Antony Anghie",
+   "year": 2005,
+   "title": "Imperialism, Sovereignty and the Making of International Law",
+   "cite": "100–114",
+   "tldr": "The 'dynamic of difference': 19th-century positivism split the world into civilised and uncivilised. Sovereignty itself was formed in the colonial encounter, not merely extended to it.",
+   "draft": true,
+   "concepts": [
+    "colonialism",
+    "positivism",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "alvarez-new-il",
+   "topic": 11,
+   "sub": "",
+   "author": "Alejandro Alvarez",
+   "year": 1929,
+   "title": "The New International Law",
+   "cite": "Transactions of the Grotius Society 35",
+   "tldr": "A Latin American call for a *new* international law built on interdependence and social solidarity, with room for regional (American) international law.",
+   "draft": true,
+   "concepts": [
+    "modernism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "jessup-functional",
+   "topic": 11,
+   "sub": "",
+   "author": "Philip Jessup",
+   "year": 1928,
+   "title": "The Functional Approach as Applied to International Law",
+   "cite": "Third Conference of Teachers of International Law 1",
+   "concepts": [
+    "modernism",
+    "functionalism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "redslob-nationalities",
+   "topic": 11,
+   "sub": "",
+   "author": "Robert Redslob",
+   "year": 1931,
+   "title": "The Problem of Nationalities",
+   "cite": "Transactions of the Grotius Society 21",
+   "concepts": [
+    "modernism",
+    "self-determination"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "vagts-third-reich",
+   "topic": 11,
+   "sub": "",
+   "author": "Detlev Vagts",
+   "year": 1990,
+   "title": "International Law in the Third Reich",
+   "cite": "84 AJIL 661 (excerpts)",
+   "tldr": "How Nazi-era international lawyers reworked the discipline (Großraum ideas, völkisch theories) and how the profession went along with it.",
+   "draft": true,
+   "concepts": [
+    "modernism",
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "austin-province",
+   "topic": 12,
+   "sub": "Moment 1 – Normativity Revisited",
+   "author": "John Austin",
+   "year": 1832,
+   "title": "The Province of Jurisprudence Determined",
+   "cite": "(excerpts)",
+   "tldr": "Law is the command of a sovereign backed by a sanction. Since no sovereign stands above states, international law is only 'positive morality'.",
+   "draft": true,
+   "concepts": [
+    "positivism",
+    "law-nonlaw"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kelsen-lecture-iii",
+   "topic": 12,
+   "sub": "Moment 1 – Normativity Revisited",
+   "author": "Hans Kelsen",
+   "year": 1942,
+   "title": "Lecture III: International Law and the State",
+   "cite": "Law and Peace in International Relations, 56 (excerpts)",
+   "tldr": "International law *is* law: it has sanctions, applied in a decentralised way (reprisals, war). Monism: national and international law form one system.",
+   "draft": true,
+   "concepts": [
+    "positivism",
+    "law-nonlaw"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "corfu-1949-merits",
+   "topic": 12,
+   "sub": "Moment 1 – Normativity Revisited",
+   "author": "ICJ",
+   "year": 1949,
+   "title": "Corfu Channel Case (merits), revisited",
+   "cite": "1949 I.C.J. 4, 22 (excerpts)",
+   "tldr": "Reread for its grounds: Albania's duty to warn rests on 'elementary considerations of humanity', a source of obligation outside treaties.",
+   "draft": true,
+   "concepts": [
+    "general-principles",
+    "state-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "mcdougal-law-power",
+   "topic": 12,
+   "sub": "Moment 2 – Managing an Empire",
+   "author": "Myres McDougal",
+   "year": 1952,
+   "title": "Law and Power",
+   "cite": "46 AJIL 102",
+   "tldr": "Rejects rules-as-formalism: law is a process of authoritative decision serving values (human dignity, and in practice the free world's interests). This is the New Haven school.",
+   "draft": true,
+   "concepts": [
+    "policy-science",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "schachter-hammarskjold",
+   "topic": 12,
+   "sub": "Moment 2 – Managing an Empire",
+   "author": "Oscar Schachter",
+   "year": 1962,
+   "title": "Dag Hammarskjold and the Relation of Law to Politics",
+   "cite": "56 AJIL 1",
+   "concepts": [
+    "law-and-politics",
+    "institutions"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "jessup-transnational",
+   "topic": 12,
+   "sub": "Moment 2 – Managing an Empire",
+   "author": "Philip Jessup",
+   "year": 1956,
+   "title": "Transnational Law",
+   "cite": "1 (excerpts)",
+   "tldr": "'Transnational law': all law that regulates actions or events crossing national borders, public and private, beyond the old categories.",
+   "draft": true,
+   "concepts": [
+    "functionalism",
+    "transnational-legal-process",
+    "public-private"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "wedgwood-unilateral",
+   "topic": 12,
+   "sub": "Moment 2 – Managing an Empire",
+   "author": "Ruth Wedgwood",
+   "year": 2001,
+   "title": "Unilateral Action in a Multilateral World",
+   "cite": "Multilateralism and U.S. Foreign Policy, 167",
+   "concepts": [
+    "law-and-politics",
+    "jus-ad-bellum"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "slaughter-around-un",
+   "topic": 12,
+   "sub": "Moment 2 – Managing an Empire",
+   "author": "Anne-Marie Slaughter",
+   "year": 2003,
+   "title": "Good Reasons for Going Around the U.N.",
+   "cite": "The New York Times, Mar. 18, 2003",
+   "tldr": "On the eve of the Iraq war: acting without Security Council authorisation could be legitimate even if not strictly legal.",
+   "draft": true,
+   "concepts": [
+    "jus-ad-bellum",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "henkin-how-nations-behave",
+   "topic": 12,
+   "sub": "Moment 3 – Back to Norms and Values?",
+   "author": "Louis Henkin",
+   "year": 1980,
+   "title": "How Nations Behave: Law and Foreign Policy",
+   "cite": "25 (excerpts)",
+   "tldr": "\"Almost all nations observe almost all principles of international law and almost all of their obligations almost all of the time.\" International law works mostly through routine compliance, not enforcement.",
+   "draft": true,
+   "concepts": [
+    "compliance",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "henkin-interstate",
+   "topic": 12,
+   "sub": "Moment 3 – Back to Norms and Values?",
+   "author": "Louis Henkin",
+   "year": 1995,
+   "title": "International Law and the Inter-State System",
+   "cite": "International Law: Politics and Values, 4 (excerpts)",
+   "concepts": [
+    "sovereignty",
+    "compliance"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "koh-tlp",
+   "topic": 13,
+   "sub": "",
+   "author": "Harold H. Koh",
+   "year": 1996,
+   "title": "Transnational Legal Process",
+   "cite": "75 Neb. L. Rev. 181 (excerpts)",
+   "tldr": "Compliance happens through *interaction, interpretation, internalisation*: norms seep into domestic law and institutions through repeated transnational contact.",
+   "draft": true,
+   "concepts": [
+    "transnational-legal-process",
+    "compliance",
+    "reception"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "koh-trump",
+   "topic": 13,
+   "sub": "",
+   "author": "Harold H. Koh",
+   "year": 2017,
+   "title": "The Trump Administration and International Law",
+   "cite": "56 Washburn L.J. 413 (excerpts)",
+   "tldr": "Transnational legal process as resistance: courts, states, cities, NGOs and bureaucracies push back against a disruptive executive.",
+   "draft": true,
+   "concepts": [
+    "transnational-legal-process"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "goldsmith-mercer",
+   "topic": 13,
+   "sub": "",
+   "author": "Jack Goldsmith & Shannon Togawa Mercer",
+   "year": 2019,
+   "title": "International Law and Institutions in the Trump Era",
+   "cite": "61 German Y.B. Int'l L. 11 (excerpts)",
+   "concepts": [
+    "compliance",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "benvenisti-resilience",
+   "topic": 13,
+   "sub": "",
+   "author": "Eyal Benvenisti",
+   "year": 2025,
+   "title": "The Resilience of International Law in the Face of Empire",
+   "cite": "Just Security, Feb. 17, 2025",
+   "concepts": [
+    "compliance"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "hakimi-cogan",
+   "topic": 13,
+   "sub": "",
+   "author": "Monica Hakimi & Jacob Katz Cogan",
+   "year": 2025,
+   "title": "The End of the U.S.-Backed International Order and the Future of International Law",
+   "cite": "119 AJIL 279 (excerpts)",
+   "concepts": [
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "roepke-1955",
+   "topic": 14,
+   "sub": "",
+   "author": "Wilhelm Röpke",
+   "year": 1955,
+   "title": "Economic Order and International Law",
+   "cite": "86 Recueil des Cours 203 (excerpts)",
+   "tldr": "Ordoliberal blueprint: a liberal international economy needs a legal framework that protects markets and property from national politics.",
+   "draft": true,
+   "concepts": [
+    "political-economy",
+    "public-private"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "bello-wto",
+   "topic": 14,
+   "sub": "",
+   "author": "Judith Bello",
+   "year": 1996,
+   "title": "The WTO Dispute Settlement Understanding: Less is More",
+   "cite": "90 AJIL 416",
+   "tldr": "WTO rules work precisely because they are *not* binding in the classic sense: a losing state can comply or pay through rebalanced concessions.",
+   "draft": true,
+   "concepts": [
+    "political-economy",
+    "law-nonlaw"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "shalakany-arbitration",
+   "topic": 14,
+   "sub": "",
+   "author": "Amr A. Shalakany",
+   "year": 2000,
+   "title": "Arbitration and the Third World: A Plea for Reassessing Bias Under the Specter of Neoliberalism",
+   "cite": "41 Harv. Int'l L.J. 423 (excerpts)",
+   "tldr": "Bias in international arbitration against Third World parties should be rethought: it is built into neoliberal legal ideas, not just a matter of individual partiality.",
+   "draft": true,
+   "concepts": [
+    "political-economy",
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-hr-foundations",
+   "topic": 15,
+   "sub": "Human Rights",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Foundations of Human Rights in Law",
+   "cite": "International Law: Cases and Materials, 915",
+   "concepts": [
+    "human-rights"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "damrosch-competing",
+   "topic": 15,
+   "sub": "Human Rights",
+   "author": "Damrosch & Murphy",
+   "year": 2014,
+   "title": "Competing Interests",
+   "cite": "International Law: Cases and Materials, 920",
+   "concepts": [
+    "human-rights"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "johnson-slavery",
+   "topic": 15,
+   "sub": "Human Rights",
+   "author": "Walter Johnson",
+   "year": 2018,
+   "title": "To Remake the World: Slavery, Racial Capitalism, and Justice",
+   "cite": "Boston Review",
+   "tldr": "Slavery as the foundation of *racial capitalism*, not a premodern exception to it. This has consequences for what 'justice' can mean today.",
+   "draft": true,
+   "concepts": [
+    "political-economy",
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kennedy-hr-problem",
+   "topic": 15,
+   "sub": "Human Rights",
+   "author": "David Kennedy",
+   "year": 2004,
+   "title": "The International Human Rights Movement: Part of the Problem?",
+   "cite": "The Dark Sides of Virtue",
+   "tldr": "A list of the movement's possible costs: it takes up the whole emancipatory imagination, centres the state, treats harms as violations rather than structures, and legitimates the order it criticises.",
+   "draft": true,
+   "concepts": [
+    "human-rights",
+    "dark-sides",
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nesiah-slavery-afterlives",
+   "topic": 15,
+   "sub": "Human Rights",
+   "author": "Vasuki Nesiah",
+   "year": 2023,
+   "title": "Slavery's Afterlives: Humanitarian Imperialism and Free Contract",
+   "cite": "ASIL",
+   "concepts": [
+    "human-rights",
+    "colonialism",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kennedy-spring-break",
+   "topic": 15,
+   "sub": "Human Rights",
+   "author": "David Kennedy",
+   "year": 2004,
+   "title": "Spring Break: The Activist Individual (recommended)",
+   "cite": "The Dark Sides of Virtue",
+   "concepts": [
+    "human-rights",
+    "dark-sides"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "sands-greening",
+   "topic": 15,
+   "sub": "Environmental Protection",
+   "author": "Philippe Sands",
+   "year": 1994,
+   "title": "Greening International Law, Parts Two & Three (recommended)",
+   "cite": "",
+   "concepts": [
+    "environment"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "falk-environment",
+   "topic": 15,
+   "sub": "Environmental Protection",
+   "author": "Richard Falk",
+   "year": 1995,
+   "title": "Environmental Protection in an Era of Globalization (recommended)",
+   "cite": "6 Y.B. Int'l Env. L. 3 (excerpts)",
+   "concepts": [
+    "environment",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "siddique-ecocide",
+   "topic": 15,
+   "sub": "Environmental Protection",
+   "author": "Haroon Siddique",
+   "year": 2021,
+   "title": "Legal Experts Worldwide Draw up 'Historic' Definition of Ecocide (recommended)",
+   "cite": "The Guardian, June 22, 2021",
+   "concepts": [
+    "environment",
+    "individual-responsibility"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "burgis-kasthala-gaza",
+   "topic": 15,
+   "sub": "Coda",
+   "author": "Burgis-Kasthala & Masetti Placci",
+   "year": 2024,
+   "title": "Lost for Words, yet Grasping for Neologisms: Gaza, Genocide and the Discursive Limits of International Law",
+   "cite": "EJIL: Talk!, Nov. 14, 2024 (excerpts)",
+   "concepts": [
+    "law-nonlaw",
+    "human-rights"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "barthes-eiffel",
+   "topic": 16,
+   "sub": "",
+   "author": "Roland Barthes",
+   "year": 1979,
+   "title": "The Eiffel Tower",
+   "cite": "The Eiffel Tower and Other Mythologies, 3",
+   "concepts": [
+    "institutions"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "corbett-league",
+   "topic": 16,
+   "sub": "League of Nations, the United Nations, and a History of Reform",
+   "author": "P.E. Corbett",
+   "year": 1924,
+   "title": "What is the League of Nations?",
+   "cite": "5 Brit. Y.B. Int'l L. 119 (excerpts)",
+   "concepts": [
+    "institutions",
+    "modernism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kennedy-sg",
+   "topic": 16,
+   "sub": "Leadership as Governance – The Secretary General",
+   "author": "David Kennedy",
+   "year": 2006,
+   "title": "Leader, Clerk or Policy Entrepreneur? The Secretary-General in a Complex World",
+   "cite": "Secretary or General?, 158",
+   "concepts": [
+    "institutions",
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kingsbury-gal",
+   "topic": 16,
+   "sub": "Administration as Governance",
+   "author": "Kingsbury, Krisch & Stewart",
+   "year": 2005,
+   "title": "The Emergence of Global Administrative Law",
+   "cite": "68 Law & Contemp. Probs. 15 (excerpts)",
+   "tldr": "Much global governance is really *administration*. A 'global administrative space' is emerging, held to norms of transparency, participation, reasoned decision and review.",
+   "draft": true,
+   "concepts": [
+    "institutions",
+    "global-administrative-law"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "miller-parity",
+   "topic": 16,
+   "sub": "Administration as Governance",
+   "author": "Zinaida Miller",
+   "year": 2014,
+   "title": "Perils of Parity: Palestine's Permanent Transition",
+   "cite": "47 Cornell Int'l L.J. 331 (excerpts)",
+   "concepts": [
+    "global-administrative-law",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "danielsen-corporate",
+   "topic": 17,
+   "sub": "",
+   "author": "Dan Danielsen",
+   "year": 2006,
+   "title": "Corporate Power and Global Order",
+   "cite": "International Law and Its Others, 85",
+   "tldr": "Corporations are not just objects of regulation: they shape global order, and the rules of corporate law are themselves a form of global governance.",
+   "draft": true,
+   "concepts": [
+    "private-ordering",
+    "political-economy",
+    "public-private"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "danielsen-local-rules",
+   "topic": 17,
+   "sub": "",
+   "author": "Dan Danielsen",
+   "year": 2010,
+   "title": "Local Rules and a Global Economy: An Economic Policy Perspective",
+   "cite": "1 Transnational Legal Theory 49 (excerpts)",
+   "concepts": [
+    "private-ordering",
+    "the-local"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "satariano-tech",
+   "topic": 17,
+   "sub": "",
+   "author": "Adam Satariano",
+   "year": 2019,
+   "title": "The World's Tech Ambassador to the Tech Industry",
+   "cite": "The New York Times, Sept. 3, 2019",
+   "concepts": [
+    "private-ordering"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "iglp-gvc",
+   "topic": 17,
+   "sub": "",
+   "author": "IGLP Law and Global Production Working Group",
+   "year": 2016,
+   "title": "The Role of Law in Global Value Chains: A Research Manifesto",
+   "cite": "4 London Rev. Int'l L. 57",
+   "tldr": "Law structures global value chains: it shapes who captures value and power along the chain. A research agenda for seeing law where economists see markets.",
+   "draft": true,
+   "concepts": [
+    "private-ordering",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "nyt-musk",
+   "topic": 17,
+   "sub": "",
+   "author": "The New York Times",
+   "year": 2023,
+   "title": "Elon Musk's Unmatched Power in the Stars",
+   "cite": "July 28, 2023, pp. 1–22",
+   "concepts": [
+    "private-ordering"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "ilc-fragmentation-phenomenon",
+   "topic": 18,
+   "sub": "",
+   "author": "International Law Commission",
+   "year": 2006,
+   "title": "Fragmentation as a Phenomenon",
+   "cite": "Fragmentation of International Law, 10 (excerpts)",
+   "tldr": "Specialised regimes (trade, human rights, environment…) have multiplied, each with its own logic. The ILC answers with lawyerly tools of coordination: lex specialis, systemic integration.",
+   "draft": true,
+   "concepts": [
+    "fragmentation"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "fischer-lescano-teubner",
+   "topic": 18,
+   "sub": "",
+   "author": "Fischer-Lescano & Teubner",
+   "year": 2004,
+   "title": "Regime-Collisions: The Vain Search for Legal Unity in the Fragmentation of Global Law",
+   "cite": "25 Mich. J. Int'l L. 999 (excerpts)",
+   "tldr": "Fragmentation mirrors collisions between sectors of world society. Legal unity is impossible; at most, a loose compatibility between regimes.",
+   "draft": true,
+   "concepts": [
+    "fragmentation"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "lang-regimes",
+   "topic": 18,
+   "sub": "",
+   "author": "Andrew T.F. Lang",
+   "year": 2012,
+   "title": "Legal Regimes and Professional Knowledges: The Internal Politics of Regime Definition",
+   "cite": "Regime Interaction in International Law, 113 (excerpts)",
+   "tldr": "Regimes are not given: they are defined by professional knowledge and expert practice, and that definitional work is political.",
+   "draft": true,
+   "concepts": [
+    "fragmentation",
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "koskenniemi-laws-rule-us",
+   "topic": 18,
+   "sub": "",
+   "author": "Martti Koskenniemi",
+   "year": 2025,
+   "title": "The Laws That Rule Us: The Legal Infrastructure of Global Capitalism",
+   "cite": "New Left Review 154 (excerpts)",
+   "concepts": [
+    "political-economy",
+    "private-ordering"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "chachko-heath",
+   "topic": 18,
+   "sub": "",
+   "author": "Elena Chachko & J. Benton Heath",
+   "year": 2022,
+   "title": "A Watershed Moment for Sanctions? Russia, Ukraine and the Economic Battlefield",
+   "cite": "116 AJIL Unbound 135",
+   "concepts": [
+    "countermeasures",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "azikiwe-liberia",
+   "topic": 19,
+   "sub": "Colonialism",
+   "author": "Nnamdi Azikiwe",
+   "year": 1934,
+   "title": "Liberian Diplomacy",
+   "cite": "Liberia in World Politics, 15 (excerpts)",
+   "concepts": [
+    "colonialism",
+    "statehood"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "dubois-collapse",
+   "topic": 19,
+   "sub": "Colonialism",
+   "author": "W.E.B. Du Bois",
+   "year": 1946,
+   "title": "The Collapse of Europe",
+   "cite": "The World and Africa, 1 (excerpts)",
+   "concepts": [
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "borrell-statement",
+   "topic": 19,
+   "sub": "Colonialism",
+   "author": "Josep Borrell",
+   "year": 2022,
+   "title": "Statement of 13 October 2022 ('garden v. jungle')",
+   "cite": "",
+   "concepts": [
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "borrell-apology",
+   "topic": 19,
+   "sub": "Colonialism",
+   "author": "—",
+   "year": 2022,
+   "title": "Josep Borrell apologises for controversial 'garden v. jungle' metaphor but defends speech",
+   "cite": "Oct. 19, 2022",
+   "concepts": [
+    "colonialism"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "anghie-postcolonial",
+   "topic": 19,
+   "sub": "Colonialism",
+   "author": "Antony Anghie",
+   "year": 2014,
+   "title": "Toward a Postcolonial International Law",
+   "cite": "in Critical International Law, 123, 135–140",
+   "concepts": [
+    "colonialism",
+    "twail"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "bedjaoui-nieo",
+   "topic": 19,
+   "sub": "Resistance",
+   "author": "Mohammed Bedjaoui",
+   "year": 1979,
+   "title": "The Relations Between the International Economic Order and the International Legal Order",
+   "cite": "Towards a New International Economic Order, 97 (excerpts)",
+   "tldr": "The legal order entrenches an unjust economic order. The NIEO (New International Economic Order) is the attempt to use law to rewrite it: sovereignty over natural resources, development, equity.",
+   "draft": true,
+   "concepts": [
+    "twail",
+    "political-economy",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "rajagopal-below",
+   "topic": 19,
+   "sub": "Resistance",
+   "author": "Balakrishnan Rajagopal",
+   "year": 2003,
+   "title": "International Law from Below",
+   "cite": "1 (excerpts)",
+   "tldr": "Third World social movements, not just states or elites, are agents who resist and remake international law and development.",
+   "draft": true,
+   "concepts": [
+    "twail",
+    "the-local"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "becker-lorca-bargaining",
+   "topic": 19,
+   "sub": "Resistance",
+   "author": "Arnulf Becker Lorca",
+   "year": null,
+   "title": "Bargaining with Sovereignty, Fighting Global Inequality",
+   "cite": "forthcoming (excerpts)",
+   "concepts": [
+    "twail",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "chimni-2017",
+   "topic": 19,
+   "sub": "Resistance",
+   "author": "B.S. Chimni",
+   "year": 2017,
+   "title": "International Law and World Order (2nd ed.)",
+   "cite": "506–517",
+   "concepts": [
+    "twail",
+    "political-economy"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "eslava-local",
+   "topic": 20,
+   "sub": "",
+   "author": "Luis Eslava",
+   "year": 2015,
+   "title": "Introduction, Local Space, Global Life",
+   "cite": "1 (excerpts)",
+   "tldr": "International law and development operate in everyday local spaces, such as city halls and neighbourhoods, not only at the inter-state level.",
+   "draft": true,
+   "concepts": [
+    "the-local"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "sassen-territory",
+   "topic": 20,
+   "sub": "",
+   "author": "Saskia Sassen",
+   "year": 2008,
+   "title": "Foundational Subjects for Political Membership",
+   "cite": "Territory, Authority, Rights, 277 (excerpts)",
+   "concepts": [
+    "the-local",
+    "sovereignty"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "davis-libertun",
+   "topic": 20,
+   "sub": "",
+   "author": "Diane E. Davis & Nora Libertun de Duren",
+   "year": 2011,
+   "title": "Identity Conflicts in the Urban Realm",
+   "cite": "Cities and Sovereignty, 1 (excerpts)",
+   "concepts": [
+    "the-local"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "knop-hidden-city",
+   "topic": 20,
+   "sub": "",
+   "author": "Karen Knop",
+   "year": 2021,
+   "title": "The Hidden City in International Legal Thought",
+   "cite": "Research Handbook on International Law and Cities, 35 (excerpts)",
+   "concepts": [
+    "the-local"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "oconnell-ihl",
+   "topic": 21,
+   "sub": "",
+   "author": "Mary Ellen O'Connell",
+   "year": 2013,
+   "title": "Historical Development and Legal Basis",
+   "cite": "Handbook of International Humanitarian Law (excerpts)",
+   "concepts": [
+    "jus-in-bello"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "haines-weapons",
+   "topic": 21,
+   "sub": "",
+   "author": "Steven Haines",
+   "year": 2014,
+   "title": "The Developing Law of Weapons",
+   "cite": "Oxford Handbook of International Law in Armed Conflict (excerpts)",
+   "concepts": [
+    "jus-in-bello"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kristian-ukraine",
+   "topic": 21,
+   "sub": "",
+   "author": "Bonnie Kristian",
+   "year": 2022,
+   "title": "Are We Sure America Is Not at War in Ukraine?",
+   "cite": "The New York Times, June 20, 2022",
+   "concepts": [
+    "jus-in-bello",
+    "jus-ad-bellum"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "freud-war-death",
+   "topic": 21,
+   "sub": "",
+   "author": "Sigmund Freud",
+   "year": 1915,
+   "title": "Thoughts for the Times on War and Death",
+   "cite": "",
+   "tldr": "WWI shatters faith in civilised nations. War strips away cultural restraint and exposes our ambivalent, denied relation to death.",
+   "draft": true,
+   "concepts": [
+    "jus-in-bello"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "cohn-sex-death",
+   "topic": 21,
+   "sub": "",
+   "author": "Carol Cohn",
+   "year": 1987,
+   "title": "Sex and Death in the Rational World of Defense Intellectuals",
+   "cite": "12 Signs 687",
+   "tldr": "The 'technostrategic' language of nuclear planners is gendered and euphemistic. Learning to speak it changes what one can think and feel about war.",
+   "draft": true,
+   "concepts": [
+    "jus-in-bello",
+    "feminist-critique",
+    "people-with-projects"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "clausewitz-on-war",
+   "topic": 22,
+   "sub": "",
+   "author": "Carl von Clausewitz",
+   "year": 1832,
+   "title": "On War",
+   "cite": "(excerpts)",
+   "tldr": "War is the continuation of politics by other means: an instrument of policy, shaped by friction and the 'trinity' of passion, chance and reason.",
+   "draft": true,
+   "concepts": [
+    "jus-ad-bellum",
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "foucault-body",
+   "topic": 22,
+   "sub": "",
+   "author": "Michel Foucault",
+   "year": 1979,
+   "title": "The Body of the Condemned",
+   "cite": "Discipline and Punish, 1",
+   "tldr": "From the public spectacle of torture to the quiet regime of discipline: power becomes diffuse, technical and normalising.",
+   "draft": true,
+   "concepts": [
+    "law-and-politics"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  },
+  {
+   "id": "kennedy-legal-expertise-war",
+   "topic": 22,
+   "sub": "",
+   "author": "David Kennedy",
+   "year": 2016,
+   "title": "Legal Expertise in War",
+   "cite": "A World of Struggle, 256",
+   "tldr": "Law is now the vocabulary of modern war. It both limits and legitimates violence, and it spreads responsibility across experts so that no one decides.",
+   "draft": true,
+   "concepts": [
+    "jus-in-bello",
+    "jus-ad-bellum",
+    "people-with-projects",
+    "dark-sides"
+   ],
+   "summary": "",
+   "arguments": [],
+   "source": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "sources",
+   "name": "Sources of international law",
+   "short": "Where binding norms come from: treaties, custom, general principles (ICJ Statute art. 38)."
+  },
+  {
+   "id": "custom",
+   "name": "Customary international law",
+   "short": "Unwritten law from general state practice plus opinio juris (acceptance as law)."
+  },
+  {
+   "id": "general-principles",
+   "name": "General principles of law",
+   "short": "Principles common to legal systems, or basic to the international order, filling gaps."
+  },
+  {
+   "id": "jus-cogens",
+   "name": "Jus cogens",
+   "short": "Peremptory norms from which no derogation is permitted; the top of a claimed normative hierarchy."
+  },
+  {
+   "id": "erga-omnes",
+   "name": "Obligations erga omnes",
+   "short": "Obligations owed to the international community as a whole (Barcelona Traction dictum)."
+  },
+  {
+   "id": "law-nonlaw",
+   "name": "The law / non-law boundary",
+   "short": "Where law ends and politics, morality or mere commitment begin; a recurring question."
+  },
+  {
+   "id": "soft-law",
+   "name": "Soft law & non-binding agreements",
+   "short": "Commitments that shape conduct without legal bindingness."
+  },
+  {
+   "id": "unilateral-declarations",
+   "name": "Unilateral declarations",
+   "short": "Public statements that bind a state if made with intent to be bound."
+  },
+  {
+   "id": "rebus-sic-stantibus",
+   "name": "Rebus sic stantibus / changed circumstances",
+   "short": "Terminating or suspending treaties because circumstances changed fundamentally or performance became impossible."
+  },
+  {
+   "id": "statehood",
+   "name": "Statehood",
+   "short": "What makes an entity a state (Montevideo criteria) and who decides."
+  },
+  {
+   "id": "recognition",
+   "name": "Recognition",
+   "short": "Declaratory vs constitutive views: does recognition create a state or merely acknowledge one?"
+  },
+  {
+   "id": "sovereignty",
+   "name": "Sovereignty",
+   "short": "The bundle of rights and powers of states; absolute or relative, divisible or not."
+  },
+  {
+   "id": "territoriality",
+   "name": "Territoriality",
+   "short": "The principle that law and power stop at a state's territory."
+  },
+  {
+   "id": "jurisdiction",
+   "name": "Jurisdiction",
+   "short": "Power to prescribe, adjudicate and enforce law."
+  },
+  {
+   "id": "extraterritoriality",
+   "name": "Extraterritoriality",
+   "short": "Reaching conduct abroad: effects doctrine, nationality, secondary sanctions."
+  },
+  {
+   "id": "territory",
+   "name": "Territory & title",
+   "short": "How territory is acquired and held: effective occupation, cession, uti possidetis."
+  },
+  {
+   "id": "uti-possidetis",
+   "name": "Uti possidetis juris",
+   "short": "Colonial administrative lines become international borders at independence."
+  },
+  {
+   "id": "self-determination",
+   "name": "Self-determination",
+   "short": "Peoples' right to decide their political status; in tension with territorial stability."
+  },
+  {
+   "id": "nationality",
+   "name": "Nationality & diplomatic protection",
+   "short": "Who a state may protect internationally, and the 'genuine link' requirement."
+  },
+  {
+   "id": "judicial-rulemaking",
+   "name": "Judicial rulemaking",
+   "short": "International courts creating doctrine while claiming to apply it."
+  },
+  {
+   "id": "political-questions",
+   "name": "Adjudicating political questions",
+   "short": "Whether courts can or should decide disputes that look political."
+  },
+  {
+   "id": "individual-responsibility",
+   "name": "Individual criminal responsibility",
+   "short": "Individuals, not just states, answerable under international law (ICL)."
+  },
+  {
+   "id": "state-responsibility",
+   "name": "State responsibility",
+   "short": "Attribution + breach = internationally wrongful act, leading to cessation and reparation."
+  },
+  {
+   "id": "countermeasures",
+   "name": "Countermeasures & sanctions",
+   "short": "Lawful self-help against a wrongdoing state, if proportionate."
+  },
+  {
+   "id": "positivism",
+   "name": "Positivism",
+   "short": "Law is what states consent to or what a sovereign commands, separate from morality."
+  },
+  {
+   "id": "naturalism",
+   "name": "Naturalism",
+   "short": "Law grounded in reason, nature or divine order, prior to state will."
+  },
+  {
+   "id": "modernism",
+   "name": "Interwar modernism",
+   "short": "1914–45 reinvention of international law: institutions, nationalities, functionalism, new forms."
+  },
+  {
+   "id": "functionalism",
+   "name": "Functionalism / pragmatism",
+   "short": "Judging law by what it does, not by formal categories."
+  },
+  {
+   "id": "policy-science",
+   "name": "New Haven policy science",
+   "short": "McDougal's view: law as a process of authoritative decision in pursuit of values."
+  },
+  {
+   "id": "law-and-politics",
+   "name": "Law and politics",
+   "short": "How law relates to power, interest and policy; the field's master question."
+  },
+  {
+   "id": "compliance",
+   "name": "Compliance",
+   "short": "Why and when states obey international law."
+  },
+  {
+   "id": "transnational-legal-process",
+   "name": "Transnational legal process",
+   "short": "Koh: interaction, interpretation, internalisation of norms across borders."
+  },
+  {
+   "id": "reception",
+   "name": "Reception in national courts",
+   "short": "How domestic courts absorb and apply international law."
+  },
+  {
+   "id": "political-economy",
+   "name": "Political economy",
+   "short": "Law's role in distributing economic power and wealth globally."
+  },
+  {
+   "id": "public-private",
+   "name": "Public / private distinction",
+   "short": "The line between state and market, family and politics, which critics show is contestable."
+  },
+  {
+   "id": "private-ordering",
+   "name": "Private ordering",
+   "short": "Governance by corporations, contracts, value chains and platforms."
+  },
+  {
+   "id": "human-rights",
+   "name": "Human rights",
+   "short": "Rights-based governance strategy and its critiques."
+  },
+  {
+   "id": "dark-sides",
+   "name": "Dark sides of virtue",
+   "short": "Kennedy: humanitarian projects can produce costs and blind spots."
+  },
+  {
+   "id": "environment",
+   "name": "Environmental protection",
+   "short": "Greening international law: principles, techniques, ecocide."
+  },
+  {
+   "id": "institutions",
+   "name": "International institutions",
+   "short": "League, UN, Secretary-General: institutions as governance and myth."
+  },
+  {
+   "id": "global-administrative-law",
+   "name": "Global administrative law",
+   "short": "Accountability norms for global administrative bodies."
+  },
+  {
+   "id": "fragmentation",
+   "name": "Fragmentation",
+   "short": "Proliferation of specialised regimes and the (im)possibility of unity."
+  },
+  {
+   "id": "colonialism",
+   "name": "Colonialism & hierarchy",
+   "short": "How empire shaped sovereignty, civilisation and international law's categories."
+  },
+  {
+   "id": "twail",
+   "name": "TWAIL & Third World resistance",
+   "short": "Third World Approaches to International Law; NIEO; law from below."
+  },
+  {
+   "id": "the-local",
+   "name": "The local & the city",
+   "short": "International law lived in local spaces, cities and communities."
+  },
+  {
+   "id": "jus-in-bello",
+   "name": "Jus in bello (IHL)",
+   "short": "The law governing the conduct of war."
+  },
+  {
+   "id": "jus-ad-bellum",
+   "name": "Jus ad bellum",
+   "short": "The law on resort to force: UN Charter art. 2(4), self-defence, Security Council authorisation."
+  },
+  {
+   "id": "feminist-critique",
+   "name": "Feminist critique",
+   "short": "Gendered assumptions in international law's categories."
+  },
+  {
+   "id": "people-with-projects",
+   "name": "People with projects / expertise",
+   "short": "Kennedy: the field as made by professionals and their projects; expertise as power."
+  }
+ ],
+ "connections": [
+  {
+   "from": "nuclear-weapons-ao",
+   "to": "lotus",
+   "type": "revisits",
+   "note": "The 1996 opinion reopens the Lotus question: if no rule prohibits nuclear weapons, are states simply free? The Court refuses to say so clearly."
+  },
+  {
+   "from": "mcdougal-custom",
+   "to": "ilc-custom-2018",
+   "type": "contrasts",
+   "note": "Custom as an ongoing process of claim and response vs. the ILC's tidy two-element test."
+  },
+  {
+   "from": "mcdougal-law-power",
+   "to": "mcdougal-custom",
+   "type": "extends",
+   "note": "The same policy-science method, now a full theory of law as authoritative decision."
+  },
+  {
+   "from": "paquete-habana",
+   "to": "icj-art38",
+   "type": "illustrates",
+   "note": "A court actually *finding* custom from practice and writers, as art. 38 describes."
+  },
+  {
+   "from": "nuclear-tests",
+   "to": "schachter-twilight",
+   "type": "contrasts",
+   "note": "A unilateral statement becomes binding, while negotiated non-binding agreements stay in the twilight. Intent to be bound decides."
+  },
+  {
+   "from": "techt-v-hughes",
+   "to": "vclt-61-62",
+   "type": "illustrates",
+   "note": "Changed circumstances (war) and treaty survival, before the VCLT codified it."
+  },
+  {
+   "from": "lissitzyn-load-line",
+   "to": "vclt-61-62",
+   "type": "illustrates",
+   "note": "Rebus sic stantibus invoked by a state in practice."
+  },
+  {
+   "from": "charlesworth-chinkin-jus-cogens",
+   "to": "ilc-fragmentation-jus-cogens",
+   "type": "critiques",
+   "note": "The ILC's hierarchy of 'universal' norms rests on a gendered public/private split."
+  },
+  {
+   "from": "salimoff",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "Without recognition, a de facto government still counts: facts vs. formalities."
+  },
+  {
+   "from": "becker-lorca-mestizo",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "Montevideo (1933) as itself a product of semi-peripheral lawyers' strategy."
+  },
+  {
+   "from": "american-banana",
+   "to": "schooner-exchange",
+   "type": "builds-on",
+   "note": "Strict territoriality, from exclusive jurisdiction at home to no jurisdiction abroad."
+  },
+  {
+   "from": "bank-nova-scotia",
+   "to": "american-banana",
+   "type": "contrasts",
+   "note": "From Holmes' strict territoriality to aggressive extraterritorial enforcement."
+  },
+  {
+   "from": "malley-manas-nix",
+   "to": "restatement-402-404",
+   "type": "critiques",
+   "note": "The Restatement's neutral 'bases' of jurisdiction hide how jurisdiction constructs state interest."
+  },
+  {
+   "from": "cohen-property-sovereignty",
+   "to": "american-banana",
+   "type": "complicates",
+   "note": "Private property abroad (United Fruit) is itself a form of sovereign power."
+  },
+  {
+   "from": "danielsen-corporate",
+   "to": "cohen-property-sovereignty",
+   "type": "builds-on",
+   "note": "Private power as public governance, updated for global corporations."
+  },
+  {
+   "from": "maine-kathiawar",
+   "to": "schooner-exchange",
+   "type": "contrasts",
+   "note": "Divisible, colonial sovereignty vs. Marshall's exclusive and absolute territorial sovereignty."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "antelope",
+   "type": "illustrates",
+   "note": "Positivism's acceptance of slavery as a practice of 'nations' shows the dynamic of difference."
+  },
+  {
+   "from": "barcelona-traction",
+   "to": "nottebohm",
+   "type": "contrasts",
+   "note": "Genuine link for individuals vs. formal state of incorporation for companies."
+  },
+  {
+   "from": "nicaragua-1984",
+   "to": "tehran-hostages",
+   "type": "builds-on",
+   "note": "Both reject the idea that a political or armed dispute is beyond the Court."
+  },
+  {
+   "from": "burkina-mali",
+   "to": "western-sahara",
+   "type": "contrasts",
+   "note": "Stability of colonial borders (uti possidetis) vs. self-determination of peoples."
+  },
+  {
+   "from": "western-sahara",
+   "to": "island-of-palmas",
+   "type": "complicates",
+   "note": "Effective control is not the whole story: pre-colonial social and political ties count."
+  },
+  {
+   "from": "perez-pena-morocco",
+   "to": "western-sahara",
+   "type": "applies",
+   "note": "The 2020 US recognition of Moroccan sovereignty against the ICJ's 1975 opinion."
+  },
+  {
+   "from": "vidmar-greenland",
+   "to": "island-of-palmas",
+   "type": "applies",
+   "note": "Classic modes of acquiring territory tested against a contemporary claim."
+  },
+  {
+   "from": "gabcikovo",
+   "to": "ilc-arsiwa",
+   "type": "applies",
+   "note": "Necessity and countermeasures from the Articles applied, and rejected, in practice."
+  },
+  {
+   "from": "air-services",
+   "to": "ilc-arsiwa",
+   "type": "illustrates",
+   "note": "Proportionate countermeasures as self-help."
+  },
+  {
+   "from": "corfu-1949-merits",
+   "to": "corfu-1949",
+   "type": "revisits",
+   "note": "Same case, reread: Topic 4 for sovereignty, Topic 12 for the source of obligation."
+  },
+  {
+   "from": "kennedy-primitive",
+   "to": "kennedy-chart",
+   "type": "illustrates",
+   "note": "How the discipline narrates its pre-modern past."
+  },
+  {
+   "from": "anghie-postcolonial",
+   "to": "anghie-imperialism",
+   "type": "extends",
+   "note": "From historical diagnosis to a programme for postcolonial international law."
+  },
+  {
+   "from": "jessup-transnational",
+   "to": "jessup-functional",
+   "type": "extends",
+   "note": "1928 functionalism grows into 1956 'transnational law'."
+  },
+  {
+   "from": "kelsen-lecture-iii",
+   "to": "austin-province",
+   "type": "responds-to",
+   "note": "Answers Austin: international law has sanctions too, just decentralised."
+  },
+  {
+   "from": "mcdougal-law-power",
+   "to": "kelsen-lecture-iii",
+   "type": "critiques",
+   "note": "Rejects rule-centred formalism for policy and process."
+  },
+  {
+   "from": "henkin-how-nations-behave",
+   "to": "mcdougal-law-power",
+   "type": "contrasts",
+   "note": "Back to rules and compliance after policy-science."
+  },
+  {
+   "from": "slaughter-around-un",
+   "to": "wedgwood-unilateral",
+   "type": "builds-on",
+   "note": "Legitimate unilateralism outside the UN."
+  },
+  {
+   "from": "koh-tlp",
+   "to": "henkin-how-nations-behave",
+   "type": "builds-on",
+   "note": "Explains *why* nations mostly comply: internalisation."
+  },
+  {
+   "from": "koh-trump",
+   "to": "koh-tlp",
+   "type": "applies",
+   "note": "The process theory as resistance strategy."
+  },
+  {
+   "from": "goldsmith-mercer",
+   "to": "koh-trump",
+   "type": "contrasts",
+   "note": "Less rupture, more continuity than Koh suggests."
+  },
+  {
+   "from": "hakimi-cogan",
+   "to": "benvenisti-resilience",
+   "type": "contrasts",
+   "note": "End of an order vs. resilience of the law."
+  },
+  {
+   "from": "bello-wto",
+   "to": "roepke-1955",
+   "type": "builds-on",
+   "note": "Insulating trade from politics through legal design."
+  },
+  {
+   "from": "shalakany-arbitration",
+   "to": "bello-wto",
+   "type": "critiques",
+   "note": "Neoliberal legalism and bias against the Third World."
+  },
+  {
+   "from": "nesiah-slavery-afterlives",
+   "to": "johnson-slavery",
+   "type": "builds-on",
+   "note": "Slavery's legacy in humanitarianism and free contract."
+  },
+  {
+   "from": "kennedy-hr-problem",
+   "to": "kennedy-chart",
+   "type": "illustrates",
+   "note": "A humanitarian project and its dark sides."
+  },
+  {
+   "from": "kingsbury-gal",
+   "to": "kennedy-sg",
+   "type": "contrasts",
+   "note": "Governance as administration with accountability vs. as leadership and entrepreneurship."
+  },
+  {
+   "from": "fischer-lescano-teubner",
+   "to": "ilc-fragmentation-phenomenon",
+   "type": "critiques",
+   "note": "No unity is possible, only collision management."
+  },
+  {
+   "from": "lang-regimes",
+   "to": "fischer-lescano-teubner",
+   "type": "complicates",
+   "note": "Regimes are made by professional knowledge, not given by social sectors."
+  },
+  {
+   "from": "ilc-fragmentation-phenomenon",
+   "to": "ilc-fragmentation-jus-cogens",
+   "type": "extends",
+   "note": "Same ILC report: hierarchy (Topic 3) and fragmentation (Topic 18)."
+  },
+  {
+   "from": "koskenniemi-laws-rule-us",
+   "to": "koskenniemi-impunity",
+   "type": "extends",
+   "note": "From the politics of trials to the legal infrastructure of capitalism."
+  },
+  {
+   "from": "bedjaoui-nieo",
+   "to": "anghie-imperialism",
+   "type": "responds-to",
+   "note": "Using sovereignty and law against the economic order colonialism built."
+  },
+  {
+   "from": "rajagopal-below",
+   "to": "bedjaoui-nieo",
+   "type": "complicates",
+   "note": "Resistance from social movements, not just Third World states."
+  },
+  {
+   "from": "chimni-2017",
+   "to": "anghie-postcolonial",
+   "type": "builds-on",
+   "note": "A TWAIL critique of contemporary approaches."
+  },
+  {
+   "from": "becker-lorca-bargaining",
+   "to": "becker-lorca-mestizo",
+   "type": "extends",
+   "note": "From semi-peripheral appropriation of sovereignty to bargaining over inequality."
+  },
+  {
+   "from": "knop-hidden-city",
+   "to": "knop-feminism-sovereignty",
+   "type": "extends",
+   "note": "Knop re-looks at who and what sovereignty hides: women, then cities."
+  },
+  {
+   "from": "berman-jerusalem",
+   "to": "berman-modernism",
+   "type": "extends",
+   "note": "Modernist legal imagination applied to an internationalised city."
+  },
+  {
+   "from": "cohn-sex-death",
+   "to": "freud-war-death",
+   "type": "extends",
+   "note": "Psychology of war, now through gender and expert language."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "clausewitz-on-war",
+   "type": "builds-on",
+   "note": "Law becomes one of the 'other means' of politics in war."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "foucault-body",
+   "type": "builds-on",
+   "note": "Diffuse, technical power: law as discipline of violence."
+  },
+  {
+   "from": "bolton-icc-2018",
+   "to": "koskenniemi-impunity",
+   "type": "contrasts",
+   "note": "Sovereigntist rejection vs. structural critique of international criminal justice."
+  },
+  {
+   "from": "engle-grip",
+   "to": "charlesworth-chinkin-jus-cogens",
+   "type": "complicates",
+   "note": "Feminist success in criminalising sexual violence and its narrowing effects."
+  },
+  {
+   "from": "chachko-heath",
+   "to": "air-services",
+   "type": "extends",
+   "note": "From bilateral countermeasures to economic warfare by sanctions."
+  }
+ ],
+ "themes": [
+  {
+   "id": "sovereignty-arc",
+   "name": "Sovereignty: absolute, divided, relative",
+   "description": "Follow how sovereignty is asserted, divided, limited and re-asserted across the course.",
+   "readings": [
+    "schooner-exchange",
+    "maine-kathiawar",
+    "lotus",
+    "island-of-palmas",
+    "corfu-1949",
+    "nicaragua-1984",
+    "henkin-interstate",
+    "bolton-icc-2018",
+    "hakimi-cogan"
+   ],
+   "concepts": [
+    "sovereignty",
+    "territoriality",
+    "jurisdiction"
+   ]
+  },
+  {
+   "id": "law-nonlaw",
+   "name": "Where does law end?",
+   "description": "Custom, twilight agreements, declarations, Austin vs Kelsen, WTO 'less is more': the course keeps returning to the boundary of law.",
+   "readings": [
+    "icj-art38",
+    "mcdougal-custom",
+    "nuclear-tests",
+    "schachter-twilight",
+    "austin-province",
+    "kelsen-lecture-iii",
+    "bello-wto",
+    "burgis-kasthala-gaza"
+   ],
+   "concepts": [
+    "law-nonlaw",
+    "sources",
+    "soft-law"
+   ]
+  },
+  {
+   "id": "empire",
+   "name": "Empire, colonialism and hierarchy",
+   "description": "Who was inside and outside the 'family of nations', and how that shaped the law's basic categories.",
+   "readings": [
+    "antelope",
+    "maine-kathiawar",
+    "becker-lorca-mestizo",
+    "western-sahara",
+    "burkina-mali",
+    "anghie-imperialism",
+    "alvarez-new-il",
+    "shalakany-arbitration",
+    "azikiwe-liberia",
+    "dubois-collapse",
+    "borrell-statement",
+    "bedjaoui-nieo",
+    "rajagopal-below",
+    "chimni-2017"
+   ],
+   "concepts": [
+    "colonialism",
+    "twail",
+    "self-determination"
+   ]
+  },
+  {
+   "id": "political-economy",
+   "name": "Law and the global economy",
+   "description": "Property as sovereignty, ordoliberal design, WTO, value chains, sanctions: law distributes economic power.",
+   "readings": [
+    "american-banana",
+    "cohen-property-sovereignty",
+    "roepke-1955",
+    "bello-wto",
+    "johnson-slavery",
+    "danielsen-corporate",
+    "iglp-gvc",
+    "koskenniemi-laws-rule-us",
+    "chachko-heath"
+   ],
+   "concepts": [
+    "political-economy",
+    "public-private",
+    "private-ordering"
+   ]
+  },
+  {
+   "id": "feminism",
+   "name": "Feminist critique",
+   "description": "The gendered public/private divide, from jus cogens to sovereignty to the language of war.",
+   "readings": [
+    "charlesworth-chinkin-jus-cogens",
+    "knop-feminism-sovereignty",
+    "engle-grip",
+    "cohn-sex-death"
+   ],
+   "concepts": [
+    "feminist-critique",
+    "public-private"
+   ]
+  },
+  {
+   "id": "expertise",
+   "name": "People with projects: expertise and its dark sides",
+   "description": "Kennedy's through-line: international law as professional practice, with costs that its practitioners don't see.",
+   "readings": [
+    "kennedy-chart",
+    "berman-modernism",
+    "kennedy-primitive",
+    "mcdougal-law-power",
+    "kennedy-hr-problem",
+    "kennedy-sg",
+    "lang-regimes",
+    "kennedy-legal-expertise-war"
+   ],
+   "concepts": [
+    "people-with-projects",
+    "dark-sides"
+   ]
+  }
+ ]
+}
