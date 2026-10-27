@@ -4477,15 +4477,30 @@
    "year": 1832,
    "title": "On War",
    "cite": "(excerpts)",
-   "tldr": "War is the continuation of politics by other means: an instrument of policy, shaped by friction and the 'trinity' of passion, chance and reason.",
-   "draft": true,
+   "tldr": "War is 'a duel on an extensive scale': 'an act of violence intended to compel our opponent to fulfill our will'. International law accompanies it only as 'self-imposed restrictions, almost imperceptible'. In pure conception, three reciprocal actions drive war to extremes; in reality, time, friction, imperfect knowledge, the superiority of defence and chance moderate it. The political object returns as the measure: 'war is a mere continuation of policy by other means', 'another kind of writing and language for political thoughts', with 'a grammar of its own, but its logic is not peculiar to itself'. The trinity: passion (people), chance (army), reason (government).",
    "concepts": [
     "jus-ad-bellum",
-    "law-and-politics"
+    "law-and-politics",
+    "jus-in-bello",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Carl von Clausewitz, *On War* (1832), Bk I ch. 1 and Bk VIII ch. 6, edited excerpts.\n\n**Definition (§§1–2).** No 'abstruse definitions … used by publicists'. War is a duel, two wrestlers. 'War, therefore, is an act of violence intended to compel our opponent to fulfill our will.' The 'usages of International Law' are 'self-imposed restrictions, almost imperceptible and hardly worth mentioning'. Violence is the *means*, submission the *object*; disarming the enemy becomes the immediate aim.\n\n**Three reciprocal actions to extremes (§§3–5).** (1) *Utmost use of force*: 'the errors which proceed from a spirit of benevolence are the worst'. Civilised wars are less cruel because of the social condition of states, not war itself: 'to introduce into the philosophy of War itself a principle of moderation would be an absurdity'. War is not 'algebraic action'; it belongs to the feelings, and even civilised nations 'may burn with passionate hatred'. (2) *Aim to disarm*: until defeated, the enemy may defeat me. (3) *Utmost exertion*: means × strength of will, which each side escalates.\n\n**Modification in reality (§§6–10).** Pure logic yields 'a mere paper law'. In reality war is never isolated (the will is known), never a single blow (forces, country and allies can't all be brought at once), and its result is never absolute (political combinations may repair it). 'The probabilities of real life take the place of the conceptions of extreme.'\n\n**The political object reappears (§11).** It sets the aim and the effort, according to its effects on the masses; trifling motives can cause 'a perfect explosion'. Wars of all degrees, 'from a War of extermination down to the mere use of an army of observation'.\n\n**Suspension of action (§§12–19).** Polarity of interests is undone by the superiority of defence over attack and by imperfect knowledge (we overestimate the enemy). Inaction makes war more a calculation of probabilities.\n\n**War as a game (§§20–22).** Chance, luck, courage and daring: 'of all branches of human activity the most like a gambling game'. Theory must leave room for courage.\n\n**Policy (§§23–28).** 'War is no pastime … it is a serious means for a serious object.' It always starts from a political condition. It is not a mine that, once lit, follows its own laws; it is a pulsation of force subject to guiding intelligence. 'War is a mere continuation of policy by other means.' Intense motives bring war nearer its abstract form (more 'military'); weak ones make it look more 'political', but both are equally political. The first act of judgment is to understand what kind of war one is in. *The wonderful trinity*: primordial violence, hatred and animosity (the people); the play of probability and chance (the general and army); subordination as a political instrument (the government).\n\n**Bk VIII ch. 6.** Allies treat war 'like a commercial transaction', each investing a limited contingent; this is an anomaly rooted in human weakness. Weak motives make war 'drag itself feebly along', down to mere threats and negotiation. War is 'only a part of political intercourse'. 'Is not war merely another kind of writing and language for political thoughts? It has certainly a grammar of its own, but its logic is not peculiar to itself.' Policy turns the two-handed battle-sword into 'a light handy weapon … a rapier'. The military must be subordinate to the political; the chief commander should sit in cabinet. The French Revolution's victories came not from new military methods but from 'an altered policy', and opponents' failure was a failure of policy. 'The art of war in its highest point of view is policy, but … a policy which fights battles, instead of writing notes.'",
+   "arguments": [
+    "War is violence to compel the enemy's will; international law barely constrains it.",
+    "In pure conception war escalates to extremes through reciprocal action.",
+    "Reality (time, friction, defence, chance) moderates war into probability.",
+    "War is a continuation of policy: its own grammar, but policy's logic.",
+    "The trinity of passion, chance and reason; the military subordinate to the political."
+   ],
+   "source": "",
+   "short": "Clausewitz — On War",
+   "context": "The classic statement that [[kennedy-legal-expertise-war]] reverses: for modern war, 'modern law has become that language'. Dismissal of international law's restraints vs [[oconnell-ihl]] and [[haines-weapons]]. Freud's account of war's passions: [[freud-war-death]]. Who decides on war (cabinet vs generals): [[kristian-ukraine]], [[kennedy-sg]]. Allied 'commercial' war contributions echo [[chachko-heath]] and support short of war.",
+   "conceptNotes": {
+    "jus-ad-bellum": "war as instrument of policy",
+    "jus-in-bello": "law as 'almost imperceptible' restriction",
+    "law-and-politics": "war as policy's language",
+    "sovereignty": "war and the political object"
+   }
   },
   {
    "id": "foucault-body",
@@ -4495,14 +4510,28 @@
    "year": 1979,
    "title": "The Body of the Condemned",
    "cite": "Discipline and Punish, 1",
-   "tldr": "From the public spectacle of torture to the quiet regime of discipline: power becomes diffuse, technical and normalising.",
-   "draft": true,
+   "tldr": "1757: Damiens is publicly tortured and quartered. Eighty years later: a timetable for young prisoners. Within a century punishment ceased to be a spectacle and stopped targeting the body, moving from 'an art of unbearable sensations' to 'an economy of suspended rights'. This is not simply humanisation: punishment now judges the 'soul' (passions, dangerousness, normality) through experts (psychiatrists, criminologists) who fragment and extend the power to punish. Power produces knowledge; the soul 'is the prison of the body'.",
    "concepts": [
-    "law-and-politics"
+    "law-and-politics",
+    "individual-responsibility",
+    "people-with-projects"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Michel Foucault, *Discipline and Punish* (1975; trans. 1977), Part One ch. 1.\n\n**Two scenes.** The 1757 sentence and execution of Damiens the regicide: amende honorable, flesh torn with red-hot pincers, molten lead, quartering by horses that failed until the sinews were cut, burning to ashes; his cries of 'Pardon, my God!' Then Léon Faucher's rules for young prisoners in Paris (c. 1838): drum-rolls, prayer, work, school, meals, silence. 'We have, then, a public execution and a time-table.'\n\n**Disappearance of the spectacle.** Between 1760 and 1840 the economy of punishment was redistributed through new codes (Russia 1769, Prussia 1780, Pennsylvania and Tuscany 1786, Austria 1788, France 1791–1810). The amende honorable, pillory, public convict labour and chain-gang were abolished; punishment became 'the most hidden part of the penal process'. Certainty rather than spectacle deters. Justice, ashamed, delegates execution to an autonomous bureaucracy and disavows it ('we wish to obtain a cure'). 'There is a shame in punishing.'\n\n**Slackening hold on the body.** Imprisonment and forced labour touch the body only 'to deprive the individual of a liberty that is regarded both as a right and as property': 'an economy of suspended rights'. Technicians replace the executioner (warders, doctors, chaplains, psychiatrists); a doctor watches the condemned; tranquillisers before execution. The guillotine (1792) offers equal, instantaneous death to 'a juridical subject' rather than a feeling body. Yet traces of 'torture' remain (rationing, solitary confinement), and executions moved inside prison walls, a spectacle 'that must actually be forbidden'.\n\n**The soul as target.** Mably: 'Punishment … should strike the soul rather than the body.' Judgment now falls on 'passions, instincts, anomalies, infirmities, maladjustments'. The questions shift from whether the act occurred, who did it and what law applies, to what it is, what caused it, and what measures will rehabilitate. Psychiatric expertise, at first about responsibility (art. 64 of the 1810 code), now advises on dangerousness and treatment. Subsidiary judges multiply (experts, sentence-implementation magistrates, educators): 'a scientifico-juridical complex'. Criminal justice 'justifies itself only by this perpetual reference to something other than itself'.\n\n**Method (four rules).** (1) Study punishment's positive effects, not just repression. (2) Treat punishment as a political tactic. (3) Find the common matrix of penal law and the human sciences. (4) Ask whether the soul's entry reflects a new investment of the body by power. Following Rusche and Kirchheimer, punishment belongs to a 'political economy' of the body (slave, feudal, mercantile, industrial). The body is invested by power to make it 'both a productive body and a subjected body': a 'political technology of the body', a 'micro-physics of power'. Power is 'exercised rather than possessed', a strategy and 'perpetual battle', not a contract or conquest. 'Power produces knowledge … power and knowledge directly imply one another.' Kantorowicz's king's two bodies, with the condemned as the inverted figure. 'The soul is the effect and instrument of a political anatomy; the soul is the prison of the body.' Prison revolts against both misery and model prisons were 'revolts, at the level of the body, against the very body of the prison'. A 'history of the present'.",
+   "arguments": [
+    "Punishment moved from bodily spectacle to hidden deprivation of rights.",
+    "Humanisation masks a shift of target from body to 'soul'.",
+    "Expert knowledge (psychiatry, criminology) disperses and extends the power to punish.",
+    "Power is exercised through techniques on bodies; it produces knowledge.",
+    "The soul, produced by discipline, is the prison of the body."
+   ],
+   "source": "",
+   "short": "Foucault — Body of the condemned",
+   "context": "Read for war and law: humanitarian restraint as a change in the *technique* of violence rather than its reduction ([[kennedy-legal-expertise-war]], [[oconnell-ihl]]). Expert discourse dispersing power: [[cohn-sex-death]], [[lang-regimes]], [[kennedy-spring-break]]. The shame of punishing parallels [[kennedy-hr-problem]] on condemnation and legitimation and [[koskenniemi-impunity]]. 'History of the present' vs [[kennedy-chart]]. Power as strategy and battle anticipates Kennedy's 'world of struggle'.",
+   "conceptNotes": {
+    "individual-responsibility": "from punishing acts to treating souls",
+    "people-with-projects": "experts dispersing the power to punish",
+    "law-and-politics": "power–knowledge and the 'humanisation' of punishment"
+   }
   },
   {
    "id": "kennedy-legal-expertise-war",
@@ -4512,17 +4541,34 @@
    "year": 2016,
    "title": "Legal Expertise in War",
    "cite": "A World of Struggle, 256",
-   "tldr": "Law is now the vocabulary of modern war. It both limits and legitimates violence, and it spreads responsibility across experts so that no one decides.",
-   "draft": true,
+   "tldr": "The conventional picture of international law as standing outside war, distinguishing legal from illegal violence and restraining sovereign power, overstates the war/peace divide. Law works in two directions: as terrain for contesting war, and as a framework 'transforming sovereign power and violence into right' ('lawfare'). Law has dispersed through every site of modern war and become fluid, strategic and plural, with three historical dialects (justice and policy, formal rules, legitimacy). Those who speak truth to power are drawn into collaboration, those who exercise power as truth into hyperbolic justice. The greatest danger is the loss of the human experience of moral responsibility. Clausewitz was right, but 'for modern war, modern law has become that language'.",
    "concepts": [
     "jus-in-bello",
     "jus-ad-bellum",
     "people-with-projects",
-    "dark-sides"
+    "dark-sides",
+    "law-and-politics",
+    "fragmentation"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Ch. 8 of David Kennedy, *A World of Struggle: How Power, Law, and Expertise Shape Global Political Economy* (2016).\n\n**The conventional view.** International law restrains war by distinguishing war/not-war, sovereignty/not-sovereignty, legal/illegal, and hopes to substitute itself 'top-down' for sovereign power. That happens through doctrine and institutions (courts-martial, the Security Council, the ICC) or, later, horizontal 'interactive' processes (hegemonic enforcement, citizen delegitimation, costs). This 'overstates the distinctiveness of war and peace as well as the extent to which international law can be said to be on the \"side\" of peace'.\n\n**Two directions.** Law is a terrain for combat over war's limits, *and* 'a parallel doctrinal and institutional framework for transforming sovereign power and violence into right, continuing the projects of war by other means'. When humanitarian lawyers say compliance 'legitimates', they mean killing is 'legally privileged, authorized, permitted, and justified. The military has taken the hint.' *Lawfare*: buying up satellite capacity (contract as weapon), Security Council terrorist lists to seize assets. Victors' courts; the Council institutionalising the last war (the Iraq War's legality 'hung solely upon how France decided to vote'); 'not all wars need to be fought to be lost decisively'.\n\n**Dispersion: war as a legal institution.** Law 'has infiltrated the war machine'; the battlespace is 'legally saturated'. War is shaped by constitutional, administrative, private, environmental, finance, privacy, nationality and jurisdiction law, and by background property and contract. War is peripheral and asymmetric; soldiers do diplomacy, policing and reconstruction; precision munitions are guided from Missouri; the sovereign sits atop a bureaucracy amid an engaged elite whose vernacular is right. Even the Taliban issues rules-of-engagement training. 'War has become a legal institution — the continuation of law by other means.'\n\n**Rhetorical strategy.** Categories have become 'spongy' (self-defence, hostilities, use of force, police action, peace enforcement…). Military and humanitarians each want bright lines when they help (the battlefield defines the privilege to kill; the not-battlefield opens humanitarian space), and blur them otherwise. When does war end? 'Not in law or fact — but in strategy.' 'Communicating the war is fighting the war.' Using law changes it (the Red Cross, Al Jazeera, CNN, an Italian prosecutor charging CIA agents). US rules of engagement tightened from invasion to occupation to counterinsurgency as expectations about civilian deaths shifted. Legal pluralism: Amnesty calls Israeli strikes on Hezbollah war crimes; Israel says targeting enemy-exploited infrastructure is lawful; only 'the imaginary Court of World Public Opinion' decides.\n\n**A history of modernisation.** Early 19th century: justice and wise policy, the jurist as adviser to statesmen. Late 19th century: sharp formal distinctions (declarations of war, public/private, ad bellum/in bello), with jurists as external scientific judges. 20th century: loss of faith in rules; the League, collective security; principles like proportionality and necessity; the Charter's management of 'use of force'; human rights on the battlefield. Military and humanitarian specialists both preferred standards (the chemical-weapons rule barred tear gas, hence flamethrowers in Afghan caves; narrow rules legitimate what they permit). Today these are three *dialects* (justice and policy, juristic rules, legitimacy among elites) used as methodological options, each claiming not to be mere preference. Defending law's autonomy has become disciplining argument; it's easy to mistake our ability to articulate law's autonomy 'for an actual capability to restrain'. But counter-styles can unravel confident claims that a death was lawful.\n\n**People pursuing projects by articulation.** Suspend the question of who is right. Those who strengthen the military hand (perform 'power as truth') and those who restrain it ('speak truth to power') engage in a Clausewitzian rhetorical struggle with friction and third parties. The asymmetry: peacemakers must persuade warriors that law makes them stronger, which draws them 'into the collaborative exercise of violence'; warriors pull toward ever more hyperbolic invocations of justice. 'Justice will come to be articulated most robustly by those who make war.' 'Enemies will sound like friends, and friends, enemies.'\n\n**In action.** Leaders justify war in human rights terms. A 'CNN effect' term goes into the proportionality calculus. 'It is difficult to think of a use of force that could not be legitimated in the language of the Charter.' 'Missiles become missives.' Asymmetric war makes the other side's tactics seem perfidious. General Mattis at Fallujah: 'We will always be humanitarian … May God help them when we're done with them'; insurgents threatened to behead hostages, which some hear as a humanitarian minimisation. 'No one … experiences the death of her husband or sister as humanitarian and proportional.' Law often leaves 'all parties feeling their cause is just and no one feeling responsible'. When humanitarian law turns decisions to kill into 'judgments', 'the greatest threat … is loss of the human experience of moral jeopardy'.\n\n**Conclusion.** It is 'a distinctively modern triumph to have transformed war into a legal institution while rendering law a flexible strategic instrument'. Law 'may do more to constitute and legitimate than restrain violence'. 'Clausewitz was right … For modern war, modern law has become that language.' Law and war together have 'divorce[d] politics from ethical choice and responsibility while structuring and defending a global … order of ongoing and unequal struggle', enforcing its boundaries 'while erasing their complicity'.",
+   "arguments": [
+    "International law both restrains and constitutes war: violence transformed into right ('lawfare').",
+    "Law has dispersed through all sites of war; war is a legal institution.",
+    "Legal categories are fluid and strategic; legal pluralism with no arbiter.",
+    "Three historical dialects now serve as interchangeable argumentative styles.",
+    "The danger: loss of moral and political responsibility for killing."
+   ],
+   "source": "",
+   "short": "Kennedy — Legal expertise in war",
+   "context": "Course capstone. It inverts [[clausewitz-on-war]], reads [[oconnell-ihl]] and [[haines-weapons]] as rhetorical resources, and extends [[kennedy-hr-problem]] ('humanitarian norms justify too much') and [[kennedy-spring-break]] to war. The history of dialects mirrors [[kennedy-chart]] and [[kennedy-primitive]]; 'people pursuing projects' is the course method. Expertise and its seductions: [[cohn-sex-death]], [[lang-regimes]]; power and knowledge: [[foucault-body]]. Background law: [[koskenniemi-laws-rule-us]], [[cohen-property-sovereignty]]. Sanctions as lawfare: [[chachko-heath]]; victors' courts: [[koskenniemi-impunity]], [[krever-scurrying]].",
+   "conceptNotes": {
+    "jus-in-bello": "law as constitutive of modern war",
+    "jus-ad-bellum": "Charter vocabulary as legitimation",
+    "people-with-projects": "legal argument as projects in struggle",
+    "dark-sides": "law legitimating violence; loss of responsibility",
+    "law-and-politics": "law as war's language",
+    "fragmentation": "legal pluralism in war"
+   }
   }
  ],
  "concepts": [
@@ -4934,18 +4980,6 @@
    "to": "knop-feminism-sovereignty",
    "type": "extends",
    "note": "Knop re-looks at who and what sovereignty hides: women, then cities."
-  },
-  {
-   "from": "kennedy-legal-expertise-war",
-   "to": "clausewitz-on-war",
-   "type": "builds-on",
-   "note": "Law becomes one of the 'other means' of politics in war."
-  },
-  {
-   "from": "kennedy-legal-expertise-war",
-   "to": "foucault-body",
-   "type": "builds-on",
-   "note": "Diffuse, technical power: law as discipline of violence."
   },
   {
    "from": "bolton-icc-2018",
@@ -6206,6 +6240,72 @@
    "to": "freud-war-death",
    "type": "builds-on",
    "note": "Both explore the psychic work that makes mass death thinkable."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "clausewitz-on-war",
+   "type": "responds-to",
+   "note": "War as policy's language; for modern war, law has become that language."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "oconnell-ihl",
+   "type": "critiques",
+   "note": "The ad bellum/in bello framework as fluid strategic resource, not external restraint."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "kennedy-hr-problem",
+   "type": "extends",
+   "note": "Humanitarian norms justify and excuse: the dark sides now on the battlefield."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "kennedy-chart",
+   "type": "builds-on",
+   "note": "The 19th- and 20th-century phases of the discipline as three dialects of the law of war."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "cohn-sex-death",
+   "type": "builds-on",
+   "note": "Expert vocabularies that distance speakers from killing and dissolve responsibility."
+  },
+  {
+   "from": "kennedy-legal-expertise-war",
+   "to": "chachko-heath",
+   "type": "illustrates",
+   "note": "Sanctions and asset-freezing lists as lawfare."
+  },
+  {
+   "from": "clausewitz-on-war",
+   "to": "freud-war-death",
+   "type": "contrasts",
+   "note": "Passion as one element of war's trinity vs war as the eruption of the primal unconscious."
+  },
+  {
+   "from": "clausewitz-on-war",
+   "to": "oconnell-ihl",
+   "type": "contrasts",
+   "note": "International law as 'almost imperceptible' self-restriction vs IHL's claim to bind all sides."
+  },
+  {
+   "from": "foucault-body",
+   "to": "kennedy-legal-expertise-war",
+   "type": "builds-on",
+   "note": "Humanisation as a new technique of power; knowledge and power producing each other."
+  },
+  {
+   "from": "foucault-body",
+   "to": "cohn-sex-death",
+   "type": "complicates",
+   "note": "Expert discourses that discipline and distribute the power to inflict harm."
+  },
+  {
+   "from": "foucault-body",
+   "to": "koskenniemi-impunity",
+   "type": "complicates",
+   "note": "Punishment's shame and the shift from spectacle to expert-managed penalty."
   }
  ],
  "themes": [
@@ -6253,7 +6353,8 @@
     "bello-wto",
     "burgis-kasthala-gaza",
     "henkin-how-nations-behave",
-    "kristian-ukraine"
+    "kristian-ukraine",
+    "kennedy-legal-expertise-war"
    ],
    "concepts": [
     "law-nonlaw",
@@ -6363,7 +6464,8 @@
     "miller-parity",
     "koskenniemi-laws-rule-us",
     "cohn-sex-death",
-    "oconnell-ihl"
+    "oconnell-ihl",
+    "foucault-body"
    ],
    "concepts": [
     "people-with-projects",
@@ -6422,7 +6524,9 @@
     "chachko-heath",
     "sassen-territory",
     "knop-hidden-city",
-    "kristian-ukraine"
+    "kristian-ukraine",
+    "clausewitz-on-war",
+    "kennedy-legal-expertise-war"
    ],
    "concepts": [
     "political-questions",
