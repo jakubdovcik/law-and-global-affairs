@@ -4319,11 +4319,31 @@
    "title": "Historical Development and Legal Basis",
    "cite": "Handbook of International Humanitarian Law (excerpts)",
    "concepts": [
-    "jus-in-bello"
+    "jus-in-bello",
+    "jus-ad-bellum",
+    "human-rights",
+    "state-responsibility",
+    "fragmentation"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Mary Ellen O'Connell, 'Historical Development and Legal Basis', in Fleck (ed.), *Handbook of IHL* (3rd ed., 2013), excerpts.\n\n**Jus ad bellum (§101).** Article 2(4) prohibits 'the threat or use of force', not 'war', avoiding debates about what counts as war. The prevailing view: it restricts first resort to significant force unless an express exception applies: Security Council action (Ch. VII) or self-defence (art. 51).\n- *Security Council*: 'international peace and security' expanded to cover human rights violations, WMD, terrorism (2005 World Summit).\n- *Self-defence*: 'armed attack' undefined. *Nicaragua*: includes sending armed bands of sufficient 'scale and effects', not a 'mere frontier incident', so 'armed attack' is narrower than 'use of force'. After 9/11, debate over non-state attacks: Res. 1368 referred to art. 51 without attribution, but the UK made the case that the Taliban was responsible for al-Qaeda, which is practice suggesting attribution is required.\n- *Collective self-defence* (Nicaragua): the victim must have been attacked and must request help.\n- *Humanitarian intervention*: unauthorised claims rejected before 1990. 1990s support grew: ECOWAS in Liberia (endorsed after the fact), NATO in Kosovo 1999 (a condemnation resolution was defeated 12–3); the UK in 2004 spoke of 'increasing acceptance'. But Libya (Res. 1973, 2011: no-fly zone, 'all necessary means') consolidated Council authority and weakened the claim to an unauthorised right, already rejected at the 2005 World Summit.\n\n**Equal application.** IHL applies 'with equal force to both sides … irrespective of who is the aggressor'. This seems to contradict *ex injuria non oritur ius*, but it is well established: North Vietnam's 1977 argument was rejected; the AP I preamble applies 'without any adverse distinction based on the nature or origin of the armed conflict'; WWII trials applied the Hague rules to all. Reasons: IHL protects *individuals*, who aren't responsible for aggression; usually no authoritative determination of the aggressor (Iran and Iraq both claimed self-defence); otherwise IHL would be disregarded. Lauterpacht: impossible that one side be bound without benefiting. UN forces are bound too.\n\n**Scope (§102–103).** 'IHL' is a recent term covering Geneva, Hague, weapons treaties, custom and general principles, but not neutrality (not humanitarian). It applies in any armed conflict, declared or not. *Reciprocity*: treaties bind only parties (Kuwait 1991: AP I parties needn't apply it against non-party Iraq), but once binding they are not conditional on the other side's compliance ('a series of unilateral engagements solemnly contracted before the world'; the old 'general participation clause' is gone). *Human rights*: designed for peacetime and state–citizen relations; IHL for the 'abnormal' relation with the enemy, 'otherwise based upon power rather than law'. Human rights apply in war, with derogations; the Nuclear Weapons AO treats IHL as *lex specialis* for the right to life. IHL 'decriminalizes the taking of life in some circumstances'. It mostly governs treatment of the adversary's people, with exceptions (common art. 3, AP II, training, prosecution of grave breaches).\n\n**Military necessity (§132).** Only force necessary to defeat the enemy (Lieber Code arts. 14–16; US Naval Manual: 'minimum expenditure of time, life and physical resources'). This grounds bans on unnecessary suffering, unnecessary destruction of property, and disproportionate civilian harm (AP I art. 51(5)(b)).",
+   "arguments": [
+    "Jus ad bellum (Charter) and jus in bello (IHL) are separate bodies.",
+    "Armed attack is narrower than use of force; non-state attacks and attribution are contested.",
+    "Humanitarian intervention without authorisation is not accepted; Libya confirms Council primacy.",
+    "IHL applies equally to aggressor and victim, without reciprocity.",
+    "Necessity limits force; IHL is lex specialis to human rights in war."
+   ],
+   "source": "",
+   "short": "O'Connell — IHL basis",
+   "tldr": "The handbook baseline. The *jus ad bellum* (Charter art. 2(4); exceptions only for Security Council authorisation and self-defence after an 'armed attack') is separate from the *jus in bello* (IHL), which applies equally to aggressor and victim. Disputed edges: armed attacks by non-state actors after 9/11, collective self-defence (Nicaragua), humanitarian intervention (Kosovo, Libya). IHL protects persons regardless of reciprocity, coexists with human rights law (lex specialis), and rests on military necessity limited by humanity.",
+   "context": "Doctrinal baseline for the war topics. Nicaragua: [[nicaragua-1984]]; Nuclear Weapons AO: [[nuclear-weapons-ao]]; lex specialis: [[ilc-fragmentation-phenomenon]]. The Charter regime and Council: [[schachter-hammarskjold]], [[wedgwood-unilateral]], [[kennedy-sg]]. Kosovo and humanitarian intervention: [[kennedy-hr-problem]] ('human rights justify too much'). Critiqued from inside by [[kennedy-legal-expertise-war]] and from outside by [[cohn-sex-death]] and [[freud-war-death]].",
+   "conceptNotes": {
+    "jus-ad-bellum": "Charter prohibition and exceptions",
+    "jus-in-bello": "IHL's scope, equality and necessity",
+    "human-rights": "IHL and human rights in armed conflict",
+    "state-responsibility": "attribution of non-state attacks",
+    "fragmentation": "lex specialis between IHL and human rights"
+   }
   },
   {
    "id": "haines-weapons",
@@ -4334,11 +4354,27 @@
    "title": "The Developing Law of Weapons",
    "cite": "Oxford Handbook of International Law in Armed Conflict (excerpts)",
    "concepts": [
-    "jus-in-bello"
+    "jus-in-bello",
+    "custom",
+    "general-principles"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Steven Haines, 'The Developing Law of Weapons', in Clapham & Gaeta (eds.), *Oxford Handbook of International Law in Armed Conflict* (2014), excerpts.\n\n**Definitions.** The terminology is 'weapons, means and methods of warfare'. A 'weapon' (generic) is a capability applied to a military objective or combatant to destroy, reduce effectiveness or incapacitate. 'Means' are specific devices, munitions, substances. A platform or vehicle is not a weapon unless weaponised; once weaponised it is part of a 'weapon system', as is an integral sensor (a fire-control radar affects discrimination). 'Method' is the manner of use.\n\n**Two levels of legality.** (1) Is the weapon inherently lawful? (2) Is its use in particular circumstances lawful? Any lawful weapon can be misused: a standard pistol used to destroy kneecaps; white phosphorus (lawful for illumination or igniting stores) used directly against combatants would cause superfluous injury. Inherent lawfulness is assessed by the weapon's 'defined and designed purpose'.\n\n**Principles.** Hague Conventions 1899/1907 art. 22: the right to adopt means of injuring the enemy 'is not unlimited'; tactical or strategic necessity, even facing inevitable defeat, cannot justify banned weapons. *Distinction* (combatants and military objectives vs civilians) and *humanity* (no superfluous injury or unnecessary suffering).\n\n**Summary.** Settled: means not unlimited; humanity; no indiscriminate weapons. Further candidates: (a) necessity is no justification for non-compliance; (b) inherent lawfulness relates to designed purpose or expected normal use, not potential misuse; (c) remote, semi-autonomous or autonomous systems 'must include adequate technical provision to enable judgments … about the potential for disproportionate effect'. The first two make weapons law meaningful; the third reflects technology. All six apply in reviewing new weapons; they are strong contenders for custom.",
+   "arguments": [
+    "Distinguish weapons, means and methods; weapon systems include sensors.",
+    "Legality is tested inherently (design) and in use.",
+    "Core principles: limitation, humanity, discrimination.",
+    "Necessity does not override weapons law.",
+    "Autonomous systems must allow proportionality judgments."
+   ],
+   "source": "",
+   "short": "Haines — Weapons law",
+   "tldr": "Weapons law regulates 'weapons, means and methods of warfare'. A weapon is judged both inherently (by its designed purpose) and in use (a lawful pistol used to destroy kneecaps; white phosphorus against combatants). Three settled principles: means are not unlimited; no superfluous injury or unnecessary suffering; no indiscriminate weapons. Three candidates: necessity cannot justify non-compliance; lawfulness turns on designed purpose and normal use; autonomous systems must enable proportionality judgments.",
+   "context": "Technical weapons law next to [[oconnell-ihl]]. The Nuclear Weapons AO ([[nuclear-weapons-ao]]) applied these principles. Cohn's 'clean bombs' and 'surgical strikes' ([[cohn-sex-death]]) show how such categories can sanitise. Autonomy and private infrastructure: [[nyt-musk]]. Kennedy on the law of war as legitimating vocabulary: [[kennedy-legal-expertise-war]], [[kennedy-hr-problem]] ('humanitarian norms excuse too much').",
+   "conceptNotes": {
+    "jus-in-bello": "weapons law principles",
+    "custom": "candidate customary principles of weapons law",
+    "general-principles": "humanity and distinction"
+   }
   },
   {
    "id": "kristian-ukraine",
@@ -4350,11 +4386,24 @@
    "cite": "The New York Times, June 20, 2022",
    "concepts": [
     "jus-in-bello",
-    "jus-ad-bellum"
+    "jus-ad-bellum",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "New York Times guest essay (20 June 2022), by a fellow at Defense Priorities.\n- **Administration line**: rhetoric drifted ('cannot remain in power' walked back; goals moved from defending Ukraine to a 'weakened' Russia), but consistently: 'We do not seek a war between NATO and Russia … So long as the United States or our allies are not attacked, we will not be directly engaged.'\n- **History**: Wilson's 'He kept us out of war' (1916), then war a month into his second term. Johnson's 'not about to send American boys' (1964), then Rolling Thunder and troops in 1965. But then there was a 'bright line'.\n- **Blurring**: since 9/11, 'a model of perpetual warfare, with ambiguous boundaries of chronology, geography and purpose'. Drones and cyber let the US kill and destroy abroad without troops leaving US soil. Congress hasn't declared war since 1942; presidents rely on post-9/11 authorisations. Drone strikes in Pakistan (since 2004) and Somalia (since 2011); the Niger ambush (2017). Yemen: US warheads and targeting guidance for the Saudi-led coalition; lawmakers said this violated Article I and the War Powers Resolution: 'We crossed the line in Yemen … even if it's not wholly clear where the line is.'\n- **Ukraine**: leaks that the US helped kill Russian generals and strike a warship; $40bn aid; rocket systems that could reach Russia; armed drones. 'If we swapped places … I doubt we'd find much ambiguity.' 'Maybe that's only because we've become so uncertain of the meaning of the word.'",
+   "arguments": [
+    "Presidential promises to stay out of war have a short shelf life.",
+    "Post-9/11 technology and executive power blur war/not-war.",
+    "Support roles (intelligence, targeting, weapons) can amount to participation.",
+    "By any reciprocal test, US actions in Ukraine look like war."
+   ],
+   "source": "",
+   "short": "Kristian — At war in Ukraine?",
+   "tldr": "Biden insists the US will not go to war with Russia, but presidents have promised that before (Wilson 1916, Johnson 1964). Since 9/11 the line between war and not-war has 'perilously blurred' through drones, cyber, executive war-making under the 2001 authorisation, and support roles (Pakistan, Somalia, Niger, Yemen). Helping Ukraine kill Russian generals and sink a warship, with $40bn in aid: 'At the very least, what the United States is doing in Ukraine is not *not* war.'",
+   "context": "War as a legal category dissolving, cf. [[oconnell-ihl]] (use of force rather than 'war'; collective self-defence) and neutrality's decline ([[chachko-heath]]). Who decides on war: [[kennedy-sg]] ('half of Washington…'), [[koh-trump]]. Private infrastructure on the battlefield: [[nyt-musk]]. The war context: [[nyt-putin-ukraine]]. Leads to [[kennedy-legal-expertise-war]] on war as a legal institution.",
+   "conceptNotes": {
+    "jus-ad-bellum": "what counts as being at war",
+    "law-and-politics": "executive war-making and labels"
+   }
   },
   {
    "id": "freud-war-death",
@@ -4364,14 +4413,28 @@
    "year": 1915,
    "title": "Thoughts for the Times on War and Death",
    "cite": "",
-   "tldr": "WWI shatters faith in civilised nations. War strips away cultural restraint and exposes our ambivalent, denied relation to death.",
-   "draft": true,
+   "tldr": "Written in 1915. Non-combatants feel *disillusionment*: the 'civilized' white nations, expected to settle conflicts otherwise, wage a war that 'sets at naught … International Law' and tramples distinctions; the state forbids wrongdoing to individuals 'not because it desired to abolish it, but because it desires to monopolize it'. But the disillusion is the loss of an illusion: 'our fellow citizens have not sunk so low as we feared, because they had never risen so high'. War also strips our denial of death, exposing the unconscious (immortal self, murderous wishes toward strangers, ambivalence toward the loved). 'Si vis vitam, para mortem.'",
    "concepts": [
-    "jus-in-bello"
+    "jus-in-bello",
+    "sovereignty",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Sigmund Freud, 'Thoughts for the Times on War and Death' (1915; trans. 1919), edited excerpts.\n\n**I. Disillusionment.** In the vortex of war, science loses impartiality (anthropologists call the enemy degenerate, psychiatrists diagnose him). We expected wars between 'primitive and civilized peoples', across the 'color-line', and among Europe's 'undeveloped nationalities', but hoped 'the great ruling powers among the white nations' would find another way. The civilised cosmopolitan had a 'wider fatherland', a museum of all nations' treasures, a personal 'Parnassus'. If war came, it would be chivalrous: protecting the wounded, medics and non-combatants and preserving international institutions (like the Greek Amphictyones). Instead this war is more destructive and as cruel as any. It 'sets at naught all those restrictions known as International Law', ignores the wounded, civil/military distinctions and private property, and leaves a legacy of embitterment. One civilised nation is treated as barbaric (Freud hopes history will show his own 'least transgressed').\n\n**The state.** 'The state has forbidden to the individual the practice of wrong-doing, not because it desired to abolish it, but because it desires to monopolize it, like salt and tobacco.' The warring state lies, deceives, censors, treats citizens as children, breaks treaties, confesses its 'rapacity and lust for power', and asks individuals to sanction it as patriotism. Conscience is 'dread of the community'; when the community stops rebuking, cruelty, fraud and barbarity follow.\n\n**But.** Disillusionment is the destruction of an illusion. 'Our fellow citizens have not sunk so low as we feared, because they had never risen so high as we believed.' War can undo the 'transformations of instinct' on which culture rests; refinement may return in peace.\n\n**II. Attitude toward death.** We call death natural but 'shelve' it: 'no one believes in his own death'; we avoid speaking of others' deaths, stress accidental causes, praise the dead. This impoverishes life, 'as flat … as one of those American flirtations', so we seek in fiction the plurality of lives we crave. War sweeps this away: people die 'ten thousand in a day'; life 'has regained its full significance'. For strangers and enemies we acknowledge death as readily as primitive man; our unconscious 'daily and hourly' wishes death on those in our way, and is ambivalent even toward loved ones. War 'strips us of the later accretions of civilization, and lays bare the primal man in each of us'. Since wars will continue while nations differ and repulsions are intense, perhaps we must give death its place: 'Si vis vitam, para mortem.'",
+   "arguments": [
+    "War exposes the illusion of civilised restraint and international law.",
+    "The state monopolises wrongdoing rather than abolishing it.",
+    "Conscience is dread of the community; war lifts that restraint.",
+    "Civilised denial of death impoverishes life; war restores it.",
+    "The unconscious is murderous toward strangers and ambivalent toward loved ones."
+   ],
+   "source": "",
+   "short": "Freud — War and death",
+   "context": "The psychology beneath the law of war ([[oconnell-ihl]]): the chivalrous war Freud expected is the one IHL imagines. 'White nations' and the colour line connect to [[dubois-collapse]] (the same war, seen from Africa) and [[anghie-imperialism]]. The state's monopoly of wrongdoing echoes [[kelsen-lecture-iii]] and [[clausewitz-on-war]]. Psychoanalysis in Vienna: [[knop-hidden-city]]. Distance from death: [[cohn-sex-death]].",
+   "conceptNotes": {
+    "jus-in-bello": "the failed promise of civilised war",
+    "sovereignty": "state monopolising wrongdoing",
+    "colonialism": "civilised vs primitive wars; the colour line"
+   }
   },
   {
    "id": "cohn-sex-death",
@@ -4381,16 +4444,30 @@
    "year": 1987,
    "title": "Sex and Death in the Rational World of Defense Intellectuals",
    "cite": "12 Signs 687",
-   "tldr": "The 'technostrategic' language of nuclear planners is gendered and euphemistic. Learning to speak it changes what one can think and feel about war.",
-   "draft": true,
+   "tldr": "A year among nuclear 'defense intellectuals' (1984–85). Their 'technostrategic' language is sanitised ('clean bombs', 'collateral damage'), sexualised ('penetration aids', 'patting the missile'), patriarchal and domestic ('silos', 'Christmas tree farm', RVs), and full of male birth ('Little Boy', 'It's a boy') and religion ('the nuclear priesthood'). Learning it is fun and gives mastery, and positions you as *user* not victim. Its referent is weapons, not people, and it cannot say 'peace'. Learning it is transformative, not additive; it is less a basis of decisions than a legitimating gloss, and its claim to rationality fails by its own standards.",
    "concepts": [
     "jus-in-bello",
     "feminist-critique",
-    "people-with-projects"
+    "people-with-projects",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Signs (1987).\n\n**Setting.** A summer workshop on nuclear strategy (48 college teachers, 10 women), then a year as participant-observer at a university centre. Defense intellectuals 'use the concept of deterrence to explain why it is safe to have weapons of a kind and number it is not safe to use'. The men were charming, funny, decent: 'Reader, I liked them.' The question shifted from 'How can they think this way?' to 'How can any of us?'\n\n**Stage 1: Listening.**\n- *Clean bombs and clean language*: 'clean bombs' (more blast, less radiation); 'countervalue attacks' for incinerating cities; 'collateral damage'; 'The Air Force doesn't target people, it targets shoe factories'; the MX 'Peacekeeper' and 'damage limitation weapon'; 'surgically clean strikes'.\n- *Missile size*: 'more bang for the buck'; 'to disarm is to get rid of all your stuff'; the 'nicest hole'; 'deep penetration'; 'releasing 70 to 80 percent of our megatonnage in one orgasmic whump'; Air Force Magazine ads ('Speak Softly and Carry a Big Stick'); Laurence's Nagasaki mushroom. *Patting the missile*: intimacy and domination, but also what one does to a pet, which makes lethality disappear. 'Pissing contest' both admits danger and diminishes it.\n- *Fathers, sons and virgins*: India 'losing her virginity'; New Zealand's 'Nuclear Virginity'; deterrence explained as threatening to break a son's arm: coercion by the stronger, not mutual defence. The US as father; younger countries can't be trusted.\n- *Domestic bliss*: silos, 'Christmas tree farm', 'exchange', 'marry up', 'footprint', 'bus' delivering 'RVs', PAL, BAMBI, 'shopping list', 'menu of options', 'cookie cutter'. Domestication tames the untameable; weapons get 'killed' ('fratricide'); 'vulnerability' and 'survivability' are about weapons.\n- *Male birth*: 'Oppenheimer's baby', Teller as 'mother' of the H-bomb, 'Little Boy' and 'Fat Man', hoping the baby is a boy not a girl (a dud), 'Babies satisfactorily born', 'It's a boy'. 'The first cry of a new-born world.'\n- *Religion*: Trinity; 'I am become Death'; 'the nuclear priesthood'.\n\n**Stage 2: Learning the language.** Acronyms are sexy (SLCMs as 'slick'ems', ALCMs as 'alchems'), derisive ('kneecap' for NEACP; derision makes discussion possible) and *fun*. There is the thrill of an arcane kingdom and privilege (luxury, 'Temporary Privilege Card', 'what I told John'). Mastery of words feels like control; the more she spoke it, 'the less frightened I was'. Compare a Hiroshima survivor's account with 'EMP blackout … heavy jamming environment': technostrategic language can only voice the perspective of the *users*, not the victims.\n\n**Stage 3: Dialogue.** Speaking English got her treated as ignorant, so she adopted the jargon ('escalation dominance', 'subholocaust engagements'). But the language 'does not allow certain questions to be asked': 'peace' becomes 'strategic stability'; to say 'peace' is to brand yourself 'a soft-headed activist'. She could go days without thinking of people. The deeper problem is that the 'reality' is itself abstract: deterrence theory was built by mathematicians and economists to hold together internally; 'limited nuclear war' presumes calm, perfectly informed actors. 'Regime A': 'the aggressor ends up worse off than the aggressed' makes sense only if *weapons* are the reference point. So human death is 'collateral'; human questions are 'inexpert'; and this has become the only legitimate language of security.\n\n**Stage 4: The terror.** She stopped hearing the language and started thinking in it, debating military justifications for 'no first use' and forgetting the moral ones: 'down the rabbit hole'.\n\n**Conclusions.** Out-reasoning them means accepting their rules: 'the tyranny of concepts' ('good nukes or bad nukes, not nukes or no nukes'). Learning the language is *transformative, not additive*. Refusing it means exclusion; speaking it means militarisation. But technostrategic discourse may function 'as a gloss, as an ideological curtain' legitimating decisions made for other reasons. Its claim to cool rationality fails on its own terms (homoeroticism, domination, mastery, priesthood). Task: deconstruct that discourse and reconstruct alternative rationalities and voices.",
+   "arguments": [
+    "Technostrategic language is sanitised, sexualised, domestic, birth- and religion-laden.",
+    "Learning it is pleasurable, gives mastery, and positions speakers as users not victims.",
+    "Its referent is weapons; human death is literally collateral.",
+    "It excludes questions and words like 'peace'; learning it transforms thought.",
+    "It legitimates rather than drives decisions; its rationality claim fails on its own terms."
+   ],
+   "source": "",
+   "short": "Cohn — Sex and death",
+   "context": "Feminist analysis of expert vocabularies, linking [[knop-feminism-sovereignty]] and [[charlesworth-chinkin-jus-cogens]] to war. Parallels [[kennedy-spring-break]] (the professional's language and its seductions) and [[lang-regimes]] (expertise and principles of vision). Weapons law's categories ([[haines-weapons]]) and the Nuclear Weapons AO ([[nuclear-weapons-ao]]). Deterrence as a father's threat recalls [[kennedy-legal-expertise-war]] on legal vocabularies of war. Freud on distance from death: [[freud-war-death]].",
+   "conceptNotes": {
+    "feminist-critique": "gendered language of nuclear strategy",
+    "jus-in-bello": "sanitised vocabulary of targeting and 'collateral damage'",
+    "law-and-politics": "expert discourse as legitimation",
+    "people-with-projects": "how good people think about mass death"
+   }
   },
   {
    "id": "clausewitz-on-war",
@@ -4857,12 +4934,6 @@
    "to": "knop-feminism-sovereignty",
    "type": "extends",
    "note": "Knop re-looks at who and what sovereignty hides: women, then cities."
-  },
-  {
-   "from": "cohn-sex-death",
-   "to": "freud-war-death",
-   "type": "extends",
-   "note": "Psychology of war, now through gender and expert language."
   },
   {
    "from": "kennedy-legal-expertise-war",
@@ -6045,6 +6116,96 @@
    "to": "eslava-local",
    "type": "builds-on",
    "note": "Southern cities and zones as sites for rethinking international law."
+  },
+  {
+   "from": "oconnell-ihl",
+   "to": "nicaragua-1984",
+   "type": "applies",
+   "note": "Armed attack vs use of force; collective self-defence requires a request."
+  },
+  {
+   "from": "oconnell-ihl",
+   "to": "nuclear-weapons-ao",
+   "type": "applies",
+   "note": "IHL as lex specialis for the right to life in armed conflict."
+  },
+  {
+   "from": "oconnell-ihl",
+   "to": "kennedy-hr-problem",
+   "type": "complicates",
+   "note": "Humanitarian intervention (Kosovo, Libya): human rights justifying force."
+  },
+  {
+   "from": "haines-weapons",
+   "to": "oconnell-ihl",
+   "type": "builds-on",
+   "note": "Necessity limited by humanity, applied to the design and use of weapons."
+  },
+  {
+   "from": "haines-weapons",
+   "to": "nuclear-weapons-ao",
+   "type": "applies",
+   "note": "Unnecessary suffering and indiscrimination as tests of lawfulness."
+  },
+  {
+   "from": "kristian-ukraine",
+   "to": "oconnell-ihl",
+   "type": "complicates",
+   "note": "'Use of force' replaced 'war'; support roles blur the line of being at war."
+  },
+  {
+   "from": "kristian-ukraine",
+   "to": "chachko-heath",
+   "type": "builds-on",
+   "note": "Economic and military support short of war, beyond the law of neutrality."
+  },
+  {
+   "from": "kristian-ukraine",
+   "to": "nyt-musk",
+   "type": "contrasts",
+   "note": "States hiding participation vs a private actor openly shaping the battlefield."
+  },
+  {
+   "from": "freud-war-death",
+   "to": "dubois-collapse",
+   "type": "contrasts",
+   "note": "The same war: Freud's disillusioned European cosmopolitan vs Du Bois's colonial war fought by Africans."
+  },
+  {
+   "from": "freud-war-death",
+   "to": "oconnell-ihl",
+   "type": "critiques",
+   "note": "The 'chivalrous' war of protected wounded and civilians proved an illusion."
+  },
+  {
+   "from": "cohn-sex-death",
+   "to": "kennedy-spring-break",
+   "type": "builds-on",
+   "note": "Learning a professional vocabulary that distances the speaker from suffering."
+  },
+  {
+   "from": "cohn-sex-death",
+   "to": "haines-weapons",
+   "type": "critiques",
+   "note": "'Clean bombs' and 'surgical strikes': weapons categories that sanitise killing."
+  },
+  {
+   "from": "cohn-sex-death",
+   "to": "lang-regimes",
+   "type": "applies",
+   "note": "Expertise as principles of vision deciding what can be seen and said."
+  },
+  {
+   "from": "cohn-sex-death",
+   "to": "knop-feminism-sovereignty",
+   "type": "builds-on",
+   "note": "Gendered analysis of international discourse, now nuclear strategy."
+  },
+  {
+   "from": "cohn-sex-death",
+   "to": "freud-war-death",
+   "type": "builds-on",
+   "note": "Both explore the psychic work that makes mass death thinkable."
   }
  ],
  "themes": [
@@ -6091,7 +6252,8 @@
     "kelsen-lecture-iii",
     "bello-wto",
     "burgis-kasthala-gaza",
-    "henkin-how-nations-behave"
+    "henkin-how-nations-behave",
+    "kristian-ukraine"
    ],
    "concepts": [
     "law-nonlaw",
@@ -6199,7 +6361,9 @@
     "kennedy-spring-break",
     "kingsbury-gal",
     "miller-parity",
-    "koskenniemi-laws-rule-us"
+    "koskenniemi-laws-rule-us",
+    "cohn-sex-death",
+    "oconnell-ihl"
    ],
    "concepts": [
     "people-with-projects",
@@ -6257,7 +6421,8 @@
     "ilc-fragmentation-phenomenon",
     "chachko-heath",
     "sassen-territory",
-    "knop-hidden-city"
+    "knop-hidden-city",
+    "kristian-ukraine"
    ],
    "concepts": [
     "political-questions",
