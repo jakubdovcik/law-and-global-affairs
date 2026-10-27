@@ -2787,16 +2787,29 @@
    "year": 1996,
    "title": "Transnational Legal Process",
    "cite": "75 Neb. L. Rev. 181 (excerpts)",
-   "tldr": "Compliance happens through *interaction, interpretation, internalisation*: norms seep into domestic law and institutions through repeated transnational contact.",
-   "draft": true,
+   "tldr": "Transnational legal process is how public and private actors interact across fora to make, interpret, enforce and *internalise* international law. It is nontraditional, nonstatist, dynamic and normative. Henkin said nations mostly comply; Koh explains *why*: not interest alone, nor liberal identity, but repeated *interaction → interpretation → internalisation* that makes law 'sticky'.",
    "concepts": [
     "transnational-legal-process",
     "compliance",
-    "reception"
+    "reception",
+    "public-private"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "1994 Roscoe Pound Lecture (Nebraska L. Rev. 1996).\n\n**Definition.** 'How public and private actors (nation-states, international organizations, multinational enterprises, NGOs and private individuals) interact in a variety of public and private, domestic and international fora to make, interpret, enforce, and ultimately, internalize rules of transnational law.' Four features: *nontraditional* (breaks domestic/international and public/private), *nonstatist*, *dynamic* (law percolates up and down), and *normative* (new rules emerge and guide future conduct).\n\n**Example: Dames & Moore.** A private nuclear site-study contract with Iran's Atomic Energy Organization became, through the 1979 revolution and hostage crisis, a public dispute: Iranian expropriations, US sanctions and asset freezes, the Algiers executive agreement transferring claims to the Iran–US Claims Tribunal, a Supreme Court loss (*Dames & Moore v. Regan*), and a Tribunal case. It was 'jurisgenerative' (Cover), generating new domestic and international law.\n\n**Why nations obey.** Henkin: almost all nations observe almost all law almost all the time. But why?\n- *Interest* (rationalist, game theory, regimes): compliance serves long-term self-interest in repeated games; law reduces transaction costs and signals defection.\n- *Identity* (Slaughter's liberal theory): liberal states form a 'zone of law', illiberal ones a 'zone of politics'. But identity isn't fixed: states move between dictatorship and democracy (Argentina, Chile, Peru, Haiti), prodded by international law.\n- *Interaction and internalisation*: violations create frictions in ongoing participation (*Alvarez-Machain* kidnapping hurt NAFTA talks; sovereign default hurts lending; denying ICJ jurisdiction as defendant hurts you as plaintiff). Repeated interaction produces norms that are internalised through executive action, legislation and judicial decisions; decision-making becomes 'enmeshed'. That is how law gets its 'stickiness' and states come to define compliance as in their interest. (Analogy: seat-belt rules internalised by drivers.) Even 'rogue states' must eventually interact. A violator may instead push to reinterpret the norm, which triggers another round of contestation.\n\n**Conclusions.** The theory predicts compliance if transnational processes are aggressively triggered; it suits lawyers' comparative advantage; it calls for *clinical* work and 'transnational public law litigation' to create frictions (a lawyer who understands the body politic, like a doctor, has a duty to act); and it fills 'the hole in the doughnut': scholars have been doing transnational legal process 'without knowing it', like Molière's prose.",
+   "arguments": [
+    "Compliance is produced by interaction and internalisation, not just coercion or interest.",
+    "Identity is constructed through legal process, not given.",
+    "Breaking public/private and domestic/international divides.",
+    "Normative activism: lawyers should trigger the process (litigation, advocacy)."
+   ],
+   "source": "",
+   "short": "Koh — TLP",
+   "context": "Built on [[henkin-how-nations-behave]] and [[jessup-transnational]]; a 1990s 'citizen/NGO advocate and national judge' figure of [[kennedy-chart]]. Applied in [[koh-trump]], questioned by [[goldsmith-mercer]] and [[hakimi-cogan]]. Compare [[paquete-habana]] and [[techt-v-hughes]] (reception in national courts).",
+   "conceptNotes": {
+    "transnational-legal-process": "the theory itself",
+    "compliance": "why nations obey",
+    "reception": "internalisation through domestic courts and legislatures",
+    "public-private": "dissolving the divide"
+   }
   },
   {
    "id": "koh-trump",
@@ -2806,14 +2819,29 @@
    "year": 2017,
    "title": "The Trump Administration and International Law",
    "cite": "56 Washburn L.J. 413 (excerpts)",
-   "tldr": "Transnational legal process as resistance: courts, states, cities, NGOs and bureaucracies push back against a disruptive executive.",
-   "draft": true,
+   "tldr": "Transnational legal process as 'rope-a-dope'. Outsiders (NGOs, litigants, states, cities) use *interaction–interpretation–internalisation*; insiders (bureaucrats) use *engage–translate–leverage* ('international law as smart power'). Together they create default compliance that makes Trump's 'disengage–black hole–hard power' costly, so he may 'move on'. At stake: a Kantian order of cooperation vs Orwellian spheres of influence.",
    "concepts": [
-    "transnational-legal-process"
+    "transnational-legal-process",
+    "compliance",
+    "law-and-politics",
+    "people-with-projects"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "2017 Foulston Siefkin Lecture, nine months into Trump's first term, by a former State Department Legal Adviser.\n\n**Core insight.** Most compliance comes from 'patterns of obedience' and internalised norms, not coercion: 'Even all alone at 2 o'clock in the morning, most of us still stop for a red light.'\n\n**Two strategies.**\n- *Outside*: NGOs and others generate interactions (lawsuits) that force interpretations (rulings) the government must internalise (obey).\n- *Inside*: 'Engage–Translate–Leverage', the 'Obama–Clinton doctrine' and Clinton's 'smart power'. Choose engagement over unilateralism. Choose good-faith *translation* of the spirit of existing law to new situations (drones, cyber) over the 'Tina Turner question' ('What's law got to do with it?') and claims of a 'legal black hole'. Leverage law with other tools (Dayton, New START, Paris).\n- Together they produce 'default compliance' that makes casual deviation hard.\n\n**Trump's counter-philosophy.** 'Disengage–black hole–hard power': 'America First', national rather than universal rights, no diplomatic strategy. Who will change whom? No single player can easily discard the rules. If exit is costly, a mercurial president may 'check the box' and move on. Outside actors and states and localities can resist; bureaucrats maintain default compliance unless explicitly ordered otherwise. (Case studies in the table of contents: immigration and refugees, human rights, climate, Iran, North Korea, Russian hacking, Ukraine, Al Qaeda/IS, Syria.)\n\n**At stake.** A Kantian system of global governance (UN, WTO, Paris, the Iran deal, with the US as 'balance wheel') vs a cynical Orwellian world of authoritarian mega-powers, disinformation and spheres of influence. Early signs give reason for optimism: 'the game is on, and the stakes are high.'",
+   "arguments": [
+    "Resistance through law: litigation and bureaucratic inertia constrain a hostile executive.",
+    "'Translation' rather than legal black holes for new technologies.",
+    "Default compliance and path dependence make exit costly.",
+    "Framed as a civilisational choice: Kant vs Orwell."
+   ],
+   "source": "",
+   "short": "Koh — Trump",
+   "context": "Applies [[koh-tlp]]; the target of [[goldsmith-mercer]]'s scepticism and Benvenisti's 'third response' ([[benvenisti-resilience]]). Compare [[bolton-icc-2018]] (the administration's own voice) and [[kennedy-legal-expertise-war]] (law as the vocabulary of power, not just its constraint).",
+   "conceptNotes": {
+    "transnational-legal-process": "applied as resistance strategy",
+    "compliance": "default compliance",
+    "law-and-politics": "Kantian vs Orwellian order",
+    "people-with-projects": "the lawyer as insider/outsider activist"
+   }
   },
   {
    "id": "goldsmith-mercer",
@@ -2825,11 +2853,25 @@
    "cite": "61 German Y.B. Int'l L. 11 (excerpts)",
    "concepts": [
     "compliance",
-    "law-and-politics"
+    "law-and-politics",
+    "institutions"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Draft for the German Yearbook of International Law (2019).\n\n**Part I (the 'onslaught').** Trump treats international law and institutions with disdain ('independence and cooperation over global governance' at the UN), with withdrawals and threats.\n\n**Comparison with Bush.** Bush also withdrew (ABM Treaty, the consular-relations protocol) and ended his presidency with ratings similar to Trump's after two years. Obama was seen as restorer, though he couldn't undo everything (Guantánamo, Iraq). So one presidency's impact is hard to predict, and institutions can survive long US disengagement. Koh argues Trump's effects can be limited.\n\n**The bigger picture.**\n- *Baseline problem*: the US-led order was neither as rule-based, orderly nor normatively attractive as critics claim. It didn't prevent Syria, Iraq, Libya, Yemen, Crimea, Georgia or the South China Sea; the WTO was seen as ossified and distributively unfair; democracy had declined for twelve years running (Freedom House); the populist revolt, Brexit and Obama's 'leading from behind' (Kagan: 'America First' is a pithier 'nation-building at home') came first.\n- *Causation problem*: China's and Russia's rise, backlash against globalising institutions, war fatigue and disenchantment with elite institutions predate Trump, who 'might be mostly … epiphenomenal'.\n- So Koh is wrong that a *snap-back* to 2016 is possible. China now leads on climate and trade (AIIB, New Development Bank); power shifts are path-dependent.\n- *Trump's unique contribution*: rhetoric. Calling the UN, NATO, EU, WTO, human rights bodies and G-7 corrupt and harmful corrodes faith, emboldens other populists, invites retaliation, and dislodges 'the consensus whiggish belief in a one-directional, ever-deepening, ever-more-progressive international order'.\n- Kissinger: Trump may be one of those figures 'who appears from time to time to mark the end of an era … It could just be an accident.'",
+   "arguments": [
+    "Measure change against a realistic baseline, not an idealised 'liberal order'.",
+    "Structural forces, not one president, drive change.",
+    "No snap-back: path dependence and power shifts.",
+    "Words matter: rhetorical delegitimation is Trump's distinctive impact."
+   ],
+   "source": "",
+   "short": "Goldsmith & Mercer",
+   "tldr": "Trump's attacks on international law and institutions are real, but it is too early to measure their impact. The 'rules-based order' was never as rule-based or attractive as claimed. Structural forces (China, Russia, the populist backlash, overstretch) predate him, so he may be 'epiphenomenal'. A Koh-style snap-back is unlikely. His distinctive harm is probably *rhetorical*: delegitimising institutions and the Whig belief in ever-progressive international law.",
+   "context": "A realist corrective to [[koh-trump]], from the Bush-era OLC veteran. Read with [[hakimi-cogan]] (co-constitution of law and US power) and [[benvenisti-resilience]] (empire and jus cogens). Compare the 'Whig' narratives critiqued in [[kennedy-chart]] and [[damrosch-intro]].",
+   "conceptNotes": {
+    "compliance": "limits of compliance theory",
+    "law-and-politics": "structural change vs individual leaders",
+    "institutions": "corrosion of institutional legitimacy"
+   }
   },
   {
    "id": "benvenisti-resilience",
@@ -2840,11 +2882,32 @@
    "title": "The Resilience of International Law in the Face of Empire",
    "cite": "Just Security, Feb. 17, 2025",
    "concepts": [
-    "compliance"
+    "compliance",
+    "jus-cogens",
+    "territory",
+    "erga-omnes",
+    "colonialism",
+    "transnational-legal-process"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Just Security, 17 February 2025.\n- **Trends**: early second-term proposals sidestep sovereignty and human rights. We may be reverting 'to an era of imperial rule'. Not solely Trump's doing (Russia and China); but there is a difference between *invoking* law for partisan ends (Putin's misapplied self-defence still reinforces the law, as *Nicaragua* 1986 noted) and *disavowing* it, which rejects sovereign equality and accountability.\n- **Territorial entrenchment** (Brunk & Hakimi): the triad of sanctity of borders, prohibition of force and self-determination; the ban on forcible annexation is jus cogens. It crystallised in 1945, matured through decolonisation, and gained enforcement when a US-dominated Security Council acted in the 1990s, which fostered globalisation, trust and falling military spending (1990–98). Then erosion: Kosovo, Iraq, the South China Sea, Georgia, Crimea; China–Russia vetoes since 2011; rising military spending since 1998 (sharply since 2014). A 'new era of colonial domination' by three nuclear powers may loom.\n- **ICJ 2024 Advisory Opinion (OPT)**: territorial sovereignty is not subject to external challenge; permanent control without consent is annexation and unlawful; the 'law of occupation' (not just belligerent) limits foreign control.\n- **Responses**: (1) collective state action (erga omnes duties of non-recognition and non-assistance; broad condemnation of Russia, which may fade under Trump); (2) institutional (the ICJ extends non-recognition to IOs including the UN, but the P5 are split); (3) transnational legal process (Koh), which needs resilient democracies; (4) *documentation*: international law 'hibernates' and 'has a long memory'. The Baltic republics regained sovereignty after fifty years. Unless a new peremptory norm is accepted by a 'very large and representative majority' (ILC), jus cogens stays valid.",
+   "arguments": [
+    "Disavowal of law is worse than manipulation of it.",
+    "Territorial entrenchment is the core of post-1945 law and is jus cogens.",
+    "Enforcement depends on power alignments that have broken down.",
+    "Law persists through memory and documentation even in an 'age of empire'."
+   ],
+   "source": "",
+   "short": "Benvenisti — resilience",
+   "tldr": "Trump's second term (Gaza 'evacuation', accepting Russia's hold on Ukraine, not ruling out force for Greenland or Panama) disavows rather than manipulates international law, which is more sinister since it rejects accountability itself. The post-1945 'territorial entrenchment' (borders, no force, self-determination) is jus cogens. When enforcement fails, law 'hibernates': lawyers and historians must document it until order returns, as with the Baltic states.",
+   "context": "Bridges Topic 8 ([[vidmar-greenland]], [[western-sahara]]) and Topic 3 ([[ilc-fragmentation-jus-cogens]]) with the Topic 13 debate on [[koh-trump]] and [[hakimi-cogan]]. Its 'colonial domination' worry links to Topic 19 ([[anghie-postcolonial]]).",
+   "conceptNotes": {
+    "compliance": "resilience of norms without enforcement",
+    "jus-cogens": "territorial entrenchment as peremptory",
+    "territory": "annexation, occupation (ICJ 2024)",
+    "erga-omnes": "non-recognition duties",
+    "colonialism": "return of imperial rule",
+    "transnational-legal-process": "resistance needs resilient democracies"
+   }
   },
   {
    "id": "hakimi-cogan",
@@ -2855,11 +2918,30 @@
    "title": "The End of the U.S.-Backed International Order and the Future of International Law",
    "cite": "119 AJIL 279 (excerpts)",
    "concepts": [
-    "law-and-politics"
+    "law-and-politics",
+    "institutions",
+    "sovereignty",
+    "political-economy",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "AJIL 2025.\n- **Change**: the US-led order (trade, statehood, democracy, human rights, multilateralism, institutions), with heterogeneous global origins but the US as principal guarantor, is undergoing dramatic change.\n- **Law and power**: law needs power to be effective, and power uses law, but 'law's primary allegiance is to its own processes and rules, not the preferences of the powerful'. If power's demands become excessive, law resists. Alignment is imperfect, impermanent and contingent. A breakdown can be a blip or an order's dissolution.\n- **Four features of the US-backed system**: (1) *legalisation*: law as a dominant mode of interaction, a flourishing of courts and treaties, with the US drafting and advancing the WTO, Rome Statute, Paris and model bilateral agreements; (2) *institutions*; (3) *support for states as states* (statehood, territorial integrity); (4) *extensive regulation of states* (human rights, trade, anti-corruption, investment, health, Antarctica).\n- **Not neutral**: the US promoted law for its own goals (global health protecting US security and pharma; trade and investment favouring the US) and undermined other norms: expansive self-defence, Iraq 2003, defying the ICJ, not joining treaties, undercutting the ICC. Yet its support was 'extraordinary' and constitutive.\n- **Going forward**: a less US-dominated order has appeal. US dominance reproduced colonial economic injustice via transnational capitalism, caused suffering (Iraq; sanctions on Cuba and Iran; backed dictators), and cost Americans (half of discretionary spending on the military; decisions without democratic debate). But international lawyers have failed to see how law and US power were constituted together. New, possibly illiberal, sources of power will define what law becomes; all four features are under strain; 'nothing … including the legalization of international relations itself, is guaranteed.' Think creatively about what comes next.",
+   "arguments": [
+    "International law and US hegemony were co-constituted, not simply opposed.",
+    "The US-backed order = legalisation + institutions + state support + state regulation.",
+    "US support was selective and self-serving but foundational.",
+    "As power shifts, the form and content of international law will change, possibly radically."
+   ],
+   "source": "",
+   "short": "Hakimi & Cogan",
+   "tldr": "International law and US power were *co-constituted* after 1945. The US-backed order had four features: deep legalisation, commitment to institutions, support for states as states, and extensive regulation of states. US support was partial and self-interested, but foundational. As US backing ends, international law's architecture and content will change; lawyers who see power only as law's corrupter miss this.",
+   "context": "The structural counterpart to [[goldsmith-mercer]] and the opposite of law-as-autonomous-resistance in [[koh-trump]]. It resonates with [[mcdougal-law-power]] (law within the power process), [[kennedy-chart]] (eras shaped by power) and TWAIL critiques ([[chimni-2017]], [[anghie-imperialism]]).",
+   "conceptNotes": {
+    "law-and-politics": "co-constitution of law and power",
+    "institutions": "institutionalisation under US hegemony",
+    "sovereignty": "support for states as states",
+    "political-economy": "transnational capitalism and US dominance",
+    "colonialism": "reproduction of colonial injustice"
+   }
   },
   {
    "id": "roepke-1955",
@@ -4060,24 +4142,6 @@
    "note": "Explains *why* nations mostly comply: internalisation."
   },
   {
-   "from": "koh-trump",
-   "to": "koh-tlp",
-   "type": "applies",
-   "note": "The process theory as resistance strategy."
-  },
-  {
-   "from": "goldsmith-mercer",
-   "to": "koh-trump",
-   "type": "contrasts",
-   "note": "Less rupture, more continuity than Koh suggests."
-  },
-  {
-   "from": "hakimi-cogan",
-   "to": "benvenisti-resilience",
-   "type": "contrasts",
-   "note": "End of an order vs. resilience of the law."
-  },
-  {
    "from": "bello-wto",
    "to": "roepke-1955",
    "type": "builds-on",
@@ -4736,6 +4800,60 @@
    "to": "kennedy-sg",
    "type": "builds-on",
    "note": "Kennedy's later essay on the Secretary-General revisits the leader-vs-clerk model Hammarskjöld embodied."
+  },
+  {
+   "from": "koh-tlp",
+   "to": "jessup-transnational",
+   "type": "builds-on",
+   "note": "Koh turns Jessup's 'transnational law' into a theory of process and internalisation."
+  },
+  {
+   "from": "koh-trump",
+   "to": "koh-tlp",
+   "type": "applies",
+   "note": "The outside strategy (interaction–interpretation–internalisation) plus the inside strategy (engage–translate–leverage) as resistance to Trump."
+  },
+  {
+   "from": "goldsmith-mercer",
+   "to": "koh-trump",
+   "type": "critiques",
+   "note": "No snap-back: structural forces predate Trump, and the baseline order was less rule-based than Koh assumes."
+  },
+  {
+   "from": "hakimi-cogan",
+   "to": "benvenisti-resilience",
+   "type": "contrasts",
+   "note": "Law changes with power (co-constitution) vs jus cogens 'hibernates' and survives empire."
+  },
+  {
+   "from": "benvenisti-resilience",
+   "to": "vidmar-greenland",
+   "type": "builds-on",
+   "note": "Greenland and annexation threats read through the jus cogens of territorial entrenchment."
+  },
+  {
+   "from": "benvenisti-resilience",
+   "to": "nicaragua-1984",
+   "type": "illustrates",
+   "note": "Citing Nicaragua (1986): a state that misstates the law still affirms it, whereas disavowal rejects accountability."
+  },
+  {
+   "from": "hakimi-cogan",
+   "to": "mcdougal-law-power",
+   "type": "builds-on",
+   "note": "Law and power as entwined within one process, now applied to the decline of US hegemony."
+  },
+  {
+   "from": "koh-tlp",
+   "to": "paquete-habana",
+   "type": "illustrates",
+   "note": "Internalisation through national courts: international law 'is part of our law'."
+  },
+  {
+   "from": "goldsmith-mercer",
+   "to": "damrosch-intro",
+   "type": "critiques",
+   "note": "Rejects the 'whiggish' belief in an ever-progressive international order that textbook histories narrate."
   }
  ],
  "themes": [
@@ -4753,7 +4871,8 @@
     "henkin-interstate",
     "bolton-icc-2018",
     "hakimi-cogan",
-    "vidmar-greenland"
+    "vidmar-greenland",
+    "benvenisti-resilience"
    ],
    "concepts": [
     "sovereignty",
@@ -4911,7 +5030,8 @@
     "bolton-icc-2018",
     "nyt-cyber-iran",
     "corfu-1949-merits",
-    "slaughter-around-un"
+    "slaughter-around-un",
+    "koh-trump"
    ],
    "concepts": [
     "political-questions",
