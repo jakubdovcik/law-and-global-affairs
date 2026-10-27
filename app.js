@@ -25,7 +25,7 @@ function detectRepo() {
 
 const S = {
   course: null, guide: '', notes: [], progress: {}, R: {}, C: {},
-  settings: Object.assign({ token: '', repo: detectRepo(), branch: 'main', theme: 'green' }, LS.get('lga.settings', {})),
+  settings: Object.assign({ token: '', repo: detectRepo(), branch: 'main', theme: 'paper' }, LS.get('lga.settings', {})),
 };
 
 /* ---------- github ---------- */
@@ -449,7 +449,7 @@ function vSearch(v, q) {
 function vSettings(v) {
   const s = S.settings;
   v.innerHTML = `<h1>settings</h1>
-  <h2>theme</h2><div class="btns">${['green', 'amber', 'mono'].map(t => `<button class="btn ${s.theme === t ? 'on' : ''}" data-theme="${t}">${t}</button>`).join('')}</div>
+  <h2>theme</h2><div class="btns">${['paper', 'green', 'amber', 'mono'].map(t => `<button class="btn ${s.theme === t ? 'on' : ''}" data-theme="${t}">${t}</button>`).join('')}</div>
   <h2>sync via github</h2>
   <p class="dim">Without a token, progress and new notes stay on this device. With a GitHub token they are committed to the repo, so mac and phone stay in sync. Create a fine-grained token with <i>Contents: read &amp; write</i> on this repo only.</p>
   <label class="l" for="tk">token</label><input class="f" id="tk" type="password" value="${esc(s.token)}" placeholder="github_pat_…" autocomplete="off">
@@ -469,7 +469,7 @@ prompt     &lt;text&gt;            search everything
            t &lt;n&gt;             open topic n
            open &lt;id&gt;         open reading/concept by id
            new               new lecture note
-           theme &lt;name&gt;      green | amber | mono
+           theme &lt;name&gt;      paper | green | amber | mono
 status     [ ] todo  [~] reading  [x] read  [*] reviewed
 notes      write [[reading-id]] or [[concept-id]] to link
 </pre>`;
@@ -548,7 +548,7 @@ $('#cmd').addEventListener('submit', e => {
   else if ((cmd === 't' || cmd === 'topic') && /^\d+$/.test(arg)) location.hash = '#/topic/' + arg;
   else if (cmd === 'open' && ent(arg)) location.hash = `#/${ent(arg).kind}/${arg}`;
   else if (raw === 'new' || raw === 'note') location.hash = '#/new';
-  else if (cmd === 'theme' && ['green', 'amber', 'mono'].includes(arg)) { S.settings.theme = arg; LS.set('lga.settings', S.settings); applyTheme(); }
+  else if (cmd === 'theme' && ['paper', 'green', 'amber', 'mono'].includes(arg)) { S.settings.theme = arg; LS.set('lga.settings', S.settings); applyTheme(); }
   else location.hash = '#/search/' + encodeURIComponent(raw);
 });
 
@@ -561,7 +561,10 @@ document.addEventListener('keydown', e => {
   const a = document.querySelector(`#nav a[data-k="${e.key}"]`); if (a) location.hash = a.getAttribute('href');
 });
 
-function applyTheme() { document.body.className = S.settings.theme === 'green' ? '' : S.settings.theme; }
+function applyTheme() {
+  document.body.className = S.settings.theme === 'green' ? '' : S.settings.theme;
+  document.querySelector('meta[name=theme-color]').content = getComputedStyle(document.body).getPropertyValue('--bg').trim();
+}
 
 (async () => {
   applyTheme();

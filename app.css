@@ -13,6 +13,12 @@ body.amber {
   --dim: #9a6a22; --faint: #3a2a10; --accent: #8dfc9f;
   --glow: 0 0 6px rgba(255, 179, 64, .25);
 }
+body.paper {
+  --bg: #ffffff; --panel: #fafafa; --fg: #1a1a1a; --hi: #000000;
+  --dim: #8a8a8a; --faint: #e2e2e2; --accent: #b3261e;
+  --glow: none;
+}
+body.paper::after { display: none; }
 body.mono {
   --bg: #0b0b0b; --panel: #121212; --fg: #d8d8d8; --hi: #ffffff;
   --dim: #7d7d7d; --faint: #2a2a2a; --accent: #ffcf5a;
