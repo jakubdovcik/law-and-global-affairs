@@ -3364,11 +3364,25 @@
    "title": "The Eiffel Tower",
    "cite": "The Eiffel Tower and Other Mythologies, 3",
    "concepts": [
-    "institutions"
+    "institutions",
+    "modernism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Essay (1964; trans. 1979) opening Topic 16 ('Institutions as Governance').\n\n**Omnipresence.** Maupassant lunched in the Tower because it was the only place in Paris he didn't have to see it. It is 'as literal as a phenomenon of nature', a universal symbol of Paris, modernity, science, the 19th century, rocket, phallus, lightning rod. 'This pure — virtually empty — sign — is ineluctable, because it means everything.'\n\n**Seeing and seen.** An object when we look at it, a lookout when we visit. 'A complete verb, both active and passive.' It transgresses 'the habitual divorce of seeing and being seen'. This gives it 'a prodigious propensity to meaning': a pure signifier into which people endlessly put meaning, never fixed.\n\n**Uselessness.** To be a total monument it must 'escape reason'. Its uselessness was a scandal, so Eiffel listed scientific uses (aerodynamics, physiology of the climber, radio, meteorology). These seem 'quite ridiculous alongside the overwhelming myth'. 'Use never does anything but shelter meaning.' A 'Babel complex'. It is a 'zero degree of the monument': no rite, no cult, nothing inside, yet twice the visitors of the Louvre.\n\n**The panorama.** Belvederes overlook nature; the Tower overlooks the city and makes it a kind of nature. With Hugo and Michelet it gives 'the world to read and not only to perceive': structure, 'concrete abstraction'. Every visitor 'makes structuralism without knowing it', deciphering landmarks and noticing what is missing (the Arc de Triomphe). The view becomes history: prehistoric sea, the Middle Ages (Notre-Dame, 'its Tower and its Cathedral'), the history of France, the new (UNESCO). Then social functions along an axis (pleasure, commerce, knowledge; residential vs blue-collar; the westward drift of wealth). Climbing it is an initiation, like the provincial's first conquest of Paris (Rastignac).\n\n**Inside the object.** How can you visit a line? Technical paradoxes: oblique pillars, slanted elevators, a straight line made of countless segments. A familiar 'little world': commerce tames sacred sites, the restaurant brings comfort. 'Autarchy': one can dream, eat, observe, shop there, like on an ocean liner, 'cut off from the world and yet the owner of a world'.",
+   "arguments": [
+    "Monuments work as empty signifiers that absorb meaning.",
+    "Utilitarian justifications shelter, rather than produce, an institution's meaning.",
+    "Seeing and being seen: the view from the top turns the world into readable structure.",
+    "Use, commerce and comfort domesticate the sacred.",
+    "Institutions as myth: their power is in the projections they attract."
+   ],
+   "source": "",
+   "short": "Barthes — Eiffel Tower",
+   "tldr": "The Tower is an 'utterly useless', 'empty' monument, a 'pure signifier' that attracts meaning 'the way a lightning rod attracts thunderbolts'. Its utilitarian justifications (science, radio) only 'shelter meaning'. It both sees and is seen. Its panorama turns Paris into an intelligible structure ('concrete abstraction'), and visiting it is an initiation. Read as a lens: institutions as myths that work by being empty enough to hold every projection.",
+   "context": "A lens for the topic. Like the Tower, the League ([[corbett-league]]) and the UN ([[kennedy-sg]]) are justified by function but live as symbols onto which internationalists and sceptics project 'community' or 'sovereignty'. The panoramic, radial 'view from the centre' is what [[kennedy-sg]] rejects. Compare the symbolic work of form in [[riles-aspiration-control]] and [[kennedy-chart]]'s cycles of institutional faith.",
+   "conceptNotes": {
+    "institutions": "institutions as myths and empty signifiers",
+    "modernism": "the 19th-century monument of science and modernity"
+   }
   },
   {
    "id": "corbett-league",
@@ -3380,11 +3394,30 @@
    "cite": "5 Brit. Y.B. Int'l L. 119 (excerpts)",
    "concepts": [
     "institutions",
-    "modernism"
+    "modernism",
+    "sovereignty",
+    "recognition",
+    "statehood"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "British Year Book of International Law (1924), excerpts.\n\n**Question.** The study must look at the League 'not merely as it is established … by the Treaties of Peace, but as a living organism'. The state is 'the person par excellence'. English and American writers say states are the only subjects; continental writers (Bluntschli, Fiore, Fauchille) admit others; most League writers affirm personality. It matters because handing common affairs to permanent organisations 'has reached a climax' in the League.\n\n**Testing Oppenheim's list.**\n- **Legation**: members keep officials at Geneva; the League sends agents and has privileges and immunities (art. 7). But the League cannot choose or refuse members' representatives, so its 'passive' side 'is not a right, but an absolute obligation'. It is 'only a power with some of the incidents' of legation. (It also cannot issue passports.)\n- **War and peace**: claimed from arts. 10, 11 and 16, but the Council only 'recommends' to 'the several Governments concerned'. 'It is for each Member to determine whether it will … declare war.' This is where the League 'approaches most nearly the mere alliance'. There is no 'corporate *jus belli ac pacis*' (compare the German Confederation's Diet, which could decide war by a two-thirds majority).\n- **Sovereignty**: in the Saar (Versailles art. 49) Germany renounces the *government*, not the sovereignty, to the League 'in the capacity of trustee'. The Governing Commission legislates, taxes and administers justice, but Germany keeps the *nuda proprietas* of sovereignty, the inhabitants keep German nationality, and a plebiscite follows in 1935. Mandates and Danzig get similar analysis.\n\n**Conclusion.** These rights 'can only be exercised by sovereign States'. Proving them would prove too much: an entity hard to distinguish from the state, 'the invariably repudiated super-State'. But 'personality in international as in municipal law is simply distinct subjectivity to rights and duties'; the 'artificial' person is as 'real' as the human being. The objection that no sovereign above states can confer personality is just 'the argument that there is no international law dressed in another form'. It would equally disprove the state's own personality, which rests on recognition. Once international law exists, states 'can create what legal institutions they will'. 'The League of Nations, as the subject of rights and duties distinct from those of its Members and recognized by the vast majority of civilized countries, is a person of international law.'",
+   "arguments": [
+    "Sovereign-like attributes claimed for the League are really limited, derivative powers.",
+    "War decisions remain with members: closer to an alliance than a corporate actor.",
+    "Saar: government without sovereignty (Germany keeps nuda proprietas).",
+    "Too much state-likeness would make it the feared super-State.",
+    "Personality = distinct rights and duties; states can create such persons."
+   ],
+   "source": "",
+   "short": "Corbett — What is the League?",
+   "tldr": "Is the League of Nations an international person? Corbett tests the sovereign-like attributes claimed for it (Oppenheim): legation, war and peace, sovereignty (Saar, mandates), intervention, protectorate (Danzig). Each turns out to be only a power with some incidents of the state's right. If the League really had them, it would be the 'invariably repudiated super-State'. Yet personality is simply distinct subjectivity to rights and duties, and states can create such persons. So the League *is* a person, of its own kind.",
+   "context": "The classic interwar framing of the institution question (person or agent of its members?) that [[kennedy-sg]] calls a red herring, using the same phrase *nuda proprietas*. Personality via recognition parallels statehood debates ([[montevideo]], [[damrosch-states]]). Functional powers anticipate [[jessup-functional]]. Trusteeship and mandates connect to [[anghie-imperialism]] and [[redslob-nationalities]]. The 'living organism' method echoes [[berman-modernism]].",
+   "conceptNotes": {
+    "institutions": "legal personality of international organisations",
+    "modernism": "interwar internationalism and the League",
+    "sovereignty": "government vs sovereignty (Saar); no super-State",
+    "recognition": "personality from recognition",
+    "statehood": "state as person par excellence"
+   }
   },
   {
    "id": "kennedy-sg",
@@ -3396,11 +3429,32 @@
    "cite": "Secretary or General?, 158",
    "concepts": [
     "institutions",
-    "people-with-projects"
+    "people-with-projects",
+    "sovereignty",
+    "global-administrative-law",
+    "private-ordering",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Chapter in Chesterman (ed.), *Secretary or General?* (2007).\n\n**The false choice.** Leader vs clerk mirrors other design debates: legal personality vs agency, general vs functional immunity, withdrawal. New York worships the UN; Washington is 'US sovereignty all the time'. Both share a 'radial' picture, with power unrolling from a centre (the Secretariat, or the federal government holding the full *nuda proprietas* of sovereignty). In fact: 'Political power is an affair of overlapping networks, chaotic cross-influences, and plural perspectives.' Multilateralism is 'a game played on many boards at once' and 'a kind of religion'. The world is neither an anarchic void nor run by an international community; 'there is law and regulation at every turn'. Example: the US castigated Kofi Annan until he backed its reform push, and then the G-77 saw him as its lapdog.\n\n**Diplomat.** The UN's convening role became obsolete early. It survived because decolonisation multiplied peripheral states. 'There simply is no such thing' as the international community: the phrase names elites who are the media's imagined audience. The UN is an institutional system 'like Microsoft or the Vatican or Japan or New York City'. Nor is there 'sovereignty': it is a claim some make about prerogatives. Even the President 'does not decide alone'; 'half of Washington wakes up every morning to ensure that the President does not succeed'. Expert consensus (Iraq WMD, credibility, dominoes) shapes war. Violence is now a tactic for everyone. The SG should be an 'impresario rather than star': knitting coalitions (NATO, the EU and the AU in Darfur); 'no surprises' for Council members; not isolating states (Iran, Myanmar), since isolation is itself a relationship. He should not pretend all sovereigns are equal; sovereign equality 'disconnects the United Nations from its real human clients', the dispossessed behind weak states. Instead he should build their participation (mobilise mayors, citizen juries), convene small ad hoc meetings, and exercise 'the power not to convene'.\n\n**Policy-maker.** The UN moved from diplomacy to administration (peacekeeping, relief, Oil-for-Food), tracking the welfare state. But policy today is *regulatory*: 'complex constellations of diverse private and public ordering'. Law's fabric is 'lumpy' (universal-crime risk falls with distance from London or Brussels; California emissions standards; ISO 14000 via supply chains; Teubner's sectoral regimes). The UN still thinks in universal treaties and spending targets (the MDGs). Instead: abandon universal standards; build 'complex cocktails of regulation' that differ for cities and countryside, rich and poor. Labour norms are really the right mix of immigration, social security and tax law. Drugs for tropical diseases need a mix of IP, parallel-import, competition and insurance rules. Build capacity at the periphery: 'less universalism and less uniformity'.\n\n**Ethics and the end of universalism.** The SG as 'secular Pope or Hollywood idol' (Annan as 'norm entrepreneur'). The dangers: enchanting institutions as substitutes for moral work, and provoking a counter-vision of the West and the rest. Principles 'travel in pairs'; even cartoons test the creed. The global consensus also legitimates suffering (property over medicines, sovereignty, self-defence). A diplomatic ethics is like an established church: 'not good for the government, not good for the church'. The 'site' of the universal is itself a local place. The task is to 'build bridges … among the world's quite different ethical worlds'.",
+   "arguments": [
+    "Leader vs clerk, community vs sovereignty: a red herring rooted in a radial picture of power.",
+    "Neither 'international community' nor 'sovereignty' exists as such; power is dispersed.",
+    "The SG as impresario of shifting coalitions, not world's premier diplomat.",
+    "Regulation, not administration or universal treaties: 'cocktails' of diverse rules.",
+    "Ethical modesty: universalism provokes counter-visions and legitimates suffering."
+   ],
+   "source": "",
+   "short": "Kennedy — Secretary-General",
+   "tldr": "The century-old debate (strong 'leader' like Albert Thomas vs 'clerk' like Eric Drummond) is a red herring. Both internationalists (New York) and sovereigntists (Washington) imagine a radial world with a centre. In fact power is dispersed through networks and 'the capillaries of social and economic life'. There is no 'international community' and no 'sovereignty' as such. The SG should be a strong *policy entrepreneur*: an impresario of shifting coalitions, a catalyst for diverse regulatory experiments, and modest about universal ethics. 'Justice needs to be made anew in each time and in each place.'",
+   "context": "Applies the Kennedy critique ([[kennedy-hr-problem]]: 'community' as fantasy, justice made anew) to institutional design. Rejects the personality debate of [[corbett-league]] and the radial view Barthes's Tower embodies ([[barthes-eiffel]]). Hammarskjöld's 'cracks between the blocs' is [[schachter-hammarskjold]]. Networks and disaggregation echo [[slaughter-around-un]] and [[jessup-transnational]]. Regulation-as-governance leads to [[kingsbury-gal]] and Topic 17 ([[danielsen-local-rules]]). Isolation vs relationship complicates [[nyt-putin-ukraine]] and sanctions.",
+   "conceptNotes": {
+    "institutions": "the SG and institutional leadership",
+    "people-with-projects": "elites, experts and the politics of war",
+    "sovereignty": "sovereignty as a claim, not a thing",
+    "global-administrative-law": "from administration to regulation",
+    "private-ordering": "supply-chain standards, sectoral regimes",
+    "law-and-politics": "ethics of universalism"
+   }
   },
   {
    "id": "kingsbury-gal",
@@ -3410,15 +3464,34 @@
    "year": 2005,
    "title": "The Emergence of Global Administrative Law",
    "cite": "68 Law & Contemp. Probs. 15 (excerpts)",
-   "tldr": "Much global governance is really *administration*. A 'global administrative space' is emerging, held to norms of transparency, participation, reasoned decision and review.",
-   "draft": true,
+   "tldr": "Much global governance is really *administration*: rulemaking and decisions below treaty-making and outside dispute settlement, by formal IOs, networks, distributed national regulators, hybrid and private bodies. Its accountability deficit is generating a 'global administrative law' of transparency, participation, reasoned decisions, review and proportionality. Its normative basis is contested (regime integrity, rights, democracy), and it may entrench Northern power.",
    "concepts": [
     "institutions",
-    "global-administrative-law"
+    "global-administrative-law",
+    "private-ordering",
+    "public-private",
+    "fragmentation",
+    "twail"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Law & Contemporary Problems (2005), excerpts. Founding statement of the NYU 'GAL' project.\n\n**Diagnosis.** A vast increase in transgovernmental regulation (security, aid conditions, environment, banking, telecoms, trade, IP, labour, refugees) has shifted decisions to the global level. They are often implemented by bodies not controlled by national governments. Result: an *accountability deficit*. Two responses: extend domestic administrative law to global decisions, and build new global mechanisms.\n\n**Definition.** GAL comprises 'the mechanisms, principles, practices, and supporting social understandings that promote or otherwise affect the accountability of global administrative bodies'. It means transparency, participation, reasoned decision, legality and effective review. Administrative action = rulemaking, adjudications and decisions that are 'neither treaty-making nor simple dispute settlements'.\n\n**The global administrative space: five types.**\n1. *Formal IOs*: Security Council sanctions committees acting on individuals; UNHCR status determinations and camps.\n2. *Transnational networks*: e.g. the Basle Committee (central bankers; non-binding but effective).\n3. *Distributed administration*: national regulators acting in a global regime (e.g. extraterritorial regulation).\n4. *Hybrid public-private*: Codex Alimentarius (quasi-binding via the SPS Agreement), ICANN.\n5. *Private bodies*: ISO (over 13,000 standards), fair-trade and timber certification, SWIFT, the Fair Labor Association. In the global sphere they 'often have greater power'.\nIts subjects are not only states but individuals, firms and NGOs. Hence a distinct global administrative space: international lawyers can no longer say accountability runs through states to voters; domestic lawyers can no longer say domestic review suffices.\n\n**Ambivalence.** Administrative framing may stabilise and legitimate current power and 'Northern and Western concepts'. But it also creates 'a platform for critique': small developing countries are *already* 'administered' by the WTO, IMF, World Bank and Security Council. The focus is procedure, not substance.\n\n**Mechanisms and doctrines.** Domestic courts checking IOs. Global disciplines on domestic regulators (WTO/GATS procedures, independent telecoms regulators, investment arbitration under ICSID and NAFTA, 'a very powerful tool' for investors). *Participation* (Shrimp-Turtle: the US had to give exporting states a hearing; NGOs in Codex). *Reasons* (the anti-doping regime). *Review* (the World Bank Inspection Panel, the Court of Arbitration for Sport). *Proportionality*, means-ends fit and least-restrictive means (ECHR; GATT).\n\n**Normative bases** (English School: pluralism, solidarism, cosmopolitanism):\n- (a) *intra-regime accountability* (least demanding; fits pluralism);\n- (b) *protecting rights* of individuals or of states (contested in a pluralist order);\n- (c) *democracy* (most demanding; no convincing global democratic theory; 'deliberative technocracy' is inadequate once distributive choices loom).\nA pragmatic route: incremental participation and review.\n\n**Who shapes it?** Its models are European and American. It may need an 'overlapping consensus'. Against the radical critique that global institutions are 'imperial': reform vs revolution, 'both sides … probably right'. Most proposals increase accountability toward Northern populations and markets; real reform may require empowering the South.",
+   "arguments": [
+    "Global governance is largely administration by diverse public, hybrid and private bodies.",
+    "An accountability deficit drives emerging GAL norms: transparency, participation, reasons, review.",
+    "Five types of global administration; individuals and firms as subjects.",
+    "Normative foundations contested: regime integrity, rights, democracy.",
+    "GAL may legitimate Northern dominance unless it empowers the South."
+   ],
+   "source": "",
+   "short": "Kingsbury et al. — GAL",
+   "context": "Turns [[kennedy-sg]]'s 'age of regulation' into a legal programme. It builds on the network vision of [[slaughter-around-un]] and [[jessup-transnational]], and on [[schachter-twilight]] (non-binding but effective norms). Shrimp-Turtle and the WTO connect to [[bello-wto]]; investment arbitration to Topic 14. Private standard-setters lead to Topic 17 ([[danielsen-local-rules]], [[iglp-gvc]]). [[miller-parity]] shows administration and expertise in practice in Palestine. The 'imperial institutions' critique links to [[anghie-imperialism]] and [[chimni-2017]].",
+   "conceptNotes": {
+    "global-administrative-law": "the founding statement",
+    "institutions": "five types of global administration",
+    "private-ordering": "private standard-setters as administrators",
+    "public-private": "hybrid bodies",
+    "fragmentation": "a space between international and domestic law",
+    "twail": "GAL as entrenching Northern power"
+   }
   },
   {
    "id": "miller-parity",
@@ -3430,11 +3503,32 @@
    "cite": "47 Cornell Int'l L.J. 331 (excerpts)",
    "concepts": [
     "global-administrative-law",
-    "law-and-politics"
+    "law-and-politics",
+    "self-determination",
+    "recognition",
+    "jus-in-bello",
+    "political-economy"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Cornell International Law Journal (2014), excerpts.\n\n**Thesis.** In 1993 came the 'triumph of hope over history'; by 2014 the crisis was 'more about preserving the process than finding a path to peace'. The Oslo regime matters 'as much for the system it produced as for the solution it failed to provide'. International ideas, donor aid and expertise now dominate the routine management of the territories. International involvement turned occupation 'into an indefinite \"transition\" in which two organized entities face one another in negotiations as notional equals', while public life shifts 'from political resistance to institution-building, economic development, and security'.\n\n**Background: occupation (1967–93).** Occupation balances the occupier's security against the welfare of the occupied, and assumes temporariness. Israel initially denied that the Hague and Geneva rules applied, then applied the 'humanitarian' provisions de facto; the Supreme Court applied the Hague Regulations. Military orders governed daily life. Prolonged occupation produced uneven integration, which later 'neutral' agreements built on. Under Oslo (1993–2013) occupation law still applied, but zones (most land under Israeli control) and a Palestinian Authority limited in power and corrupted over time turned a bilateral relationship 'into a tripartite system of governance'.\n\n**International governance.** After the Cold War, peace became a field of expertise: statebuilding, development, human rights, humanitarianism, 'post-conflict' intervention. Aid phases: building peace (1993–2000), managing crisis (2000–06), confronting statehood (2006–13). Costs: subsidy, infrastructure, mitigation.\n\n**Parity.** Bilateral talks with an 'impartial' mediator; people-to-people dialogues of 'equally valid narratives'. Mutual recognition was asymmetrical: the PLO recognised Israel's 'right … to exist in peace and security'; Israel recognised the PLO only as a representative, 'in light of the PLO commitments'. Abbas (2011): 'a test of our worthiness, entitlement and eligibility'. Defining 'peace' as the shared goal made sovereignty 'a bargaining chip'. 'All the trappings of statehood' while destitute. The word 'occupation' fades. Resistance shifts from ending occupation to statehood, away from liberation. The World Bank judges the PA 'as a state' while statehood is denied.\n\n**Economism.** Aid aimed to make peace more attractive than violence ('peace dividend'). Netanyahu's 'economic peace' and Fayyad's statebuilding-as-resistance shared one vocabulary. Development moved from a link between economics and politics to a wedge between them ('development regardless of occupation'), serving the status quo.\n\n**Transition.** Rhetorical transience covers practical permanence, mirroring occupation's own contradiction. The 1995 Paris Protocol customs union was presented as neutral status quo. The progress narrative has an under-specified endpoint (two states…) plus escalating conditions mostly on Palestinians (elections, recognition, Charter revision, leadership change). UNSCO reports: aid → PA → only hope for peace. Human rights and transitional justice were kept off the table. Autesserre: the 'post-conflict' label makes some policies natural and others illegitimate. Aid punishes Hamas's election and the UN bid. 'A transitional regime, by its nature, resists criticism.'\n\n**Conclusion.** Ideas and institutions, and local and international actors, shape each other iteratively. Resistance uses the regime's vocabulary (Bennett's Area C annexation; the UN-membership bid). Abbas: 'send a junior officer … and we'll give him the keys'. Above all, Oslo converted occupation 'into a series of discrete topics to be managed and negotiated rather than adjudicated'; 'issues once argued as law became … questions of policy'. The regime 'concealed inequality behind parity, masked political stakes with economic technocracy, and hidden permanence under transition'.",
+   "arguments": [
+    "Oslo's lasting product is a regime of international aid and expertise, not peace.",
+    "Parity: formal equality of negotiating parties masks structural asymmetry.",
+    "Economism: development as peacebuilding depoliticises the occupation.",
+    "Permanent transition: a progress narrative with escalating conditions on the weaker party.",
+    "Law displaced by policy: occupation managed rather than adjudicated."
+   ],
+   "source": "",
+   "short": "Miller — Perils of parity",
+   "tldr": "The Oslo Accords failed to end the conflict but produced a durable 'regime' of international money and expertise. It reframed occupation as a 'permanent transition' with three features. *Parity*: two notionally equal negotiating parties, masking asymmetry. *Economism*: development as peacebuilding, crowding out distribution and resistance. *Transition*: a progress narrative with an elusive endpoint and conditions imposed mostly on Palestinians. Questions once argued as law became questions of policy.",
+   "context": "Institutions and expertise as governance on the ground: the critical counterpart to [[kingsbury-gal]]. Statehood without sovereignty and conditional recognition connect to [[montevideo]], [[damrosch-states]] and [[berman-jerusalem]]. Economism parallels [[kennedy-hr-problem]] (form over substance, insulating politics) and [[nesiah-slavery-afterlives]] (protection masking structure). Gaza's later fate: [[burgis-kasthala-gaza]]. Transition and expertise anticipate [[oconnell-ihl]] and Topic 20's law of war.",
+   "conceptNotes": {
+    "global-administrative-law": "international governance through aid and expertise",
+    "law-and-politics": "law displaced by policy and process",
+    "self-determination": "statehood as conditional reward",
+    "recognition": "asymmetrical mutual recognition",
+    "jus-in-bello": "law of occupation",
+    "political-economy": "economism and development as peace"
+   }
   },
   {
    "id": "danielsen-corporate",
@@ -4349,12 +4443,6 @@
    "note": "A humanitarian project and its dark sides."
   },
   {
-   "from": "kingsbury-gal",
-   "to": "kennedy-sg",
-   "type": "contrasts",
-   "note": "Governance as administration with accountability vs. as leadership and entrepreneurship."
-  },
-  {
    "from": "fischer-lescano-teubner",
    "to": "ilc-fragmentation-phenomenon",
    "type": "critiques",
@@ -4979,12 +5067,6 @@
    "note": "Law as policy and world-order building, the 1950–89 row's 'functional problem solving'."
   },
   {
-   "from": "schachter-hammarskjold",
-   "to": "kennedy-sg",
-   "type": "builds-on",
-   "note": "Kennedy's later essay on the Secretary-General revisits the leader-vs-clerk model Hammarskjöld embodied."
-  },
-  {
    "from": "koh-tlp",
    "to": "jessup-transnational",
    "type": "builds-on",
@@ -5193,6 +5275,96 @@
    "to": "knop-feminism-sovereignty",
    "type": "illustrates",
    "note": "Gendered images (female victim, male avenger) organising international action."
+  },
+  {
+   "from": "kennedy-sg",
+   "to": "corbett-league",
+   "type": "critiques",
+   "note": "Personality vs agency, leader vs clerk: Kennedy calls the interwar framing a red herring (both use 'nuda proprietas')."
+  },
+  {
+   "from": "barthes-eiffel",
+   "to": "corbett-league",
+   "type": "illustrates",
+   "note": "An institution justified by function but living as a myth that absorbs projected meanings."
+  },
+  {
+   "from": "kennedy-sg",
+   "to": "barthes-eiffel",
+   "type": "contrasts",
+   "note": "The radial, panoramic 'view from the centre' that Kennedy says misdescribes dispersed global power."
+  },
+  {
+   "from": "kennedy-sg",
+   "to": "schachter-hammarskjold",
+   "type": "builds-on",
+   "note": "Generalising Hammarskjöld's insight: work in the cracks between blocs, now between shifting fracture points."
+  },
+  {
+   "from": "kennedy-sg",
+   "to": "slaughter-around-un",
+   "type": "extends",
+   "note": "Disaggregated networks, but without a new centre; the SG as impresario among them."
+  },
+  {
+   "from": "kennedy-sg",
+   "to": "kennedy-hr-problem",
+   "type": "applies",
+   "note": "'International community' as a fantasy; justice made anew in each place."
+  },
+  {
+   "from": "kingsbury-gal",
+   "to": "kennedy-sg",
+   "type": "builds-on",
+   "note": "Global governance as regulation and administration, not diplomacy or universal treaty."
+  },
+  {
+   "from": "kingsbury-gal",
+   "to": "slaughter-around-un",
+   "type": "builds-on",
+   "note": "Transgovernmental networks (Basle) as one type of global administration."
+  },
+  {
+   "from": "kingsbury-gal",
+   "to": "bello-wto",
+   "type": "applies",
+   "note": "WTO procedure (Shrimp-Turtle) as a global administrative discipline on domestic regulators."
+  },
+  {
+   "from": "kingsbury-gal",
+   "to": "schachter-twilight",
+   "type": "extends",
+   "note": "Non-binding networks and private standards that are 'highly effective'."
+  },
+  {
+   "from": "miller-parity",
+   "to": "kingsbury-gal",
+   "type": "critiques",
+   "note": "International administration and expertise as depoliticising governance that entrenches asymmetry."
+  },
+  {
+   "from": "miller-parity",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "The trappings of statehood without sovereignty; statehood as conditional reward."
+  },
+  {
+   "from": "miller-parity",
+   "to": "kennedy-hr-problem",
+   "type": "illustrates",
+   "note": "Form over substance; human rights kept off the table to protect 'progress'."
+  },
+  {
+   "from": "burgis-kasthala-gaza",
+   "to": "miller-parity",
+   "type": "responds-to",
+   "note": "Where the 'permanent transition' ended: from managed occupation to the vocabulary of genocide."
+  },
+  {
+   "from": "corbett-league",
+   "to": "jessup-functional",
+   "type": "contrasts",
+   "note": "Personality derived from member states' creation vs functional needs of the organisation."
   }
  ],
  "themes": [
@@ -5211,7 +5383,9 @@
     "bolton-icc-2018",
     "hakimi-cogan",
     "vidmar-greenland",
-    "benvenisti-resilience"
+    "benvenisti-resilience",
+    "corbett-league",
+    "kennedy-sg"
    ],
    "concepts": [
     "sovereignty",
@@ -5328,7 +5502,9 @@
     "koskenniemi-impunity",
     "vagts-third-reich",
     "alvarez-new-il",
-    "kennedy-spring-break"
+    "kennedy-spring-break",
+    "kingsbury-gal",
+    "miller-parity"
    ],
    "concepts": [
     "people-with-projects",
@@ -5348,7 +5524,9 @@
     "island-of-palmas",
     "western-sahara",
     "burkina-mali",
-    "vidmar-greenland"
+    "vidmar-greenland",
+    "miller-parity",
+    "corbett-league"
    ],
    "concepts": [
     "statehood",
