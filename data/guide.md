@@ -7,6 +7,27 @@ The syllabus moves in four big steps. Seeing them makes each reading easier to p
 3. **The architecture in history (Part III, Topics 10–12).** The same toolkit, historicised: pre-modern naturalism, interwar modernism, then post-1945 positivism, policy-science and the return to norms. The syllabus explicitly sends you *back* to Topic 4 cases here: reading them twice is the point.
 4. **New thinking (Parts IV–IX, Topics 13–22).** How later scholarship reimagines law's role through adjudication, consciousness (political economy, human rights), administration, legislation/private ordering, theories of the whole (fragmentation, hierarchy, the local), and finally war as a legal institution.
 
+## how Kennedy thinks: what he stresses in class
+
+These are distilled from lectures 1–14 (see [notes](#/notes)). They are the moves he keeps making; use them in papers.
+
+1. **Ask what the argument does, not whether the rule is valid.** 'Forget whether an international rule is binding; ask in what scenarios it is valid.' The 20th century moved from *validity* to *persuasion and effectiveness*. Article 38 survives as a shared vocabulary, not a science ([[mcdougal-custom]], [[icj-art38]]).
+2. **Every legal argument has an audience.** Who needs to be persuaded, and what do they care about? In the airbase parable, legality matters because Spain's government needs cover with its parliament and public. Whether anyone 'believes' is beside the point: a good argument raises the cost of resisting.
+3. **Law sits between values and power.** 'You can't say God told me … you can't say I have more nuclear weapons.' What holds the space together is a **professional sensibility** ('the turtle'): sociological, not scientific, coherence.
+4. **International law is the game of the middle powers.** Hegemons and very weak states invest least, whether in the ICC, Security Council legitimacy or UN approval ([[bolton-icc-2018]], [[wedgwood-unilateral]]).
+5. **Indeterminacy is a feature, not a bug.** 'The more plastic the vocabulary, the more it is used.' Loose terms ('legal ties', uti possidetis, proportionality) let everyone go home vindicated and so legitimate workable outcomes ([[schachter-hammarskjold]], [[western-sahara]], [[burkina-mali]]).
+6. **Everything is a bundle and a matter of degree.** Statehood, sovereignty, jurisdiction and title are effective here not there, for these purposes, for these actors. Weighing replaces on/off ([[salimoff]], [[island-of-palmas]], [[restatement-402-404]]).
+7. **The flip.** The state is not prior to its powers: it *is* the jurisdiction it effectively exercises ('an open-ended constellation'). The same goes for norms: the effective norm is the valid norm. Hence two maps of the world, a surface of equal states and a jurisdictional map of deep inequality ([[kelsen-lecture-iii]], [[malley-manas-nix]]).
+8. **Private rights travel; public law doesn't.** From [[antelope]] to [[bank-nova-scotia]], commercial and property entitlements cross borders while social protections stay home. Only interests framed as *national* can be weighed ([[cohen-property-sovereignty]], [[public-private]]).
+9. **Legalising sharpens and constrains.** Making something a legal norm (genocide, sexual violence, jus cogens) focuses it, but what falls outside the frame can matter as much. Internationalising an issue can be a way of *not* addressing it ([[engle-grip]], [[drumbl-smouldering]], [[charlesworth-chinkin-jus-cogens]]).
+10. **Personifying atrocity lets the machinery off the hook.** Individual criminal trials (Milošević, Putin) obscure structures and bystanders ([[koskenniemi-impunity]]).
+11. **Law translates conflict onto a legal plane.** It rarely ends disputes; it converts them into arguments about breach and proportion so they can continue ([[gabcikovo]], [[ilc-arsiwa]]). State responsibility 'legalizes the ratchet' of escalation.
+12. **Two voices never stop arguing.** One is traditional, rule-bound and sovereigntist; the other modern, functional and expansive. In crises lawyers revert to doctrine; 'the full historical stack persists'.
+13. **Watch for power and for the profession's autonomy.** The interwar reformers were blind to power ([[alvarez-new-il]], [[jessup-functional]], [[redslob-nationalities]]). The Nazi case shows what happens when the legal community becomes an arm of the state ([[vagts-third-reich]]).
+14. **The question he is building toward:** what does international law offer when values genuinely diverge and the post-Cold War optimism has passed? He notes that his students lean 'stabilise/restore' ([[koh-trump]], [[benvenisti-resilience]]). Which ideas survive, in whose hands, and what new frameworks are needed?
+
+**His characteristic phrases:** 'people with projects'; 'the turtle'; 'expanding the aperture'; 'in advocacy it has legs'; 'a churning moment'; 'law's power depends on the power of those who treat it as significant'.
+
 ## topics 1–9 in one page: the architecture and its seams
 
 **The frame (Topic 1).** The casebook tells a smooth progress story: natural law, then positivism, then institutions ([[damrosch-intro]]). Kennedy's chart ([[kennedy-chart]]) and Berman ([[berman-modernism]]) replace it with *professional sensibilities* that shift with each era's trauma. Each doctrine below was someone's project.
