@@ -3878,11 +3878,28 @@
    "cite": "Liberia in World Politics, 15 (excerpts)",
    "concepts": [
     "colonialism",
-    "statehood"
+    "statehood",
+    "sovereignty",
+    "recognition"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Opening of Nnamdi Azikiwe, *Liberia in World Politics* (1934); Azikiwe later became Nigeria's first President. OCR'd in jumbled columns.\n\n**Position.** Liberia's foreign policy has been 'formulized in accordance with the exigencies of colonial politics'. As a small, financially dependent state, the sole republic in tropical Africa, its diplomacy is subordinated 'to the forces of economic imperialism'. Colonial powers use 'force, duress, and coercion' ('shirt-sleeve diplomacy') to discourage colonial ambitions for autonomy. For five decades no African colony had won independence. Liberia's political ideas nonetheless influenced neighbours (the National Congress of British West Africa), fuelling a colonial 'Black Peril' complex.\n\n**Statehood in theory.** Hershey's and Lawrence's definitions (a permanent community on a defined territory, organised government, independence, 'some amount of civilization', ability to preserve its existence). Liberia has more than 2 million people, territory, a written constitution, treaty capacity and recognition. It is an *original member* of the League, keeps a delegate at Geneva, fought with the Allies in 1914, and has never trespassed on neighbours.\n\n**Statehood in practice.** 'The by-products of human associations and international obligations have subtracted from it some of the constituents of statehood': prescription, effective occupation, financial control and 'other excrescences of economic and political imperialism'. Labels multiply: a 'de facto colony' of the US, a quasi-dependency under the Monroe Doctrine, 'America's quasi-protectorate', 'the so-called Liberian Republic … a matter of fiction'. The US State Department's phrases: 'maternal attitude', 'anomalous position', 'peculiar interest', 'moral obligation'; Cleveland: no formal protectorate, but a 'moral right and duty' to protect its integrity; Harrison: a 'friendly counsellor'. Azikiwe's verdict: Liberia is 'neither a quasi-sovereignty nor a quasi-protectorate'; formally co-equal, but 'this is purely ornamental, for in reality its actual relation with the outside world has become subordinated' to economic imperialism, its autonomy 'systematically shorn' (Buell).",
+   "arguments": [
+    "Liberia satisfies formal criteria of statehood and League membership.",
+    "Economic imperialism and financial control hollow out its sovereignty.",
+    "Formal sovereign equality is 'ornamental'.",
+    "US paternalism and colonial fear of a black republic shape its diplomacy.",
+    "Liberia's example feeds African nationalism."
+   ],
+   "source": "",
+   "short": "Azikiwe — Liberian diplomacy",
+   "tldr": "Liberia meets every textbook test of statehood (territory, population, constitution, treaties, League membership), yet its independence is 'illusory'. Its weakness and financial dependence subordinate its diplomacy to 'economic imperialism'. Colonial neighbours fear its example of black self-rule, and Americans describe it in paternal phrases ('maternal attitude', 'friendly counsellor'). Formal equality is 'purely ornamental'.",
+   "context": "The gap between formal statehood ([[montevideo]], [[damrosch-states]]) and substantive independence, theorised by [[anghie-postcolonial]] and [[becker-lorca-mestizo]]. Economic imperialism prefigures [[bedjaoui-nieo]] and [[chimni-2017]]. Compare Haiti's and the Caribbean's experience ([[robinson-caribbean]]) and [[danielsen-local-rules]] on formal vs real equality. Pan-African context: [[dubois-collapse]].",
+   "conceptNotes": {
+    "statehood": "formal criteria vs real independence",
+    "colonialism": "economic imperialism over a nominally sovereign state",
+    "sovereignty": "ornamental equality",
+    "recognition": "recognised, League member, yet dependent"
+   }
   },
   {
    "id": "dubois-collapse",
@@ -3893,11 +3910,29 @@
    "title": "The Collapse of Europe",
    "cite": "The World and Africa, 1 (excerpts)",
    "concepts": [
-    "colonialism"
+    "colonialism",
+    "self-determination",
+    "institutions",
+    "twail"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Ch. 1 of W.E.B. Du Bois, *The World and Africa* (1947).\n\n**The calamity.** 'We are face to face with the greatest tragedy that has ever overtaken the world.' Faith in European and North American civilisation as the 'goal of human effort' has met catastrophe. History is often 'what we want it to be'. The 'habit … of forgetting and detracting from the thought and acts of the people of Africa' is a direct cause of the present plight.\n\n**Europe triumphant.** The Paris Exposition of 1900 displayed wealth and science (Du Bois won a gold medal for an exhibit on American Negroes): France for art, Germany for science, England for wealth and empire, America for freedom. Then five crashing events: Bloody Sunday in St Petersburg (1905); Agadir (1911), while the First Universal Races Congress met in London; and German science (von Luschan) defending war with 'blood and iron'. Then 1914, 1929 and 1939.\n\n**Why.** Wilhelm II's envy of Britain and demand for 'a place in the sun'. Invading Belgium was also invading the Belgian Congo. 'World War I then was a war over spheres of influence in Asia and colonies in Africa', and Asia and Africa were called on to save Europe. Blaise Diagne (black deputy from Senegal) raised 100,000 troops; Senegalese marched 'straight into death' in Flanders.\n\n**The Pan-African Congress (1919).** Pan-Africanism came from the diaspora (1900 London conference). Du Bois reached Paris without credentials; Clemenceau, via Diagne: 'Don't advertise it, but go ahead', while the US State Department said no congress would be held. His memorandum proposed an internationalised Africa from the German colonies (plus Portuguese Africa and the Congo) under an international commission representing 'not simply governments, but modern culture, science, commerce…' and 'the civilized Negro world'. 57 delegates from 15 countries. Resolutions: an international code to protect natives; a permanent League bureau; land held in trust for natives; capital and concessions regulated and taxed for native benefit; abolition of slavery, corporal punishment and forced labour; the right to education; participation in government 'as fast as their development permits' toward rule 'by consent of the Africans'; the League to publicise abuses. 'Out of this idea came the Mandates Commission.' 'We were … but weak and ineffective amateurs.'\n\n**Aftermath.** War 'loosened the seams of imperialism': India, Japan's demand for racial equality, China, West African franchise demands (the 1915 Congress of West Africa), Gandhi and Amritsar, US industry fighting labour, the Depression. 'War did not cause the Great Depression; it was the reasons behind the depression that caused war and will cause it again.'",
+   "arguments": [
+    "The world wars are a collapse of European civilisation rooted in imperialism.",
+    "Forgetting Africa distorts history and causes catastrophe.",
+    "WWI was a war over colonies, fought partly by colonised soldiers.",
+    "The Pan-African Congress fed the mandates idea, within the civilising frame.",
+    "Economic causes behind depression produce war."
+   ],
+   "source": "",
+   "short": "Du Bois — Collapse of Europe",
+   "tldr": "The world wars and depression are the 'collapse' of a European civilisation the world had believed was humanity's goal. Their cause lies in imperialism and the habit of 'forgetting and detracting from' Africa. World War I was 'a war over spheres of influence in Asia and colonies in Africa', fought partly by Africans. Du Bois's 1919 Pan-African Congress demanded international protection, land in trust for natives, regulated capital, education and gradual self-government. 'Out of this idea came the Mandates Commission.'",
+   "context": "A Black internationalist account of the interwar order that [[corbett-league]] and [[redslob-nationalities]] describe from the centre. Mandates and trusteeship: [[anghie-imperialism]], [[anghie-postcolonial]]. Liberia context: [[azikiwe-liberia]]. The 'garden' of European civilisation returns in [[borrell-statement]]. Racial capitalism and humanitarian framing: [[johnson-slavery]] and [[nesiah-slavery-afterlives]]; [[becker-lorca-mestizo]] on peripheral appropriation of international law.",
+   "conceptNotes": {
+    "colonialism": "WWI as a war over colonies; Pan-Africanism",
+    "self-determination": "Pan-African demands at Versailles",
+    "institutions": "origins of the Mandates Commission",
+    "twail": "a precursor of Third World critique"
+   }
   },
   {
    "id": "borrell-statement",
@@ -3908,11 +3943,26 @@
    "title": "Statement of 13 October 2022 ('garden v. jungle')",
    "cite": "",
    "concepts": [
-    "colonialism"
+    "colonialism",
+    "institutions",
+    "twail"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "EEAS transcript (13 Oct. 2022), excerpts.\n- **Garden/jungle.** Bruges is 'a good example of the European garden'. Europe is 'the best combination of political freedom, economic prosperity and social cohesion that the humankind has been able to build'. 'The rest of the world … is not exactly a garden. Most of the rest of the world is a jungle, and the jungle could invade the garden.' Walls won't work ('the jungle has a strong growth capacity'). 'The gardeners have to go to the jungle'; otherwise 'the rest of the world will invade us, by different ways and means'.\n- **Moment of creation.** Acheson's 'present at the creation' (attributed to Kennan). The post-Cold War ended with Russia's aggression against Ukraine; this war will create 'a different European Union'.\n- **Institutions.** 'The big difference between developed and not developed is not the economy, it is institutions': a neutral, independent judiciary, revenue distribution, free elections, 'red lights controlling the traffic, people taking the garbage'. 'I cannot go to emerging countries and build institutions for them … Otherwise, it would be a kind of neo-colonialism.'\n- **Identity.** 'I am Catalan, I am Spanish, I am European.' European history was a confrontation of identities; 'it is the identity, stupid'; Europe offers 'you and me' rather than 'either you or me'. People look to Europe 'as a beacon': migrants come to Europe, not Russia.",
+   "arguments": [
+    "Europe as a 'garden' of freedom, prosperity and cohesion; the rest largely 'jungle'.",
+    "Engagement, not walls: gardeners must go into the jungle.",
+    "Institutions, not economics, separate developed from undeveloped.",
+    "Europe as a model of layered, non-confrontational identity."
+   ],
+   "source": "",
+   "short": "Borrell — Garden & jungle",
+   "tldr": "Opening the European Diplomatic Academy (Bruges, Oct. 2022), the EU's foreign policy chief said: 'Europe is a garden … Everything works … Most of the rest of the world is a jungle, and the jungle could invade the garden.' Gardeners must 'go to the jungle', not build walls. The difference between developed and undeveloped is 'institutions' (an independent judiciary, elections, traffic lights, garbage collection). Europe as a model of layered identity.",
+   "context": "A contemporary echo of the 'standard of civilization' ([[anghie-imperialism]], [[anghie-postcolonial]], [[koskenniemi-laws-rule-us]]) and of Du Bois's 'boundless faith' in European civilisation ([[dubois-collapse]]). Institutions as the civilising criterion echo good governance in [[anghie-postcolonial]] and [[miller-parity]]. Bedjaoui used 'law of the jungle' against the old order ([[bedjaoui-nieo]]). See the apology: [[borrell-apology]].",
+   "conceptNotes": {
+    "colonialism": "civilisational hierarchy revived",
+    "institutions": "institutions as marker of development",
+    "twail": "object of postcolonial critique"
+   }
   },
   {
    "id": "borrell-apology",
@@ -3923,11 +3973,24 @@
    "title": "Josep Borrell apologises for controversial 'garden v. jungle' metaphor but defends speech",
    "cite": "Oct. 19, 2022",
    "concepts": [
-    "colonialism"
+    "colonialism",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Euronews (Jorge Liboreiro, 19 Oct. 2022).\n- **The backlash.** Initially overshadowed by his warning that Russia's army would be 'annihilated' if it used nuclear weapons. Then viral clips; critical coverage (NYT, Al Jazeera) seeing a 'condescending, out-of-touch and racist' expression of the West's 'superiority complex over the Global South'. The UAE summoned the EU chargé over 'inappropriate and discriminatory' remarks. MEP Marc Botenga: 'rooted in colonialism and racism'.\n- **The apology.** In a blog post: 'Some have misinterpreted the metaphor as \"colonial Euro-centrism\" … I am sorry if some have felt offended.' But the metaphor 'is not my invention' (used by US neo-conservatives, 'far from this school'). The 'jungle' means lawlessness: 'the law of the strongest is eroding agreed international norms'. Europe replaced war with peace and the rule of law, while Russia uses 'force, intimidation and blackmail'. 'Neither Europe nor \"the West\" is perfect … some countries of \"the West\" have at times violated international legality.' He cites the UNGA vote (143 for, 5 against, 35 abstentions) condemning the annexations: 'gardeners' everywhere 'should unite and work together to beat back \"the jungle\"'.",
+   "arguments": [
+    "Apology for offence, not for substance.",
+    "Recasts 'jungle' as the lawlessness of force rather than geography or race.",
+    "Rules-based order vs 'might makes right' (Russia).",
+    "Concedes Western violations, invokes the UNGA majority."
+   ],
+   "source": "",
+   "short": "Borrell — Apology",
+   "tldr": "After global backlash (the UAE summoned the EU envoy; critics called it colonial and racist), Borrell apologised 'if some have felt offended' but defended the metaphor. 'Jungle' has 'no racist, cultural or geographical connotation'; 'the jungle is everywhere, including today in Ukraine'. The world looks more like a jungle as 'the law of the strongest' erodes norms; 'gardeners' everywhere should unite.",
+   "context": "Shows how the civilisational frame survives by being translated into 'rules-based order' vs lawlessness, the move [[anghie-postcolonial]] traces from civilised/uncivilised to developed/developing. Compare [[koskenniemi-laws-rule-us]] on Anderson's critique, and [[nyt-putin-ukraine]] and [[chachko-heath]] for the Ukraine context.",
+   "conceptNotes": {
+    "colonialism": "civilisational metaphors and their defence",
+    "law-and-politics": "rules-based order vs 'law of the strongest'"
+   }
   },
   {
    "id": "anghie-postcolonial",
@@ -3939,11 +4002,30 @@
    "cite": "in Critical International Law, 123, 135–140",
    "concepts": [
     "colonialism",
-    "twail"
+    "twail",
+    "custom",
+    "sovereignty",
+    "political-economy"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Chapter in a *Critical International Law* volume (2014), excerpts, drawing on *Imperialism, Sovereignty and the Making of International Law* (2004).\n\n**Thesis.** Since the 16th century, West/non-West relations have been shaped by imperialism, and international law, shaped by European scholars and states, 'was complicit in legitimizing' it. Conventional approaches to sovereignty conceal this relationship.\n\n**Continuity after decolonisation.** Conventional view: imperialism ended with decolonisation and is of historical interest only. Anghie: the civilising mission and the dynamic of difference persist.\n1. *Economic independence*: colonial economies were inserted into the metropole's economy as raw-material sources. New states used the UNGA to declare 'permanent sovereignty' over natural resources and nationalised foreign investors (corporations close to the colonial power). They claimed national standards of compensation; developed states claimed customary 'international standards'. Tribunals and scholars sided with the West, even though new states could not have participated in or protested against custom made while they were colonised. The NIEO failed because former powers relied on consent: sovereignty inherited by new states was 'inherently compromised by the colonial experience'. Economic imperialism 'still endures … legitimized … by international law'.\n2. *Civilising mission renamed*: civilised/uncivilised → (League) advanced/backward → developed/developing. The IMF and World Bank prescribe 'universally valid theories'; 'good governance' impinges on sovereignty; neo-liberal policies often impoverish the poorest.\n\n**After the BRICS.** The 2008 crisis and the BRICS raise whether coloniser/colonised remains useful: perhaps the 'real' end of Western imperialism through power shifts rather than legal status, or 'a new type of imperialism'. The BRICS themselves have imperial histories, and civilised/uncivilised is 'by no means a Western invention'. Focus instead on 'the intensifying division between rich and poor peoples': a global elite with more in common with each other than with compatriots; extreme inequality in the BRICS. Postcolonialism must identify all oppressions of Third World peoples, including 'the depredations of the postcolonial state exorbitantly … proclaiming its sovereignty' (Fanon's 'pitfalls of national consciousness').",
+   "arguments": [
+    "International law legitimised imperialism; the link is concealed by conventional sovereignty theory.",
+    "Civilising mission and dynamic of difference persist after decolonisation.",
+    "New states bound by custom made without them; the NIEO defeated by consent.",
+    "Development and good governance as the civilising mission's successors.",
+    "Shift focus to rich vs poor peoples and to the postcolonial state's own oppressions."
+   ],
+   "source": "",
+   "short": "Anghie — Postcolonial IL",
+   "tldr": "International law was complicit in imperialism, and the 'civilizing mission' and 'dynamic of difference' outlived decolonisation. New states won political independence but lost the battle over permanent sovereignty and compensation standards to 'custom' they never made; the NIEO failed on the principle of consent. 'Civilized/uncivilized' became 'advanced/backward' and then 'developed/developing', with the IMF, World Bank and 'good governance' intruding on sovereignty. With the BRICS, the question shifts to rich vs poor *peoples* and the oppressions of the postcolonial state itself.",
+   "context": "Builds on [[anghie-imperialism]] (Topic 9). The NIEO side is [[bedjaoui-nieo]]; the social-movement turn is [[rajagopal-below]]; the Marxist version is [[chimni-2017]]. Custom made without the colonised: [[paquete-habana]], [[schachter-custom]], [[mcdougal-custom]]. Civilisation revived: [[borrell-statement]]. Formal vs real sovereignty: [[azikiwe-liberia]], [[becker-lorca-mestizo]].",
+   "conceptNotes": {
+    "twail": "postcolonial continuity thesis",
+    "colonialism": "civilizing mission and dynamic of difference",
+    "custom": "custom imposed on states that could not participate",
+    "sovereignty": "compromised sovereignty of new states",
+    "political-economy": "permanent sovereignty; development and good governance"
+   }
   },
   {
    "id": "bedjaoui-nieo",
@@ -3953,16 +4035,34 @@
    "year": 1979,
    "title": "The Relations Between the International Economic Order and the International Legal Order",
    "cite": "Towards a New International Economic Order, 97 (excerpts)",
-   "tldr": "The legal order entrenches an unjust economic order. The NIEO (New International Economic Order) is the attempt to use law to rewrite it: sovereignty over natural resources, development, equity.",
-   "draft": true,
+   "tldr": "Is international law antithetical to development? A 'syndicate of States' projected 'its' law as 'the' international law; when the Third World demands a New International Economic Order, the defence is that law is immutable, a 'legal paganism' worshipping law for law's sake. Calling permanent sovereignty an 'intoxication' ignores how sovereignty was dispossessed by foreign capital (oil concessions; OPEC). The old law reconciled the freedoms of strong states; the new must 'act directly on imperialist structures' and redress inequality.",
    "concepts": [
     "twail",
     "political-economy",
-    "sovereignty"
+    "sovereignty",
+    "custom",
+    "positivism",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From Mohammed Bedjaoui, *Towards a New International Economic Order* (1979), excerpts. Algerian jurist, later ICJ President.\n\n**The challenge.** Development tends toward change; international law seems to tend toward conservatism. The NIEO 'constitutes a challenge to international law'.\n\n**Immutability as pretext.** A 'small \"syndicate of States\"' has for centuries projected 'its' law onto the world as 'the' international law. Questioning it calls forth defence mechanisms, chief among them the claim that the law is immutable: 'a new religion — law for law's sake'.\n\n**Legal paganism.** Permanent sovereignty over natural resources was confirmed by GA Res. 3201, 3202 (NIEO) and 3281 (Charter of Economic Rights and Duties). Combacau calls it an 'ideology' and 'intoxication with sovereignty' producing instability and 'anomy'. Bedjaoui: traditional lawyers ignore how Third World countries 'have been dispossessed of their sovereignty for the benefit of foreign economic coteries'. They consider only a concept's form, not 'the social reality it is supposed to express'; context gives sovereignty concrete meaning or denies it. Formalism 'mummifies' law, 'worshipping it for its own sake'.\n\n**Venality of international law.** New states are told that admission means accepting existing norms: stability is 'the price … for its entry'. Custom binds 'regardless of each State's role in framing it'. Chaumont: 'a mixture of cynicism and illusions', 'the law of the jungle and the *Faustrecht*'. This explains the new states' 'paradoxical aversion to the compulsory jurisdiction of the ICJ': fear of customary norms they did not make.\n\n**Oil and sovereignty.** Exercising sovereign rights brings accusations of 'dangerous excesses of sovereignty' or anachronism in an age of interdependence. The 1973 'energy crisis': the nominal oil price had been flat for 25 years. Producers were 'not so much producing countries as countries where production took place': concession-granters watching foreign 'majors'. OPEC gained decision power by ending concessions (shareholding or nationalisation). 'There is no principle in international law … which says that the economies of the advanced industrial countries should have cheap energy and raw materials … at prices fixed … by themselves.'\n\n**A development law.** International economic law must 'be a redresser of the inequalities'; the free play of market forces 'is rejected as too inegalitarian'. Law has shifted from 'the passive role of protecting the liberal system' to 'an active role of transformation': normative and institutional activity. It is naive to think law alone drives change, and wrong to think it only conserves. The old order 'allowed any dominating State to do anything it liked anywhere it liked within the limits of the similar powers allowed to other dominating States'. 'The task of international law today is more extensive and has to act directly on imperialist structures', making development and cooperation 'a legal institution acknowledged to be fundamental'.",
+   "arguments": [
+    "The 'immutability' of law is a defence of a syndicate of states' law.",
+    "Formalism ('legal paganism') ignores the social reality of dispossessed sovereignty.",
+    "New states should not be bound by custom they did not make.",
+    "Permanent sovereignty over resources (OPEC) restores real decision power.",
+    "International law must actively redress inequality: law of development."
+   ],
+   "source": "",
+   "short": "Bedjaoui — NIEO",
+   "context": "The NIEO manifesto that [[roepke-1955]]'s liberal order opposes and [[anghie-postcolonial]] says failed on consent. It parallels [[alvarez-new-il]] and [[becker-lorca-mestizo]] (peripheral reinterpretation). Permanent sovereignty leads to [[becker-lorca-bargaining]]'s 'combative solidarity'. Custom critique: [[schachter-custom]], [[paquete-habana]]. Critiqued from below by [[rajagopal-below]].",
+   "conceptNotes": {
+    "twail": "NIEO as Third World legal programme",
+    "political-economy": "permanent sovereignty and development law",
+    "sovereignty": "sovereignty over natural resources",
+    "custom": "new states and pre-existing custom",
+    "positivism": "'legal paganism' of formalism",
+    "colonialism": "economic imperialism after independence"
+   }
   },
   {
    "id": "rajagopal-below",
@@ -3972,15 +4072,33 @@
    "year": 2003,
    "title": "International Law from Below",
    "cite": "1 (excerpts)",
-   "tldr": "Third World social movements, not just states or elites, are agents who resist and remake international law and development.",
-   "draft": true,
+   "tldr": "Mainstream international law (statist or cosmopolitan) misses two things: development discourse as the governing logic of Third World life, and social movements as agents of legal change. International institutions and human rights were shaped by Third World resistance to development. Human rights became 'the sole approved discourse of resistance'. Development itself, not its absence, has caused poverty and violence. A theory of resistance must ask: against what, towards what, by what strategy, and what role for the postcolonial state?",
    "concepts": [
     "twail",
-    "the-local"
+    "the-local",
+    "human-rights",
+    "political-economy",
+    "self-determination",
+    "institutions"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Introduction and Ch. 1 of *International Law from Below* (2003), excerpts.\n\n**Argument.** The relationship between international law and the Third World can't be understood without (1) development discourse as 'the governing logic' and (2) social movements. Institutions evolved 'in ambivalent relationship with' Third World resistance, and human rights 'has been fundamentally shaped — and limited' by it. Dominant approaches neither treat development as constitutive nor adopt 'a subaltern perspective'.\n\n**Three levels.** (1) How the 'functional and pragmatic cosmopolitan relates to \"culture\"', the Other. (2) Third World resistance is usually analysed in statist terms (the UN coalition of the 1960s–70s), which is no longer adequate. (3) Displace development as a progressive narrative: social movements realise 'it is not the lack of development that caused poverty … rather it is the very process of bringing development'.\n\n**Themes.**\n- *Saidian*: international law engages resistance only through fixed essences of West and Third World and images of legitimacy (e.g. invisibility of Third World environmental movements; the World Bank attributing China's TVEs to kinship).\n- *Filtering*: as colonialism admitted only 'mild nationalism', today 'human rights has emerged as the sole approved discourse of resistance'. Traditional law ignored mass action except statehood claims, then 'welcome[d] the victor'. Anticolonial resistance (Mau Mau) became crime, handled under 'emergency'. Positivists legitimised 'the most extreme violence' against non-Europeans (Anghie).\n- *Resistance and institutions*: movements shape institutions (environmental and human rights pressure on the World Bank) and continue after institutionalisation. Resistance must partly work within what it resists (co-optation); responses are cultural 'authenticity' or the Saidian dialectic.\n- *Alternatives*: resistance is not just reaction but alternative visions of social life.\n\n**Context.** NIEO hopes ground to a halt. State sovereignty has been parcelled 'up' (WTO, Bretton Woods) and 'down' (markets, NGOs). The Third World state colonises civil society and serves 'the globalitarian class'. Human rights is blind to the variety of struggles; development is linked to containing (anticommunist peasant) resistance. A theory of resistance must address: against what (power, including the state), toward what end, which strategies (reformist vs radical), and the role of the postcolonial state ('a plural, fragmented, and contested terrain').",
+   "arguments": [
+    "Development discourse and social movements are constitutive of modern international law.",
+    "Human rights became the only legitimate idiom of resistance, limiting others.",
+    "Development itself causes poverty and violence; displace it as progress.",
+    "The Third World state can be an agent of elites, not of its people.",
+    "International law needs a theory of resistance from below."
+   ],
+   "source": "",
+   "short": "Rajagopal — IL from below",
+   "context": "Moves TWAIL from states ([[bedjaoui-nieo]]) to movements; cited by [[chimni-2017]] as TWAIL II. Human rights as filter echoes [[kennedy-hr-problem]]; the critique of development echoes [[anghie-postcolonial]] and [[miller-parity]]. The postcolonial state as oppressor: [[anghie-postcolonial]]. Statehood-only self-determination: [[western-sahara]], [[burkina-mali]].",
+   "conceptNotes": {
+    "twail": "social movements and resistance (TWAIL II)",
+    "human-rights": "rights as the only approved idiom of resistance",
+    "political-economy": "development as governing logic",
+    "self-determination": "law ignoring resistance short of statehood",
+    "institutions": "institutions shaped by resistance"
+   }
   },
   {
    "id": "becker-lorca-bargaining",
@@ -3992,11 +4110,30 @@
    "cite": "forthcoming (excerpts)",
    "concepts": [
     "twail",
-    "sovereignty"
+    "sovereignty",
+    "political-economy",
+    "environment",
+    "territory"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Draft paper (January 2023), excerpts, from the project 'Combative Solidarity: the redistributive tradition in international law'.\n\n**Problem.** Philosophers debate global justice and affluent states oppose redistribution; lawyers equate North–South redistribution with the discarded NIEO. Yet Global South states pursue redistribution 'within existing international law', relying on sovereign entitlements rather than cosmopolitan theory or Northern goodwill. The tradition is invisible because, post-pandemic, all leaders call for 'solidarity' and multilateralism; the North–South divide appears only when the South translates them into concrete proposals (funding, technology transfer, benefit sharing, differential treatment).\n\n**Background.** European 'solidaristic' thought (19th-century France) runs to today's international redistributive justice. Southern lawyers rearrange these ideas. They accept regimes (UNCLOS, NPT, Rio conventions) as North–South 'grand bargains' and seek to *expand* them, e.g. extending common heritage from the seabed to marine genetic resources on the high seas. Historically the Third World bloc used GA resolutions, jus cogens and erga omnes, and contested pre-decolonisation custom, to decouple rulemaking from Western will (criticised by Weil). Sovereignty, usually seen as antithetical to cooperation, becomes a tool of 'combative solidarity' (Bedjaoui's term).\n\n**Strategy 1: expanding sovereign entitlements.** Permanent sovereignty over natural resources, used by producer associations to limit production and raise prices, and extended to regulating exports. Then sovereignty over nuclear energy for peaceful purposes, genetic material (CBD arts. 3, 15: national authority over access, prior informed consent, benefit sharing), the geostationary orbit (equatorial states, 1970s), and *viral sovereignty* (Indonesia withholding avian flu samples from WHO until benefit sharing).\n\n**Strategy 2: bargaining with sovereignty.** In a law of 'cooperation' (Friedmann), states limit entitlements for the common good and demand compensation, pointing to their contribution to global public goods. The NPT: renouncing nuclear weapons in exchange for peaceful technology transfer; the erosion of that compromise explains today's challenges. Environmental law: CBDR-RC, loss and damage finance, biodiversity funding as compensation for limiting the right to develop.\n\n**Strategy 3: enclosing commons.** Expand jurisdiction (territorial sea, the 200-mile EEZ) while making what lies beyond 'common heritage of mankind' (the seabed). Open-access commons favour technologically advanced states (fishing, shipping, emissions, satellites, space tourism), so the South seeks regimes regulating access and benefit. It is weaker because there is no sovereign lever; it depends on overlapping Northern interests (outer space) or package deals (UNCLOS). Under neo-liberalism it has stalled for genetic resources, the atmosphere and cyberspace, but is worth linking to sovereignty claims and 'grand bargains'.",
+   "arguments": [
+    "A redistributive tradition persists in mainstream regimes beyond the NIEO.",
+    "Expanding sovereignty to resources, genes, viruses and orbit.",
+    "Bargaining: compensation for limiting sovereignty (NPT, CBDR).",
+    "Enclosing commons as common heritage; weaker without sovereign leverage.",
+    "Sovereignty as tool of 'combative solidarity', not just coexistence."
+   ],
+   "source": "",
+   "short": "Becker Lorca — Bargaining with sovereignty",
+   "tldr": "There is a persisting *redistributive tradition* in international law beyond the failed NIEO: Global South lawyers use existing entitlements in a 'combative solidarity'. Three strategies: (1) *expand sovereignty* (natural resources, genetic material, 'viral sovereignty', the geostationary orbit); (2) *bargain with sovereignty*, demanding compensation for limiting it in the common interest (NPT technology transfer, CBDR, biodiversity finance); (3) *enclose commons* under common heritage of mankind (the seabed). Its weakness: no sovereign lever over commons.",
+   "context": "Extends [[bedjaoui-nieo]] into contemporary regimes; continues [[becker-lorca-mestizo]] on peripheral use of international law. CBDR and biodiversity link to [[sands-greening]]; the NPT to [[nuclear-weapons-ao]]. Expanding sovereignty contrasts with [[roepke-1955]]'s call to reduce it, and complicates [[anghie-postcolonial]]'s pessimism about consent. Cohen's property/sovereignty ([[cohen-property-sovereignty]]) as a lever for the weak.",
+   "conceptNotes": {
+    "twail": "the redistributive tradition",
+    "sovereignty": "sovereignty as redistributive tool",
+    "political-economy": "North–South redistribution",
+    "environment": "CBDR, biodiversity benefit sharing",
+    "territory": "EEZ, seabed, geostationary orbit"
+   }
   },
   {
    "id": "chimni-2017",
@@ -4008,11 +4145,32 @@
    "cite": "506–517",
    "concepts": [
     "twail",
-    "political-economy"
+    "political-economy",
+    "human-rights",
+    "institutions",
+    "environment",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "B.S. Chimni, *International Law and World Order* (2nd ed., 2017), ch. 7 ('Towards an IMAIL'), pp. 506–517.\n\n**Global social formation.** An 'embryonic global social formation' combines modes of production under the dominance of capitalism (Mandel), extended through global production chains. 'Global law', presided over by global institutions forming 'a nascent global state', aims at 'a borderless global economic space' through uniform standards. Human rights law and cosmopolitan constitutionalism grow alongside. The *transnational capitalist class* (TCC) owns transnational capital, supported by managers and global middle classes; its Southern segment (BICS) is no longer a 'junior partner' (39% of FDI outflows in 2013). It 'bribes' upper middle classes and some organised workers. 'A global class divide overlays the North–South divide': 85 people own more than the bottom 3.5 billion. Not reductionist: the TCC is 'in the making, but not (yet) made'; rivalries persist (BICS, SCO), national capital, electoral politics and resistance keep lawmaking contentious.\n\n**Loss of policy space** (UNCTAD), including through non-state soft law.\n\n**Ten features of global imperialism, facilitated by global law:**\n1. Dominance of hyper-mobile *finance capital*; capital-account liberalisation via treaties. Countries that regulated finance suffered least in 2008.\n2. *TNC rights* (BITs, FTAs, TRIMS, TRIPS, GATS, MIGA, ICSID) with only soft duties (UN Guiding Principles).\n3. *Accumulation by dispossession* (Harvey): land, water, minerals, biological resources.\n4. *Free-trade dogma*, ignoring that developed countries industrialised behind tariffs (Chang); mega-RTAs (TPP, RCEP, TTIP). Producer over consumer welfare ('consumer welfare' appears nowhere in WTO law: Petersmann), which helps explain Trump's hostility.\n5. Control of the *knowledge economy*: royalties, TRIPS-plus, litigation against generics.\n6. *Labour rights* undermined: flexibility; ILO 1998 Declaration minimalism.\n7. *Overexploitation of nature*: historic polluters push burdens onto BICS (Paris 2015); environmental non-tariff barriers.\n8. *Violence displaced* to the Third World (Afghanistan, Iraq, Libya, Syria); the ICC's 'Africa bias'; signs of inter-imperialist competition (NATO–Russia, Crimea).\n9. A *non-entrée* regime against asylum seekers (visas, carrier sanctions, interdiction, 'cooperation-based' deterrence) fuels smuggling.\n10. Rapid growth of *human rights law*, with real benefits but also legitimating 'intrusive interventions'.\nAnd institutions as a nascent global state, supported by global cities and experts.\n\n**Alienation.** 'Global imperial international law' spreads Marx's four alienations: from nature, from productive activity, from species-being, and from each other (European refugee deaths 2015–16). The discipline itself is alienated from its subjects; it must 'listen to the voice of the TOC'. TWAIL II (Rajagopal) and FtAIL explore continuity, resistance and reform. Chimni contests Miéville's view that reform is impossible.",
+   "arguments": [
+    "Global imperialism: global law and a nascent global state serving a transnational capitalist class.",
+    "Global class divide overlays North–South; Southern elites are participants.",
+    "Ten mechanisms from finance and TNC rights to migration control and human rights.",
+    "Loss of policy space for developing countries.",
+    "International law alienates; reform is possible if it listens to the oppressed."
+   ],
+   "source": "",
+   "short": "Chimni — Global imperialism",
+   "tldr": "Since the 1980s 'colonialism without colonies' has become *global imperialism*: an emerging 'global law' and 'nascent global state' presided over by a transnational capitalist class (including Southern elites), against the transnational oppressed classes. Ten features: finance capital, TNC protection without duties, accumulation by dispossession, free-trade dogma, IP control of knowledge, weakened labour rights, overexploitation of nature, violence displaced to the Third World, a non-entrée migration regime, human rights legitimating intervention. Plus Marx's four alienations. Yet reform is possible (against Miéville).",
+   "context": "Marxist TWAIL, complementing [[anghie-postcolonial]] (rich vs poor peoples) and [[rajagopal-below]] (resistance). The legal infrastructure of capital: [[koskenniemi-laws-rule-us]], [[iglp-gvc]]. Nascent global state vs [[kingsbury-gal]]'s administrative space. TRIPS and pharma: [[fischer-lescano-teubner]], [[iglp-gvc]]. ICC bias: [[krever-scurrying]], [[koskenniemi-impunity]]. Human rights legitimating intervention: [[kennedy-hr-problem]].",
+   "conceptNotes": {
+    "twail": "Marxist TWAIL: global imperialism",
+    "political-economy": "transnational capitalist class and global law",
+    "human-rights": "rights legitimating intervention",
+    "institutions": "nascent imperial global state",
+    "environment": "burden-shifting in climate law",
+    "colonialism": "colonialism without colonies"
+   }
   },
   {
    "id": "eslava-local",
@@ -4572,12 +4730,6 @@
    "note": "How the discipline narrates its pre-modern past."
   },
   {
-   "from": "anghie-postcolonial",
-   "to": "anghie-imperialism",
-   "type": "extends",
-   "note": "From historical diagnosis to a programme for postcolonial international law."
-  },
-  {
    "from": "jessup-transnational",
    "to": "jessup-functional",
    "type": "extends",
@@ -4620,22 +4772,10 @@
    "note": "Using sovereignty and law against the economic order colonialism built."
   },
   {
-   "from": "rajagopal-below",
-   "to": "bedjaoui-nieo",
-   "type": "complicates",
-   "note": "Resistance from social movements, not just Third World states."
-  },
-  {
    "from": "chimni-2017",
    "to": "anghie-postcolonial",
    "type": "builds-on",
    "note": "A TWAIL critique of contemporary approaches."
-  },
-  {
-   "from": "becker-lorca-bargaining",
-   "to": "becker-lorca-mestizo",
-   "type": "extends",
-   "note": "From semi-peripheral appropriation of sovereignty to bargaining over inequality."
   },
   {
    "from": "knop-hidden-city",
@@ -5281,12 +5421,6 @@
   },
   {
    "from": "roepke-1955",
-   "to": "bedjaoui-nieo",
-   "type": "contrasts",
-   "note": "The liberal economic order Röpke defends is the order the NIEO sought to dismantle."
-  },
-  {
-   "from": "roepke-1955",
    "to": "american-banana",
    "type": "illustrates",
    "note": "Private property abroad kept apart from sovereignty, which shields firms like United Fruit."
@@ -5656,6 +5790,114 @@
    "to": "kingsbury-gal",
    "type": "applies",
    "note": "Due process review of sanctions (Kadi, WTO) as global administrative law."
+  },
+  {
+   "from": "azikiwe-liberia",
+   "to": "montevideo",
+   "type": "complicates",
+   "note": "Liberia satisfies the formal criteria of statehood yet its independence is 'ornamental'."
+  },
+  {
+   "from": "dubois-collapse",
+   "to": "corbett-league",
+   "type": "contrasts",
+   "note": "The League seen from Pan-African demands: mandates born of an African agenda framed in civilising terms."
+  },
+  {
+   "from": "dubois-collapse",
+   "to": "azikiwe-liberia",
+   "type": "builds-on",
+   "note": "Black internationalism of the interwar years: Liberia, Haiti, Abyssinia as the 'Negro governments'."
+  },
+  {
+   "from": "borrell-statement",
+   "to": "anghie-postcolonial",
+   "type": "illustrates",
+   "note": "Civilisation/development hierarchy reappearing as garden vs jungle and 'institutions'."
+  },
+  {
+   "from": "borrell-apology",
+   "to": "borrell-statement",
+   "type": "responds-to",
+   "note": "Defends the metaphor by recasting the jungle as lawlessness and force."
+  },
+  {
+   "from": "borrell-statement",
+   "to": "dubois-collapse",
+   "type": "contrasts",
+   "note": "Faith in European civilisation as humanity's model, which Du Bois saw collapse."
+  },
+  {
+   "from": "anghie-postcolonial",
+   "to": "anghie-imperialism",
+   "type": "extends",
+   "note": "Civilising mission and dynamic of difference after decolonisation: development and good governance."
+  },
+  {
+   "from": "anghie-postcolonial",
+   "to": "bedjaoui-nieo",
+   "type": "responds-to",
+   "note": "Explains the NIEO's failure: consent-based sovereignty and pre-existing custom."
+  },
+  {
+   "from": "bedjaoui-nieo",
+   "to": "schachter-custom",
+   "type": "critiques",
+   "note": "New states should not be bound by custom made without them."
+  },
+  {
+   "from": "bedjaoui-nieo",
+   "to": "roepke-1955",
+   "type": "contrasts",
+   "note": "Law as redresser of inequality vs the liberal order protecting property and markets."
+  },
+  {
+   "from": "rajagopal-below",
+   "to": "bedjaoui-nieo",
+   "type": "critiques",
+   "note": "From statist Third World resistance to social movements; the postcolonial state as part of the problem."
+  },
+  {
+   "from": "rajagopal-below",
+   "to": "kennedy-hr-problem",
+   "type": "builds-on",
+   "note": "Human rights as the only approved idiom of resistance, crowding out others."
+  },
+  {
+   "from": "becker-lorca-bargaining",
+   "to": "bedjaoui-nieo",
+   "type": "extends",
+   "note": "Combative solidarity continues within existing regimes after the NIEO."
+  },
+  {
+   "from": "becker-lorca-bargaining",
+   "to": "sands-greening",
+   "type": "applies",
+   "note": "CBDR and biodiversity finance as compensation for limiting sovereignty."
+  },
+  {
+   "from": "becker-lorca-bargaining",
+   "to": "becker-lorca-mestizo",
+   "type": "builds-on",
+   "note": "Peripheral lawyers appropriating mainstream doctrine for their own ends."
+  },
+  {
+   "from": "chimni-2017",
+   "to": "rajagopal-below",
+   "type": "builds-on",
+   "note": "TWAIL II: resistance of the transnational oppressed classes."
+  },
+  {
+   "from": "chimni-2017",
+   "to": "koskenniemi-laws-rule-us",
+   "type": "builds-on",
+   "note": "Global law as the infrastructure of capital and a nascent global state."
+  },
+  {
+   "from": "chimni-2017",
+   "to": "kingsbury-gal",
+   "type": "critiques",
+   "note": "Global institutions as an imperial global state, not a neutral administrative space."
   }
  ],
  "themes": [
@@ -5676,7 +5918,9 @@
     "vidmar-greenland",
     "benvenisti-resilience",
     "corbett-league",
-    "kennedy-sg"
+    "kennedy-sg",
+    "azikiwe-liberia",
+    "becker-lorca-bargaining"
    ],
    "concepts": [
     "sovereignty",
@@ -5727,7 +5971,10 @@
     "robinson-caribbean",
     "island-of-palmas",
     "berman-jerusalem",
-    "nesiah-slavery-afterlives"
+    "nesiah-slavery-afterlives",
+    "borrell-apology",
+    "anghie-postcolonial",
+    "becker-lorca-bargaining"
    ],
    "concepts": [
     "colonialism",
@@ -5753,7 +6000,10 @@
     "nesiah-slavery-afterlives",
     "falk-environment",
     "danielsen-local-rules",
-    "lang-regimes"
+    "lang-regimes",
+    "bedjaoui-nieo",
+    "becker-lorca-bargaining",
+    "chimni-2017"
    ],
    "concepts": [
     "political-economy",
@@ -5820,7 +6070,9 @@
     "burkina-mali",
     "vidmar-greenland",
     "miller-parity",
-    "corbett-league"
+    "corbett-league",
+    "azikiwe-liberia",
+    "bedjaoui-nieo"
    ],
    "concepts": [
     "statehood",
