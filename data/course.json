@@ -2252,15 +2252,32 @@
    "year": 1986,
    "title": "Primitive Legal Scholarship",
    "cite": "27 Harv. Int'l L.J. 1 (excerpts)",
-   "tldr": "Reads Vitoria, Suárez, Gentili and Grotius not as crude forerunners but as working within a different structure of authority. Shows how modern scholarship builds its own story of progress.",
-   "draft": true,
+   "tldr": "Pre-1648 international law scholarship (Vitoria, Suárez, Gentili, Grotius) isn't an immature forerunner. It is a coherent style in its own right. 'Primitive' texts assume one moral-legal order from which sovereign authority derives. 'Traditional' (1648–1900) texts start from sovereigns and build law out of their will. 'Modern' texts doubt both. In Vitoria, Indians hold real title, but lose it automatically if they 'wrong' Spanish rights to trade and preach, and then just war follows.",
    "concepts": [
     "people-with-projects",
-    "naturalism"
+    "naturalism",
+    "colonialism",
+    "sovereignty",
+    "positivism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**The claim.** International lawyers make 1648 their origin and treat earlier work as incomplete. But pre-Westphalian scholarship shares a distinctive and coherent *style*, which historians distort by reading these authors as 'founders' of modern law.\n\n**Three textual sensibilities:**\n- *Primitive*: a self-assured tone; authority (Scripture, Aquinas, ancients) is linked straight to doctrine with little method or argument; a catalogue of citations, each authoritative when invoked. Law and morality, natural and international law, and municipal and international law are *not* separated. One moral-legal order binds sovereigns and citizens alike. Only *public* acts of sovereigns are legitimate, so private wars and wars of greed are unjust.\n- *Traditional* (1648–1900): argues about which authority counts; the author is assertive; sharp splits between law and morality and between municipal (vertical) and international (horizontal) order; begins from sovereign authority and builds law from it.\n- *Modern* (1900–80): the author is self-effacing; eclectic; sceptical of every method; it reads both earlier styles as naive phases on the way to 'sophisticated and cynical realism'.\n\nThe primitive moves from legal and moral authority to a scheme of sovereign authority; the traditional moves the other way.\n\n**Vitoria.** A Dominican whose lectures survive as transcriptions. Historians cast him either as a forerunner of naturalism or as a medieval holdover, but he felt no tension between sovereign independence and an overarching moral order, because sovereigns couldn't authoritatively disagree about fundamentals. Doctrine has an 'on-off' quality: sovereigns are either right or wrong, authoritative or powerless.\n- *De Indis*: Indians 'were true owners alike in public and in private law'. The Emperor's and Pope's claims, and Indian refusal of Christianity or sins against nature, are *illegitimate* titles.\n- *Legitimate titles*: consent, or Indian violation of Spanish natural-law 'rights' to travel, trade and proselytise. If Indians persist after 'recourse to reason', their public title is extinguished *automatically* and Spain may wage just war, 'despoiling them of their goods, reducing them to captivity, deposing their former lords'.\n- So abstract recognition of Indian sovereignty is coupled with 'brutal enabling provisions'.\n\n*Method note (fn. 10–11):* the essay is a structural reading of texts, influenced by Barthes and literary criticism. It asks what we would have to think, that we don't now think, to find these texts coherent, and it treats assumptions as mutually stabilising rather than one being primary. *(The packet excerpts the introduction and the Vitoria section only; the essay goes on to Suárez, Gentili and Grotius.)*",
+   "arguments": [
+    "Disciplinary history is written backwards from the present; 1648 is a myth of origin.",
+    "Primitive, traditional and modern are coherent styles, not stages of maturity.",
+    "The primitive fuses law and morality, and municipal and international law, in one order.",
+    "Vitoria grants Indians sovereignty in order to bind them: rights become the trigger for conquest.",
+    "Modern scholarship's humility and eclecticism is itself a style with its own blind spots."
+   ],
+   "source": "",
+   "short": "Kennedy — Primitive",
+   "context": "Kennedy's own early structuralist method, and the model for Topic 10's question: how do we narrate our predecessors? It sets up [[anghie-imperialism]] (who takes Vitoria's 'personality in order to be bound' to the 19th century) and the Topic 4 cases the syllabus asks you to reread ([[schooner-exchange]], [[antelope]], [[american-banana]], [[corfu-1949]]). It is the earliest row behind [[kennedy-chart]].",
+   "conceptNotes": {
+    "naturalism": "the primitive moral-legal order",
+    "people-with-projects": "scholarly styles as sensibilities",
+    "colonialism": "Vitoria on the Indies",
+    "sovereignty": "sovereign authority derived from a moral order",
+    "positivism": "traditional scholarship's starting point"
+   }
   },
   {
    "id": "riles-aspiration-control",
@@ -2271,11 +2288,28 @@
    "title": "Aspiration and Control: International Legal Rhetoric and the Essentialization of Culture",
    "cite": "106 Harv. L. Rev. 723 (excerpts)",
    "concepts": [
-    "colonialism"
+    "colonialism",
+    "positivism",
+    "people-with-projects",
+    "public-private"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Puzzle.** International law is described both as culturally embedded and as culture-neutral (like a judge applying rules to facts). The tension rarely surfaces.\n\n**Lawrence (1880s–1914).** A rector and Cambridge professor, enthusiastic about empire, classical in doctrine, a gifted rhetorician. His treatise and essays covered colonial administration, Suez and Panama, and the Hague institutions.\n- **Order over force**: positivists (Bentham, Austin) weren't wrong that law rests on force, but in modern societies *order* replaces force. Lack of enforcement doesn't make international law useless. Etymology and Victorian images of order versus chaos (and versus 'savages') build faith in the discipline.\n- **Idiom of aspiration** (among Europeans): international law is defined as 'the rules which determine the conduct of the general body of civilized states'. Domestic social analogies: no state belongs to the Society of Nations without territory, just as no man belongs to decent society without 'one suit of clothes'. Sanctions are like social snubs (a man dining out in a shooting jacket stops being invited). Law here is *in* European culture and the hope of European supremacy.\n- **Idiom of control** (for non-Europeans): law is *separated* from culture. 'Savage' law is custom obeyed from superstition, versus European reason. The unit is the abstract *state*, not the cultural nation. 'Civilization' is a legal term of art that resists definition ('palaces, museums, ships, forts…'), yet the distinction is insisted to be 'real'. British rulers could no more hold diplomatic relations with chiefs 'than the ladies of Great Britain could live on visiting terms with their women-folk.'\n- **Effect**: the two idioms knit together (Hague Tribunal technicality plus culturally particular mediation) to construct an essentialised, coherent European identity in opposition to non-Europe. This symbolically articulates colonial power inequalities, echoing colonial authority's two false premises: a discrete European community, and self-evident boundaries between coloniser and colonised.\n\n**More from the full text.**\n- In Lawrence's explicit analysis, colonial peoples are 'a vacant playing field', a silent background. On title by occupation: 'Tracts roamed over by savage tribes have been again and again appropriated.'\n- Disorder is everywhere in his text (Crete, Cuba, the 'ignorant Boers', Latin American states delaying the Arbitral Court); order is offered as the cure. Law's etymology is 'that which lies in due order'.\n- Order has two faces: *control* (retrenchment, suppression) and *aspiration* (utopian completeness). Each contains the seed of the other: colonisation also carries utopian hope.\n- Only states count. Individuals, corporations, communities and tribes have no standing; 'states are corporate bodies acting through their governments'. This presupposes bounded, coherent cultures.\n- Kaplan on colonial Fiji: colonial authority *invents* native 'disorder' in order to define and impose order.\n- **Riles's conclusion**: international law's project rests on an *essentialisation of culture* that privileges law as the bridge across cultural boundaries. Challenging that essentialism may demand 'a radical critique of the rhetorical authority of international law'.",
+   "arguments": [
+    "International law tells two incompatible stories about culture and needs both.",
+    "Rhetoric (images, analogies, class and gender metaphors) does doctrinal work.",
+    "'Civilization' can't be defined but is treated as real.",
+    "Law's universality is constructed through an essentialised Europe vs non-Europe."
+   ],
+   "source": "",
+   "short": "Riles — Aspiration & control",
+   "tldr": "International lawyers say both that law is a product of culture and that it stands above culture. Through Thomas Lawrence (Victorian Cambridge jurist), Riles shows the two stories at work. In the *idiom of aspiration*, law is embedded in European culture (states need territory like a gentleman needs a suit). In the *idiom of control*, applied to 'savages', law is separated from culture. Together they essentialise a unified Europe against a non-European other.",
+   "context": "A rhetorical and cultural reading in Berman's and Kennedy's style ([[berman-modernism]], [[kennedy-primitive]]). It shares Lawrence and the 'civilized/uncivilized' theme with [[anghie-imperialism]], and anticipates Borrell's 'garden vs jungle' ([[borrell-statement]]).",
+   "conceptNotes": {
+    "colonialism": "civilisation as legal category",
+    "positivism": "order vs force",
+    "people-with-projects": "the publicist's rhetoric",
+    "public-private": "domestic social analogies for international order"
+   }
   },
   {
    "id": "anghie-imperialism",
@@ -2285,16 +2319,32 @@
    "year": 2005,
    "title": "Imperialism, Sovereignty and the Making of International Law",
    "cite": "100–114",
-   "tldr": "The 'dynamic of difference': 19th-century positivism split the world into civilised and uncivilised. Sovereignty itself was formed in the colonial encounter, not merely extended to it.",
-   "draft": true,
+   "tldr": "Nineteenth-century positivism had *two* models of sovereignty. In Europe: absolute, the puzzle of order among equals. In the non-European world: bestowed or denied by Europeans, recognised only so natives could *alienate* land and rights ('personality in order to be bound'). Sovereignty was formed in the colonial encounter, and its legacy persists in today's categories (terra nullius debates, 'civilized nations', liberal/non-liberal states, development).",
    "concepts": [
     "colonialism",
     "positivism",
-    "sovereignty"
+    "sovereignty",
+    "twail",
+    "territory"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From *Imperialism, Sovereignty and the Making of International Law* (2005), pp. 100–114.\n\n**Against the 'order' paradigm.** Positivist jurists built a formalist, scientific sovereignty: absolute, detached from morality. The discipline's central question became how order is possible among sovereigns without an overarching authority. That framing can't account for how race and culture shaped the *formation* of 'law', 'society' and 'sovereignty'.\n\n**Racialised sovereignty.**\n- The basic positivist proposition: only European states were sovereign; European society was naturalised (Lawrence), and non-Europe appeared as Europe's past on a linear, evolutionary scale.\n- Hence virtually no legal limits on European violence against non-Europeans; their 'sovereignty' is irrelevant. Westlake: international law 'takes no account' of uncivilised natives, only of recognition among members.\n- Where native 'sovereignty' or 'personality' *was* recognised, it was so they could transfer title, trade rights or sovereignty itself in treaties. For the non-European world sovereignty means alienation and subordination, not empowerment. As in Vitoria, 'the native is granted personality in order to be bound.' Native sovereignty was a variable, constructed to give the colonial scramble coherence.\n- Sovereignty must be *bestowed* by an artificial system (Hall); international law becomes a *technology* of Victorian progress, the civilising mission. Achieving the European ideal becomes the goal of non-European states (Fanon on recognition); having lost personality, Asian states couldn't shape the law (Anand).\n\n**After decolonisation.** Interwar jurists (Lauterpacht, Álvarez) sought a New International Law; later generations distanced themselves from 'imperial' positivism. But the discipline still works within the inherited framework. Some feared new states would 'dilute' a European law; 1960s optimists hoped sovereignty and participation would make it universal. The alternative view: colonial economic and political inequalities persist.\n- Doctrines are reinterpreted, not abandoned. Courts find Aboriginal 'political organization' so terra nullius doesn't apply, and the ICJ in *Western Sahara* did the same, leaving the doctrine intact. 'Civilized nations' remains in Art. 38.\n- The civilised/uncivilised dichotomy recurs in Huntington's 'clash of civilizations', Fukuyama, and liberal/non-liberal state theory. The civilising mission may be inherent in modernity, progress, development, emancipation and rights. Sovereignty is a flexible instrument that lends itself to that mission.\n\n**Further points from the full text.**\n- *Time immemorial*: Lawrence says European states needed no 'ceremony of initiation' into the family of nations. The naturalist state of nature is replaced by a 'mythic age' of self-evident European sovereignty, which bars inquiry into its origins. 'Europe is the subject of sovereignty and non-Europe the object.'\n- *Oppenheim's paradox*: a non-member state becomes 'in some respects a member' of the family of nations precisely through a treaty ceding its territory. Personhood is achieved at the moment independent existence ends.\n- *Protectorates*: control without the burden of formal sovereignty, calibrated to European interests, a very contemporary phenomenon.\n- *Consent*: the bedrock of positivism; Kasson's well-meant insistence on native consent (Berlin Conference) built the pretence that natives consented to their own dispossession.\n- *New countries as laboratory*: Westlake turns to 'new countries' to understand how title is acquired; sovereignty becomes an artifact and *technology* developed through colonial practice.\n- *Rules made for exploitation*: Anand and Guha-Roy argue rules like **state responsibility** (injury to aliens) were devised to facilitate economic exploitation.\n- *Today*: unequal treaties remain binding; terra nullius (the basis of Australia's annexation) is evaded by reinterpreting facts rather than renounced; the ICJ makes little use of non-Western legal traditions (Weeramantry an exception). Gathii distinguishes 'weak' (integrationist) from strong anti-colonial scholarship; the 1960s optimists were integrationist.\n- *Recurring reflex*: the discipline renews itself by distancing and suppressing its past, as positivists did with naturalists and interwar pragmatists did with positivists, while the pragmatists *also* pursued the civilising mission. The structure can be rebuilt in the vocabulary of human rights, governance and economic liberalisation.",
+   "arguments": [
+    "Colonialism was constitutive of sovereignty, not peripheral to it.",
+    "Two sovereignties: absolute for Europe, alienable or bestowed for non-Europe.",
+    "Recognition of native personality served dispossession (treaties of cession).",
+    "Post-colonial reforms reinterpret facts but keep the colonial frame.",
+    "The civilising mission lives on in liberal, developmental and rights vocabularies."
+   ],
+   "source": "",
+   "short": "Anghie — Imperialism",
+   "context": "The anchor of TWAIL in this course. Read back onto [[antelope]], [[maine-kathiawar]], [[island-of-palmas]] ('inhabited only by natives'), [[western-sahara]], [[icj-art38]] ('civilized nations') and Vitoria in [[kennedy-primitive]]; forward to [[anghie-postcolonial]], [[bedjaoui-nieo]], [[chimni-2017]]. Compare [[becker-lorca-mestizo]] (semi-peripheral agency rather than structure).",
+   "conceptNotes": {
+    "colonialism": "dynamic of difference; racialised sovereignty",
+    "positivism": "positivism's colonial foundations",
+    "sovereignty": "two models of sovereignty",
+    "twail": "foundational TWAIL text",
+    "territory": "terra nullius and title by cession"
+   }
   },
   {
    "id": "alvarez-new-il",
@@ -2304,14 +2354,30 @@
    "year": 1929,
    "title": "The New International Law",
    "cite": "Transactions of the Grotius Society 35",
-   "tldr": "A Latin American call for a *new* international law built on interdependence and social solidarity, with room for regional (American) international law.",
-   "draft": true,
+   "tldr": "After 1914 'no one knows exactly what are the rules in force'. Classical international law, a European product built for sparse relations among states, is in crisis because of interdependence, economic life and public opinion. It must be *reconstructed*, not from theory but from a positive science of international life (history plus 'International Relations'). It should bridge law and politics through morality, justice and equity, and admit regional (American) international law.",
    "concepts": [
-    "modernism"
+    "modernism",
+    "law-and-politics",
+    "functionalism",
+    "twail"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Lecture to the Grotius Society, London, 1929, by the Chilean jurist (later an ICJ judge).\n\n**Diagnosis.** International law fell into crisis and discredit: jurists separated it from politics, so law is taught in law schools and politics in 'International Relations' departments; the war, violations and new doctrines left it unclear which rules apply even in peacetime. There is much talk of 'international justice' and 'international morals' with no definite meaning.\n\n**Method of reconstruction.** Don't rebuild purely from theory, as in the French Revolution. Rebuild from 'essentially scientific and positive' factors: study international life as a whole in time (history) and space, the elements of the community of nations, relationships and forces, and new orientations. In effect, create a science of International Relations, with a critical part (what has changed) and a constructive part (what regulation fits today).\n\n**History's lesson.** Until the mid-19th century, international life was ruled by passions, national egoism, racial prejudice and aggrandisement; then traditional international law arose from justice and civil-law analogies, workable only while relations were sparse. Interdependence, economic development and public opinion broke that system.\n\n**Programme.** Juridical rules are rigid; political solutions are case-by-case; morality and equity are pliable. Apply 'morality, justice and equity to politics' to build 'a bridge between the legal and political system', abolishing the opposition jurists created. The jurist's mission is not to find legal rules for everything but to bring morality and justice to bear on politics. Principles: uniform conceptions on fundamentals, but no excessive universality; room for continental differences. International law was developed by *European* publicists as the fruit of the Old World; American (the whole continent) international law is a legitimate distinct current.\n\n**Further detail from the full text.**\n- *The 'new system'*: (1) politics cannot be abolished, as some jurists pretend; the League itself rests mainly on political conceptions; (2) the reform is not rigid rules for all cases but the elimination of *arbitrariness* from politics.\n- *Three great principles*: uniform conceptions for the fundamentals; a **diagram of rules** (universal, general, continental, regional, by school, special), because universality for everything is 'neither possible nor desirable'; rules inspired not by the old 'individual and absolutist justice' but by economic, social and utilitarian considerations.\n- *Three circles of international life*: questions with a juridical solution (international law proper, under new conceptions of social utility); questions for politics, governed by morality, justice and equity; and the education of public opinion, especially the young, to an 'international spirit', 'the common and equal utility of all nations' (Bentham), solidarity and cooperation.\n- 'American' means the whole continent, not just the United States. Study must cover all parts of the world, not only Western Europe.",
+   "arguments": [
+    "Classical law broke on interdependence; reconstruction is needed.",
+    "Method: empirical science of international life, not abstract doctrine.",
+    "Law and politics should be joined through morality and equity.",
+    "Universality must allow regional (American) international law.",
+    "Law as social reform, a typical interwar modernist stance."
+   ],
+   "source": "",
+   "short": "Álvarez — New IL",
+   "context": "The voice Berman analyses ([[berman-modernism]]) and Becker Lorca celebrates ([[becker-lorca-mestizo]]): semi-peripheral modernism. Álvarez carries it onto the ICJ ([[corfu-1949]], [[corfu-1949-merits]]). Compare Jessup's functionalism ([[jessup-functional]]) and McDougal's later merging of law and policy ([[mcdougal-law-power]]).",
+   "conceptNotes": {
+    "modernism": "interwar reconstruction programme",
+    "law-and-politics": "bridging law and politics via morality",
+    "functionalism": "science of international relations",
+    "twail": "regional American international law vs European"
+   }
   },
   {
    "id": "jessup-functional",
@@ -2325,9 +2391,20 @@
     "modernism",
     "functionalism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Remarks at the Third Conference of Teachers of International Law (1928).\n- The functional approach 'is incapable of concise definition'; broadly it *correlates rules of law with the facts of life* they regulate.\n- In private law, 'sales' or 'negotiable instruments' make sense only with knowledge of business and banking. Conventional groupings ('torts', 'Subjects of International Law', 'Treaties') lump together wholly different things: alliances, commercial treaties, the Postal Union, the PCIJ protocol.\n- International rules must be read historically and economically: 16th-century territorial claims through navigation science and colonial administration; neutral trading rights (the Rule of 1756) through the monopolistic colonial system. Moore advised reading Adam Smith. Naturalisation and immigration require migration data.\n- The data from law, politics, economics, sociology and history is 'of staggering proportions'. He doesn't propose a full regrouping, only that teachers can't ignore it.\n\n**Further detail.** Jessup cites Oliphant: traditional categories (property, torts, contracts) jumble together very different human relations. He cites Huber's *Island of Palmas* award on 'intertemporal law' as showing law must be integrated with geography and history. In WWI the British government ran 'blockade' through blacklists, embargoes and rationing agreements, so a prize judge needs to know the customs of shippers, bankers and shipowners. Thinking of states as detached pyramids touching only at the apex (governments) is giving way; old conceptual thinking may yield to regrouping by function. 'The idea is venerable; the application is juvenile.' The obstacle in international law: lawyers, facing a 'scoffing and cynical lay world', have stressed that rules exist, so looking at messy facts feels risky.",
+   "arguments": [
+    "Law should be organised by function and social problem, not formal categories.",
+    "Interdisciplinarity (economics, history) is part of legal method.",
+    "An American legal-realist sensibility applied to international law."
+   ],
+   "source": "",
+   "short": "Jessup — functional",
+   "tldr": "A 'functional approach' correlates legal rules with the social and economic facts they govern, like private lawyers who need banking to understand negotiable instruments. Teachers should regroup international law around real problems (navigation, colonial trade, migration), draw on economics, history and politics, and stop relying on unilluminating labels like 'subjects of international law'.",
+   "context": "Interwar American functionalism, cousin to legal realism. It grows into [[jessup-transnational]] (1956) and feeds the 1950–89 'functional problem solving' row of [[kennedy-chart]]. Berman's 'pragmatist' lawyer ([[berman-jerusalem]]) is its descendant.",
+   "conceptNotes": {
+    "functionalism": "the functional approach defined",
+    "modernism": "interwar renewal of method"
+   }
   },
   {
    "id": "redslob-nationalities",
@@ -2339,11 +2416,25 @@
    "cite": "Transactions of the Grotius Society 21",
    "concepts": [
     "modernism",
-    "self-determination"
+    "self-determination",
+    "territory"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Lecture to the Grotius Society, 1931, by the Strasbourg professor.\n- Each era has its predominant principle (Holy Roman Empire, balance of power, natural rights, popular sovereignty, legitimacy, Monroe Doctrine). Now nationalities: a cause of the Great War and the inspiration of the peace treaties, with problems 'not solved and perhaps … never' solvable.\n- **What is a nation?** Not reducible to race, tongue or religion (Switzerland shows language ≠ nation). It is shared memory (often crystallised in institutions like Magna Carta or the Holy Crown of Hungary), literary patrimony, love of ancestral soil, and moral community.\n- **Collisions**: the nationality principle meets the cohesion of existing states and the demand for *natural frontiers* (states seek the sea 'as a plant seeks the sun'). These forces have fought for centuries.\n- **Secession** only if it doesn't disturb the state's organic structure; natural frontiers prevail (e.g. the US South).\n- **Solutions** short of independence (population exchange and migration only in extraordinary cases): *regional* autonomy (sub-Carpathian Ruthenes in Czechoslovakia) or *personal/cultural* autonomy (Estonia's 1925 law: national corporations by enrolment), covering cultural and spiritual matters, not political ones.\n- The best solution is 'a just balance of ethnic values', resting on self-discipline and tradition: 'the problem of nationalities, in its deeper sense, lies rather in moral than in legal contingencies'.\n\n**Further detail from the full text.**\n- *Definition* (after Renan): a nation is the consciousness of a group that it shares a similar *genius* (an ideal of civilisation) and the *will* to converge into one political body. Memory of a common past is the paramount factor, often embodied in heroes or dynasties. Race is 'of little interest', since 'the integral race has disappeared'.\n- The Peace Treaties' formula balances the wishes of inhabitants (by vote) with geographical and economic conditions.\n- *Secession* is normally barred if it breaks the state's organic structure (the US South, Ireland and British security, Croatia and the Adriatic). But it is justified (1) where the government commits grave abuses violating elementary justice, or (2) where it repairs a former annexation made against the national will.\n- *Autonomy* (regional, like the Ruthenes; personal, like Estonia's national corporations with power to legislate, tax and hold property, compared with Ottoman tolerance of Christian communities) pacifies but creates 'a State in the State'. Recommend it only where assimilation is impossible; otherwise use League *minority protection*, which also risks isolation.",
+   "arguments": [
+    "Nationality is a powerful but partial principle.",
+    "It must be balanced against state integrity and geography.",
+    "Autonomy and minority regimes are preferred to secession.",
+    "Ultimately a moral, not legal, problem."
+   ],
+   "source": "",
+   "short": "Redslob — nationalities",
+   "tldr": "Ours is the age of nationalities: each nation should have its state. But what is a nation? Not race, language or religion alone, but memory, soil and moral community. The principle is only a part-truth and collides with state integrity and 'natural frontiers'. Secession is justified only if it doesn't destroy the state's organic structure. The better answers are regional or personal *autonomy* and minority regimes, ultimately a matter of morals more than law.",
+   "context": "Berman's prime example of legal Modernism ([[berman-modernism]]): nationalism as a 'crater' law must both follow and discipline. Compare self-determination vs territorial integrity in [[burkina-mali]] and [[western-sahara]], and Knop's layered sovereignties ([[knop-feminism-sovereignty]]).",
+   "conceptNotes": {
+    "modernism": "interwar law of nationalities",
+    "self-determination": "limits of the nationality principle",
+    "territory": "natural frontiers"
+   }
   },
   {
    "id": "vagts-third-reich",
@@ -2353,15 +2444,31 @@
    "year": 1990,
    "title": "International Law in the Third Reich",
    "cite": "84 AJIL 661 (excerpts)",
-   "tldr": "How Nazi-era international lawyers reworked the discipline (Großraum ideas, völkisch theories) and how the profession went along with it.",
-   "draft": true,
+   "tldr": "How German international lawyers fared and behaved, 1933–45: dismissal and exile of Jewish and liberal scholars (Kelsen, Kaufmann, Strupp…); a spectrum of responses from resistance (Moltke, Stauffenberg) through respectable service (Bruns) to convinced Nazism. Doctrine bent toward Volk over state, *Grossraum* (Schmitt), selective treaty fidelity and racial exclusion. Nazism's lasting legacy was negative: the Genocide Convention, Nuremberg, art. 2(4).",
    "concepts": [
     "modernism",
-    "people-with-projects"
+    "people-with-projects",
+    "rebus-sic-stantibus",
+    "individual-responsibility",
+    "jus-in-bello"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A 1990 AJIL article.\n\n**Why study it?** It's dramatic, and the extreme conditions expose how people, institutions, ideas and policies interact in law.\n\n**Context.** Weimar international law was preoccupied with Versailles: disarmament, the Rhineland, minorities, reparations, PCIJ cases. Then the Reich's chronology: leaving the League, remilitarising the Rhineland, Anschluss (despite PCIJ rulings), Spain, Sudetenland, Czechoslovakia, the pact with the USSR, war.\n\n**Institutions.** Party control of law faculties: dismissals of seven full professors in 1933–35 and six more later; censorship, book burning, lists of non-citable Jewish authors, collapsing student numbers. Some survived via exemptions or sympathetic deans; few émigrés besides Kelsen built careers abroad. The Kaiser Wilhelm Institute (Bruns) and the Foreign Ministry's legal department (Gaus) kept working for the regime.\n\n**Spectrum of responses.** Resistance and conspiracy (Moltke, Berthold von Stauffenberg, Dohnanyi in the Abwehr legal section, several executed after July 1944); inner emigration or other work; 'normal career' with obligatory obeisance (Bruns 'arguably the greatest servant' by lending respectability without frenzy); convinced Nazis embracing *Volk*, *Lebensraum* and the *Führer* principle.\n\n**Doctrine.**\n- *State*: the Volk (Tönnies's *Gemeinschaft*) over the liberal state (*Gesellschaft*).\n- *Equality*: demands for equality and 'inalienable sovereign rights' against Versailles, paralleling China's and Turkey's fights against unequal treaties (later central to Third World law).\n- *Schmitt's Grossraum*: hegemonic powers in great spaces, with no interference by outsiders.\n- *Treaties*: rebus sic stantibus and Teutonic 'fidelity' (which couldn't bind non-Teutons); hostility to the League and to foreign scholarly bodies seen as a 'Semitic front'.\n- *Jews*: denied minority status; denationalisation.\n- *Jus in bello*: Abwehr lawyers opposed the commando order and argued for proper treatment of prisoners, sometimes successfully.\n\n**Lessons.** Nazism's direct influence on international law was 'zero, except in a negative sense': it produced the Genocide Convention, Nuremberg and art. 2(4). On individual choice, exit is less bad than it looks at the time; and dictatorships don't last forever.\n\n**Further detail from the full text.**\n- *Purge numbers*: about 16% of university faculty and about 22% of law faculties replaced; of roughly 50–60 international law professors, 24 lost posts; several committed suicide (Fleischmann, Perels, Neumeyer). Tübingen law enrolment fell from 478 (1932) to 40 (1941).\n- *Officials*: Gaus (Foreign Ministry) was called in *after* moves like the Rhineland reoccupation to justify them; at Nuremberg he regretted not resigning.\n- *Scheuner*: 'Well, you know, I have a weakness for power.' Vagts weighs opportunism heavily (e.g. Schmitt).\n- *Incoherence*: Schecher's honest conclusion that under Nazism there could be *no* international law, only German foreign relations law, was suppressed, since Germany needed others to trust its treaties.\n- *Sovereignty tests*: Germany returned the kidnapped émigré Jacob-Salomon to Switzerland in 1936 under arbitration threat, but in 1939 kept the British agents seized at Venlo.\n- *Grossraum* was explicitly modelled on the Monroe Doctrine. *Unequal treaties*: parallel to Chinese and Turkish arguments, later central to Third World international law. Ironically, the Vienna Convention's rule voiding coerced treaties cites Hitler's Czech protectorate as its prime example.\n- *Stauffenberg* defended denationalisation of non-Aryans as lawful; *Moltke*'s memorandum on Soviet POWs argued that Hague–Geneva rules were custom binding even on non-parties, plus pragmatic reasons (discipline, retaliation, neutral opinion). The west saw rough compliance; in the east the rules were 'jettisoned completely' under Grossraum and Lebensraum thinking.\n- *Lessons*: even in totalitarian systems there are moral choices; failing to resign is read as approval; such regimes demand ever more ('enough today is not enough tomorrow'); one overrates one's own irreplaceability, so exit is less bad than it seems; dictatorships end.",
+   "arguments": [
+    "Professional communities can be captured through institutions, careers and censorship.",
+    "Respectable technicians may serve evil more effectively than zealots.",
+    "Doctrines (equality, rebus sic stantibus, Grossraum) are pliable to any project.",
+    "The regime's legacy was the post-war prohibitions it provoked."
+   ],
+   "source": "",
+   "short": "Vagts — Third Reich",
+   "context": "The dark mirror of interwar modernism ([[berman-modernism]]: the 'authoritarian temptation'). A sobering case for Kennedy's 'people with projects' ([[kennedy-chart]]). Its links to [[lissitzyn-load-line]] (rebus sic stantibus), [[koskenniemi-impunity]] (Nuremberg) and Topic 22 (jus ad bellum) run through it.",
+   "conceptNotes": {
+    "modernism": "Nazi transformation of interwar international law",
+    "people-with-projects": "the profession under dictatorship",
+    "rebus-sic-stantibus": "Nazi uses of changed circumstances",
+    "individual-responsibility": "Nuremberg and the Genocide Convention as legacy",
+    "jus-in-bello": "the commando order debate"
+   }
   },
   {
    "id": "austin-province",
@@ -4357,6 +4464,108 @@
    "to": "ilc-arsiwa",
    "type": "complicates",
    "note": "Sanctions on Russia strain the line between countermeasures, retorsion and economic warfare."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "kennedy-primitive",
+   "type": "extends",
+   "note": "Takes Vitoria's logic (Indian personality granted in order to be bound) into 19th-century positivism and treaties of cession."
+  },
+  {
+   "from": "riles-aspiration-control",
+   "to": "anghie-imperialism",
+   "type": "builds-on",
+   "note": "Both read Lawrence: 'civilization' as an indefinable but decisive legal category that constructs Europe against non-Europe."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "western-sahara",
+   "type": "critiques",
+   "note": "The ICJ negates terra nullius by finding 'political organization', which leaves the colonial doctrine itself intact."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "island-of-palmas",
+   "type": "critiques",
+   "note": "Westlake's view, 'of the uncivilized natives international law takes no account', underlies title contests between empires."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "icj-art38",
+   "type": "critiques",
+   "note": "'General principles recognized by civilized nations' is the colonial vocabulary surviving in the canonical source list."
+  },
+  {
+   "from": "kennedy-primitive",
+   "to": "schooner-exchange",
+   "type": "illustrates",
+   "note": "The syllabus asks you to reread Topic 4's cases as moments before modernity: Marshall's 'dignity' and implied consent among civilised sovereigns."
+  },
+  {
+   "from": "riles-aspiration-control",
+   "to": "borrell-statement",
+   "type": "illustrates",
+   "note": "Lawrence's Victorian order-vs-savagery imagery reappears in Borrell's 'garden vs jungle'."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "lillich-paxman",
+   "type": "critiques",
+   "note": "Rules of state responsibility for injury to aliens were, on Anand's and Guha-Roy's account, devised to protect European economic exploitation."
+  },
+  {
+   "from": "anghie-imperialism",
+   "to": "maine-kathiawar",
+   "type": "illustrates",
+   "note": "Divisible sovereignty and protectorates: control without the burden of formal sovereignty, calibrated to imperial interests."
+  },
+  {
+   "from": "alvarez-new-il",
+   "to": "jessup-functional",
+   "type": "contrasts",
+   "note": "Both want law tied to social facts; Álvarez through morality, equity and regional law, Jessup through functional and economic analysis."
+  },
+  {
+   "from": "vagts-third-reich",
+   "to": "berman-modernism",
+   "type": "illustrates",
+   "note": "The 'authoritarian temptation' Berman warns of, realised: modernist renewal turned into Volk and Grossraum."
+  },
+  {
+   "from": "vagts-third-reich",
+   "to": "lissitzyn-load-line",
+   "type": "illustrates",
+   "note": "Rebus sic stantibus as an all-purpose exit: Nazi jurists used it against Versailles commitments."
+  },
+  {
+   "from": "vagts-third-reich",
+   "to": "koskenniemi-impunity",
+   "type": "complicates",
+   "note": "The regime's negative legacy (Nuremberg, Genocide Convention) is the starting point for Koskenniemi's doubts about trials."
+  },
+  {
+   "from": "redslob-nationalities",
+   "to": "knop-feminism-sovereignty",
+   "type": "builds-on",
+   "note": "Personal and regional autonomy as early versions of layered, non-territorial sovereignty."
+  },
+  {
+   "from": "redslob-nationalities",
+   "to": "burkina-mali",
+   "type": "contrasts",
+   "note": "Natural frontiers and state integrity vs the decolonial choice of frozen administrative lines."
+  },
+  {
+   "from": "jessup-functional",
+   "to": "berman-jerusalem",
+   "type": "illustrates",
+   "note": "Berman's 'pragmatist/functionalist' lawyer, dividing tasks to minimise conflict, descends from Jessup's functional approach."
+  },
+  {
+   "from": "vagts-third-reich",
+   "to": "alvarez-new-il",
+   "type": "contrasts",
+   "note": "Two critiques of 19th-century international law between the wars: Álvarez's solidarist reconstruction vs Nazi Volk and Grossraum theory."
   }
  ],
  "themes": [
@@ -4483,7 +4692,9 @@
     "lang-regimes",
     "kennedy-legal-expertise-war",
     "damrosch-intro",
-    "koskenniemi-impunity"
+    "koskenniemi-impunity",
+    "vagts-third-reich",
+    "alvarez-new-il"
    ],
    "concepts": [
     "people-with-projects",
