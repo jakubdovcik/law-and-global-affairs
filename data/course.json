@@ -3703,14 +3703,30 @@
    "year": 2006,
    "title": "Fragmentation as a Phenomenon",
    "cite": "Fragmentation of International Law, 10 (excerpts)",
-   "tldr": "Specialised regimes (trade, human rights, environment…) have multiplied, each with its own logic. The ILC answers with lawyerly tools of coordination: lex specialis, systemic integration.",
-   "draft": true,
+   "tldr": "International law is splitting into specialised 'boxes' (trade, human rights, environment, investment, the law of the sea), each with its own principles, expertise and 'ethos'. MOX Plant: the same facts went before three fora. The ILC Study Group (Koskenniemi) treats this as both a danger and an expansion. Its answer is not hierarchy but a lawyer's 'toolbox' from the Vienna Convention: relationships of special/general, prior/later, hierarchy, and the 'normative environment' (systemic integration). 'Fragmentation and coherence … lie in the eye of the beholder.'",
    "concepts": [
-    "fragmentation"
+    "fragmentation",
+    "sources",
+    "jus-cogens",
+    "functionalism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "ILC Study Group report, finalised by Martti Koskenniemi (2006), Ch. I paras. 5–20.\n\n**Background.** Jenks (1953): with no general legislature, law-making treaties form separate 'historical, functional and regional groups', like separate municipal systems, so a conflict-of-laws analogy is needed. Today there are more than 50,000 treaties, plus regulatory regimes without a public-law orientation. Sociologists call this 'functional differentiation'. The paradox of globalisation: uniformisation *and* fragmentation. Specialist systems ('trade law', 'human rights law', 'environmental law', 'law of the sea', 'European law', 'investment law', 'refugee law') develop 'with relative ignorance' of their neighbours and of general law. Some see erosion and forum-shopping; others a technical problem.\n\n**MOX Plant.** The Sellafield nuclear facility went to a UNCLOS Annex VII tribunal, an OSPAR tribunal and the European Court of Justice. Is it about the law of the sea, North Sea pollution, or EC relations? ITLOS: even identical rights in other treaties 'have a separate existence'; context, object and purpose, practice and *travaux* may make the same rule mean different things. What then of legal certainty and equality?\n\n**Scope.** The Commission leaves institutional questions to the institutions themselves and focuses on substance: the 'splitting up of the law into highly specialized \"boxes\"'. The title (difficulties 'arising from the diversification and expansion') signals that the problems are neither new nor unmanageable. Each regime 'comes with its own principles, its own form of expertise and its own \"ethos\"'. Deviations are not 'mistakes' but reflect 'differing pursuits and preferences' in a pluralist society. Insisting on formal unity would be 'simultaneously utopian and authoritarian'.\n\n**Approach.** Provide a conceptual framework from the professional's point of view: the 1969 VCLT, since all regimes claim force from the law of treaties. Functional fragmentation is 'not too different' from fragmentation into national legal systems. Four relationships: special/general (ch. II), prior/later (III), hierarchy (IV: only jus cogens invalidates; priority is usually 'relative'), and the 'normative environment' (V). This is not a set of ready-made solutions but 'a toolbox' for reasoned decision. 'Novelty presents itself as \"fragmentation\" of the old world'; reasoning makes the unfamiliar familiar.",
+   "arguments": [
+    "Functional differentiation produces specialised regimes with their own ethos.",
+    "MOX Plant: one dispute, three fora, potentially different readings of the same rules.",
+    "Deviation reflects pluralist preferences; formal unity would be utopian and authoritarian.",
+    "Response: VCLT-based techniques (lex specialis, lex posterior, hierarchy, systemic integration).",
+    "Fragmentation and coherence are in the eye of the beholder."
+   ],
+   "source": "",
+   "short": "ILC — Fragmentation",
+   "context": "The doctrinal half of the Topic 3 report excerpted at [[ilc-fragmentation-jus-cogens]]. [[fischer-lescano-teubner]] calls this legal reductionism; [[lang-regimes]] asks how regimes' biases are made; [[koskenniemi-laws-rule-us]] widens the lens to the legal infrastructure of capitalism. Earlier fragmentation: [[jessup-functional]] and [[jessup-transnational]]. Regime proliferation is the world of [[kennedy-sg]] and [[kingsbury-gal]].",
+   "conceptNotes": {
+    "fragmentation": "the ILC's canonical framing",
+    "sources": "VCLT as framework for regime relations",
+    "jus-cogens": "the only true hierarchy",
+    "functionalism": "functional differentiation of regimes"
+   }
   },
   {
    "id": "fischer-lescano-teubner",
@@ -3720,14 +3736,30 @@
    "year": 2004,
    "title": "Regime-Collisions: The Vain Search for Legal Unity in the Fragmentation of Global Law",
    "cite": "25 Mich. J. Int'l L. 999 (excerpts)",
-   "tldr": "Fragmentation mirrors collisions between sectors of world society. Legal unity is impossible; at most, a loose compatibility between regimes.",
-   "draft": true,
+   "tldr": "Luhmann predicted (1971) that global law would fragment along social sectors, not territories. Fragmentation is neither a legal problem of missing hierarchy nor merely 'policy conflicts' between actors. It reflects 'contradictions between society-wide institutionalized rationalities' (economy, science, health, technology), each of which has its own global law, including private regimes (lex mercatoria, lex digitalis) and 'auto-constitutional' regimes. Unity is a chimera ('lasciate ogni speranza'). At best a heterarchical 'weak normative compatibility' through networking and inter-regime conflicts law.",
    "concepts": [
-    "fragmentation"
+    "fragmentation",
+    "private-ordering",
+    "functionalism",
+    "jurisdiction"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Michigan Journal of International Law (2004), pp. 999–1018 in the packet.\n\n**Two reductionisms.** About 125 international bodies now give final legal decisions. *Legal reductionism* sees missing doctrinal and judicial hierarchy and proposes hierarchy: ICJ appeals or advisory opinions (Schwebel, Guillaume), ILC 'no-hazard' certificates for new regimes (Hafner). *Political reductionism* (Koskenniemi and Leino) sees 'policy conflicts' between collective actors and proposes explicit politicisation. Correct but 'not deep enough'. (They chide Koskenniemi for softening the ILC title.)\n\n**Thesis.** Legal fragmentation is 'an ephemeral reflection of a more fundamental, multi-dimensional fragmentation of global society'. Normative unity is 'doomed from the outset'. Fragmentation cannot be combated; at best weak compatibility via a network logic of 'loose coupling'.\n\n**Social theory.**\n- *A. Polycentric globalisation*: not just the economy. Autonomous global systems (science, culture, technology, health, the military, transport, sport…) each intensify their own rationality 'without regard' to others or the environment (Marx, Polanyi, Weber's polytheism, Luhmann). Problems such as finance, patents and cloning can't be solved by politics alone. 'The sin of differentiation can never be undone. Paradise is lost.'\n- *B. Global law as a unitary system*, but unified by process ('inter-legality'), not by structure or consistency.\n- *C. Sectoral differentiation* overlays territorial differentiation: regimes define their reach by issue, not territory.\n- *D. Private regimes*: 'global law without the state'. Lex mercatoria, lex digitalis, the Apparel Industry Partnership, TRUSTe, ICANN. 'Self-juridification' of social fragments, not Krasner-style regimes.\n- *E. Centre and periphery* replace hierarchy: courts at the centre; contracts, associations, standards and NGO consensus at the periphery. Self-contained regimes (Koskenniemi's definition) reproduce social conflicts: lex mercatoria vs WHO norms; lex constructionis vs environmental law; WTO vs human rights and environment; use of force vs human rights. Courts are coupled to their regimes, so the centre itself fragments ('polycontexturalization').\n- *F. Auto-constitutional regimes*: Walker's seven criteria of constitutionalism applied to sectors (economy, science, sport). Regimes make their own secondary rules.\n\n**Selective networking.** 'Lasciate ogni speranza': no apex or centre. Heterarchy: strengthen existing networks between regimes, and between regimes and their social sectors. Three principles: (1) normative compatibility instead of hierarchical unity; (2) law-making through mutual irritation, observation and reflexivity; (3) decentralised conflicts-of-laws methods. 'Final binding decision is replaced by a sequence of decisions' among network nodes. (The packet stops before the four examples: copyright, medicines, lex constructionis, *desaparición*.)",
+   "arguments": [
+    "Legal fragmentation reflects collisions of social rationalities, not missing hierarchy or mere politics.",
+    "Global law is differentiated sectorally, including private and auto-constitutional regimes.",
+    "Courts are coupled to their regimes: no unifying centre.",
+    "Unity is unattainable; aim for weak compatibility via networking.",
+    "Inter-regime conflicts law on a private international law analogy."
+   ],
+   "source": "",
+   "short": "Fischer-Lescano & Teubner — Regime collisions",
+   "context": "Responds to [[ilc-fragmentation-phenomenon]] (and its author) and to [[ilc-fragmentation-jus-cogens]]. Private regimes connect to [[danielsen-corporate]], [[kingsbury-gal]] and [[iglp-gvc]]. 'Society without an apex' echoes [[kennedy-sg]]; networks recall [[slaughter-around-un]]. [[lang-regimes]] questions treating regimes as given 'billiard balls'. Cites [[berman-globalization-jurisdiction]] (legal pluralism).",
+   "conceptNotes": {
+    "fragmentation": "social-theory account of regime collision",
+    "private-ordering": "private legal regimes (lex mercatoria, lex digitalis)",
+    "functionalism": "Luhmannian functional differentiation",
+    "jurisdiction": "sectoral rather than territorial reach"
+   }
   },
   {
    "id": "lang-regimes",
@@ -3737,15 +3769,31 @@
    "year": 2012,
    "title": "Legal Regimes and Professional Knowledges: The Internal Politics of Regime Definition",
    "cite": "Regime Interaction in International Law, 113 (excerpts)",
-   "tldr": "Regimes are not given: they are defined by professional knowledge and expert practice, and that definitional work is political.",
-   "draft": true,
+   "tldr": "Talk of 'regime interaction' risks reifying regimes as billiard balls with given biases. The trade regime is not free-market by mandate: what counts as a 'trade barrier' is indeterminate, so liberalisation first *constructs* some measures as distortions and backgrounds others. Its 'principles of vision' shifted from border barriers (embedded liberalism) to behind-the-border regulation after the 1970s, built by expert knowledge (e.g. the GATS Telecoms Reference Paper). Contestation must destabilise those visions, and expertise can be used to contest as well as entrench.",
    "concepts": [
     "fragmentation",
-    "people-with-projects"
+    "people-with-projects",
+    "political-economy",
+    "law-and-politics",
+    "soft-law"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Chapter in Young (ed.), *Regime Interaction in International Law* (2012), pp. 113–135 (some pages missing).\n\n**Argument.** 'Coordination' and 'coherence' between regimes always mean hierarchising competing normative projects. But we must also study the *internal politics of regime definition*: how biases get embedded and change. Otherwise 'interaction' reifies regimes as 'billiard balls', each containing 'the principles of its own dynamic' (Bourdieu). Interaction also reshapes regimes from within (human rights actors trying to change trade, and vice versa).\n\n**Trade barriers are constructed.** The common view is that a mandate to liberalise means a structural free-market bias. In fact virtually all government action affects trade (macroeconomic, labour, environmental, health policy), and almost every market-access impediment is attributable to some government action. So liberalisation requires 'the construction of some governmental measures as distortions of trade — and others not'. Three treatments follow: *distortions* face progressive elimination (rounds, prohibitions, dispute settlement); *market-supporting regulation* gets harmonisation, proportionality review, technical assistance, mutual recognition; *background* measures get no scrutiny. The politics lie in these 'principles of vision', 'frameworks of visibility and invisibility'.\n\n**History.** Early GATT focused on border barriers. From the 1970s, with the decline of embedded liberalism, a new economic liberalism and US elites' worry about Japan's hidden barriers, lists of non-tariff barriers grew: product standards, food safety, IP, environment, currency, censorship. Shared diplomatic understandings gave way to *technical expertise* to justify classification.\n\n**Case: telecoms services.** The WTO Reference Paper codified a decade of developed-country liberalisation experience as 'best practice', 'a transfer of know-how'. Over 80 members now commit to it. Telecoms regulators and trade negotiators worked closely (the FCC's Hundt and USTR's Barshefsky). It created 'an alliance between indeterminate legal principles and determinate programmes of regulatory reform', supported by a reform coalition, commercial interests and a sense of inevitability.\n\n**Implications.** Several kinds of expertise (economic, sectoral, legal, commercial 'feel', 'insider' knowledge) form a professional sensibility. The lack of a 'redemptive narrative' may partly result from an international legal sensibility that 'disavows … explicit political choices': politics conducted 'in a technical register'. But contestation is possible: destabilise the self-evidence of what counts as a barrier, stress 'the radical indeterminacy' of expert knowledge, and use peer review, monitoring and dialogue, the very mechanisms that police background norms, with a range of voices beyond experts.",
+   "arguments": [
+    "Regime interaction is politics; so is the internal definition of regimes.",
+    "'Trade barrier' is indeterminate: liberalisation constructs distortions and backgrounds.",
+    "Principles of vision shifted from border to behind-the-border measures, built by expertise.",
+    "Telecoms Reference Paper: expert best practice encoded as law.",
+    "Contest regimes by destabilising their principles of vision, including through expertise."
+   ],
+   "source": "",
+   "short": "Lang — Regime definition",
+   "context": "Turns the Kennedy 'foreground/background' and expertise themes ([[kennedy-hr-problem]], [[kennedy-chart]]) onto the WTO. Complicates [[bello-wto]] (trade's neutrality) and [[fischer-lescano-teubner]] (regimes as rationalities). Backgrounded measures are the 'local rules' of [[danielsen-local-rules]]. Expert codification parallels [[kingsbury-gal]] and [[miller-parity]]. Fragmentation context: [[ilc-fragmentation-phenomenon]].",
+   "conceptNotes": {
+    "fragmentation": "internal politics of regime definition",
+    "political-economy": "construction of trade barriers",
+    "law-and-politics": "politics in a technical register",
+    "soft-law": "Reference Paper from best practice to binding commitment"
+   }
   },
   {
    "id": "koskenniemi-laws-rule-us",
@@ -3757,11 +3805,31 @@
    "cite": "New Left Review 154 (excerpts)",
    "concepts": [
     "political-economy",
-    "private-ordering"
+    "private-ordering",
+    "public-private",
+    "law-and-politics",
+    "colonialism",
+    "sovereignty"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "New Left Review 154 (2025), excerpts. Epigraph from Foucault: law 'is born of real battles, victories, massacres and conquests'.\n\n**Anderson's critique.** 'The Standard of Civilization' (NLR 2023): sovereign equality (Charter art. 2(1)) hides hierarchy. Grotius and Vattel drew a line between Europe and the rest; 'civilization' became 'modernization' and 'development'. Following Schmitt, post-1918 law is 'fundamentally discriminatory' (Versailles reparations). Since 1945 American hegemony: Suez, Vietnam, proxy wars, Belgrade 1999, Iraq 2003. Without enforcement law becomes 'no more than opinion', yet it remains 'a major ideological force'.\n\n**Koskenniemi's reply.** Much is right, but there is 'a certain myopia' common to left critiques. It focuses on a criminal-law-oriented, domestic-analogy conception of public international law (Security Council, ICJ, ICC). That is 'the weak part'. Overlooked is 'the legal infrastructure of global capitalism': 'the laws — public and private, domestic and international — that regulate practically all aspects of social life by distributing rights and duties, powers and vulnerabilities'. The forms of the sovereign state, contract and property spread through empire; they are 'neither weak nor manipulable at will'. Not a system or plan, but since the 1980s the taken-for-granted grammar of 'global governance'. 'Globalization has been an intensely legalistic affair.'\n\n**How law works.** Law operates in contestation as claims about what is legally true. It is in play long before compliance: in defining 'interests', who decides, which assets count, whether a relationship is public or private, domestic or international, economic or political. 'Law intrudes everywhere. It does not merely limit and constrain; … it empowers and enables.' 'Property' and 'sovereignty' are 'space-filling' words, each with Hohfeldian correlatives (liability, disability, no-right). Hence 'there is no such thing as \"deregulation\"': removing a duty empowers someone. Kennedy: capital, labour, credit, money and power 'are creatures of law. Law not only regulates these things, it creates them.'\n\n**Lawyers.** Legality is a creation of legal discourse; lawyers are its 'native speakers'. Look at US law firms, arbitration, the World Bank's lawyers, EU law, Pistor's 'code of capital'. Law's power 'lies in its connotation of objective neutrality': the history of violence is forgotten. The 'politics of law' is the distance between a claim and its consolidation as 'true'; bias emerges as 'some claims begin to win systematically, others to lose'.",
+   "arguments": [
+    "Agrees: public international law serves hegemony and is weakly enforced.",
+    "But the left critique targets the weak part and misses the legal infrastructure of capitalism.",
+    "Sovereignty, property and contract distribute power globally and are robust.",
+    "Law empowers as well as constrains; 'deregulation' is re-regulation.",
+    "Lawyers and law's aura of neutrality turn claims into systematic wins and losses."
+   ],
+   "source": "",
+   "short": "Koskenniemi — Laws that rule us",
+   "tldr": "Perry Anderson rightly calls public international law an instrument of Western hegemony that is 'neither truthfully international nor genuinely law'. But the left critique targets the *weak* part (UN Charter, ICC, laws of war). It misses the *legal infrastructure of global capitalism*: the public and private, domestic and international rules of sovereignty, property and contract that distribute powers and vulnerabilities everywhere. Law empowers as well as constrains; there is no 'deregulation'. Lawyers are its 'native speakers', and law's power lies in its connotation of neutrality.",
+   "context": "Koskenniemi's political-economy turn, building on [[cohen-property-sovereignty]] (Hohfeld, property as sovereignty), [[danielsen-local-rules]] and [[iglp-gvc]]. Answers the realist dismissal of law in [[goldsmith-mercer]] and [[nyt-putin-ukraine]]. Civilisation/hierarchy connects to [[anghie-imperialism]], [[becker-lorca-mestizo]] and [[borrell-statement]]. Contrast [[roepke-1955]], who wanted the economy outside politics. Expertise: [[lang-regimes]], [[kennedy-legal-expertise-war]].",
+   "conceptNotes": {
+    "political-economy": "legal infrastructure of global capitalism",
+    "public-private": "public and private law together distribute power",
+    "law-and-politics": "politics of law: claims hardening into truth",
+    "colonialism": "civilisation, modernisation, development",
+    "sovereignty": "sovereignty as space-filling legal claim"
+   }
   },
   {
    "id": "chachko-heath",
@@ -3773,11 +3841,32 @@
    "cite": "116 AJIL Unbound 135",
    "concepts": [
     "countermeasures",
-    "political-economy"
+    "political-economy",
+    "fragmentation",
+    "jurisdiction",
+    "global-administrative-law",
+    "jus-ad-bellum"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "AJIL Unbound symposium on Ukraine (2022).\n\n**Six categories.** (1) Blocking sanctions on Putin and elites, possible secondary sanctions, an asset-hunting taskforce. (2) Finance: major banks, SWIFT removals, a ban on transactions with the Central Bank (freezing reserves; risk of default). (3) Energy: initial exemptions, then US bans on oil, LNG and coal; the EU hesitant until atrocities emerged. (4) Trade: export controls; G7 revocation of MFN (erasing WTO benefits); Nord Stream 2 suspended. (5) Transport: airspace bans; leased planes repossessed, and Russia seizing them. (6) A private exodus (BP, Apple, McDonald's, Visa), partly 'overcompliance'.\n\n**Sanctions unrestrained.** Sanctions are a 'pressure valve' of the post-1945 order, a non-violent tool against states and individuals. This breaks with the old law of neutrality, under which one-sided trade restraint was hostile (Mulder, *The Economic Weapon*). Legal constraints are weak. Nicaragua (1986): even a comprehensive embargo doesn't breach custom (though it may breach a treaty). Non-intervention and jurisdictional limits are 'at best a minimal constraint'. If no primary norm is breached, the countermeasures rules (notice, proportionality) don't apply. US Supreme Court decisions in the 1980s freed the president to wage economic war by declaring emergencies. Trade and investment treaties contain security exceptions (GATT XXI). But review of *how* sanctions are imposed is growing: WTO *Russia — Traffic in Transit*, CJEU *Kadi*, TikTok v. Trump, UN due process; a trend toward reason-giving, non-arbitrariness, good faith.\n\n**Ukraine as a case for the status quo?** A swift, coordinated response enforcing the norm against aggression. But long-term pain for ordinary Russians (as in Iran, Iraq, Cuba), costs for the Global South on the sidelines, charges of selectivity, and Western impatience with decoupling.\n\n**A regime complex.** A loose, overlapping set of mostly domestic institutions with potential for normative conflict. Options: procedural review (taming at the margins); a hard line between military security and ordinary policy; tightening domestic limits (Koh's 'national security charter'; Congress has mostly escalated); transformative uses: financial transparency (Pandora Papers: Western elites hide assets the same way), a green transition, state-led stabilisation (Mulder).\n\n**Conclusion.** Sceptical of 'any kind of grand regulatory moment'. Narratives will be 'refracted through the overlapping and competing institutions that purport to govern economic warfare'. Hope for 'an ethic of responsibility around sanctions'.",
+   "arguments": [
+    "Unprecedented sanctions across finance, energy, trade, transport and private exit.",
+    "Few legal limits on economic warfare (Nicaragua; security exceptions; emergency powers).",
+    "Growing procedural review (due process) but fragmented.",
+    "Sanctions law as a 'regime complex' of mostly domestic institutions.",
+    "Costs to third parties and the Global South; selectivity."
+   ],
+   "source": "",
+   "short": "Chachko & Heath — Sanctions",
+   "tldr": "Russia's invasion of Ukraine 'opened the sanctions floodgates' in six categories: elites, finance (central bank, SWIFT), energy, trade (export controls, loss of MFN), transport, and a private exodus. It shows how *unconstrained* economic warfare is: Nicaragua says embargoes don't breach custom, security exceptions cover the rest, and the US president acts by declaring emergencies. Review is growing (Kadi, WTO, due process) but the 'regime complex' is fragmented. Reform proposals abound; expect no grand regulatory moment, only perhaps an 'ethic of responsibility'.",
+   "context": "Fragmentation in action: one policy refracted through many regimes ([[ilc-fragmentation-phenomenon]], [[fischer-lescano-teubner]]). Countermeasures doctrine: [[ilc-arsiwa]], [[damrosch-countermeasures]], [[air-services]]. Nicaragua: [[nicaragua-1984]]. Due process review links to [[kingsbury-gal]]. Corporate overcompliance shows [[danielsen-corporate]]'s corporate governance. Ukraine context: [[nyt-putin-ukraine]], [[nyt-musk]], [[kristian-ukraine]]. Economic war vs war: Topic 21–22.",
+   "conceptNotes": {
+    "countermeasures": "sanctions outside countermeasure rules",
+    "fragmentation": "sanctions as a regime complex",
+    "jurisdiction": "secondary sanctions and extraterritoriality",
+    "political-economy": "economic warfare",
+    "global-administrative-law": "due process review of sanctions",
+    "jus-ad-bellum": "economic force vs war"
+   }
   },
   {
    "id": "azikiwe-liberia",
@@ -4519,24 +4608,6 @@
    "note": "A humanitarian project and its dark sides."
   },
   {
-   "from": "fischer-lescano-teubner",
-   "to": "ilc-fragmentation-phenomenon",
-   "type": "critiques",
-   "note": "No unity is possible, only collision management."
-  },
-  {
-   "from": "lang-regimes",
-   "to": "fischer-lescano-teubner",
-   "type": "complicates",
-   "note": "Regimes are made by professional knowledge, not given by social sectors."
-  },
-  {
-   "from": "ilc-fragmentation-phenomenon",
-   "to": "ilc-fragmentation-jus-cogens",
-   "type": "extends",
-   "note": "Same ILC report: hierarchy (Topic 3) and fragmentation (Topic 18)."
-  },
-  {
    "from": "koskenniemi-laws-rule-us",
    "to": "koskenniemi-impunity",
    "type": "extends",
@@ -4985,12 +5056,6 @@
    "to": "charlesworth-chinkin-jus-cogens",
    "type": "contrasts",
    "note": "Due diligence extended to terrorism against aliens, but (per Charlesworth & Chinkin) not to endemic private violence against women."
-  },
-  {
-   "from": "chachko-heath",
-   "to": "ilc-arsiwa",
-   "type": "complicates",
-   "note": "Sanctions on Russia strain the line between countermeasures, retorsion and economic warfare."
   },
   {
    "from": "anghie-imperialism",
@@ -5513,6 +5578,84 @@
    "to": "satariano-tech",
    "type": "extends",
    "note": "From tech platforms as diplomatic counterparts to a tech owner as geopolitical actor."
+  },
+  {
+   "from": "fischer-lescano-teubner",
+   "to": "ilc-fragmentation-phenomenon",
+   "type": "critiques",
+   "note": "Hierarchy-seeking and VCLT techniques as 'legal reductionism'; fragmentation is social, not doctrinal."
+  },
+  {
+   "from": "ilc-fragmentation-phenomenon",
+   "to": "ilc-fragmentation-jus-cogens",
+   "type": "builds-on",
+   "note": "Same Study Group report: framing chapter and its hierarchy chapter."
+  },
+  {
+   "from": "lang-regimes",
+   "to": "fischer-lescano-teubner",
+   "type": "complicates",
+   "note": "Regimes are not given rationalities: their biases are constructed and contested by professionals."
+  },
+  {
+   "from": "lang-regimes",
+   "to": "bello-wto",
+   "type": "critiques",
+   "note": "What counts as a trade barrier is constructed, not given by a neutral mandate."
+  },
+  {
+   "from": "lang-regimes",
+   "to": "kennedy-hr-problem",
+   "type": "applies",
+   "note": "Foregrounding and backgrounding, now in trade's 'principles of vision'."
+  },
+  {
+   "from": "koskenniemi-laws-rule-us",
+   "to": "cohen-property-sovereignty",
+   "type": "builds-on",
+   "note": "Property and sovereignty as space-filling legal powers (Hohfeld)."
+  },
+  {
+   "from": "koskenniemi-laws-rule-us",
+   "to": "goldsmith-mercer",
+   "type": "critiques",
+   "note": "International law is not weak where it matters: the infrastructure of capitalism is robust."
+  },
+  {
+   "from": "koskenniemi-laws-rule-us",
+   "to": "danielsen-local-rules",
+   "type": "builds-on",
+   "note": "Local and private rules as the real governance of the global economy."
+  },
+  {
+   "from": "koskenniemi-laws-rule-us",
+   "to": "roepke-1955",
+   "type": "critiques",
+   "note": "No depoliticised economy: 'deregulation' is re-regulation that empowers some."
+  },
+  {
+   "from": "chachko-heath",
+   "to": "nicaragua-1984",
+   "type": "applies",
+   "note": "Embargo does not breach customary law: the baseline of unconstrained economic warfare."
+  },
+  {
+   "from": "chachko-heath",
+   "to": "ilc-arsiwa",
+   "type": "complicates",
+   "note": "Sanctions avoid countermeasure limits by not breaching a primary norm."
+  },
+  {
+   "from": "chachko-heath",
+   "to": "fischer-lescano-teubner",
+   "type": "illustrates",
+   "note": "Sanctions governed by a fragmented 'regime complex' of domestic and international fora."
+  },
+  {
+   "from": "chachko-heath",
+   "to": "kingsbury-gal",
+   "type": "applies",
+   "note": "Due process review of sanctions (Kadi, WTO) as global administrative law."
   }
  ],
  "themes": [
@@ -5609,7 +5752,8 @@
     "salimoff",
     "nesiah-slavery-afterlives",
     "falk-environment",
-    "danielsen-local-rules"
+    "danielsen-local-rules",
+    "lang-regimes"
    ],
    "concepts": [
     "political-economy",
@@ -5653,7 +5797,8 @@
     "alvarez-new-il",
     "kennedy-spring-break",
     "kingsbury-gal",
-    "miller-parity"
+    "miller-parity",
+    "koskenniemi-laws-rule-us"
    ],
    "concepts": [
     "people-with-projects",
@@ -5705,7 +5850,9 @@
     "koh-trump",
     "nyt-musk",
     "satariano-tech",
-    "danielsen-corporate"
+    "danielsen-corporate",
+    "ilc-fragmentation-phenomenon",
+    "chachko-heath"
    ],
    "concepts": [
     "political-questions",
