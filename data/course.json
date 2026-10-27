@@ -2478,15 +2478,24 @@
    "year": 1832,
    "title": "The Province of Jurisprudence Determined",
    "cite": "(excerpts)",
-   "tldr": "Law is the command of a sovereign backed by a sanction. Since no sovereign stands above states, international law is only 'positive morality'.",
-   "draft": true,
+   "tldr": "Laws 'properly so called' are commands from a determinate sovereign to subjects, backed by a sanction (an 'eventual evil'). So the law between nations is not positive law. It is 'law (improperly so called) set by general opinion', enforced only by moral sanctions: fear of provoking general hostility.",
    "concepts": [
     "positivism",
     "law-nonlaw"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Two short passages from *The Province of Jurisprudence Determined* (1832):\n- A law properly so called is a species of *command*: it flows from a determinate source; one party signifies a wish that another act or forbear, and the latter is liable to an evil if the wish is disregarded. A *sanction* is that 'eventual evil annexed to a command'.\n- 'Hence it inevitably follows, that the law obtaining between nations is not positive law: for every positive law is set by a given sovereign to a person or persons in a state of subjection to its author.' The law between nations is set by general opinion; its duties are enforced by *moral* sanctions, the fear of nations or sovereigns of 'provoking general hostility'.",
+   "arguments": [
+    "Law = sovereign command + sanction.",
+    "No sovereign above states, so international law is not law but 'positive morality'.",
+    "Compliance rests on opinion and fear of hostility."
+   ],
+   "source": "",
+   "short": "Austin",
+   "context": "The sceptical baseline of Topic 12's 'Normativity Revisited'. [[kelsen-lecture-iii]] answers it directly; Henkin ([[henkin-how-nations-behave]]) and Lawrence (in [[riles-aspiration-control]]) also define themselves against it. The casebook history ([[damrosch-intro]]) previews it.",
+   "conceptNotes": {
+    "positivism": "command theory of law",
+    "law-nonlaw": "international law as 'positive morality'"
+   }
   },
   {
    "id": "kelsen-lecture-iii",
@@ -2496,15 +2505,30 @@
    "year": 1942,
    "title": "Lecture III: International Law and the State",
    "cite": "Law and Peace in International Relations, 56 (excerpts)",
-   "tldr": "International law *is* law: it has sanctions, applied in a decentralised way (reprisals, war). Monism: national and international law form one system.",
-   "draft": true,
+   "tldr": "International law *can* be regarded as true law: it is a coercive order that reserves force to the community, permitting it only as a sanction against a delict (reprisals, just war). It is decentralised like primitive law, a difference of degree, not of kind. The 'state' behind the law is just the personified legal order; 'sovereignty' is a value choice about which order is highest.",
    "concepts": [
     "positivism",
-    "law-nonlaw"
+    "law-nonlaw",
+    "sovereignty",
+    "countermeasures"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Lecture III of *Law and Peace in International Relations* (1942).\n\n**1. Monopoly of force.** International law is 'possible, though not necessary' to regard as true law. It orders states' conduct so that forcible interference in another's sphere is forbidden except as a *reaction* to a violation, so it is either a delict or a sanction. A state resorting to reprisals or just war acts as an *organ* of the international community. Force is monopolised by the community even without centralisation (self-help authorised by the order).\n\n**2. Pre-statal and super-statal law.** Primitive law is customary and decentralised in creation, application and execution (self-help). Centralising enforcement (organs, courts) turns a community into a *state*: juristically, 'the state is nothing but a centralized legal order'. International law, like primitive law, is decentralised. That is a difference of *degree*, not a reason to deny it the name 'law'.\n\n**4. Power and law.** A norm is valid only if its order is by and large *effective*. Why people obey (God, disapproval, fear) is a sociological question. 'Power' is not prisons, guns or bank accounts but the *efficacy* of an order regulating conduct; moral and religious orders often have more power than law.\n\n**5. Dualism of state and law.** The state is not a mass of individuals but an *order*. To say the state 'creates' or 'sustains' law is a 'verbal doubling', like animism (dryads in trees) or God behind nature: 'the state, as a person, is only the anthropomorphic personification of the unity of a legal order', 'a typical product of political theology'.\n\n**8. Sovereignty.** Whether a state is sovereign is not a fact about nature but a question of which normative order one conceives as highest: a value judgement. In physical reality there is no sovereignty.\n\n**Conclusion.** International law threatens coercion and has some efficacy, so 'behind' it stands the international legal community just as the state stands behind national law. Dissolve the personifications and 'it is no longer possible to deny to international law the character of law on the ground that back of international law there is no international state.'",
+   "arguments": [
+    "Law = coercive order monopolising force; decentralised sanctions still count.",
+    "International law is primitive (decentralised) law, different only in degree.",
+    "Validity presupposes minimum efficacy; 'power' is just efficacy.",
+    "The state is the legal order personified; state–law dualism is political theology.",
+    "Sovereignty is a choice about the hierarchy of norms (pointing to monism)."
+   ],
+   "source": "",
+   "short": "Kelsen",
+   "context": "The great positivist answer to [[austin-province]]. The 'primitive law' analogy is also used by Morgenthau (cited critically by [[mcdougal-law-power]]). Compare Topic 9's decentralised self-help ([[ilc-arsiwa]], [[air-services]]) and the 'who decides' thread.",
+   "conceptNotes": {
+    "positivism": "pure theory applied to international law",
+    "law-nonlaw": "international law as true law",
+    "sovereignty": "sovereignty as value choice",
+    "countermeasures": "reprisals as sanctions of the community"
+   }
   },
   {
    "id": "corfu-1949-merits",
@@ -2512,17 +2536,35 @@
    "sub": "Moment 1 – Normativity Revisited",
    "author": "ICJ",
    "year": 1949,
-   "title": "Corfu Channel Case (merits), revisited",
+   "title": "Corfu Channel Case (UK v. Albania): full individual opinion of Judge Álvarez",
    "cite": "1949 I.C.J. 4, 22 (excerpts)",
-   "tldr": "Reread for its grounds: Albania's duty to warn rests on 'elementary considerations of humanity', a source of obligation outside treaties.",
-   "draft": true,
+   "tldr": "The full version of Judge Álvarez's Corfu opinion. After 1939 a 'new international law' of *social interdependence* exists. The ICJ should not only apply existing law but modify obsolete rules and create new ones (the principle behind rebus sic stantibus). Law and politics interpenetrate; sovereignty is a 'social function'; and misuse of rights (*abus de droit*) should be condemned internationally.",
    "concepts": [
     "general-principles",
-    "state-responsibility"
+    "state-responsibility",
+    "sovereignty",
+    "judicial-rulemaking",
+    "law-and-politics",
+    "rebus-sic-stantibus",
+    "modernism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "*(The Topic 12 packet contains Álvarez's full individual opinion in Corfu Channel, not the merits judgment; Topic 4 excerpted one paragraph.)*\n\n**Seven issues**: the law the Court must apply; politics, force and public opinion; sovereignty; state responsibility; passage of ships through territorial waters and straits; intervention and violations of sovereignty; misuse of right. All belong to the 'new international law'.\n\n**The new international law.** Founded on social interdependence; 'the realization of social justice'; nearer to equity without merging with it. It is not *lex ferenda* but has real foundations (the Charter). It often collides with the old law.\n\n**Three functions of the Court**: (a) elucidate existing law; (b) *modify* in-force rules that have become out of date; (c) *create* new precepts for old and new problems. Basis: Charter art. 13 and GA Res. 171 (1947). Examples: a UN naval squadron must pass freely through any territorial waters regardless of national law; and the Court's power to remodel law is just *rebus sic stantibus* applied across the whole of international law, a principle of social justice.\n\n**Law and politics.** 'Pure law does not exist': law results from social life and is largely the effect of politics. Seven situations (an unexercised right; a disputed right; a right exercisable in another's territory; conflicting rights; vital interests overriding another's sovereignty; precautionary force; self-defence). Under art. 2(4) and 51, states must turn to the Security Council or the Court instead of force (except the first and fifth situations). Force can still produce legal effects: conquests, colonial independence, recognised secessions.\n\n**Sovereignty.** The whole body of rights a state has in its territory and relations, exercised differently in seven spheres (land, sea, rivers, lakes, air, polar, floating islands). Not obsolete, being rooted in national psychology, but no longer absolute: 'an international social function of a psychological character'.\n\n**Misuse of right.** Transpose the domestic condemnation of abuse of rights; unlimited exercise of rights under absolute sovereignty causes unrest and wars. The penalty might be an apology, a rebuke or compensation; extenuating circumstances (the general advantage) count.",
+   "arguments": [
+    "A post-war 'new international law' of interdependence and social justice.",
+    "The Court may develop and remodel law, not just apply it.",
+    "Law and politics are mutually permeating, not opposed.",
+    "Sovereignty is relative; abuse of rights should be sanctioned."
+   ],
+   "source": "",
+   "short": "Álvarez (full opinion)",
+   "context": "Interwar modernism ([[alvarez-new-il]]) inside the post-1945 Court, 'Normativity Revisited' from the solidarist side, against both [[austin-province]] and the [[lotus]] freedom principle. Compare the ILC's caution about judicial law-making ([[ilc-custom-2018]]) and McDougal's policy-oriented view ([[mcdougal-law-power]]).",
+   "conceptNotes": {
+    "sovereignty": "sovereignty as social function",
+    "judicial-rulemaking": "Court's power to modify and create law",
+    "law-and-politics": "pure law does not exist",
+    "rebus-sic-stantibus": "generalised as principle of legal change",
+    "modernism": "new international law"
+   }
   },
   {
    "id": "mcdougal-law-power",
@@ -2532,15 +2574,28 @@
    "year": 1952,
    "title": "Law and Power",
    "cite": "46 AJIL 102",
-   "tldr": "Rejects rules-as-formalism: law is a process of authoritative decision serving values (human dignity, and in practice the free world's interests). This is the New Haven school.",
-   "draft": true,
+   "tldr": "Against the 'realists' Morgenthau and Kennan, who attack a 'legalistic-moralistic' foreign policy. They misconceive both power (not just naked force) and law (not just frozen doctrine or courts). Law is a continuous process of *authoritative decision* within the world power process. The real choice is not law vs power but *effective vs ineffective law*: organised community coercion behind freedom, peace and abundance.",
    "concepts": [
     "policy-science",
-    "law-and-politics"
+    "law-and-politics",
+    "people-with-projects"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A 1952 AJIL editorial.\n\n**Targets.** Morgenthau, *In Defense of the National Interest*: legalism, utopianism, sentimentalism and isolationism as errors; 'moral right and legal title are as nothing in the face of superior power'. Kennan, *American Diplomacy*: the 'legalistic-moralistic approach' runs 'like a red skein' through US policy (arbitration treaties, the Hague, the League, the UN, Kellogg, world government). It seeks to suppress chaotic aspirations by legal rules; it absolutises sovereignty ('one government, one vote'); law is too rigid, so leave things to old-fashioned diplomacy and confine law and morality to 'the unobtrusive, almost feminine, function of the gentle civilizer of national self-interest'; it ignores subversion and ideological attack; and moral indignation leads to total war and unconditional surrender.\n\n**McDougal's reply.**\n- *Power* is control over people through threats of deprivation or promises of indulgence (Lasswell). Participants are not just states but international organisations, parties, pressure groups and private associations. Bases of power include authority, wealth, enlightenment, respect, skill, rectitude and loyalty; naked force is 'the register' of control over these. Practices include agreements, conferences, resolutions, codification, custom and judicial opinions, not just diplomacy and war. Interdependence makes a 'national interest' apart from most peoples' interests 'the sheerest of illusions'.\n- *Law* is not merely rules or past policy crystallisations. Decision-making looks forward and redefines doctrine as facts change. 'Formal authority without effective control is illusion; effective control without formal authority may be naked force.' A realistic conception conjoins authority and control and includes the practices of formal and effective decision-makers. A *democratic* conception adds peaceful change, wide sharing of values, review procedures, representation, and balance of power.\n- Domestically people balance power across branches and levels; internationally the UN, agencies and regional organisations begin to organise community coercion behind 'freedom, peace and abundance'. The choice is between these and 'world anarchy and violence'.\n- Morality is not abstraction but among 'the most dependable bases of power'. How can states alone be immune from evaluation? Without law and morality, by what criteria would Kennan settle disputes 'on their merits'?\n- Ends with Grotius: no state is so powerful that it may not need others.",
+   "arguments": [
+    "Realists work with impoverished concepts of both power and law.",
+    "Law = authoritative and controlling decision, a process within the power process.",
+    "Morality and law are bases of power, not its opposite.",
+    "Interdependence dissolves 'national interest' as a separate category.",
+    "Choice: effective (organised) law vs ineffective law, for free-world values."
+   ],
+   "source": "",
+   "short": "McDougal — Law and Power",
+   "context": "The founding statement of the New Haven school, against the realism of the early Cold War: 'Managing an Empire'. Continues [[mcdougal-custom]]. [[knop-feminism-sovereignty]] critiques it; Henkin returns to rules ([[henkin-how-nations-behave]]). The Kennan phrase 'gentle civilizer' later titled Koskenniemi's history of the field.",
+   "conceptNotes": {
+    "policy-science": "New Haven manifesto",
+    "law-and-politics": "law within the world power process",
+    "people-with-projects": "law in the service of free-world values"
+   }
   },
   {
    "id": "schachter-hammarskjold",
@@ -2552,11 +2607,27 @@
    "cite": "56 AJIL 1",
    "concepts": [
     "law-and-politics",
-    "institutions"
+    "institutions",
+    "people-with-projects",
+    "colonialism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "A 1962 AJIL tribute by Schachter, who worked closely with him.\n\n**1. Law as source and basis of policy.** No sharp law/policy split (unlike positivism). Legal norms are one factor in decision, but binding and to be given priority. Charter principles proved concrete enough to resolve controversies; they embody values of most of mankind, 'a projection into the international arena … of purposes and principles already accepted as being of national validity'.\n\n**2. Principles and flexibility.** His mind suited the interplay of norm and fact; he was impartial through principled behaviour, yet saw himself not as a judge but as a 'political technician' in crises needing ad hoc solutions. UNEF (Gaza) principles were distilled into guidelines and applied to the **Congo**: non-intervention in internal conflicts, exclusion of major powers from the force, international status, UN choice of troops, good-faith interpretation. Principles are stated as *polar opposites* (human rights vs non-intervention; equality vs great-power responsibility) to be weighed. (Schachter notes McDougal uses the same polarity.)\n\n**3. Law and diplomacy.** A legal mandate (Security Council or Assembly) gives the conciliator *locus standi*, removing invidiousness. He built common ground on standards with a 'legal quality', implying impartiality and universality.\n\n**4. Law, power and action.** Law grows 'organically', not as an 'ideal pattern'. He worked within bipolar power, seeking common interests (atomic energy, outer space, development), and acted in the 'power vacuums' of decolonising areas to forestall bloc intervention through aid, administration, training and even force (the Congo). This 'executive action' is part of the community's enforcement machinery and creates new standards of permissible interference.",
+   "arguments": [
+    "Law and policy fused: principles as authoritative goals.",
+    "Flexible, polar application of principles to crises.",
+    "Legal mandates as diplomatic resources.",
+    "UN 'executive action' in decolonising states as new law in practice."
+   ],
+   "source": "",
+   "short": "Schachter — Hammarskjöld",
+   "tldr": "Hammarskjöld (UN Secretary-General, died 1961) saw law not as technical rules opposed to politics but as the authoritative expression of shared goals. He applied Charter principles flexibly ('more art than engineering'), used legal mandates as diplomatic locus standi, and treated 'executive action' (UNEF, the Congo) as an organic growth of law within the limits of power.",
+   "context": "The Secretary-General as a hero of the 1950–89 row of [[kennedy-chart]] ('manager/statesman'). Read with Kennedy's own SG essay ([[kennedy-sg]], Topic 16), [[mcdougal-law-power]] (shared polarity method) and [[anghie-imperialism]] (the 'power vacuums' of the Third World as a new civilising terrain).",
+   "conceptNotes": {
+    "law-and-politics": "law as policy in UN practice",
+    "institutions": "the Secretary-General's role",
+    "people-with-projects": "the international civil servant",
+    "colonialism": "Congo, 'power vacuums'"
+   }
   },
   {
    "id": "jessup-transnational",
@@ -2566,16 +2637,28 @@
    "year": 1956,
    "title": "Transnational Law",
    "cite": "1 (excerpts)",
-   "tldr": "'Transnational law': all law that regulates actions or events crossing national borders, public and private, beyond the old categories.",
-   "draft": true,
+   "tldr": "'International' wrongly suggests only relations between states. Jessup proposes 'transnational law': 'all law which regulates actions or events that transcend national frontiers', public and private international law and rules fitting no standard category. Its actors are individuals, corporations, states, organisations and NGOs.",
    "concepts": [
     "functionalism",
     "transnational-legal-process",
-    "public-private"
+    "public-private",
+    "private-ordering"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Opening of the 1956 Storrs Lectures.\n- The subject is the law of a world community from the individual up to the 'family of nations'. The national state is central but not the only group.\n- 'International' and 'international law' are misleading. Scelle's *droit des gens* (law of individuals) has no English equivalent; Ross tried 'interlegal law'.\n- **Definition**: 'transnational law' includes 'all law which regulates actions or events that transcend national frontiers', both public and private international law plus rules outside the standard categories. (McDougal used 'transnational' for groups, not for law.)\n- **Examples**: a traveller (even stateless) whose passport is challenged at a frontier; a US oil company in Venezuela; a New York lawyer hiring French counsel for an estate; US–Soviet talks on Germany; UNICEF shipping milk; a UN mediator in Palestine; the ICC (Chamber of Commerce) at an ECOSOC conference. There are 140+ intergovernmental organisations and 1,100+ NGOs.\n- Rules may conflict; choice of law may be between national laws (conflict of laws, by a national court) or between national law and public international law (by international tribunals or non-judicial decision-makers).",
+   "arguments": [
+    "Replace 'international' with a broader transnational frame.",
+    "Public/private and national/international lines are artificial.",
+    "Many actors and many decision-makers."
+   ],
+   "source": "",
+   "short": "Jessup — Transnational Law",
+   "context": "Grows out of Jessup's 1928 functionalism ([[jessup-functional]]). Koh builds 'transnational legal process' on it ([[koh-tlp]], Topic 13). Its public/private blending links to [[cohen-property-sovereignty]] and Topic 17's private ordering.",
+   "conceptNotes": {
+    "transnational-legal-process": "origin of 'transnational law'",
+    "public-private": "public and private international law merged",
+    "functionalism": "problem-based approach",
+    "private-ordering": "corporations and NGOs as actors"
+   }
   },
   {
    "id": "wedgwood-unilateral",
@@ -2587,11 +2670,25 @@
    "cite": "Multilateralism and U.S. Foreign Policy, 167",
    "concepts": [
     "law-and-politics",
-    "jus-ad-bellum"
+    "jus-ad-bellum",
+    "institutions"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From *Multilateralism and U.S. Foreign Policy* (2001).\n- **Web of institutions**: environment, human rights, children, trade, IP, the spectrum, capital markets (informal discipline); NATO, OSCE, OAS; ad hoc groups (Contadora, 'contact groups', 'Friends of the Secretary-General'). Informality can help (COCOM, the Australia Group, the nuclear suppliers group, KEDO).\n- **Why multilateralism**: coordination; binding potential spoilers; economies of scale; preventing free-riding; legitimacy (values not one country's interest); credibility of regimes.\n- **Its problems**: slowness, generality masking differences, rivalries, monitoring and defection, unstable coalitions, secrecy, uneven bureaucracies, cultural misunderstanding, interoperability.\n- **Force multilaterally**: joint commitments restrain arms races (NATO and Germany; US troops in Korea and Japan; 'virtual' nuclear states). Security Council or art. 51 authorisation gives legitimacy, mobilises democratic support and basing, and can police conduct (Desert Storm stopped short of Baghdad). But the UN never got art. 43 forces; it is a 'legal umbrella and political sounding board', authorising member states (Korea 1950, Gulf 1991 under US command). Alliances also manage domestic politics (Res. 678 and Congress).\n- **Conclusion**: Security Council delays push the US to 'substitute' multilateralism (regional organisations, coalitions), plus consultation and public argument, which 'may cause sleepless nights for some international lawyers'. The US won't let multilateral machinery govern its force, because deterrence requires adversaries to know a response will come; otherwise blocking mechanisms could cause conflict. 'Creative ambiguity' continues.",
+   "arguments": [
+    "Multilateralism is valuable but instrumentally so.",
+    "UN collective security never materialised as designed.",
+    "'Substitute multilateralism' as legitimacy without Council authorisation.",
+    "Unilateral options preserve deterrence."
+   ],
+   "source": "",
+   "short": "Wedgwood — unilateralism",
+   "tldr": "The US built a dense web of multilateral institutions, which coordinate, share costs, prevent free-riding and confer legitimacy. But multilateral bodies are slow, vague, hard to monitor, and the UN never worked as designed (no art. 43 forces). On force, the US often uses 'substitute multilateralism' (regional bodies, ad hoc coalitions) and keeps unilateral options, because deterrence needs credibility that a blocking veto would undermine: 'creative ambiguity'.",
+   "context": "A Yale/US-policy voice in 'Managing an Empire'. It sets up [[slaughter-around-un]] (2003), contrasts with [[nicaragua-1984]] (judicial control of force) and connects to Topic 22.",
+   "conceptNotes": {
+    "law-and-politics": "multilateral vs unilateral force",
+    "jus-ad-bellum": "Security Council authorisation, coalitions",
+    "institutions": "UN collective security in practice"
+   }
   },
   {
    "id": "slaughter-around-un",
@@ -2601,15 +2698,27 @@
    "year": 2003,
    "title": "Good Reasons for Going Around the U.N.",
    "cite": "The New York Times, Mar. 18, 2003",
-   "tldr": "On the eve of the Iraq war: acting without Security Council authorisation could be legitimate even if not strictly legal.",
-   "draft": true,
+   "tldr": "On the eve of the 2003 Iraq invasion: giving up on the Security Council is 'illegal but legitimate', like Kosovo 1999. UN approval may come after the fact if WMD are found or Iraqis welcome the intervention and the UN is brought back to rebuild. What matters is that all sides still treat UN approval as necessary; the rules may have to evolve so that what is legitimate is also legal.",
    "concepts": [
     "jus-ad-bellum",
-    "law-and-politics"
+    "law-and-politics",
+    "institutions"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "NYT op-ed, 18 March 2003.\n- **Kosovo precedent**: in 1999 NATO bypassed an expected Russian veto; the Independent International Commission found the intervention 'formally illegal' but 'legitimate'.\n- **Iraq**: UN approval could come *after* an invasion if WMD are found, or even without them if Iraqis welcome the coalition and the US returns to the UN to rebuild. The US will claim authorisation under Res. 1441; most international lawyers will reject that; insisting on formal legality 'may be counterproductive'.\n- Neither side can command a veto-free majority; both continue to claim the better argument. Importantly, everyone still treats UN approval as necessary (compare the Cold War Council sidelined, or a US invasion without any UN reference).\n- The UN constrains decision-making but 'cannot be a straitjacket' on self-defence or vital security interests. Its founders built a political as well as a legal institution, wary of the 'best' being the 'enemy of the good'.\n- An 'unruly process of pushing and shoving' redefines the UN's role without amendment (East Timor showed consensus is possible). 'The rules may have to evolve, so that what is legitimate is also legal.'",
+   "arguments": [
+    "'Illegal but legitimate' as a category.",
+    "Legitimacy can be retroactive and outcome-based.",
+    "UN centrality preserved as a reference point even when bypassed.",
+    "Practice changes the rules without formal amendment."
+   ],
+   "source": "",
+   "short": "Slaughter — around the UN",
+   "context": "The liberal-internationalist case for flexible legality. Compare [[wedgwood-unilateral]] (substitute multilateralism), [[koskenniemi-impunity]] (law and politics), Krever's warning about legalism ([[krever-scurrying]], Iraq 2003), and Topic 22 ([[kennedy-legal-expertise-war]]).",
+   "conceptNotes": {
+    "jus-ad-bellum": "Iraq, Kosovo, Res. 1441",
+    "law-and-politics": "legality vs legitimacy",
+    "institutions": "UN as political institution"
+   }
   },
   {
    "id": "henkin-how-nations-behave",
@@ -2619,15 +2728,27 @@
    "year": 1980,
    "title": "How Nations Behave: Law and Foreign Policy",
    "cite": "25 (excerpts)",
-   "tldr": "\"Almost all nations observe almost all principles of international law and almost all of their obligations almost all of the time.\" International law works mostly through routine compliance, not enforcement.",
-   "draft": true,
+   "tldr": "To many observers international law seems voluntary and hortatory, yielding to national interest. Lawyers answer that the cup is half full: law is made and grows, there is a Court, arbitration, national courts and UN organs, and horizontal enforcement. Above all, critics ask the wrong questions. What matters is whether law is *observed* and shapes behaviour, and it largely is.",
    "concepts": [
     "compliance",
-    "law-and-politics"
+    "law-and-politics",
+    "law-nonlaw",
+    "positivism"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From *How Nations Behave* (2nd ed. 1979), pp. 25–26.\n- **The sceptic's view**: governments seem free to agree to new law, to accept others' views, and to comply or not. International law is 'voluntary and only hortatory' and must yield to national interest (security, power, prestige). Diplomats think it unrealistic to build policy on it and are impatient with their lawyers.\n- **Lawyers' reply**: admit the limits but deny their implications; reject Austin's definition; law grows even if slowly; the ICJ's few judgments are respected; arbitration fills gaps; national courts develop the law; Security Council and General Assembly actions interpret and develop law and deter; there is 'horizontal enforcement' by other nations' reactions.\n- **The right question**: not whether there are legislative, judicial and executive branches like a domestic system, but 'whether international law is reflected in the policies of nations'. Not whether law is enforced but 'whether law is observed, whether it governs or influences behavior'. 'Nations have accepted important limitations on their sovereignty', observed them, and the result is 'substantial order'.\n- *(The famous line, 'almost all nations observe almost all principles of international law and almost all of their obligations almost all of the time', comes later in the book and is not in this excerpt.)*",
+   "arguments": [
+    "Shift from enforcement to compliance as the test of law.",
+    "Institutional gaps are partly filled by other mechanisms.",
+    "Observance, not structure, makes international law real."
+   ],
+   "source": "",
+   "short": "Henkin — How Nations Behave",
+   "context": "'Back to norms and values' after the policy-science moment ([[mcdougal-law-power]]); answers [[austin-province]] differently from [[kelsen-lecture-iii]] (behaviour, not sanction). Koh builds on it ([[koh-tlp]]).",
+   "conceptNotes": {
+    "compliance": "observance as the measure of law",
+    "law-nonlaw": "voluntary/hortatory critique answered",
+    "positivism": "rejection of Austin"
+   }
   },
   {
    "id": "henkin-interstate",
@@ -2639,11 +2760,24 @@
    "cite": "International Law: Politics and Values, 4 (excerpts)",
    "concepts": [
     "sovereignty",
-    "compliance"
+    "compliance",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "From *International Law: Politics and Values* (1995), Part I.\n- Any legal system reflects its political system; international law reflects an inter-state system.\n- *Law is politics*: the law/politics distinction is 'only a part-truth'. Law is the resultant of political forces, and its influence on behaviour is politically determined. But law isn't depreciated: it 'permeates, supports and maintains' the system and shapes how nations behave; lawyers, courts, publicists and bodies like the Institut and the ALI enrich or impoverish it.\n- Domestic law expresses a domestic society of people (and juristic persons) and serves order, reliable expectations, protection of persons and property, welfare and justice.\n- International law analogously serves order, expectations, protection of 'persons' and values, but its constituency is *states*: an inter-state system.",
+   "arguments": [
+    "Law and politics are intertwined, not opposed.",
+    "International law mirrors a state-centred political system.",
+    "The domestic analogy is useful with caution."
+   ],
+   "source": "",
+   "short": "Henkin — inter-state system",
+   "tldr": "'Law is politics': made by political actors, through political procedures, for political ends. But law also permeates and shapes the political system. International law is the normative expression of an *inter-state* system whose 'persons' are states, not human beings, with purposes (order, reliable expectations, protection, values) analogous to domestic law.",
+   "context": "Mainstream liberal statism in 1995, the counterpoint to Jessup's transnationalism ([[jessup-transnational]]) and Kennedy's critique of the state-centred frame. Compare Álvarez ('pure law does not exist', [[corfu-1949-merits]]) and McDougal ([[mcdougal-law-power]]).",
+   "conceptNotes": {
+    "law-and-politics": "law is politics",
+    "sovereignty": "inter-state system",
+    "compliance": "law shapes behaviour"
+   }
   },
   {
    "id": "koh-tlp",
@@ -3914,28 +4048,10 @@
    "note": "1928 functionalism grows into 1956 'transnational law'."
   },
   {
-   "from": "kelsen-lecture-iii",
-   "to": "austin-province",
-   "type": "responds-to",
-   "note": "Answers Austin: international law has sanctions too, just decentralised."
-  },
-  {
-   "from": "mcdougal-law-power",
-   "to": "kelsen-lecture-iii",
-   "type": "critiques",
-   "note": "Rejects rule-centred formalism for policy and process."
-  },
-  {
    "from": "henkin-how-nations-behave",
    "to": "mcdougal-law-power",
    "type": "contrasts",
    "note": "Back to rules and compliance after policy-science."
-  },
-  {
-   "from": "slaughter-around-un",
-   "to": "wedgwood-unilateral",
-   "type": "builds-on",
-   "note": "Legitimate unilateralism outside the UN."
   },
   {
    "from": "koh-tlp",
@@ -4566,6 +4682,60 @@
    "to": "alvarez-new-il",
    "type": "contrasts",
    "note": "Two critiques of 19th-century international law between the wars: Álvarez's solidarist reconstruction vs Nazi Volk and Grossraum theory."
+  },
+  {
+   "from": "kelsen-lecture-iii",
+   "to": "austin-province",
+   "type": "responds-to",
+   "note": "Kelsen: decentralised sanctions (reprisals, war) make international law a coercive order, so Austin's 'no sovereign, no law' fails."
+  },
+  {
+   "from": "mcdougal-law-power",
+   "to": "kelsen-lecture-iii",
+   "type": "critiques",
+   "note": "McDougal rejects law as norms-and-sanctions for law as authoritative decision within the world power process."
+  },
+  {
+   "from": "henkin-how-nations-behave",
+   "to": "austin-province",
+   "type": "responds-to",
+   "note": "Henkin rejects the Austinian test: ask whether law is observed, not whether it is enforced like domestic law."
+  },
+  {
+   "from": "corfu-1949-merits",
+   "to": "kelsen-lecture-iii",
+   "type": "contrasts",
+   "note": "Álvarez's solidarist 'new international law' and judicial law-making vs Kelsen's pure, positivist account of validity."
+  },
+  {
+   "from": "schachter-hammarskjold",
+   "to": "mcdougal-law-power",
+   "type": "builds-on",
+   "note": "Both treat law and policy as fused; Schachter notes Hammarskjöld's 'polarity' method echoes McDougal's."
+  },
+  {
+   "from": "jessup-transnational",
+   "to": "henkin-interstate",
+   "type": "contrasts",
+   "note": "Transnational law of many actors vs an inter-state system whose 'persons' are states."
+  },
+  {
+   "from": "slaughter-around-un",
+   "to": "wedgwood-unilateral",
+   "type": "builds-on",
+   "note": "From 'substitute multilateralism' to 'illegal but legitimate' (Kosovo, Iraq)."
+  },
+  {
+   "from": "mcdougal-law-power",
+   "to": "kennedy-chart",
+   "type": "illustrates",
+   "note": "Law as policy and world-order building, the 1950–89 row's 'functional problem solving'."
+  },
+  {
+   "from": "schachter-hammarskjold",
+   "to": "kennedy-sg",
+   "type": "builds-on",
+   "note": "Kennedy's later essay on the Secretary-General revisits the leader-vs-clerk model Hammarskjöld embodied."
   }
  ],
  "themes": [
@@ -4603,7 +4773,8 @@
     "austin-province",
     "kelsen-lecture-iii",
     "bello-wto",
-    "burgis-kasthala-gaza"
+    "burgis-kasthala-gaza",
+    "henkin-how-nations-behave"
    ],
    "concepts": [
     "law-nonlaw",
@@ -4738,7 +4909,9 @@
     "air-services",
     "gabcikovo",
     "bolton-icc-2018",
-    "nyt-cyber-iran"
+    "nyt-cyber-iran",
+    "corfu-1949-merits",
+    "slaughter-around-un"
    ],
    "concepts": [
     "political-questions",
