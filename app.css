@@ -150,3 +150,7 @@ svg.focus .nd.hl, svg.focus .e.hl { opacity: 1; }
   .hide-sm { display: none; }
   nav { gap: 2px 10px; }
 }
+
+/* wide tables scroll inside their own box instead of the page */
+main table { display: block; overflow-x: auto; max-width: 100%; font-size: 12.5px; }
+main td, main th { min-width: 9ch; }

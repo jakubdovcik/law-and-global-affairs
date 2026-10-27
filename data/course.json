@@ -2056,9 +2056,18 @@
    "concepts": [
     "state-responsibility"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The casebook chapter opener frames the 'secondary rules': once the primary rules (sources, actors) are breached, what follows? Responsibility, reparation, claims through diplomacy or adjudication, and, as a last resort in a decentralised system, countermeasures not involving force.",
+   "arguments": [
+    "Breach → responsibility → reparation.",
+    "Enforcement is decentralised: claims and self-help."
+   ],
+   "source": "",
+   "short": "D&M — state responsibility",
+   "tldr": "When a state breaches an international obligation by act or omission it incurs 'international responsibility'. If another state is injured, it must make reparation. The injured state may press claims diplomatically or in agreed dispute settlement, and sometimes take non-forcible self-help (countermeasures).",
+   "context": "The 'mobilising' layer of the architecture: how the system is set in motion. Read with [[ilc-arsiwa]] and the countermeasures cases.",
+   "conceptNotes": {
+    "state-responsibility": "basic framework"
+   }
   },
   {
    "id": "ilc-arsiwa",
@@ -2068,15 +2077,27 @@
    "year": 2001,
    "title": "Draft Articles on Responsibility of States for Internationally Wrongful Acts",
    "cite": "(excerpts)",
-   "tldr": "A wrongful act is conduct attributable to a state that breaches an obligation. Consequences: cessation and reparation. Also lists the circumstances that preclude wrongfulness (consent, self-defence, countermeasures, necessity…).",
-   "draft": true,
+   "tldr": "Excerpt: the commentary to Part Three, ch. II, on countermeasures. They are otherwise unlawful acts by an injured state, in response to a wrongful act, to induce cessation and reparation: 'a feature of a decentralized system'. Open to abuse given inequality between states, hence strict conditions. Distinguished from reprisals (now wartime only), retorsion (unfriendly but lawful), 'sanctions', and treaty suspension under VCLT art. 60.",
    "concepts": [
     "state-responsibility",
-    "countermeasures"
+    "countermeasures",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The 2001 ILC Articles on Responsibility of States for Internationally Wrongful Acts: an act attributable to a state that breaches an obligation entails responsibility; consequences are cessation and full reparation; circumstances precluding wrongfulness include consent, self-defence, countermeasures, force majeure, distress and necessity.\n\n**The excerpt: countermeasures commentary.**\n1. Countermeasures are measures 'otherwise contrary to the international obligations of an injured State' towards the responsible state, taken to procure cessation and reparation. They are 'a feature of a decentralized system' to vindicate rights and restore the broken legal relationship.\n2. Recognised by governments and tribunals (art. 22). But 'like other forms of self-help, countermeasures are liable to abuse', exacerbated by 'factual inequalities between States'. Hence conditions and limits to keep them within bounds.\n3. **Terminology**: *reprisals* once covered forcible self-help, now limited to belligerent reprisals in armed conflict. *Countermeasures* are the non-forcible remainder. *Retorsion* is unfriendly but lawful conduct (cutting diplomatic ties, embargoes, ending aid), so outside the articles. *Sanctions* is an imprecise term for collective or organisational measures; the Charter speaks of 'measures' (arts 39, 41, 42).\n4. Distinct from termination or suspension for material breach under VCLT art. 60, which affects the obligations themselves; countermeasures derogate from a *subsisting* treaty.",
+   "arguments": [
+    "Self-help is the system's enforcement mechanism, and its danger.",
+    "Countermeasures are instrumental: aimed at compliance, not punishment.",
+    "Careful lines between countermeasures, retorsion, reprisals, sanctions and treaty suspension.",
+    "Codification tries to discipline power without a central enforcer."
+   ],
+   "source": "",
+   "short": "ILC Articles (ARSIWA)",
+   "context": "The ILC as codifier again ([[ilc-custom-2018]], [[ilc-fragmentation-jus-cogens]]). Applied in [[gabcikovo]] and [[air-services]]; stretched in [[nyt-cyber-iran]] and [[chachko-heath]]. [[charlesworth-chinkin-jus-cogens]] critique its imputability rules.",
+   "conceptNotes": {
+    "state-responsibility": "ILC codification",
+    "countermeasures": "definition and limits",
+    "law-and-politics": "self-help and inequality between states"
+   }
   },
   {
    "id": "damrosch-countermeasures",
@@ -2089,9 +2110,18 @@
    "concepts": [
     "countermeasures"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Casebook framing plus notes on *Gabčíkovo*. Two camps: affirm self-help in a world without central enforcement, vs restrict it to prevent abuse 'especially by strong states against weaker ones', with procedural controls. Notes on ARSIWA art. 51: countermeasures 'must be commensurate with the injury suffered, taking into account the gravity of the internationally wrongful act and the rights in question'. Is proportionality quantitative or qualitative? What did the ICJ apply in Gabčíkovo?",
+   "arguments": [
+    "Countermeasures embody irreconcilable positions on decentralised enforcement.",
+    "Proportionality is the key, and indeterminate, limit."
+   ],
+   "source": "",
+   "short": "D&M — countermeasures",
+   "tldr": "The ILC's countermeasures articles are among its most controversial: a compromise between those who see self-help as necessary without a central authority, and those who want strict limits and dispute settlement to stop strong states abusing weak ones. Proportionality: is it quantitative or qualitative?",
+   "context": "Sets up the two cases ([[gabcikovo]], [[air-services]]) and the question of power asymmetry.",
+   "conceptNotes": {
+    "countermeasures": "controversy and proportionality"
+   }
   },
   {
    "id": "gabcikovo",
@@ -2101,16 +2131,29 @@
    "year": 1997,
    "title": "Gabčíkovo-Nagymaros Project (Hungary v. Slovakia)",
    "cite": "1997 I.C.J. 7 (excerpts)",
-   "tldr": "Hungary's plea of ecological necessity fails. Slovakia's 'Variant C' is a disproportionate countermeasure. The 1977 treaty survives, and both sides must negotiate.",
-   "draft": true,
+   "tldr": "Hungary abandoned works under the 1977 Danube dam treaty; Czechoslovakia responded by diverting the Danube unilaterally ('Variant C'). That was a response to a wrongful act and followed demands for compliance, but it was *not proportionate*: it took control of a shared resource and deprived Hungary of its equitable share, with lasting ecological effects. So it was not a lawful countermeasure.",
    "concepts": [
     "state-responsibility",
     "countermeasures",
-    "rebus-sic-stantibus"
+    "rebus-sic-stantibus",
+    "environment"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "The excerpt covers paras 82–87 (countermeasures).\n- Czechoslovakia committed a wrongful act by putting Variant C into operation. Could it be justified as a countermeasure to Hungary's prior breach?\n- **Conditions**: (1) a response to a prior wrongful act, directed at that state: met, since Hungary's suspension and abandonment were wrongful; (2) a call to comply first: met, with repeated requests; (3) **proportionality**: effects 'commensurate with the injury suffered, taking account of the rights in question'.\n- Citing *River Oder* (PCIJ 1929): community of interest in a river gives 'perfect equality of all riparian States'; strengthened by the 1997 Watercourses Convention.\n- By unilaterally controlling a shared resource and depriving Hungary of its equitable and reasonable share, with continuing ecological effects on the Szigetköz, Czechoslovakia failed proportionality. So no need to decide the further condition that the measure be *reversible* and aimed at inducing compliance.\n- *(Not in excerpt: the Court also rejected Hungary's 'ecological necessity' and its changed-circumstances and impossibility arguments; the treaty survived and the parties had to negotiate.)*",
+   "arguments": [
+    "Countermeasure conditions: prior wrong, prior demand, proportionality (and reversibility).",
+    "Proportionality measured by rights at stake, not just damage.",
+    "Shared resources and equitable use limit self-help.",
+    "Environmental effects enter the calculus."
+   ],
+   "source": "",
+   "short": "Gabčíkovo-Nagymaros",
+   "context": "The ICJ applies the ILC framework ([[ilc-arsiwa]]) and the narrow treaty-exit rules ([[vclt-61-62]]). Contrast the arbitral tolerance of self-help in [[air-services]]. It also previews environmental law (Topic 15).",
+   "conceptNotes": {
+    "countermeasures": "proportionality test applied",
+    "state-responsibility": "wrongful act and its justification",
+    "environment": "shared watercourse, ecological effects",
+    "rebus-sic-stantibus": "treaty survived (not in excerpt)"
+   }
   },
   {
    "id": "air-services",
@@ -2120,14 +2163,27 @@
    "year": 1978,
    "title": "Air Services Agreement Case (France v. United States)",
    "cite": "18 R.I.A.A. 417 (excerpts)",
-   "tldr": "The US could suspend Air France flights to Los Angeles as a proportionate countermeasure to France's breach: self-help in a decentralised system.",
-   "draft": true,
+   "tldr": "France stopped Pan Am's Paris flights after a change of aircraft size in London; the US retaliated by suspending Air France's flights to Los Angeles. The tribunal held this lawful. Countermeasures need rough 'equivalence', judged by both losses and 'positions of principle'. They aren't barred during negotiations, but disappear once a tribunal can act. They should be 'a wager on the wisdom, not on the weakness, of the other Party'.",
    "concepts": [
-    "countermeasures"
+    "countermeasures",
+    "state-responsibility",
+    "political-economy"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "**Facts.** Under the 1946 US–France Air Services Agreement, Pan Am switched to a smaller plane in London on its US–Paris service (a 'change of gauge'). France said this needed its consent and forced Pan Am to stop. The US proposed arbitration and, meanwhile, moved to suspend Air France's long-established Paris–Los Angeles flights. The tribunal held that (1) the change of gauge was lawful, and (2) the US could retaliate.\n\n**On countermeasures:**\n- A state that thinks its rights are violated may, subject to general rules on the use of armed force, 'affirm its rights through counter-measures'.\n- **Proportionality** requires 'some degree of equivalence', judged 'by approximation'. Compare not only airline losses but 'the importance of the questions of principle' (France's general stance on gauge changes in third countries).\n- **During negotiations?** A duty not to aggravate disputes flows from good faith, but neither general law nor the treaty's consultation clauses *prohibit* countermeasures. Their aim is 'to restore equality between the Parties'; the US measures 'restore in a negative way the symmetry of the initial positions'. They risk escalation, so should be used with 'great moderation' and real efforts to settle.\n- **Pending arbitration?** Before a tribunal is seized, negotiations aren't over and countermeasures remain available (which may even make states more willing to accept arbitration). Once a tribunal can act, especially with interim measures, the right to initiate countermeasures disappears to that extent. The US pressed for arbitration, so its action was lawful.",
+   "arguments": [
+    "Proportionality is qualitative: principle counts, not just money.",
+    "Countermeasures restore bargaining symmetry in a decentralised system.",
+    "Institutional dispute settlement displaces self-help, but only once it can actually act.",
+    "Self-help favours states able to hurt the other side."
+   ],
+   "source": "",
+   "short": "Air Services",
+   "context": "An arbitral endorsement of self-help between two powerful states, more permissive than [[gabcikovo]]. Codified in [[ilc-arsiwa]]. Compare later economic coercion: [[sauerbrey-europe]], [[chachko-heath]], and cyber retaliation in [[nyt-cyber-iran]].",
+   "conceptNotes": {
+    "countermeasures": "classic statement of conditions and purpose",
+    "state-responsibility": "self-help pending arbitration",
+    "political-economy": "aviation market access"
+   }
   },
   {
    "id": "lillich-paxman",
@@ -2138,11 +2194,25 @@
    "title": "State Responsibility for Injuries to Aliens Occasioned by Terrorist Activities",
    "cite": "26 Am. U. L. Rev. 717",
    "concepts": [
-    "state-responsibility"
+    "state-responsibility",
+    "nationality",
+    "jus-ad-bellum"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "Written in 1977, against a background of hijackings (Entebbe 1976) and the OPEC ministers' kidnapping (Vienna 1975), when the laws of war seemed inadequate.\n- Traditional rules on injury to aliens offer, by analogy, a 'significant, if … marginal' sanction:\n  1. terrorism by a government, or by groups it funds or is closely tied to, breaches international law;\n  2. states must prevent and suppress armed hostile expeditions and attempts at common crimes against foreign governments;\n  3. a state may be an 'accessory-after-the-fact' if it fails to apprehend and punish, or punishes trivially.\n- The duty to prevent is not absolute: **due diligence**, meaning reasonable measures in the circumstances. It presupposes *means* (no responsibility if protection is impossible), *opportunity* (notice or warning), and *reasonable action*.\n- Failure to extradite or prosecute is not (yet) a basis for a claim absent a treaty, though arguably it should be.\n- Conclusion: responsibility for subsidising, complicity, encouragement or creating opportunity, lack of due diligence, and failure to apprehend or punish.\n- (Casebook note: UN Security Council sanctions on Libya over Lockerbie and UTA 772.)",
+   "arguments": [
+    "Old doctrine on injury to aliens is repurposed for terrorism.",
+    "Attribution and due diligence are the key levers.",
+    "Responsibility is graduated: sponsorship > negligence > failure to punish."
+   ],
+   "source": "",
+   "short": "Lillich & Paxman",
+   "tldr": "The law of state responsibility for injuries to aliens can be applied to transnational terrorism. A state is responsible if it sponsors, supports or is complicit in terrorism, fails to use *due diligence* to prevent it (given means, notice and reasonable measures), or fails to apprehend or punish. Failure to extradite isn't yet a basis for responsibility without a treaty.",
+   "context": "State responsibility as a tool against non-state violence, a precursor of post-9/11 debates (and of Topic 22's self-defence against non-state actors). Note its roots in the old law protecting (Western) aliens abroad, which links to [[barcelona-traction]] and Topic 14.",
+   "conceptNotes": {
+    "state-responsibility": "due diligence, attribution, terrorism",
+    "nationality": "injury to aliens",
+    "jus-ad-bellum": "terrorism and state sponsorship"
+   }
   },
   {
    "id": "nyt-cyber-iran",
@@ -2153,11 +2223,26 @@
    "title": "The Urgent Search for a Cyber Bullet Against Iran",
    "cite": "",
    "concepts": [
-    "countermeasures"
+    "countermeasures",
+    "jus-ad-bellum",
+    "law-and-politics"
    ],
-   "summary": "",
-   "arguments": [],
-   "source": ""
+   "summary": "- Options included shutting down Iran's oil fields and refineries. Pompeo called the Saudi strike an 'act of war'.\n- History: Stuxnet destroyed about 1,000 of 5,000 centrifuges, but Iran rebuilt to 14,000-plus and hit back at Saudi Aramco (30,000 computers wiped); later attacks targeted missiles; June 2019 saw a cyberstrike instead of a cancelled missile strike.\n- Cyber Command head Nakasone: adversaries 'don't fear us'; cyber is 'no magic bullet'. New authorities let him plant 'implants' in foreign networks without presidential approval; 'Nitro Zeus' was a plan to paralyse Iran in war; doctrine of 'defend forward' and 'persistent engagement'.\n- Problems: secrecy lets governments deny or downplay attacks, which weakens deterrence; a big enough strike (refinery, grid) risks escalation and civilian harm claims; Iran might answer by proxy terrorism or missiles. The Pentagon treats cyberattacks as possible acts of war.\n- The emerging view: cyber must be combined with sanctions, diplomacy or force.",
+   "arguments": [
+    "'Proportionate response' language migrates into covert cyber operations.",
+    "The lines between countermeasure, reprisal and use of force blur in cyberspace.",
+    "Deterrence requires visibility that cyber lacks.",
+    "Self-help without accountability."
+   ],
+   "source": "",
+   "short": "NYT — cyber vs Iran",
+   "tldr": "After the 2019 attack on Saudi oil facilities, the Trump administration weighed a second cyberstrike on Iran as a 'proportionate', non-escalatory response. But past operations (Stuxnet, a 2019 tanker-targeting database) only partly deterred Iran. Secrecy undermines deterrence, and cyberattacks risk cross-domain escalation.",
+   "context": "Tests [[ilc-arsiwa]]'s categories (countermeasures vs force) and [[air-services]]'s 'proportionality'. Looks ahead to Topic 22 ([[kennedy-legal-expertise-war]]: the vocabulary of law in modern war) and to [[chachko-heath]] (economic and technological battlefields).",
+   "conceptNotes": {
+    "countermeasures": "cyber 'proportionate responses'",
+    "jus-ad-bellum": "cyberattack as act of war?",
+    "law-and-politics": "covert self-help"
+   }
   },
   {
    "id": "kennedy-primitive",
@@ -4236,6 +4321,42 @@
    "to": "vclt-61-62",
    "type": "illustrates",
    "note": "Boundaries are insulated from change: VCLT art. 62(2)(a) and uti possidetis serve stability."
+  },
+  {
+   "from": "gabcikovo",
+   "to": "air-services",
+   "type": "contrasts",
+   "note": "The ICJ finds a countermeasure disproportionate; the arbitral tribunal accepts rough equivalence judged partly by 'principle'."
+  },
+  {
+   "from": "damrosch-countermeasures",
+   "to": "ilc-arsiwa",
+   "type": "complicates",
+   "note": "Shows the ILC's countermeasures rules as a fragile compromise between self-help and protection of weak states."
+  },
+  {
+   "from": "nyt-cyber-iran",
+   "to": "air-services",
+   "type": "complicates",
+   "note": "'Proportionate response' talk moves from airline routes to covert cyberstrikes, blurring countermeasures and force."
+  },
+  {
+   "from": "lillich-paxman",
+   "to": "ilc-arsiwa",
+   "type": "builds-on",
+   "note": "Due diligence and attribution: how state responsibility reaches non-state terrorist acts."
+  },
+  {
+   "from": "lillich-paxman",
+   "to": "charlesworth-chinkin-jus-cogens",
+   "type": "contrasts",
+   "note": "Due diligence extended to terrorism against aliens, but (per Charlesworth & Chinkin) not to endemic private violence against women."
+  },
+  {
+   "from": "chachko-heath",
+   "to": "ilc-arsiwa",
+   "type": "complicates",
+   "note": "Sanctions on Russia strain the line between countermeasures, retorsion and economic warfare."
   }
  ],
  "themes": [
@@ -4367,6 +4488,52 @@
    "concepts": [
     "people-with-projects",
     "dark-sides"
+   ]
+  },
+  {
+   "id": "fact-vs-form",
+   "name": "Fact vs form: effectiveness against legal title",
+   "description": "Again and again the cases choose between what is *actually* the case (effective control, real connection) and what the *paper* says (recognition, title, incorporation). Notice which way each case goes, and who benefits.",
+   "readings": [
+    "salimoff",
+    "american-banana",
+    "maine-kathiawar",
+    "nottebohm",
+    "barcelona-traction",
+    "island-of-palmas",
+    "western-sahara",
+    "burkina-mali",
+    "vidmar-greenland"
+   ],
+   "concepts": [
+    "statehood",
+    "recognition",
+    "territory",
+    "nationality"
+   ]
+  },
+  {
+   "id": "who-decides",
+   "name": "Who decides? Courts, political organs and self-help",
+   "description": "In a system without a central enforcer, who gets the last word: the ICJ, the Security Council, a national court, or the injured state acting alone? Track how each forum claims or avoids authority.",
+   "readings": [
+    "lotus",
+    "nuclear-tests",
+    "techt-v-hughes",
+    "lissitzyn-load-line",
+    "tehran-hostages",
+    "nicaragua-1984",
+    "bank-nova-scotia",
+    "air-services",
+    "gabcikovo",
+    "bolton-icc-2018",
+    "nyt-cyber-iran"
+   ],
+   "concepts": [
+    "political-questions",
+    "countermeasures",
+    "reception",
+    "jurisdiction"
    ]
   }
  ]
