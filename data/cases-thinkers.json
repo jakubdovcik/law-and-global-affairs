@@ -1,0 +1,1607 @@
+{
+ "case_areas": [
+  "Sources, custom and the law/non-law line",
+  "Treaties, change and exit",
+  "Statehood, recognition and sovereignty",
+  "Nationality and diplomatic protection",
+  "Jurisdiction",
+  "Territory and self-determination",
+  "Force, state responsibility and countermeasures",
+  "Criminal trials and atrocity",
+  "Regimes, fragmentation and global administration"
+ ],
+ "cases": [
+  {
+   "id": "paquete-habana",
+   "name": "The Paquete Habana",
+   "year": 1900,
+   "forum": "US Supreme Court (Gray J)",
+   "area": "Sources, custom and the law/non-law line",
+   "reading": "paquete-habana",
+   "holding": "Coastal fishing vessels are exempt from capture in war: an 'ancient usage' has ripened into a rule. 'International law is part of our law.'",
+   "kennedy": "The heroic image of finding custom: clerks combing centuries of practice. Kennedy's point is how fragile that method is, since uniform practice almost never exists, and how quickly it gives way to advocacy.",
+   "pairs": [
+    "lotus"
+   ],
+   "seen": [
+    "schachter-custom",
+    "mcdougal-custom"
+   ],
+   "concepts": [
+    "custom",
+    "sources",
+    "reception"
+   ]
+  },
+  {
+   "id": "lotus",
+   "name": "The S.S. Lotus (France v Turkey)",
+   "year": 1927,
+   "forum": "PCIJ",
+   "area": "Sources, custom and the law/non-law line",
+   "reading": "lotus",
+   "holding": "Turkey may try the French officer. Restrictions on sovereignty cannot be presumed: states are free unless a rule prohibits them, and the effects of the collision fell on 'Turkish territory'.",
+   "kennedy": "When rules are scarce, the burden of proof decides. The Court deduces from the nature of sovereignty (territory first, people second), opening a second channel of argument: 'you're violating my sovereignty'. Turkey as a newly modernised state ending colonial-era privileges.",
+   "pairs": [
+    "nuclear-weapons-ao",
+    "paquete-habana",
+    "american-banana"
+   ],
+   "seen": [
+    "icj-art38"
+   ],
+   "concepts": [
+    "sovereignty",
+    "jurisdiction",
+    "territoriality"
+   ]
+  },
+  {
+   "id": "nuclear-weapons-ao",
+   "name": "Legality of the Threat or Use of Nuclear Weapons (AO)",
+   "year": 1996,
+   "forum": "ICJ",
+   "area": "Sources, custom and the law/non-law line",
+   "reading": "nuclear-weapons-ao",
+   "holding": "No rule specifically authorises or comprehensively prohibits nuclear weapons. Their use would generally be contrary to IHL, but the Court cannot conclude definitively for an extreme case of self-defence when survival is at stake.",
+   "kennedy": "The Lotus question returns and the Court cannot say. IHL is treated as lex specialis for the right to life.",
+   "pairs": [
+    "lotus",
+    "nuclear-tests"
+   ],
+   "seen": [
+    "oconnell-ihl",
+    "haines-weapons"
+   ],
+   "concepts": [
+    "jus-in-bello",
+    "custom"
+   ]
+  },
+  {
+   "id": "nuclear-tests",
+   "name": "Nuclear Tests (Australia v France)",
+   "year": 1974,
+   "forum": "ICJ",
+   "area": "Sources, custom and the law/non-law line",
+   "reading": "nuclear-tests",
+   "holding": "French public statements that the 1974 atmospheric tests would be the last were a binding unilateral undertaking. The claim has no object, so the Court does not rule on legality (9–6).",
+   "kennedy": "The law/non-law line turns porous: something said in politics binds in law. Does sovereignty mean you can always change your mind, or that you can bind yourself? France gained from statements that sounded binding.",
+   "pairs": [
+    "burkina-mali"
+   ],
+   "seen": [
+    "schachter-twilight"
+   ],
+   "concepts": [
+    "unilateral-declarations",
+    "law-nonlaw"
+   ]
+  },
+  {
+   "id": "techt-v-hughes",
+   "name": "Techt v Hughes",
+   "year": 1920,
+   "forum": "NY Court of Appeals (Cardozo)",
+   "area": "Treaties, change and exit",
+   "reading": "techt-v-hughes",
+   "holding": "War does not automatically end treaties. Provisions compatible with hostilities survive until the political branches act, judged provision by provision, so Mrs Techt inherits.",
+   "kennedy": "Cardozo the sociological modernizer turns the treaty into something to re-evaluate pragmatically: 'traditions of the law, policy of the statutes, fair dealing, honor of the nation'.",
+   "pairs": [
+    "load-line"
+   ],
+   "seen": [
+    "vclt-61-62"
+   ],
+   "concepts": [
+    "rebus-sic-stantibus"
+   ]
+  },
+  {
+   "id": "load-line",
+   "name": "US suspension of the Load Line Convention",
+   "year": 1941,
+   "forum": "US executive (Biddle opinion)",
+   "area": "Treaties, change and exit",
+   "reading": "lissitzyn-load-line",
+   "holding": "FDR suspends the 1930 convention 'for the duration of the emergency', claiming an unquestioned right to do so under rebus sic stantibus. Briggs objects that there can be no unilateral termination without procedure.",
+   "kennedy": "An unresolved fight between the modern pragmatic exit and the traditionalist rule. Briggs eventually 'won' in VCLT arts 65–67.",
+   "pairs": [
+    "techt-v-hughes",
+    "gabcikovo"
+   ],
+   "seen": [
+    "vclt-61-62"
+   ],
+   "concepts": [
+    "rebus-sic-stantibus"
+   ]
+  },
+  {
+   "id": "salimoff",
+   "name": "Salimoff v Standard Oil",
+   "year": 1933,
+   "forum": "NY Court of Appeals",
+   "area": "Statehood, recognition and sovereignty",
+   "reading": "salimoff",
+   "holding": "The unrecognised Soviet government's confiscation decrees are effective. Courts can acknowledge a de facto government without diplomatic recognition.",
+   "kennedy": "An odd reversal: the political branch performs the legal act (non-recognition) and the court the pragmatic one. Statehood is a bundle: 'I'll take the oil.'",
+   "pairs": [
+    "schooner-exchange"
+   ],
+   "seen": [
+    "montevideo",
+    "damrosch-states"
+   ],
+   "concepts": [
+    "recognition",
+    "statehood"
+   ]
+  },
+  {
+   "id": "schooner-exchange",
+   "name": "The Schooner Exchange v McFaddon",
+   "year": 1812,
+   "forum": "US Supreme Court (Marshall CJ)",
+   "area": "Statehood, recognition and sovereignty",
+   "reading": "schooner-exchange",
+   "holding": "Territorial jurisdiction is 'exclusive and absolute', but by admitting a friendly foreign warship the US impliedly consented to its immunity.",
+   "kennedy": "Marshall resolves the property question by deciding not to resolve it. Public ship vs private claim; 'exploring an unbeaten path' without Roman-law authority.",
+   "pairs": [
+    "antelope",
+    "american-banana"
+   ],
+   "seen": [
+    "cohen-property-sovereignty"
+   ],
+   "concepts": [
+    "sovereignty",
+    "public-private",
+    "territoriality"
+   ]
+  },
+  {
+   "id": "antelope",
+   "name": "The Antelope",
+   "year": 1825,
+   "forum": "US Supreme Court (Marshall CJ)",
+   "area": "Statehood, recognition and sovereignty",
+   "reading": "antelope",
+   "holding": "The slave trade is contrary to natural justice but not to the law of nations, which rests on practice and consent. Spanish claims are partly upheld; slaves are allocated by claimed nationality.",
+   "kennedy": "A no-norm gap (like Lotus) filled by transnational property that travels with its owner. Territorial jurisdiction is never seriously invoked: 'territoriality is weak in the face of property rights'.",
+   "pairs": [
+    "schooner-exchange",
+    "bank-nova-scotia"
+   ],
+   "seen": [
+    "malley-manas-nix",
+    "johnson-slavery"
+   ],
+   "concepts": [
+    "sovereignty",
+    "public-private",
+    "positivism"
+   ]
+  },
+  {
+   "id": "kathiawar",
+   "name": "The Kathiawar States memorandum (Maine)",
+   "year": 1864,
+   "forum": "British colonial legal opinion",
+   "area": "Statehood, recognition and sovereignty",
+   "reading": "maine-kathiawar",
+   "holding": "Sovereignty is a divisible bundle. The Kathiawar chiefs keep some powers (immunity from British legislation, limited jurisdiction) while Britain holds supremacy and rights of intervention.",
+   "kennedy": "'Dependent sovereigns' and the disorder doctrine (sovereignty 'in abeyance') prefigure failed states and humanitarian intervention. Indirect rule's local/external split runs on into minority and gender carve-outs.",
+   "pairs": [
+    "schooner-exchange"
+   ],
+   "seen": [
+    "cohen-property-sovereignty",
+    "anghie-imperialism"
+   ],
+   "concepts": [
+    "sovereignty",
+    "colonialism"
+   ]
+  },
+  {
+   "id": "american-banana",
+   "name": "American Banana Co v United Fruit Co",
+   "year": 1909,
+   "forum": "US Supreme Court (Holmes J)",
+   "area": "Jurisdiction",
+   "reading": "american-banana",
+   "holding": "Whether an act is lawful is 'determined wholly by the law of the country where the act is done'. The Sherman Act does not reach the Costa Rican seizure.",
+   "kennedy": "Holmes the realist consolidates the most formalist territorial absolutism, ignoring obvious hooks (a New Jersey conspiracy, nationality, effects). It did not remain good law: the effects doctrine took over.",
+   "pairs": [
+    "bank-nova-scotia",
+    "lotus"
+   ],
+   "seen": [
+    "restatement-402-404",
+    "roepke-1955"
+   ],
+   "concepts": [
+    "territoriality",
+    "extraterritoriality",
+    "jurisdiction"
+   ]
+  },
+  {
+   "id": "corfu",
+   "name": "Corfu Channel (UK v Albania)",
+   "year": 1949,
+   "forum": "ICJ (Álvarez, individual opinion)",
+   "area": "Statehood, recognition and sovereignty",
+   "reading": "corfu-1949-merits",
+   "holding": "Albania is responsible for the mines it knew of. Judge Álvarez: sovereignty is 'an international social function of a psychological character', carrying duties of interdependence beyond consent.",
+   "kennedy": "The counter to Lotus: duties deduced from the social nature of sovereignty. Recognition and authority become social practice; 'the process itself produces the authority'.",
+   "pairs": [
+    "lotus"
+   ],
+   "seen": [
+    "corfu-1949",
+    "alvarez-new-il",
+    "sands-greening"
+   ],
+   "concepts": [
+    "sovereignty",
+    "state-responsibility"
+   ]
+  },
+  {
+   "id": "nottebohm",
+   "name": "Nottebohm (Liechtenstein v Guatemala)",
+   "year": 1955,
+   "forum": "ICJ",
+   "area": "Nationality and diplomatic protection",
+   "reading": "nottebohm",
+   "holding": "Liechtenstein cannot protect Nottebohm against Guatemala: a nationality acquired by fast-track naturalisation lacks a 'genuine link' and need not be recognised.",
+   "kennedy": "Adjudication as de facto rule-making from the 'nature' of nationality: fact over form. Later criticised as weak legislative technique.",
+   "pairs": [
+    "barcelona-traction"
+   ],
+   "seen": [
+    "damrosch-nationality",
+    "sassen-territory"
+   ],
+   "concepts": [
+    "nationality"
+   ]
+  },
+  {
+   "id": "barcelona-traction",
+   "name": "Barcelona Traction (Belgium v Spain)",
+   "year": 1970,
+   "forum": "ICJ",
+   "area": "Nationality and diplomatic protection",
+   "reading": "barcelona-traction",
+   "holding": "Belgium cannot protect Belgian shareholders of a Canadian company; protection follows the company's nationality. Obiter: some obligations are owed erga omnes.",
+   "kennedy": "Form (incorporation) over fact, the mirror image of Nottebohm. The erga omnes dictum opens the 'community' register.",
+   "pairs": [
+    "nottebohm"
+   ],
+   "seen": [
+    "damrosch-nationality",
+    "cohen-property-sovereignty"
+   ],
+   "concepts": [
+    "nationality",
+    "erga-omnes",
+    "public-private"
+   ]
+  },
+  {
+   "id": "tehran-hostages",
+   "name": "US Diplomatic and Consular Staff in Tehran",
+   "year": 1980,
+   "forum": "ICJ",
+   "area": "Nationality and diplomatic protection",
+   "reading": "tehran-hostages",
+   "holding": "Iran is responsible for the seizure of the embassy and the detention of staff; diplomatic law is a self-contained regime. Iran's plea of decades of US interference does not excuse it.",
+   "kennedy": "Iran refuses to appear and frames the dispute politically. Law captures a narrow slice of a political 'tension'.",
+   "pairs": [
+    "nicaragua"
+   ],
+   "seen": [
+    "damrosch-state-resp"
+   ],
+   "concepts": [
+    "state-responsibility",
+    "law-and-politics"
+   ]
+  },
+  {
+   "id": "nicaragua",
+   "name": "Military and Paramilitary Activities (Nicaragua v US)",
+   "year": 1984,
+   "forum": "ICJ",
+   "area": "Force, state responsibility and countermeasures",
+   "reading": "nicaragua-1984",
+   "holding": "1984: the Court has jurisdiction and the claim is admissible despite US objections. 1986 merits: US support for the Contras and the mining violated the non-use of force; 'armed attack' is narrower than 'use of force'; collective self-defence needs a request.",
+   "kennedy": "The US walks out: hegemons resist courts. Also the baseline that an embargo doesn't breach custom.",
+   "pairs": [
+    "tehran-hostages",
+    "air-services"
+   ],
+   "seen": [
+    "oconnell-ihl",
+    "chachko-heath"
+   ],
+   "concepts": [
+    "jus-ad-bellum",
+    "political-questions"
+   ]
+  },
+  {
+   "id": "bank-nova-scotia",
+   "name": "United States v Bank of Nova Scotia",
+   "year": 1982,
+   "forum": "US 11th Circuit",
+   "area": "Jurisdiction",
+   "reading": "bank-nova-scotia",
+   "holding": "The bank must produce Bahamian branch records via its Miami agency despite Bahamian secrecy law. The US interest ('financial integrity of the republic') outweighs Bahamian privacy.",
+   "kennedy": "Balancing that is 'ridiculously subjective' and could easily have been reversed. By 1982 'where it happened' was too indeterminate to decide anything. Private rights travel; public law doesn't.",
+   "pairs": [
+    "american-banana",
+    "antelope"
+   ],
+   "seen": [
+    "restatement-402-404",
+    "malley-manas-nix",
+    "sauerbrey-europe"
+   ],
+   "concepts": [
+    "extraterritoriality",
+    "jurisdiction"
+   ]
+  },
+  {
+   "id": "palmas",
+   "name": "Island of Palmas (US v Netherlands)",
+   "year": 1928,
+   "forum": "PCA (Huber)",
+   "area": "Territory and self-determination",
+   "reading": "island-of-palmas",
+   "holding": "Title by discovery is inchoate. 'Continuous and peaceful display of territorial sovereignty' wins, scaled to the territory.",
+   "kennedy": "Weighing, not on/off: both parties had something. Sovereignty intensifies progressively, and the natives aren't counted: a contest between two colonial powers.",
+   "pairs": [
+    "western-sahara",
+    "burkina-mali"
+   ],
+   "seen": [
+    "vidmar-greenland"
+   ],
+   "concepts": [
+    "territory",
+    "sovereignty"
+   ]
+  },
+  {
+   "id": "western-sahara",
+   "name": "Western Sahara (AO)",
+   "year": 1975,
+   "forum": "ICJ",
+   "area": "Territory and self-determination",
+   "reading": "western-sahara",
+   "holding": "The territory was not terra nullius. Legal ties with Morocco and the Mauritanian entity existed but not of territorial sovereignty, so self-determination governs.",
+   "kennedy": "'Legal ties' is deliberately loose. The First World was softening sovereignty while the Third World was compelled into the triangular state form; the ballot had no option to 'continue as we have for thousands of years'.",
+   "pairs": [
+    "palmas",
+    "burkina-mali"
+   ],
+   "seen": [
+    "perez-pena-morocco",
+    "rajagopal-below"
+   ],
+   "concepts": [
+    "self-determination",
+    "territory"
+   ]
+  },
+  {
+   "id": "burkina-mali",
+   "name": "Frontier Dispute (Burkina Faso/Mali)",
+   "year": 1986,
+   "forum": "ICJ Chamber",
+   "area": "Territory and self-determination",
+   "reading": "burkina-mali",
+   "holding": "Uti possidetis juris is a general principle: colonial administrative boundaries become international frontiers, for stability. A presidential statement did not bind Mali.",
+   "kennedy": "Elites consolidating gains; self-determination disputes turned internal. In practice the Court 'almost always splits the difference': indeterminate vocabulary legitimates workable outcomes.",
+   "pairs": [
+    "western-sahara",
+    "palmas",
+    "nuclear-tests"
+   ],
+   "seen": [
+    "berman-jerusalem"
+   ],
+   "concepts": [
+    "uti-possidetis",
+    "self-determination"
+   ]
+  },
+  {
+   "id": "gabcikovo",
+   "name": "Gabčíkovo-Nagymaros (Hungary/Slovakia)",
+   "year": 1997,
+   "forum": "ICJ",
+   "area": "Force, state responsibility and countermeasures",
+   "reading": "gabcikovo",
+   "holding": "Hungary's abandonment breached the 1977 treaty; Czechoslovakia's 'Variant C' was a disproportionate countermeasure. Necessity and fundamental change were rejected; the treaty remains in force; negotiate.",
+   "kennedy": "It affirmed both sides' principles and resolved nothing. The Court creates a legal plane on which the dispute continues: law's translation function.",
+   "pairs": [
+    "air-services",
+    "load-line"
+   ],
+   "seen": [
+    "ilc-arsiwa",
+    "sands-greening",
+    "vclt-61-62"
+   ],
+   "concepts": [
+    "countermeasures",
+    "rebus-sic-stantibus",
+    "environment"
+   ]
+  },
+  {
+   "id": "air-services",
+   "name": "Air Services Agreement (US v France)",
+   "year": 1978,
+   "forum": "Arbitral Tribunal",
+   "area": "Force, state responsibility and countermeasures",
+   "reading": "air-services",
+   "holding": "US suspension of Air France flights was a lawful countermeasure, not clearly disproportionate. A state may act on its own view of a breach, provided it is willing to arbitrate.",
+   "kennedy": "'In one state's view' is enough to enter countermeasures land. Proportionality is 'not a calculator': France held out despite a $100 vs $1,000 asymmetry because principle mattered.",
+   "pairs": [
+    "gabcikovo"
+   ],
+   "seen": [
+    "ilc-arsiwa",
+    "damrosch-countermeasures",
+    "bello-wto"
+   ],
+   "concepts": [
+    "countermeasures"
+   ]
+  },
+  {
+   "id": "barbie",
+   "name": "The Barbie trial (Lyon)",
+   "year": 1987,
+   "forum": "French Cour d’assises",
+   "area": "Criminal trials and atrocity",
+   "reading": "koskenniemi-impunity",
+   "holding": "Klaus Barbie, head of the Lyon Gestapo's information section, was convicted of crimes against humanity. The Cour de Cassation widened the category to cover acts against the resistance.",
+   "kennedy": "Vergès's 'trial of rupture' put French colonialism on trial: smart lawyering that hijacked the narrative. The show-trial problem in its purest form.",
+   "pairs": [
+    "milosevic"
+   ],
+   "seen": [
+    "engle-grip"
+   ],
+   "concepts": [
+    "individual-responsibility"
+   ]
+  },
+  {
+   "id": "milosevic",
+   "name": "Prosecutor v Milošević",
+   "year": 2002,
+   "forum": "ICTY",
+   "area": "Criminal trials and atrocity",
+   "reading": "koskenniemi-impunity",
+   "holding": "The former Yugoslav president, tried at The Hague, opened his defence by accusing NATO and the West. He died in 2006 before judgment.",
+   "kennedy": "Personifying atrocity in one leader lets the broader machinery off the hook, and individual guilt struggles to state the 'truth' of a political crisis. The same dilemma as the Putin warrant.",
+   "pairs": [
+    "barbie",
+    "icj-genocide-gaza"
+   ],
+   "seen": [
+    "bolton-icc-2018",
+    "drumbl-smouldering"
+   ],
+   "concepts": [
+    "individual-responsibility"
+   ]
+  },
+  {
+   "id": "icj-genocide-gaza",
+   "name": "South Africa v Israel (Genocide Convention)",
+   "year": 2024,
+   "forum": "ICJ",
+   "area": "Criminal trials and atrocity",
+   "reading": "drumbl-smouldering",
+   "holding": "South Africa's case under the Genocide Convention; the ICJ ordered provisional measures in 2024. The merits are pending.",
+   "kennedy": "Genocide's social and legal meanings diverge. A narrow ruling risks the Court's legitimacy with those who brought the case; 'legalizing a norm sharpens it but also constrains it'.",
+   "pairs": [
+    "milosevic"
+   ],
+   "seen": [
+    "krever-scurrying",
+    "miller-times-violence",
+    "burgis-kasthala-gaza"
+   ],
+   "concepts": [
+    "individual-responsibility",
+    "human-rights"
+   ]
+  },
+  {
+   "id": "pinochet-al-adsani",
+   "name": "Pinochet (No 3) and Al-Adsani v UK",
+   "year": 1999,
+   "forum": "UK House of Lords / ECtHR (2001)",
+   "area": "Sources, custom and the law/non-law line",
+   "reading": "ilc-fragmentation-jus-cogens",
+   "holding": "Pinochet: no immunity from extradition for torture. Al-Adsani: torture is jus cogens, yet Kuwait keeps immunity from civil suit in English courts (9–8).",
+   "kennedy": "Jus cogens is symbolically supreme but operationally uncertain: 'so important we can't even say what they are'.",
+   "pairs": [],
+   "seen": [
+    "charlesworth-chinkin-jus-cogens"
+   ],
+   "concepts": [
+    "jus-cogens"
+   ]
+  },
+  {
+   "id": "mox-plant",
+   "name": "MOX Plant (Ireland v UK)",
+   "year": 2001,
+   "forum": "ITLOS / OSPAR / ECJ",
+   "area": "Regimes, fragmentation and global administration",
+   "reading": "ilc-fragmentation-phenomenon",
+   "holding": "One nuclear plant, three fora (UNCLOS, OSPAR, EC law). Even identical rules 'have a separate existence' in different contexts.",
+   "kennedy": "The emblem of fragmentation: legal boxes with their own ethos, and no apex to settle which governs.",
+   "pairs": [
+    "shrimp-turtle"
+   ],
+   "seen": [
+    "fischer-lescano-teubner"
+   ],
+   "concepts": [
+    "fragmentation"
+   ]
+  },
+  {
+   "id": "shrimp-turtle",
+   "name": "US — Shrimp (Shrimp-Turtle)",
+   "year": 1998,
+   "forum": "WTO Appellate Body",
+   "area": "Regimes, fragmentation and global administration",
+   "reading": "kingsbury-gal",
+   "holding": "The US import ban to protect sea turtles was applied arbitrarily: exporting states had no opportunity to be heard. Procedural participation was required.",
+   "kennedy": "Global administrative law at work: WTO procedure disciplining domestic regulators. Also trade vs environment.",
+   "pairs": [
+    "mox-plant",
+    "tuna-dolphin"
+   ],
+   "seen": [
+    "bello-wto",
+    "chimni-2017"
+   ],
+   "concepts": [
+    "global-administrative-law",
+    "environment"
+   ]
+  },
+  {
+   "id": "tuna-dolphin",
+   "name": "US — Tuna (Tuna-Dolphin)",
+   "year": 1991,
+   "forum": "GATT panel",
+   "area": "Regimes, fragmentation and global administration",
+   "reading": "bello-wto",
+   "holding": "US primary and secondary embargoes on tuna caught with dolphin-killing methods were inconsistent with GATT. The ruling sparked the environmentalist backlash against trade law.",
+   "kennedy": "Trade rules as priced options: comply, compensate or accept retaliation. Who decides what counts as a 'trade barrier'?",
+   "pairs": [
+    "shrimp-turtle"
+   ],
+   "seen": [
+    "lang-regimes"
+   ],
+   "concepts": [
+    "political-economy",
+    "environment"
+   ]
+  },
+  {
+   "id": "kadi",
+   "name": "Kadi (Commission v Kadi)",
+   "year": 2013,
+   "forum": "CJEU",
+   "area": "Regimes, fragmentation and global administration",
+   "reading": "chachko-heath",
+   "holding": "EU implementation of UN Security Council terrorist listings must respect due process, including reasons and effective review.",
+   "kennedy": "Sanctions review as a fragmented 'regime complex'. Due process tames sanctions only at the margins.",
+   "pairs": [
+    "shrimp-turtle"
+   ],
+   "seen": [
+    "kingsbury-gal"
+   ],
+   "concepts": [
+    "global-administrative-law",
+    "countermeasures"
+   ]
+  }
+ ],
+ "thinker_eras": [
+  "Classical and colonial (to 1914)",
+  "Interwar modernists (1914–45)",
+  "Post-war American order (1945–89)",
+  "1990s optimism: process, networks, rights",
+  "Critics and new thinking (late 20th c.–now)",
+  "Outside the field: theory of war, power and the city"
+ ],
+ "thinkers": [
+  {
+   "id": "vitoria",
+   "name": "Francisco de Vitoria",
+   "era": "Classical and colonial (to 1914)",
+   "sensibility": "pre-modern natural law",
+   "position": "Indigenous peoples belong to universal society, but that very membership obliges them to admit Spanish travellers, trade and preaching.",
+   "kennedy": "Read through [[kennedy-primitive]]: not a proto-modern but an on/off thinker with wild, method-free citation. Knop pairs his right of travel with Soto's right of foreign beggars in European cities.",
+   "readings": [
+    "kennedy-primitive",
+    "anghie-imperialism",
+    "knop-hidden-city"
+   ],
+   "related": [
+    "anghie",
+    "kennedy"
+   ],
+   "concepts": [
+    "naturalism",
+    "colonialism"
+   ]
+  },
+  {
+   "id": "marshall",
+   "name": "John Marshall",
+   "era": "Classical and colonial (to 1914)",
+   "sensibility": "early American positivism",
+   "position": "Territorial jurisdiction is 'exclusive and absolute' but yields by implied consent. The law of nations rests on practice, so the slave trade is not illegal between nations.",
+   "kennedy": "Twice resolves property questions by not resolving them: sovereignty and private right in unstable relation.",
+   "readings": [
+    "schooner-exchange",
+    "antelope"
+   ],
+   "related": [
+    "holmes",
+    "cohen"
+   ],
+   "concepts": [
+    "sovereignty",
+    "public-private"
+   ]
+  },
+  {
+   "id": "maine",
+   "name": "Henry Maine",
+   "era": "Classical and colonial (to 1914)",
+   "sensibility": "colonial legal administration",
+   "position": "Sovereignty is a divisible bundle; 'dependent sovereigns' keep some powers while Britain holds supremacy and rights of intervention.",
+   "kennedy": "The disorder doctrine prefigures failed states and humanitarian intervention. Britain caused the famine that justified intervening.",
+   "readings": [
+    "maine-kathiawar"
+   ],
+   "related": [
+    "anghie",
+    "cohen"
+   ],
+   "concepts": [
+    "sovereignty",
+    "colonialism"
+   ]
+  },
+  {
+   "id": "lawrence",
+   "name": "Thomas J. Lawrence",
+   "era": "Classical and colonial (to 1914)",
+   "sensibility": "Victorian positivism and the standard of civilization",
+   "position": "International law as the law of a civilised European family of states, with graded membership for others.",
+   "kennedy": "Via [[riles-aspiration-control]]: law plays aspiration (equals) and control (colonies) at once, unified in the triangular state form.",
+   "readings": [
+    "riles-aspiration-control"
+   ],
+   "related": [
+    "anghie"
+   ],
+   "concepts": [
+    "colonialism",
+    "positivism"
+   ]
+  },
+  {
+   "id": "austin",
+   "name": "John Austin",
+   "era": "Classical and colonial (to 1914)",
+   "sensibility": "command theory (analytical positivism)",
+   "position": "Law properly so called is a sovereign's command backed by sanction, so international law is 'positive morality'.",
+   "kennedy": "The 'easy target' every post-war casebook set up; once you accept 'I guess they don't have that', the sociological answers flow.",
+   "readings": [
+    "austin-province"
+   ],
+   "related": [
+    "kelsen",
+    "henkin"
+   ],
+   "concepts": [
+    "positivism"
+   ]
+  },
+  {
+   "id": "holmes",
+   "name": "Oliver Wendell Holmes Jr.",
+   "era": "Classical and colonial (to 1914)",
+   "sensibility": "legal realism / pragmatism",
+   "position": "Law is what courts will do in fact; in American Banana, lawfulness is fixed wholly by the law of the place.",
+   "kennedy": "The realist who consolidates the most formalist territorial absolutism. His 'bad man' and rights-to-remedies shift underlies the move from validity to effectiveness.",
+   "readings": [
+    "american-banana"
+   ],
+   "related": [
+    "marshall",
+    "mcdougal",
+    "cardozo"
+   ],
+   "concepts": [
+    "territoriality",
+    "positivism"
+   ]
+  },
+  {
+   "id": "cardozo",
+   "name": "Benjamin Cardozo",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "sociological jurisprudence",
+   "position": "War's effect on treaties is decided pragmatically, provision by provision, by tradition, policy, fair dealing and national honour.",
+   "kennedy": "The modernizer turning treaty obligation into pragmatic re-evaluation: a porous boundary of law.",
+   "readings": [
+    "techt-v-hughes"
+   ],
+   "related": [
+    "holmes",
+    "schachter"
+   ],
+   "concepts": [
+    "rebus-sic-stantibus"
+   ]
+  },
+  {
+   "id": "cohen",
+   "name": "Morris R. Cohen",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "legal realism",
+   "position": "Property is sovereignty: a state-backed power over others, not a relation to a thing. The public/private split is a myth.",
+   "kennedy": "Bridge from Maine's divisible sovereignty to relational sovereignty. Foreign property qualifies, but does not override, territorial sovereignty. A 6% return works like a tax.",
+   "readings": [
+    "cohen-property-sovereignty"
+   ],
+   "related": [
+    "maine",
+    "ropke",
+    "koskenniemi",
+    "danielsen"
+   ],
+   "concepts": [
+    "public-private",
+    "political-economy"
+   ]
+  },
+  {
+   "id": "alvarez",
+   "name": "Alejandro Álvarez",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "social interdependence / Latin American internationalism",
+   "position": "A 'new international law' built from politics, history, public opinion and morality; sovereignty as 'an international social function'.",
+   "kennedy": "The 1929 speech nearly ended his career. An elitist cosmopolitan vision, blind to power, reprised in the post-1989 'end of history'.",
+   "readings": [
+    "alvarez-new-il",
+    "corfu-1949",
+    "corfu-1949-merits"
+   ],
+   "related": [
+    "jessup",
+    "redslob",
+    "becker-lorca"
+   ],
+   "concepts": [
+    "sovereignty",
+    "modernism"
+   ]
+  },
+  {
+   "id": "jessup",
+   "name": "Philip Jessup",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "functionalism → transnational law",
+   "position": "Organise law by function and problem, not inherited categories; later, 'transnational law' regulating all cross-border events.",
+   "kennedy": "Busts open the triangle state, but who defines the problem? 'A square is the shape a library wants to be.' The Jessup moot is ironically formalist.",
+   "readings": [
+    "jessup-functional",
+    "jessup-transnational"
+   ],
+   "related": [
+    "alvarez",
+    "koh",
+    "slaughter"
+   ],
+   "concepts": [
+    "functionalism",
+    "transnational-legal-process"
+   ]
+  },
+  {
+   "id": "redslob",
+   "name": "Robert Redslob",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "method of principles (nationality)",
+   "position": "The age's ruling principle is nationality, defined psychosocially; conflicts are resolved by adjusting psychology through minority rights.",
+   "kennedy": "The most interventionist reformer, written from the dominant group's view; his examples mostly failed.",
+   "readings": [
+    "redslob-nationalities"
+   ],
+   "related": [
+    "berman-n",
+    "alvarez"
+   ],
+   "concepts": [
+    "self-determination",
+    "modernism"
+   ]
+  },
+  {
+   "id": "kelsen",
+   "name": "Hans Kelsen",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "pure theory of law",
+   "position": "International law can be regarded as true law: a primitive, decentralised coercive order; state = legal order.",
+   "kennedy": "Law is a choice of how to regard the situation. Knop locates his theory in modernist Vienna. 'Law backs the state, not the state law.'",
+   "readings": [
+    "kelsen-lecture-iii",
+    "knop-hidden-city"
+   ],
+   "related": [
+    "austin",
+    "alvarez",
+    "mcdougal"
+   ],
+   "concepts": [
+    "positivism"
+   ]
+  },
+  {
+   "id": "lauterpacht",
+   "name": "Hersch Lauterpacht",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "general principles and the completeness of law",
+   "position": "General principles drawn from private-law analogies (treaty as contract, territory as property) fill gaps; no non liquet.",
+   "kennedy": "'Expanding the aperture': principles inherent in law and in the nature of man, recalling natural law.",
+   "readings": [
+    "schachter-general-principles",
+    "oconnell-ihl"
+   ],
+   "related": [
+    "schachter"
+   ],
+   "concepts": [
+    "general-principles"
+   ]
+  },
+  {
+   "id": "berman-n",
+   "name": "Nathaniel Berman",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "critical history of modernism",
+   "position": "Interwar lawyers were modernists (plebiscites, minority treaties). Internationalised Jerusalem is the ultimate internationalist fantasy, competing with others.",
+   "kennedy": "Course frame: Berman's four modernist ideas; the formalist, pragmatic and cultural-symbolic modes of intervention; law works by capturing imagination.",
+   "readings": [
+    "berman-modernism",
+    "berman-jerusalem"
+   ],
+   "related": [
+    "kennedy",
+    "redslob",
+    "knop"
+   ],
+   "concepts": [
+    "modernism"
+   ]
+  },
+  {
+   "id": "mcdougal",
+   "name": "Myres McDougal",
+   "era": "Post-war American order (1945–89)",
+   "sensibility": "New Haven policy science",
+   "position": "Law is a 'world power process' of authoritative decision. Custom is continuous claim and response.",
+   "kennedy": "Validity gives way to effectiveness, and the court is disaggregated into all who argue. A Cold Warrior: law should not be agnostic (the H-bomb tests are lawful). An unlikely feminist resource for Knop.",
+   "readings": [
+    "mcdougal-custom",
+    "mcdougal-law-power"
+   ],
+   "related": [
+    "schachter",
+    "kennedy",
+    "wedgwood",
+    "koh"
+   ],
+   "concepts": [
+    "policy-science",
+    "custom"
+   ]
+  },
+  {
+   "id": "schachter",
+   "name": "Oscar Schachter",
+   "era": "Post-war American order (1945–89)",
+   "sensibility": "pragmatic liberal internationalism (Columbia)",
+   "position": "Sources doctrine was 'more myth than reality'; general principles rest on implied consensus; non-binding agreements work.",
+   "kennedy": "Through Hammarskjöld: indeterminacy is a feature, since 'if law clearly determined winners and losers, losers would simply deny its existence'. A Democrat and refugee, antagonist of McDougal.",
+   "readings": [
+    "schachter-custom",
+    "schachter-general-principles",
+    "schachter-twilight",
+    "schachter-hammarskjold"
+   ],
+   "related": [
+    "mcdougal",
+    "henkin",
+    "hammarskjold"
+   ],
+   "concepts": [
+    "soft-law",
+    "sources"
+   ]
+  },
+  {
+   "id": "hammarskjold",
+   "name": "Dag Hammarskjöld",
+   "era": "Post-war American order (1945–89)",
+   "sensibility": "inspired legal diplomacy",
+   "position": "Law and policy are not sharply separate: principles, not rules; ad hoc flexibility; weighing contradictory principles.",
+   "kennedy": "Work in the cracks between blocs. Kennedy generalises this into the Secretary-General as impresario.",
+   "readings": [
+    "schachter-hammarskjold",
+    "kennedy-sg"
+   ],
+   "related": [
+    "schachter",
+    "kennedy"
+   ],
+   "concepts": [
+    "institutions"
+   ]
+  },
+  {
+   "id": "henkin",
+   "name": "Louis Henkin",
+   "era": "Post-war American order (1945–89)",
+   "sensibility": "compliance liberalism",
+   "position": "The cup is half full: law is made and kept by states and works most of the time (his famous 'almost all nations …' line comes from this book, though not from the excerpt); law is politics but also shapes politics.",
+   "kennedy": "A 'sermon of belief' that the cup is half full, delivered at a moment of shifts. The legitimacy loop.",
+   "readings": [
+    "henkin-how-nations-behave",
+    "henkin-interstate"
+   ],
+   "related": [
+    "koh",
+    "goldsmith"
+   ],
+   "concepts": [
+    "compliance",
+    "law-and-politics"
+   ]
+  },
+  {
+   "id": "ropke",
+   "name": "Wilhelm Röpke",
+   "era": "Post-war American order (1945–89)",
+   "sensibility": "ordoliberalism",
+   "position": "The liberal order separates Imperium from Dominium; reduce sovereignty's measure and let the market be sovereign.",
+   "kennedy": "The political-economy baseline that Cohen, Bedjaoui, Falk and Koskenniemi all attack.",
+   "readings": [
+    "roepke-1955"
+   ],
+   "related": [
+    "cohen",
+    "bedjaoui",
+    "koskenniemi"
+   ],
+   "concepts": [
+    "political-economy",
+    "public-private"
+   ]
+  },
+  {
+   "id": "bedjaoui",
+   "name": "Mohammed Bedjaoui",
+   "era": "Post-war American order (1945–89)",
+   "sensibility": "NIEO / Third World development law",
+   "position": "A 'syndicate of states' imposed its law; immutability is 'legal paganism'. International law must redress inequality and act on imperialist structures.",
+   "kennedy": "The NIEO's collapse (debt, US pressure, neoliberalism) and Anghie's verdict that leaders misread where power lay.",
+   "readings": [
+    "bedjaoui-nieo"
+   ],
+   "related": [
+    "anghie",
+    "becker-lorca",
+    "chimni",
+    "ropke"
+   ],
+   "concepts": [
+    "twail",
+    "political-economy"
+   ]
+  },
+  {
+   "id": "slaughter",
+   "name": "Anne-Marie Slaughter",
+   "era": "1990s optimism: process, networks, rights",
+   "sensibility": "liberal internationalism / networks",
+   "position": "Transgovernmental networks; Iraq 2003 'illegal but legitimate' like Kosovo, with legitimation coming after the fact.",
+   "kennedy": "Going multilateral is a bet on the outcome; who is the swing audience? Sassen recasts networks as a deregulatory class.",
+   "readings": [
+    "slaughter-around-un"
+   ],
+   "related": [
+    "wedgwood",
+    "koh",
+    "kingsbury"
+   ],
+   "concepts": [
+    "institutions",
+    "law-and-politics"
+   ]
+  },
+  {
+   "id": "wedgwood",
+   "name": "Ruth Wedgwood",
+   "era": "1990s optimism: process, networks, rights",
+   "sensibility": "strategic multilateralism",
+   "position": "Multilateralism is a strategic calculation on a 'sliding scale of legitimacy'; how you 'drape' an intervention matters.",
+   "kennedy": "McDougal's process realism with sincerity stripped out. Benvenisti's lament: 'Where's Wedgwood when we need her?'",
+   "readings": [
+    "wedgwood-unilateral"
+   ],
+   "related": [
+    "mcdougal",
+    "slaughter",
+    "benvenisti"
+   ],
+   "concepts": [
+    "law-and-politics"
+   ]
+  },
+  {
+   "id": "koh",
+   "name": "Harold Hongju Koh",
+   "era": "1990s optimism: process, networks, rights",
+   "sensibility": "transnational legal process",
+   "position": "Interaction, interpretation and internalisation: norms 'percolate upward'; in 2017, outsiders resist Trump through 'rope-a-dope'.",
+   "kennedy": "The 1995 peak of optimism; later defensive (resist), not reimagining why law proved vulnerable.",
+   "readings": [
+    "koh-tlp",
+    "koh-trump"
+   ],
+   "related": [
+    "jessup",
+    "henkin",
+    "goldsmith",
+    "benvenisti"
+   ],
+   "concepts": [
+    "transnational-legal-process",
+    "compliance"
+   ]
+  },
+  {
+   "id": "goldsmith",
+   "name": "Jack Goldsmith",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "rational choice / sovereigntist realism",
+   "position": "The rules-based order was never as orderly or attractive as claimed; structural forces beyond Trump.",
+   "kennedy": "'Turning the Titanic toward icebergs while carefully knitting transnational legal process.' Koskenniemi's reply: law is strongest in the infrastructure of capital.",
+   "readings": [
+    "goldsmith-mercer"
+   ],
+   "related": [
+    "koh",
+    "koskenniemi",
+    "hakimi"
+   ],
+   "concepts": [
+    "compliance"
+   ]
+  },
+  {
+   "id": "benvenisti",
+   "name": "Eyal Benvenisti",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "resilience / custodianship",
+   "position": "Ignoring law is more sinister than manipulating it; lawyers should preserve law 'awaiting restoration'.",
+   "kennedy": "Archival defence, with no fundamental reimagination. Kennedy notes this cohort leans 'stabilise/restore'.",
+   "readings": [
+    "benvenisti-resilience"
+   ],
+   "related": [
+    "koh",
+    "wedgwood",
+    "hakimi"
+   ],
+   "concepts": [
+    "compliance"
+   ]
+  },
+  {
+   "id": "hakimi",
+   "name": "Monica Hakimi",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "co-constitution of law and US power",
+   "position": "International law and US power were co-constituted after 1945; the order's four features are now unravelling.",
+   "kennedy": "Sets up the course question: which ideas survive, in whose hands?",
+   "readings": [
+    "hakimi-cogan"
+   ],
+   "related": [
+    "goldsmith",
+    "benvenisti"
+   ],
+   "concepts": [
+    "law-and-politics"
+   ]
+  },
+  {
+   "id": "kennedy",
+   "name": "David Kennedy",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "critical legal studies / people with projects",
+   "position": "International law is a vocabulary used by people with projects. Its dark sides: human rights' costs, law as war's language, the SG as impresario, primitive scholarship.",
+   "kennedy": "The course's author. See the guide's 'how Kennedy thinks': audience, the turtle, middle powers, indeterminacy, bundles, the flip.",
+   "readings": [
+    "kennedy-chart",
+    "kennedy-primitive",
+    "kennedy-hr-problem",
+    "kennedy-spring-break",
+    "kennedy-sg",
+    "kennedy-legal-expertise-war"
+   ],
+   "related": [
+    "koskenniemi",
+    "berman-n",
+    "mcdougal",
+    "clausewitz"
+   ],
+   "concepts": [
+    "people-with-projects",
+    "dark-sides"
+   ]
+  },
+  {
+   "id": "koskenniemi",
+   "name": "Martti Koskenniemi",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "critical (indeterminacy, politics of law)",
+   "position": "ICL oscillates between impunity and show trials; the ILC fragmentation report; the legal infrastructure of global capitalism.",
+   "kennedy": "Criminal trials personify structures. Fragmentation and coherence 'in the eye of the beholder'. Law's power lies in its aura of neutrality.",
+   "readings": [
+    "koskenniemi-impunity",
+    "ilc-fragmentation-jus-cogens",
+    "ilc-fragmentation-phenomenon",
+    "koskenniemi-laws-rule-us"
+   ],
+   "related": [
+    "kennedy",
+    "teubner",
+    "chimni",
+    "cohen"
+   ],
+   "concepts": [
+    "fragmentation",
+    "individual-responsibility",
+    "political-economy"
+   ]
+  },
+  {
+   "id": "charlesworth-chinkin",
+   "name": "Hilary Charlesworth & Christine Chinkin",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "first-generation feminist international law",
+   "position": "Jus cogens is gendered: the list mirrors what men fear from the state; the public/private divide leaves women 'doubly private'.",
+   "kennedy": "Jus cogens matters mostly as symbol. Kennedy links the public/private divide back to Berman's minority technique.",
+   "readings": [
+    "charlesworth-chinkin-jus-cogens"
+   ],
+   "related": [
+    "knop",
+    "engle",
+    "cohn"
+   ],
+   "concepts": [
+    "feminist-critique",
+    "jus-cogens",
+    "public-private"
+   ]
+  },
+  {
+   "id": "knop",
+   "name": "Karen Knop",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "feminism and relational sovereignty",
+   "position": "The state is not a unified self, and McDougal's process theory can serve feminism. The 'hidden city' in international legal thought.",
+   "kennedy": "A friendly critic of first-generation feminism. 1993 optimism: 'what happened to that dream?'",
+   "readings": [
+    "knop-feminism-sovereignty",
+    "knop-hidden-city"
+   ],
+   "related": [
+    "charlesworth-chinkin",
+    "mcdougal",
+    "berman-n"
+   ],
+   "concepts": [
+    "feminist-critique",
+    "sovereignty",
+    "the-local"
+   ]
+  },
+  {
+   "id": "engle",
+   "name": "Karen Engle",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "critique of carceral / governance feminism",
+   "position": "Sexual violence in conflict has captured feminist engagement; criminal law individualises and displaces anti-militarism and redistribution.",
+   "kennedy": "'Legalizing a norm sharpens it but also constrains it.'",
+   "readings": [
+    "engle-grip"
+   ],
+   "related": [
+    "charlesworth-chinkin",
+    "koskenniemi"
+   ],
+   "concepts": [
+    "feminist-critique",
+    "individual-responsibility"
+   ]
+  },
+  {
+   "id": "anghie",
+   "name": "Antony Anghie",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "TWAIL",
+   "position": "Sovereignty was forged in the colonial encounter (the dynamic of difference); the civilising mission continues as development and good governance.",
+   "kennedy": "For the Third World, sovereignty meant the absence of power: 'inclusion by assimilation'. Becker Lorca objects that this leaves no room for agency.",
+   "readings": [
+    "anghie-imperialism",
+    "anghie-postcolonial"
+   ],
+   "related": [
+    "becker-lorca",
+    "chimni",
+    "rajagopal",
+    "bedjaoui",
+    "vitoria"
+   ],
+   "concepts": [
+    "twail",
+    "colonialism"
+   ]
+  },
+  {
+   "id": "becker-lorca",
+   "name": "Arnulf Becker Lorca",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "TWAIL with agency (mestizo law)",
+   "position": "Peripheral lawyers appropriated and remade international law (Montevideo, non-intervention); 'combative solidarity' redistributes within existing regimes.",
+   "kennedy": "Weak-hand strategies matter: the counter to Anghie.",
+   "readings": [
+    "becker-lorca-mestizo",
+    "becker-lorca-bargaining"
+   ],
+   "related": [
+    "anghie",
+    "alvarez",
+    "bedjaoui"
+   ],
+   "concepts": [
+    "twail",
+    "statehood"
+   ]
+  },
+  {
+   "id": "rajagopal",
+   "name": "Balakrishnan Rajagopal",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "TWAIL from below (social movements)",
+   "position": "Development discourse and social movements constitute international law; human rights became the only approved idiom of resistance.",
+   "kennedy": "Knop uses him against urban bias in 'international civil society'.",
+   "readings": [
+    "rajagopal-below"
+   ],
+   "related": [
+    "anghie",
+    "chimni",
+    "kennedy"
+   ],
+   "concepts": [
+    "twail",
+    "human-rights"
+   ]
+  },
+  {
+   "id": "chimni",
+   "name": "B.S. Chimni",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "Marxist TWAIL",
+   "position": "Global imperialism: global law and a nascent global state serving a transnational capitalist class.",
+   "kennedy": "Holds that reform is possible if international law listens to the oppressed.",
+   "readings": [
+    "chimni-2017"
+   ],
+   "related": [
+    "anghie",
+    "rajagopal",
+    "koskenniemi",
+    "sassen"
+   ],
+   "concepts": [
+    "twail",
+    "political-economy"
+   ]
+  },
+  {
+   "id": "danielsen",
+   "name": "Dan Danielsen",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "law and political economy",
+   "position": "Corporations govern; local rules govern the global economy; sovereign equality hides power.",
+   "kennedy": "Corporate law is a lever of global governance, and law constitutes value chains (IGLP).",
+   "readings": [
+    "danielsen-corporate",
+    "danielsen-local-rules",
+    "iglp-gvc"
+   ],
+   "related": [
+    "cohen",
+    "koskenniemi",
+    "kingsbury"
+   ],
+   "concepts": [
+    "private-ordering",
+    "political-economy"
+   ]
+  },
+  {
+   "id": "kingsbury",
+   "name": "Benedict Kingsbury",
+   "era": "1990s optimism: process, networks, rights",
+   "sensibility": "global administrative law",
+   "position": "Global governance is administration by IOs, networks, hybrid and private bodies, accountable through transparency, participation, reasons and review.",
+   "kennedy": "Kennedy's 'age of regulation' made into a legal programme; Miller and Chimni critique it.",
+   "readings": [
+    "kingsbury-gal"
+   ],
+   "related": [
+    "slaughter",
+    "kennedy",
+    "miller"
+   ],
+   "concepts": [
+    "global-administrative-law"
+   ]
+  },
+  {
+   "id": "teubner",
+   "name": "Gunther Teubner & Andreas Fischer-Lescano",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "systems theory (Luhmann)",
+   "position": "Fragmentation reflects collisions of social rationalities; unity is a chimera; aim for heterarchical networking.",
+   "kennedy": "'Lasciate ogni speranza': no apex.",
+   "readings": [
+    "fischer-lescano-teubner"
+   ],
+   "related": [
+    "koskenniemi",
+    "lang"
+   ],
+   "concepts": [
+    "fragmentation",
+    "private-ordering"
+   ]
+  },
+  {
+   "id": "lang",
+   "name": "Andrew Lang",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "sociology of regimes and expertise",
+   "position": "What counts as a 'trade barrier' is constructed by expertise (principles of vision).",
+   "kennedy": "Kennedy's foreground/background applied to the WTO.",
+   "readings": [
+    "lang-regimes"
+   ],
+   "related": [
+    "teubner",
+    "kennedy",
+    "cohn"
+   ],
+   "concepts": [
+    "fragmentation"
+   ]
+  },
+  {
+   "id": "miller",
+   "name": "Zinaida Miller",
+   "era": "Critics and new thinking (late 20th c.–now)",
+   "sensibility": "critique of transitional and administrative governance",
+   "position": "Oslo produced a 'permanent transition' (parity, economism, transition); law governs time.",
+   "kennedy": "Expertise and administration that convert law into policy.",
+   "readings": [
+    "miller-parity",
+    "miller-times-violence"
+   ],
+   "related": [
+    "kingsbury",
+    "kennedy"
+   ],
+   "concepts": [
+    "global-administrative-law"
+   ]
+  },
+  {
+   "id": "clausewitz",
+   "name": "Carl von Clausewitz",
+   "era": "Outside the field: theory of war, power and the city",
+   "sensibility": "theory of war",
+   "position": "War is the continuation of policy by other means; trinity of passion, chance and reason; international law 'almost imperceptible'.",
+   "kennedy": "Kennedy's capstone inversion: for modern war, modern law has become that language.",
+   "readings": [
+    "clausewitz-on-war"
+   ],
+   "related": [
+    "kennedy",
+    "freud",
+    "foucault"
+   ],
+   "concepts": [
+    "jus-ad-bellum"
+   ]
+  },
+  {
+   "id": "freud",
+   "name": "Sigmund Freud",
+   "era": "Outside the field: theory of war, power and the city",
+   "sensibility": "psychoanalysis",
+   "position": "War strips civilisation's veneer; the state monopolises wrongdoing; we deny death.",
+   "kennedy": "The psychology beneath the law of war's 'chivalrous' war.",
+   "readings": [
+    "freud-war-death"
+   ],
+   "related": [
+    "clausewitz",
+    "cohn",
+    "kelsen"
+   ],
+   "concepts": [
+    "jus-in-bello"
+   ]
+  },
+  {
+   "id": "foucault",
+   "name": "Michel Foucault",
+   "era": "Outside the field: theory of war, power and the city",
+   "sensibility": "genealogy of power/knowledge",
+   "position": "Punishment moved from the body to the 'soul'; power produces knowledge; experts disperse the power to punish.",
+   "kennedy": "Humanisation read as a new technique of power: a lens for IHL and expert vocabularies.",
+   "readings": [
+    "foucault-body"
+   ],
+   "related": [
+    "kennedy",
+    "cohn",
+    "miller"
+   ],
+   "concepts": [
+    "law-and-politics"
+   ]
+  },
+  {
+   "id": "cohn",
+   "name": "Carol Cohn",
+   "era": "Outside the field: theory of war, power and the city",
+   "sensibility": "feminist ethnography of expertise",
+   "position": "The technostrategic language of nuclear defense intellectuals is sanitised, sexualised and domestic; its referent is weapons, not people.",
+   "kennedy": "Learning an expert language is transformative, not additive; it's the same seduction as Kennedy's 'Spring Break'.",
+   "readings": [
+    "cohn-sex-death"
+   ],
+   "related": [
+    "kennedy",
+    "foucault",
+    "charlesworth-chinkin"
+   ],
+   "concepts": [
+    "feminist-critique"
+   ]
+  },
+  {
+   "id": "sassen",
+   "name": "Saskia Sassen",
+   "era": "Outside the field: theory of war, power and the city",
+   "sensibility": "sociology of globalisation",
+   "position": "Denationalisation from within; global classes; the global city as a frontier zone of 'presence' and new citizenship.",
+   "kennedy": "The local as a scale of international law.",
+   "readings": [
+    "sassen-territory"
+   ],
+   "related": [
+    "eslava",
+    "chimni",
+    "knop"
+   ],
+   "concepts": [
+    "the-local",
+    "nationality"
+   ]
+  },
+  {
+   "id": "eslava",
+   "name": "Luis Eslava",
+   "era": "Outside the field: theory of war, power and the city",
+   "sensibility": "international law and development, from the local",
+   "position": "Decentralised development makes localities sites of international law, through mundane norms and artefacts.",
+   "kennedy": "Bogotá's map erases slums and the nation.",
+   "readings": [
+    "eslava-local"
+   ],
+   "related": [
+    "sassen",
+    "rajagopal",
+    "knop"
+   ],
+   "concepts": [
+    "the-local"
+   ]
+  },
+  {
+   "id": "du-bois",
+   "name": "W.E.B. Du Bois",
+   "era": "Interwar modernists (1914–45)",
+   "sensibility": "Pan-Africanism",
+   "position": "WWI was a war over colonies; the Pan-African Congress of 1919 demanded protection and gradual self-government, feeding the Mandates Commission.",
+   "kennedy": "The interwar order seen from Africa.",
+   "readings": [
+    "dubois-collapse"
+   ],
+   "related": [
+    "anghie",
+    "freud"
+   ],
+   "concepts": [
+    "colonialism",
+    "self-determination"
+   ]
+  }
+ ]
+}

@@ -69,12 +69,16 @@ const readJSON = async p => JSON.parse(await readText(p));
 
 /* ---------- load ---------- */
 async function load() {
-  const [course, guide, nidx, prog] = await Promise.all([
+  const [course, guide, nidx, prog, xt] = await Promise.all([
     readJSON('data/course.json'),
     readText('data/guide.md').catch(() => ''),
     readJSON('notes/index.json').catch(() => []),
     readJSON('data/progress.json').catch(() => ({})),
+    readJSON('data/cases-thinkers.json').catch(() => ({})),
   ]);
+  S.X = { case_areas: [], cases: [], thinker_eras: [], thinkers: [], ...xt };
+  S.CASE = Object.fromEntries(S.X.cases.map(c => [c.id, c]));
+  S.TH = Object.fromEntries(S.X.thinkers.map(t => [t.id, t]));
   course.readings ||= []; course.concepts ||= []; course.connections ||= []; course.themes ||= []; course.topics ||= []; course.parts ||= []; course.deliverables ||= [];
   S.course = course; S.guide = guide;
   S.R = Object.fromEntries(course.readings.map(r => [r.id, r]));
@@ -230,6 +234,7 @@ function vReading(v, id) {
   ${r.context ? `<h2>why it matters in the course</h2>${md(r.context)}` : ''}
   ${r.concepts?.length ? `<h2>concepts</h2>${r.concepts.map(c => `<a class="tag" href="#/c/${esc(c)}">${esc(S.C[c]?.name || c)}</a>`).join('')}` : ''}
   <h2>connections</h2>${conns.map(c => edgeHTML(c, id)).join('') || empty('no explicit connections yet')}
+  ${casesFor(id).length || thinkersFor(id).length ? `<h2>key cases &amp; thinkers here</h2>${casesFor(id).map(c => `<a class="tag" href="#/case/${esc(c.id)}">§ ${esc(c.name)}</a>`).join('')}${thinkersFor(id).map(t => `<a class="tag" href="#/thinker/${esc(t.id)}">@ ${esc(t.name)}</a>`).join('')}` : ''}
   ${shared.length ? `<h2>shares concepts with</h2>${shared.map(o => readingRow(o)).join('')}` : ''}
   <h2>lecture notes</h2>${ns.map(noteRow).join('') || empty(`none link here — use <code>[[${esc(id)}]]</code> in a note`)}`;
 }
@@ -438,7 +443,10 @@ function vSearch(v, q) {
   const hay = r => [r.title, r.author, r.tldr, r.summary, (r.arguments || []).join(' '), r.context].join(' ');
   const R = S.course.readings.filter(r => re.test(hay(r))), C = S.course.concepts.filter(c => re.test(c.name + ' ' + (c.short || '') + ' ' + (c.definition || ''))), N = S.notes.filter(n => re.test(n.title + ' ' + n.body));
   const G = re.test(S.guide);
-  v.innerHTML = `<h1>grep "${esc(q)}"</h1><div class="meta">${R.length + C.length + N.length + (G ? 1 : 0)} hits</div>
+  const K = S.X.cases.filter(c => re.test([c.name, c.forum, c.holding, c.kennedy].join(' '))), T = S.X.thinkers.filter(t => re.test([t.name, t.sensibility, t.position, t.kennedy].join(' ')));
+  v.innerHTML = `<h1>grep "${esc(q)}"</h1><div class="meta">${R.length + C.length + N.length + K.length + T.length + (G ? 1 : 0)} hits</div>
+  ${K.length ? `<h2>cases</h2>${K.map(caseRow).join('')}` : ''}
+  ${T.length ? `<h2>thinkers</h2>${T.map(thinkerRow).join('')}` : ''}
   ${R.length ? `<h2>readings</h2>${R.map(r => readingRow(r) + `<div class="meta" style="padding-left:4ch">${snip(hay(r))}</div>`).join('')}` : ''}
   ${C.length ? `<h2>concepts</h2>${C.map(c => `<div><a href="#/c/${esc(c.id)}">${esc(c.name)}</a></div>`).join('')}` : ''}
   ${N.length ? `<h2>notes</h2>${N.map(n => noteRow(n) + `<div class="meta" style="padding-left:4ch">${snip(n.body)}</div>`).join('')}` : ''}
@@ -462,10 +470,10 @@ function vSettings(v) {
 
 function vHelp(v) {
   v.innerHTML = `<h1>help</h1><pre>
-keys       d w r c m g n s   jump to view
+keys       d t r c a h m g n s jump to view
            /                 focus the prompt
 prompt     &lt;text&gt;            search everything
-           cd &lt;view&gt;         dash topics readings concepts map guide notes settings
+           cd &lt;view&gt;         dash topics readings concepts cases thinkers map guide notes settings
            t &lt;n&gt;             open topic n
            open &lt;id&gt;         open reading/concept by id
            new               new lecture note
@@ -476,8 +484,67 @@ notes      write [[reading-id]] or [[concept-id]] to link
 }
 function vNotFound(v) { v.innerHTML = `<p>bash: ${esc(location.hash)}: no such file or directory</p><p><a href="#/">cd ~</a></p>`; }
 
+/* ---------- key cases & key thinkers ---------- */
+const casesFor = rid => S.X.cases.filter(c => c.reading === rid || (c.seen || []).includes(rid));
+const thinkersFor = rid => S.X.thinkers.filter(t => (t.readings || []).includes(rid));
+const tagsC = ids => (ids || []).map(c => `<a class="tag" href="#/c/${esc(c)}">${esc(S.C[c]?.name || c)}</a>`).join('');
+const caseTopics = c => [...new Set([c.reading, ...(c.seen || [])].map(r => S.R[r]?.topic).filter(Boolean))].sort((a, b) => a - b);
+function caseRow(c) {
+  return `<div class="row"><span class="dim">${c.year || ''}</span><span class="grow"><a href="#/case/${esc(c.id)}">${esc(c.name)}</a> <span class="dim">— ${esc(c.forum || '')}</span></span><span class="r dim">${caseTopics(c).map(n => 't' + n).join(' ')}</span></div>`;
+}
+function thinkerRow(t) {
+  return `<div class="row"><span class="grow"><a href="#/thinker/${esc(t.id)}">${esc(t.name)}</a> <span class="dim">— ${esc(t.sensibility || '')}</span></span><span class="r dim">${t.readings.length}r</span></div>`;
+}
+function vCases(v) {
+  const sort = LS.get('lga.casesort', 'area');
+  const all = [...S.X.cases];
+  const body = sort === 'year'
+    ? all.sort((a, b) => a.year - b.year).map(caseRow).join('')
+    : S.X.case_areas.map(a => { const l = all.filter(c => c.area === a).sort((x, y) => x.year - y.year); return l.length ? `<h2>${esc(a)}</h2>${l.map(caseRow).join('')}` : ''; }).join('');
+  v.innerHTML = `<h1>key cases</h1>
+  <div class="meta">${all.length} cases and authorities across the course: what each holds, and how Kennedy uses it in class.</div>
+  <div class="btns"><button class="btn ${sort === 'area' ? 'on' : ''}" data-csort="area">by doctrine</button><button class="btn ${sort === 'year' ? 'on' : ''}" data-csort="year">by year</button></div>
+  ${body || empty('none yet')}`;
+}
+function vCase(v, id) {
+  const c = S.CASE[id]; if (!c) return vNotFound(v);
+  const r = S.R[c.reading];
+  v.innerHTML = `<h1>§ ${esc(c.name)}</h1>
+  <div class="meta">${c.year} · ${esc(c.forum || '')} · ${esc(c.area)}${caseTopics(c).length ? ' · ' + caseTopics(c).map(n => `<a href="#/topic/${n}">topic ${n}</a>`).join(', ') : ''}</div>
+  <h2>what it holds</h2><p>${md(c.holding).replace(/^<p>|<\/p>\s*$/g, '')}</p>
+  <h2>how Kennedy uses it</h2><p class="tldr">${md(c.kennedy).replace(/^<p>|<\/p>\s*$/g, '')}</p>
+  ${r ? `<h2>main reading</h2>${readingRow(r)}` : ''}
+  ${c.seen?.length ? `<h2>also discussed in</h2>${c.seen.filter(x => S.R[x]).map(x => readingRow(S.R[x])).join('')}` : ''}
+  ${c.pairs?.length ? `<h2>read it against</h2>${c.pairs.filter(x => S.CASE[x]).map(x => caseRow(S.CASE[x])).join('')}` : ''}
+  ${c.concepts?.length ? `<h2>concepts</h2>${tagsC(c.concepts)}` : ''}
+  <h2>lecture notes</h2>${[...new Set([c.reading, ...(c.seen || [])].flatMap(notesAbout))].map(noteRow).join('') || empty('none')}`;
+}
+function vThinkers(v) {
+  const q = (LS.get('lga.thq', '') || '').toLowerCase();
+  const match = t => !q || [t.name, t.sensibility, t.position].join(' ').toLowerCase().includes(q);
+  v.innerHTML = `<h1>key thinkers</h1>
+  <div class="meta">${S.X.thinkers.length} thinkers grouped by era and sensibility (the rows of Kennedy's chart). Filter: <input id="thq" value="${esc(q)}" placeholder="name or school" style="width:18ch"></div>
+  ${S.X.thinker_eras.map(e => { const l = S.X.thinkers.filter(t => t.era === e && match(t)); return l.length ? `<h2>${esc(e)}</h2>${l.map(thinkerRow).join('')}` : ''; }).join('') || empty('no match')}`;
+  const inp = $('#thq'); if (inp) { inp.oninput = e => { LS.set('lga.thq', e.target.value); clearTimeout(vThinkers.t); vThinkers.t = setTimeout(() => { rerender(); const i = $('#thq'); i.focus(); i.setSelectionRange(i.value.length, i.value.length); }, 250); }; }
+}
+function vThinker(v, id) {
+  const t = S.TH[id]; if (!t) return vNotFound(v);
+  const rs = t.readings.filter(x => S.R[x]).map(x => S.R[x]).sort((a, b) => a.topic - b.topic);
+  const back = S.X.thinkers.filter(o => o.id !== id && (o.related || []).includes(id) && !(t.related || []).includes(o.id));
+  v.innerHTML = `<h1>@ ${esc(t.name)}</h1>
+  <div class="meta">${esc(t.era)} · ${esc(t.sensibility || '')}${rs.length ? ' · ' + [...new Set(rs.map(r => r.topic))].map(n => `<a href="#/topic/${n}">t${n}</a>`).join(' ') : ''}</div>
+  <h2>position</h2><p>${md(t.position).replace(/^<p>|<\/p>\s*$/g, '')}</p>
+  <h2>how Kennedy uses them</h2><p class="tldr">${md(t.kennedy).replace(/^<p>|<\/p>\s*$/g, '')}</p>
+  <h2>readings</h2>${rs.map(r => readingRow(r)).join('') || empty('none')}
+  ${t.related?.length || back.length ? `<h2>in conversation with</h2>${[...(t.related || []).filter(x => S.TH[x]).map(x => S.TH[x]), ...back].map(thinkerRow).join('')}` : ''}
+  ${t.concepts?.length ? `<h2>concepts</h2>${tagsC(t.concepts)}` : ''}
+  <h2>lecture notes</h2>${[...new Set(t.readings.flatMap(notesAbout))].map(noteRow).join('') || empty('none')}`;
+}
+document.addEventListener('click', e => { const s = e.target.closest?.('[data-csort]'); if (s) { LS.set('lga.casesort', s.dataset.csort); rerender(); } });
+
 /* ---------- router ---------- */
 const ROUTES = [
+  [/^cases$/, vCases, 'cases'], [/^case\/(.+)$/, vCase, 'cases'], [/^thinkers$/, vThinkers, 'thinkers'], [/^thinker\/(.+)$/, vThinker, 'thinkers'],
   [/^$/, vDash, ''], [/^topics$/, vTopics, 'topics'], [/^topic\/(\d+)$/, vTopic, 'topics'], [/^readings$/, vReadings, 'readings'],
   [/^r\/(.+)$/, vReading, 'readings'], [/^concepts$/, vConcepts, 'concepts'], [/^c\/(.+)$/, vConcept, 'concepts'],
   [/^map$/, vMap, 'map'], [/^guide$/, vGuide, 'guide'], [/^notes$/, vNotes, 'notes'], [/^n\/(.+)$/, vNote, 'notes'],
@@ -540,7 +607,7 @@ $('#cmd').addEventListener('submit', e => {
   e.preventDefault();
   const inp = $('#cmdin'), raw = inp.value.trim(); inp.value = ''; inp.blur();
   const [cmd, ...rest] = raw.split(/\s+/), arg = rest.join(' ');
-  const views = { dash: '', home: '', '~': '', topics: 'topics', readings: 'readings', concepts: 'concepts', map: 'map', guide: 'guide', notes: 'notes', settings: 'settings', help: 'help' };
+  const views = { dash: '', home: '', '~': '', topics: 'topics', readings: 'readings', concepts: 'concepts', cases: 'cases', thinkers: 'thinkers', map: 'map', guide: 'guide', notes: 'notes', settings: 'settings', help: 'help' };
   if (!raw) return;
   if (raw === 'help' || raw === '?') location.hash = '#/help';
   else if ((cmd === 'cd' || cmd === 'ls') && arg in views) location.hash = '#/' + views[arg];

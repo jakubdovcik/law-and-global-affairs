@@ -23,3 +23,6 @@ Save them as `notes/YYYY-MM-DD-slug.md` (starting with `# Title`). Add `{file, t
 ## Checks
 - Every id referenced in connections, themes, `concepts` and `[[links]]` must exist.
 - Validate JSON before committing: `python3 -m json.tool data/course.json > /dev/null`.
+
+## Key cases and key thinkers
+`data/cases-thinkers.json` holds `cases` (grouped by `case_areas`) and `thinkers` (grouped by `thinker_eras`). Each case: `id, name, year, forum, area, reading, seen[], holding, kennedy, pairs[], concepts[]`. Each thinker: `id, name, era, sensibility, position, kennedy, readings[], related[], concepts[]`. When new readings or lecture notes arrive, add or update entries there (all ids must exist).
